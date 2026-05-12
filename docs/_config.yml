@@ -1,9 +1,6 @@
 # Konfigurasjon for prosjekt-repo
 title: Nettside ASR dokumentasjon
 description: Informasjon om aktiviteter og arbeid ifb ASR 
-remote_theme: pages-themes/slate@v0.2.0
-<!-- pages-themes/minimal -->
-plugins:
-  - jekyll-remote-theme
+theme: jekyll-theme-slate
 baseurl: "/ASR"  # Husk skråstrek foran, men IKKE bak
 url: "https://digdir.github.io"
