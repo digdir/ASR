@@ -3,11 +3,9 @@ layout: default
 title: Dokumentasjon
 ---
 
-# Dokumentasjon
+# Arkitektur- og standardiseringsrådet
 
-Her kommer ASR ...
-
-Velkommen til dokumentasjonen.
+Velkommen til dokumentasjon og informasjon om aktiviteter i ASR
 
 ## Områder
 
