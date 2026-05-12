@@ -1,6 +1,6 @@
 # Konfigurasjon for prosjekt-repo
 title: ASR dokumentasjon
 description: Aktiviteter og arbeid ifb ASR 
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
 baseurl: "/ASR"  # Husk skråstrek foran, men IKKE bak
 url: "https://digdir.github.io"
