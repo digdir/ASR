@@ -7,6 +7,5 @@ theme: jekyll-theme-slate
 theme: jekyll-theme-minimal
 theme: jekyll-theme-cayman (standard i GitHub)
 -->
-
 baseurl: "/ASR"  # Husk skråstrek foran, men IKKE bak
 url: "https://digdir.github.io"
