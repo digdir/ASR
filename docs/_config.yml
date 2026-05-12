@@ -1,6 +1,6 @@
 # Konfigurasjon for prosjekt-repo
-title: Nettside ASR dokumentasjon
-description: Informasjon om aktiviteter og arbeid ifb ASR 
+title: ASR dokumentasjon
+description: Aktiviteter og arbeid ifb ASR 
 theme: jekyll-theme-slate
 baseurl: "/ASR"  # Husk skråstrek foran, men IKKE bak
 url: "https://digdir.github.io"
