@@ -6,6 +6,7 @@ Dette nettstedet samler arbeidsgruppens arbeid med kilder, veiledning og beskriv
 
 - [Kilder](kilder/)
 - [Om arbeidet](om-arbeidet/)
+- [Tilskudd og bidrag](tilskudd-og-bidrag/)
 - [Veiledning](veiledning/)
 
 ## Om innholdet
