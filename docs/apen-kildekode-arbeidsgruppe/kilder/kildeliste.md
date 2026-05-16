@@ -1,13 +1,12 @@
 # Kildeliste
 
-Dette er hovedlisten for relevante kilder. Listen er delt inn etter hvilken rolle kildene har i arbeidet, slik at den kan brukes baade som oversikt og som arbeidsnotat. Enkelte lenker er forelopige og bør verifiseres mot originalarket før endelig publisering.
+Dette er hovedlisten for relevante kilder. Listen er delt inn etter hvilken rolle kildene har i arbeidet, slik at den kan brukes baade som oversikt og som arbeidsnotat. 
 
 ## Arbeidsmate
 
 - legg inn nye kilder fortlopende
 - gi hver kilde en kort forklaring pa relevans
 - skill mellom veiledning, regelverk, eksempler og analyser
-- vurder egen underside nar en seksjon blir stor nok
 
 ## Struktur
 
