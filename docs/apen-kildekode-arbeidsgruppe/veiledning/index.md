@@ -15,10 +15,12 @@ Dette er også bakgrunnen for at EU, NIST og OpenSSF arbeider med krav og standa
 Åpen kildekode innebærer at brukeren får innsyn i hvordan programvaren fungerer, og følgelig kan rette feil og gjøre forbedringer eller få noen andre til å gjøre dette for seg. Brukeren kan være et firma eller privatperson og kan eventuelt betale programvareutviklere for å skreddersy programvaren til sin bruk. Den forbedrede programvaren kan deles tilbake til offentligheten, og ideen er at det på denne måten vokser frem et «økosystem» av kvalitetssikret programvare som en fellesressurs.
 
 TODO: Nivå av åpen kildekode: dele koden, aktivt be om bidrag, kode etablert og forvaltet i felleskap
+
 TODO: Skille mellom åpen kildekode, åpne standarder, åpne data osv...
 
 ## Virkninger
-TODO: Positive og negative (gevinst og risiko - og hvordan mitigere)
+TODO: 
+Positive og negative (gevinst og risiko - og hvordan mitigere)
 - avhengigheter
 - livslsyklus se i relasjon til properitær programvare
 - Etableringshindre, konkurranse og markedsvilkår @norstella?
