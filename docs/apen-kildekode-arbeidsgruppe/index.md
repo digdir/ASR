@@ -1,6 +1,6 @@
-# Apen kildekode arbeidsgruppe
+# Åpen kildekode arbeidsgruppe
 
-Dette nettstedet samler arbeidsgruppens arbeid med kilder, veiledning og beskrivelse av arbeidet med apen kildekode.
+Dette nettstedet samler arbeidsgruppens arbeid med kilder, veiledning og beskrivelse av arbeidet med åpen kildekode.
 
 ## Struktur
 
