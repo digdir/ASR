@@ -1,0 +1,27 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Use more of the viewport on desktop so wide source tables are easier to read. */
+.main-content {
+  max-width: min(99vw, 1700px);
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+/* Make markdown tables consume full content width and wrap long URLs/text. */
+.main-content table {
+  display: block;
+  width: 100%;
+  max-width: 100%;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  table-layout: auto;
+}
+
+.main-content th,
+.main-content td {
+  overflow-wrap: anywhere;
+  word-break: break-word;
+}
