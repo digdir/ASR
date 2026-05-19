@@ -16,14 +16,14 @@ Brukes til praktiske retningslinjer, metodikk og innforing i hvordan apen kildek
 
 | Tittel | Type | Avsender | Lenke | Relevans | Prioritet |
 |---|---|---|---|---|---|
-| Veileder for åpne data | Veileder | Digdir | [https://data.norge.no/guide/veileder-aapne-data](https://data.norge.no/guide/veileder-aapne-data) | Praktisk veiledning for deling og gjenbruk av data | Høy |
-| Arkitekturprinsipper | Prinsipper | Digdir | [https://www.digdir.no/digital-samhandling/arkitekturprinsipper/1066](https://www.digdir.no/digital-samhandling/arkitekturprinsipper/1066) | Relevant som styringsprinsipper for samhandling og deling | Høy |
-| Retningslinjer for åpen kildekode i Nav | Retningslinjer | NAV | [https://github.com/navikt/open-source](https://github.com/navikt/open-source) | Viser hvordan en stor offentlig aktør organiserer bruk av åpen kildekode | Høy |
+| Veileder for åpne data | Veileder | Digdir | [https://fellesdatakatalog.digdir.no/guide/veileder-apne-data](https://fellesdatakatalog.digdir.no/guide/veileder-apne-data) | Praktisk veiledning for deling og gjenbruk av data | Høy |
+| Arkitekturprinsipper | Prinsipper | Digdir | [https://www.digdir.no/digital-samhandling/overordnede-arkitekturprinsipper/1065](https://www.digdir.no/digital-samhandling/overordnede-arkitekturprinsipper/1065) | Relevant som styringsprinsipper for samhandling og deling | Høy |
+| Retningslinjer for åpen kildekode i Nav | Retningslinjer | NAV | [https://github.com/navikt/offentlig](https://github.com/navikt/offentlig) | Viser hvordan en stor offentlig aktør organiserer bruk av åpen kildekode | Høy |
 | GitHub Docs - Open Source | Dokumentasjon | GitHub | [https://docs.github.com/en/get-started/exploring-projects-on-github/contributing-to-open-source](https://docs.github.com/en/get-started/exploring-projects-on-github/contributing-to-open-source) | Grunnleggende veiledning om å finne og bruke åpen kildekode | Høy |
 | GitHub Docs - Licensing a repository | Dokumentasjon | GitHub | [https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository) | Relevant for lisensiering av repoer | Høy |
 | Open Source Guides | Guide | GitHub | [https://opensource.guide/](https://opensource.guide/) | Samling av nyttige ressurser for prosjekter og bidragsytere | Høy |
 | TODO Group Guides | Guide | Linux Foundation | [https://todogroup.org/guides/](https://todogroup.org/guides/) | Struktur og organisering av open source-arbeid i virksomheter | Høy |
-| UK Government OSS Guidance | Veiledning | UK Government | [https://www.gov.uk/service-manual/technology/using-open-source-software](https://www.gov.uk/service-manual/technology/using-open-source-software) | Relevant offentlig veiledning fra annet lands forvaltning | Middels |
+| UK Government OSS Guidance | Veiledning | UK Government | [https://www.gov.uk/guidance/be-open-and-use-open-source](https://www.gov.uk/guidance/be-open-and-use-open-source) | Relevant offentlig veiledning fra annet lands forvaltning | Middels |
 | Code.gov Playbook | Veiledning | Digital.gov / USA | [https://code.gov/playbook/](https://code.gov/playbook/) | Relevant prosessveiledning for offentlig open source-arbeid | Middels |
 | Choose an open source license | Veiledning | choosealicense.com | [https://choosealicense.com/](https://choosealicense.com/) | Relevant for valg av lisens ved publisering av kode | Høy |
 | The Legal Side of Open Source | Veiledning | Open Source Guides | [https://opensource.guide/legal/](https://opensource.guide/legal/) | Praktisk juridisk introduksjon for open source-prosjekter | Høy |
@@ -45,9 +45,9 @@ Brukes til nasjonale og internasjonale styringsdokumenter, prinsipper og rammer.
 
 | Tittel | Type | Avsender | Lenke | Relevans | Prioritet |
 |---|---|---|---|---|---|
-| St.meld. nr. 17 (2006-2007) om IKT og digitalisering | Stortingsmelding | Regjeringen | [https://www.regjeringen.no/no/dokumenter/stmeld-nr-17-2006-2007-/id441977/](https://www.regjeringen.no/no/dokumenter/stmeld-nr-17-2006-2007-/id441977/) | Tidlig og viktig referanse for offentlig bruk av åpen kildekode | Middels |
-| Digitaliseringsrundskrivet | Styringsdokument | Regjeringen | [https://www.regjeringen.no/no/tema/statlig-forvaltning/it-politikk/digitaliseringsrundskrivet/id2879033/](https://www.regjeringen.no/no/tema/statlig-forvaltning/it-politikk/digitaliseringsrundskrivet/id2879033/) | Sentralt styringsgrunnlag for digitalisering i staten | Høy |
-| Utredningsinstruksen | Styringsdokument | Regjeringen | [https://www.regjeringen.no/no/dokumenter/utredningsinstruksen/id2476518/](https://www.regjeringen.no/no/dokumenter/utredningsinstruksen/id2476518/) | Relevant for krav til utredning av tiltak, inkludert digitale valg | Høy |
+| St.meld. nr. 17 (2006-2007) om IKT og digitalisering | Stortingsmelding | Regjeringen | [https://www.regjeringen.no/no/dokumenter/stmeld-nr-17-2006-2007-/id441497/?q=kildekode&ch=7](https://www.regjeringen.no/no/dokumenter/stmeld-nr-17-2006-2007-/id441497/?q=kildekode&ch=7) | Tidlig og viktig referanse for offentlig bruk av åpen kildekode | Middels |
+| Digitaliseringsrundskrivet | Styringsdokument | Regjeringen | [https://www.regjeringen.no/no/dokumenter/digitaliseringsrundskrivet/id3103320/](https://www.regjeringen.no/no/dokumenter/digitaliseringsrundskrivet/id3103320/) | Sentralt styringsgrunnlag for digitalisering i staten | Høy |
+| Utredningsinstruksen | Styringsdokument | Regjeringen | [https://www.regjeringen.no/no/dokumenter/utredningsinstruksen/id3060944/](https://www.regjeringen.no/no/dokumenter/utredningsinstruksen/id3060944/) | Relevant for krav til utredning av tiltak, inkludert digitale valg | Høy |
 | Interoperable Europe Act | Forordning / regelverk | EU | [https://eur-lex.europa.eu/eli/reg/2024/903/oj](https://eur-lex.europa.eu/eli/reg/2024/903/oj) | Relevant for europeisk samhandling og åpenhet | Middels |
 | ADMS (Asset Description Metadata Schema) | Standard | EU | [https://joinup.ec.europa.eu/collection/semantic-interoperability-community-semic/solution/asset-description-metadata-schema-adms](https://joinup.ec.europa.eu/collection/semantic-interoperability-community-semic/solution/asset-description-metadata-schema-adms) | Relevant for metadata og katalogisering av digitale ressurser | Middels |
 | DCAT-AP | Standard | EU / SEMIC | [https://interoperable-europe.ec.europa.eu/collection/semic-support-centre/solution/dcat-application-profile-data-portals-europe](https://interoperable-europe.ec.europa.eu/collection/semic-support-centre/solution/dcat-application-profile-data-portals-europe) | Relevant for standardisert beskriving av datasett og kataloger | Middels |
@@ -95,7 +95,7 @@ Brukes til konkrete offentlige eller semioffentlige prosjekter som viser praksis
 | Norwegian public organizations on GitHub | Oversikt | NAV | [https://norwegian-public-organizations.vercel.app/](https://norwegian-public-organizations.vercel.app/) | Nyttig oversikt over offentlige aktører med åpne repoer | Høy |
 | Open source DocuSign alternative | Eksempel | docuseal | [https://github.com/docusealco/docuseal](https://github.com/docusealco/docuseal) | Viser et konkret, relevant alternativ for digital signering | Middels |
 | Fri kildekode i MET | Eksempel | Meteorologisk institutt | [https://www.met.no/frie-meteorologiske-data/fri-kildekode](https://www.met.no/frie-meteorologiske-data/fri-kildekode) | Norsk eksempel på offentlig publisering av kildekode | Høy |
-| Sofie TV Automation | Eksempel | NRK | [https://github.com/SVT/sofie-tv-automation](https://github.com/SVT/sofie-tv-automation) | Eksempel på open source-basert kringkastingssystem | Middels |
+| Sofie TV Automation | Eksempel | NRK | [https://github.com/Sofie-Automation/Sofie-TV-automation](https://github.com/Sofie-Automation/Sofie-TV-automation) | Eksempel på open source-basert kringkastingssystem | Middels |
 | Norgeskart | Eksempel | Kartverket | [https://github.com/Kartverket/norgeskart](https://github.com/Kartverket/norgeskart) | Eksempel på åpen kildekode i kart- og geodatatjenester | Høy |
 | Yr | Eksempel | NRK og MET | [https://yr.no](https://yr.no) | Relevant som kjent offentlig digital tjeneste med åpen komponentbruk | Middels |
 | onyxia | Eksempel | SSB | [https://www.onyxia.sh/](https://www.onyxia.sh/) | Eksempel på open source-plattform utviklet i offentlig statistikkmiljø | Middels |
@@ -108,7 +108,7 @@ Brukes til konkrete offentlige eller semioffentlige prosjekter som viser praksis
 | Tilgangstyring lokalt | Eksempel | NAV | [https://github.com/navikt/mock-oauth2-server/](https://github.com/navikt/mock-oauth2-server/) | Eksempel på lokal tilgangsstyring og testkomponenter | Middels |
 | Loggløsning med open source-komponenter | Eksempel | UiO | [https://www.uio.no/tjenester/it/hosting/dataops/](https://www.uio.no/tjenester/it/hosting/dataops/) | Relevant som eksempel på sammensatt åpen teknologistack | Middels |
 | NAV - Network Administration Visualized | Eksempel | Utdanningssektoren | [https://github.com/uninett/nav](https://github.com/uninett/nav) | Eksempel på system som er i utbredt bruk i Norge | Høy |
-| Designsystemet | Eksempel | Digdir | [https://www.digdir.no/digdir/designsystemet](https://www.digdir.no/digdir/designsystemet) | Offentlig initiativ med høy synlighet og gjenbruk | Høy |
+| Designsystemet | Eksempel | Digdir | [https://www.designsystemet.no/](https://www.designsystemet.no/) | Offentlig initiativ med høy synlighet og gjenbruk | Høy |
 | SILL - Socle Interministériel de Logiciels Libres | Katalog | DINUM (Frankrike) | [https://code.gouv.fr/sill/](https://code.gouv.fr/sill/) | Modell for nasjonalt katalog over anbefalt fri programvare i offentlig sektor | Høy |
 
 ### Rapporter og analyser
