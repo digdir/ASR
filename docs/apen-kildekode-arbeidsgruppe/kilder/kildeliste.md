@@ -91,6 +91,7 @@ Brukes til konkrete offentlige eller semioffentlige prosjekter som viser praksis
 | DHIS2 og HISP-miljøet ved UiO | Eksempel | UiO | https://dhis2.org/ | Viktig eksempel på internasjonal åpen plattform med norsk fagmiljø | Høy |
 | Tilgangstyring lokalt | Eksempel | NAV | https://github.com/navikt/mock-oauth2-server/ | Eksempel på lokal tilgangsstyring og testkomponenter | Middels |
 | Loggløsning med open source-komponenter | Eksempel | UiO | https://www.uio.no/tjenester/it/hosting/dataops/ | Relevant som eksempel på sammensatt åpen teknologistack | Middels |
+| NAV - Network Administration Visualized | Eksempel | Utdanningssektoren | https://github.com/uninett/nav |  Eksempel på system som er i utbredt bruk i Norge | Høy | 
 | Designsystemet | Eksempel | Digdir | https://www.digdir.no/digdir/designsystemet | Offentlig initiativ med høy synlighet og gjenbruk | Høy |
 | SILL - Socle Interministériel de Logiciels Libres | Katalog | DINUM (Frankrike) | https://code.gouv.fr/sill/ | Modell for nasjonalt katalog over anbefalt fri programvare i offentlig sektor | Høy |
 
