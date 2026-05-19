@@ -17,11 +17,16 @@
   max-width: 100%;
   overflow-x: auto;
   -webkit-overflow-scrolling: touch;
-  table-layout: auto;
+  table-layout: fixed;
 }
 
 .main-content th,
 .main-content td {
   overflow-wrap: anywhere;
   word-break: break-word;
+}
+
+.main-content th:nth-child(4),
+.main-content td:nth-child(4) {
+  width: 18%;
 }
