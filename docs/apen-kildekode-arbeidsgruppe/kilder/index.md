@@ -22,6 +22,8 @@ Denne delen samler relevante kilder for arbeidsgruppen.
 - [Eksempler og referanseprosjekter](kildeliste.md#eksempler-og-referanseprosjekter)
 - [Rapporter og analyser](kildeliste.md#rapporter-og-analyser)
 
-## Lenke
+## Lenker
 
 - [Kildeliste](kildeliste.md)
+- [Utkast omskriving av NAV-veiledning](utkast-omskriving-av-nav-veiledning.md)
+- [KI-sammendrag om tilskudd og bidrag](ki-sammendrag-tilskudd-og-bidrag.md)
