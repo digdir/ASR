@@ -7,7 +7,6 @@ Denne delen samler relevante kilder for arbeidsgruppen.
 - lenker til veiledere, analyser, strategier og nyheter
 - referanser til nasjonale og internasjonale initiativer
 - kilder om finansiering, bidrag og forvaltning av åpen kildekode
-- kilder sortert etter rolle, ikke bare kronologi eller alfabet
 
 ## Hvordan vi bruker siden
 
