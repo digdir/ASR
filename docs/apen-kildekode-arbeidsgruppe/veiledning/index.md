@@ -1,6 +1,6 @@
 # Veiledning
 Dette er hovedteksten din som brukeren leser.
-<aside>💡 Kommentar: Test.</aside>
+
 Denne delen skal samle veiledningsmateriell om bruk, deling, forvaltning og bidrag knyttet til apen kildekode.
 
 Åpen kildekode kan gi store fordeler med tanke på at løsninger som utvikles i større grad kan gjenbrukes, og videreutvikles i felleskap. Videre så gir åpenheten større innsyn og kontroll for offentligheten. Denne etterprøvbarheten er vesentlig for ansvarlig utvikling av løsninger med komponenter av kunstig intelligens i offentlig sektor, og i det geopolitiske situasjonsbildet vi befinner oss i. Bruk av åpen kildekode åpner også for mer rettferdig konkurranse ved at tilbydere kan bygge videre på det som allerede eksisterer. 
