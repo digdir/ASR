@@ -15,8 +15,6 @@ Denne delen beskriver rammene for arbeidsgruppens arbeid.
 - siden oppdateres nar gruppen blir enig om retning og prioriteringer
 - den skal forklare hva arbeidet omfatter, og hva det ikke omfatter
 
-- # Notat: Åpen kildekode i offentlig sektor
-
 ## Bakgrunn
 
 Offentlig sektor er i dag sterkt avhengig av et fåtall store, internasjonale programvareleverandører. Denne avhengigheten skaper leverandørinnlåsing, geopolitisk sårbarhet og begrenset handlingsrom. Flere europeiske land (Sveits, Frankrike, Tyskland, Italia, Nederland) og EU-kommisjonen har allerede iverksatt strategier for åpen kildekode i offentlig sektor for å møte disse utfordringene.
