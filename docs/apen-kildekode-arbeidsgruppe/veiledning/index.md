@@ -1,7 +1,6 @@
 # Veiledning
-Dette er hovedteksten din som brukeren leser.
 
-Denne delen skal samle veiledningsmateriell om bruk, deling, forvaltning og bidrag knyttet til apen kildekode.
+Denne delen samler veiledningsmateriell om bruk, deling, forvaltning og bidrag knyttet til apen kildekode.
 
 Åpen kildekode kan gi store fordeler med tanke på at løsninger som utvikles i større grad kan gjenbrukes, og videreutvikles i felleskap. Videre så gir åpenheten større innsyn og kontroll for offentligheten. Denne etterprøvbarheten er vesentlig for ansvarlig utvikling av løsninger med komponenter av kunstig intelligens i offentlig sektor, og i det geopolitiske situasjonsbildet vi befinner oss i. Bruk av åpen kildekode åpner også for mer rettferdig konkurranse ved at tilbydere kan bygge videre på det som allerede eksisterer. 
 
@@ -20,10 +19,6 @@ TODO: Nivå av åpen kildekode: dele koden, aktivt be om bidrag, kode etablert o
 TODO: Skille mellom åpen kildekode, åpne standarder, åpne data osv...
 
 ## Virkninger
-TODO: 
-Positive og negative (gevinst og risiko - og hvordan mitigere)
-- avhengigheter (UiO)
-- livslsyklus se i relasjon til properitær programvare (hdir)
 
 Digitale løsninger i offentlig sektor har ofte lang levetid – gjerne 10–20  
 år – og det er gjennom hele denne livssyklusen, ikke bare ved anskaffelsen, at kostnadene og risikoen faktisk påløper.
@@ -35,9 +30,6 @@ uansett – men kostnaden blir synlig og styrbar i stedet for skjult i lisens- o
 
 I praksis bør virksomheten vurdere hele livsløpet allerede ved valg av løsning: ikke bare innkjøps- og utviklingskostnad, men også vedlikehold, kompetanse, migrering inn og ut, og hva en avvikling vil koste. For mange løsninger gir åpen kildekode bedre ressursutnyttelse over tid, selv om det sjelden gir lavere kostnad på dag én.  
 
-- Etableringshindre, konkurranse og markedsvilkår (norstella)
-- Portabilitet og interoperabilitet (hdir, norstella)
-
 Portabilitet handler om muligheten til å flytte løsninger, data og kompetanse mellom leverandører og plattformer uten å starte på nytt. Interoperabilitet handler om at systemer kan samhandle på tvers av virksomheter og forvaltningsnivåer. Begge deler svekkes når løsninger bygges lukket, og styrkes når de bygges åpent.
 
 Når kildekoden er åpen og bygget på åpne standarder, reduseres innelåsingen til én leverandør. Du kan bytte leverandør, ta deler av forvaltningen inn selv, eller la flere aktører konkurrere om videreutvikling og drift. Det gir både bedre forhandlingsposisjon og lavere risiko for at løsningen blir en blindvei.
@@ -45,8 +37,6 @@ Når kildekoden er åpen og bygget på åpne standarder, reduseres innelåsingen
 Åpen kildekode og åpne standarder utfyller hverandre: standardene legger til rette for at systemer kan snakke sammen, mens åpen kildekode gir innsyn i hvordan samhandlingen faktisk er implementert. For offentlig sektor, der tjenester ofte må utveksle data på tvers av etater, kommuner og forvaltningsnivåer, er dette en forutsetning for å unngå at hver virksomhet bygger sine egne, inkompatible siloer.
 
 Praktisk råd: Still krav om åpne, standardiserte grensesnitt (API-er) og dokumenterte dataformater i anskaffelser, og vurder hvor lett er det å komme seg ut igjen?
-
-- gjenbruk og nyttiggjøring (hdir)
 
 Mange offentlige virksomheter har overlappende behov, men løser dem hver for seg. Resultatet er at samme funksjonalitet utvikles, betales for og vedlikeholdes mange ganger parallelt. Åpen kildekode gjør det mulig å erstatte dette med gjenbruk: én virksomhet kan bygge en løsning åpent, og andre kan ta den i bruk eller bygge videre på den.
 
@@ -62,10 +52,6 @@ Gjenbruk er ikke bare god ressursbruk for den enkelte virksomhet; det er en samf
 - legge mer til rette for ansvarlig og forvaltbar KI-drevet utvikling (UiO)
 
 ## Viktig å tenke på. Praktiske råd (høynivå)
-
-TODO:
-
-- Slik kommer du i gang – hva bør du gjøre nå?! (hdir)
 
 Åpen kildekode er ikke et prosjekt med en startdato og en sluttdato – det er en arbeidsform som modnes over tid. Du trenger ikke å gjøre alt på én gang, men du bør starte et sted. Her er de første grepene:
 
