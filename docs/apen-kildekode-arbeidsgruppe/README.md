@@ -1,6 +1,6 @@
 # Åpen kildekode arbeidsgruppe
 
-Dette repoet er strukturert for a stotte bade arbeidsprosess og apen publisering via GitHub Pages.
+Dette repoet er strukturert for a støtte både arbeidsprosess og åpen publisering via GitHub Pages.
 
 ## Mapper
 
