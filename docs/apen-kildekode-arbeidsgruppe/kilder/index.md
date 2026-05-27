@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Kilder
-description: Relevante kilder for arbeidsgruppen
 ---
 
 Denne delen samler relevante kilder for arbeidsgruppen.
@@ -20,14 +19,15 @@ Denne delen samler relevante kilder for arbeidsgruppen.
 
 ## Hovedseksjoner
 
-- [Veiledning og praksis](kildeliste/#veiledning-og-praksis)
-- [Strategier og regelverk](kildeliste/#strategier-og-regelverk)
-- [Anskaffelser og finansiering](kildeliste/#anskaffelser-og-finansiering)
-- [Eksempler og referanseprosjekter](kildeliste/#eksempler-og-referanseprosjekter)
-- [Rapporter og analyser](kildeliste/#rapporter-og-analyser)
+- [Veiledning og praksis]({{ '/apen-kildekode-arbeidsgruppe/kilder/kildeliste.html#veiledning-og-praksis' | relative_url }})
+- [Strategier og regelverk]({{ '/apen-kildekode-arbeidsgruppe/kilder/kildeliste.html#strategier-og-regelverk' | relative_url }})
+- [Anskaffelser og finansiering]({{ '/apen-kildekode-arbeidsgruppe/kilder/kildeliste.html#anskaffelser-og-finansiering' | relative_url }})
+- [Eksempler og referanseprosjekter]({{ '/apen-kildekode-arbeidsgruppe/kilder/kildeliste.html#eksempler-og-referanseprosjekter' | relative_url }})
+- [Rapporter og analyser]({{ '/apen-kildekode-arbeidsgruppe/kilder/kildeliste.html#rapporter-og-analyser' | relative_url }})
 
 ## Lenker
 
-- [Kildeliste](kildeliste/)
-- [Utkast omskriving av NAV-veiledning](utkast-omskriving-av-nav-veiledning/)
-- [KI-sammendrag om tilskudd og bidrag](ki-sammendrag-tilskudd-og-bidrag/)
+- [Kildeliste]({{ '/apen-kildekode-arbeidsgruppe/kilder/kildeliste.html' | relative_url }})
+- [Utkast omskriving av NAV-veiledning]({{ '/apen-kildekode-arbeidsgruppe/kilder/utkast-omskriving-av-nav-veiledning.html' | relative_url }})
+- [KI-sammendrag om veiledning]({{ '/apen-kildekode-arbeidsgruppe/kilder/ki-sammendrag-veiledning.html' | relative_url }})
+- [KI-sammendrag om tilskudd og bidrag]({{ '/apen-kildekode-arbeidsgruppe/kilder/ki-sammendrag-tilskudd-og-bidrag.html' | relative_url }})
