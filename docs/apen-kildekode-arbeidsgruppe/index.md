@@ -1,4 +1,8 @@
-# Åpen kildekode arbeidsgruppe
+---
+layout: default
+title: Åpen kildekode arbeidsgruppe
+description: Aktiviteter og arbeid ifb ASR
+---
 
 Dette nettstedet samler arbeidsgruppens arbeid med kilder, veiledning og beskrivelse av arbeidet med åpen kildekode.
 

@@ -1,4 +1,8 @@
-# Hvordan kan vi bidra?
+---
+layout: default
+title: Hvordan kan vi bidra?
+description: Tiltak, tilskudd og bidrag til åpen kildekode
+---
 
 ## Bakgrunn
 

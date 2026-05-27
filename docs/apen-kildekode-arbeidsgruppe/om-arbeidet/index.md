@@ -1,19 +1,14 @@
-# Om arbeidet
+---
+layout: default
+title: Om arbeidet
+description: Aktiviteter og arbeid ifb ASR
+---
 
-Denne delen beskriver rammene for arbeidsgruppens arbeid.
+Arbeidsgruppen består av deltakere fra NAV, Norstella, Brønnøysundregistrene, UiO, Helsedirektoratet, Fiskeridirektoratet og Digdir. Gruppen skal bidra til at åpen kildekode blir et foretrukket valg ved utvikling og anskaffelse av nye offentlige løsninger.
 
-## Hva som kan ligge her
+Målet er at programvare utviklet for offentlige midler som hovedregel publiseres med åpen lisens, slik at offentlig sektor kan dele og gjenbruke mer på tvers. Samtidig skal offentlig sektor bli tydeligere på å bidra tilbake til utviklermiljøene som forvalter den digitale grunnmuren vi selv bruker.
 
-- formål
-- avgrensninger
-- arbeidsform og prioriteringer
-- prinsipper for apen publisering
-- eventuelt plan for videre leveranser
-
-## Hvordan vi bruker siden
-
-- siden oppdateres nar gruppen blir enig om retning og prioriteringer
-- den skal forklare hva arbeidet omfatter, og hva det ikke omfatter
+Før sommeren skal arbeidsgruppen sammenstille et kunnskapsgrunnlag, lage en høynivå veileder som avmystifiserer åpen kildekode, og vurdere grunnlaget for en tilskuddsordning og andre kortsiktige og langsiktige tiltak.
 
 ## Bakgrunn
 
@@ -58,4 +53,4 @@ Hele den digitale infrastrukturen i offentlig sektor hviler på åpen kildekode-
 
 ## Status
 
-Digdir har fått i oppdrag å ta arbeidet videre. En arbeidsgruppe med deltakere fra flere etater (NAV, Digdir, m.fl.) jobber nå med å konkretisere anbefalingene. Endringer i overordnede arkitekturprinsipper krever forankring på departementsnivå.
+All informasjon på disse sidene er arbeidsdokumenter som er under arbeid. Vi tar gjerne imot tilbakemeldinger fra alle som er engasjerte i tematikken.

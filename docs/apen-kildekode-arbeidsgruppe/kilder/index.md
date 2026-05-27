@@ -1,4 +1,8 @@
-# Kilder
+---
+layout: default
+title: Kilder
+description: Relevante kilder for arbeidsgruppen
+---
 
 Denne delen samler relevante kilder for arbeidsgruppen.
 

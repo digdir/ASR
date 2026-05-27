@@ -1,4 +1,8 @@
-# Veiledning
+---
+layout: default
+title: Veiledning
+description: Høynivå veiledning om åpen kildekode i offentlig sektor
+---
 
 Denne delen samler veiledningsmateriell om bruk, deling, forvaltning og bidrag knyttet til apen kildekode.
 
