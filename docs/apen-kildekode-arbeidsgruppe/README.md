@@ -4,10 +4,13 @@ Dette repoet er strukturert for a stotte bade arbeidsprosess og apen publisering
 
 ## Mapper
 
+
+
+
+- `veiledning/`: Høynivå veiledning
+- `tilskudd-og-bidrag/`: Vurdering av behov for tilskuddsordning og andre type bidrag til utvikling og forvaltning
+- `om-arbeidet/`: Bakgrunn og beskrivelse av arbeidsgruppen 
 - `kilder/`: Kildelister, kategorier og tematiske oversikter
-- `om-arbeidet/`: Mandat, rammer og beskrivelse av arbeidsgruppen
-- `tilskudd-og-bidrag/`: Underlag for tilskudd, bidrag og relaterte vurderinger
-- `veiledning/`: Hovedveiledning, undertema og malgruppeinnhold
 
 ## Rotfiler
 
@@ -17,9 +20,4 @@ Dette repoet er strukturert for a stotte bade arbeidsprosess og apen publisering
 
 Alt innhold er skrevet som Markdown og kan publiseres direkte som apne sider.
 
-## Neste steg
 
-1. Fyll ut `kilder/kildeliste.md`
-2. Beskriv arbeidsform og avgrensning under `om-arbeidet/`
-3. Videreutvikle innhold under `tilskudd-og-bidrag/`
-4. Videreutvikle struktur og innhold under `veiledning/`
