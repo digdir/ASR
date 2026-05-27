@@ -1,37 +1,52 @@
 # Bilder og figurer
 
-Denne mappen samler bilder og figurer som kan brukes på sidene for
+Denne mappen samler bilder, ikoner og figurer som kan brukes på sidene for
 arbeidsgruppen for åpen kildekode.
 
 ## Egne figurer
 
-| Fil | Bruk |
-|---|---|
-| `prinsippmodell.svg` | Modell for prinsippene bruke, dele og bidra. |
+| Fil | Bruk | Lisens |
+|---|---|---|
+| `prinsippmodell.svg` | Modell for prinsippene bruke, dele og bidra. | Del av repoets innhold |
 
-## Flowbite Illustrations
+## Tabler Icons
 
-Mappen `flowbite/` inneholder et lite utvalg SVG-illustrasjoner fra
-[Flowbite Illustrations](https://flowbite.com/illustrations/).
+Mappen `tabler/` inneholder et lite utvalg ikoner fra
+[Tabler Icons](https://tabler.io/icons).
 
-Kilde: <https://github.com/themesberg/flowbite-illustrations>
+Kilde: <https://github.com/tabler/tabler-icons>
 
-Lisens: MIT. Lisensfilen ligger i `flowbite/LICENSE`.
+Lisens: MIT. Lisensfilen ligger i `tabler/LICENSE`.
+
+Nedlastet: 2026-05-27.
 
 | Fil | Mulig bruk |
 |---|---|
-| `flowbite/group-brainstorming.svg` | Arbeidsgruppe, diskusjon, felles metode. |
-| `flowbite/people-connecting.svg` | Samhandling, deling, nettverk og økosystem. |
-| `flowbite/document-folders.svg` | Dokumentasjon, kilder og struktur. |
-| `flowbite/man-working-programs.svg` | Utvikling, kode og veiledning. |
-| `flowbite/woman-cyber-security.svg` | Sikkerhet, risiko og programvareforsyningskjede. |
-| `flowbite/woman-working-servers.svg` | Drift, infrastruktur og kritiske avhengigheter. |
+| `tabler/brand-open-source.svg` | Hovedikon for åpen kildekode. |
+| `tabler/git-branch.svg` | Samarbeid, forgrening og videreutvikling. |
+| `tabler/git-fork.svg` | Gjenbruk, forking og deltakelse. |
+| `tabler/code.svg` | Kode, utvikling og teknisk innhold. |
+| `tabler/license.svg` | Lisens, rettigheter og juridiske vurderinger. |
+| `tabler/share.svg` | Deling og publisering. |
+| `tabler/lock-open.svg` | Åpenhet, innsyn og tilgang. |
+| `tabler/shield.svg` | Sikkerhet, risiko og forvaltning. |
+| `tabler/world-code.svg` | Internasjonalt samarbeid og digital suverenitet. |
 
-Eksempel på bruk fra en underside:
+## Wikimedia Commons
+
+Mappen `wikimedia/` inneholder filer fra Wikimedia Commons.
+
+| Fil | Kilde | Lisens | Mulig bruk |
+|---|---|---|---|
+| `wikimedia/open-source-logo-cc0.svg` | <https://commons.wikimedia.org/wiki/File:(Open_-_source)_logo.svg> | CC0 1.0 / public domain dedication | Generisk open-source-illustrasjon. |
+
+## Eksempel på bruk
+
+Fra en underside, for eksempel `om-arbeidet/index.md`:
 
 ```html
 <figure>
-  <img src="../assets/img/flowbite/people-connecting.svg" alt="Illustrasjon av personer som kobles sammen">
-  <figcaption>Illustrasjon: Flowbite Illustrations, MIT-lisens.</figcaption>
+  <img src="../assets/img/tabler/brand-open-source.svg" alt="Ikon for åpen kildekode">
+  <figcaption>Ikon: Tabler Icons, MIT-lisens.</figcaption>
 </figure>
 ```
