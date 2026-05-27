@@ -1,3 +1,9 @@
+---
+layout: default
+title: KI-sammendrag tilskudd og bidrag
+description: KI-oppsummering av finansiering og bidrag for åpen kildekode
+---
+
 # KI-sammendrag om tilskudd og bidrag til åpen kildekode
 
 Dette notatet oppsummerer hva kildene i `kildeliste.md` peker mot av muligheter for finansiering, offentlige bidrag og andre modeller som kan bidra til god forvaltning og en mer robust forretningsmodell for åpne kildekode-miljøer.

@@ -1,3 +1,9 @@
+---
+layout: default
+title: KI-sammendrag veiledning
+description: KI-oppsummering av veiledning i åpen kildekode for offentlig sektor
+---
+
 # Veiledning i åpen kildekode for offentlig sektor
 
 ## Hva er egentlig åpen kildekode – og hvorfor bør du bry deg?

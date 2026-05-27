@@ -1,3 +1,9 @@
+---
+layout: default
+title: Kildeliste
+description: Oversikt over relevante kilder for arbeidsgruppen
+---
+
 # Kildeliste
 
 Dette er hovedlisten for relevante kilder. Listen er delt inn etter hvilken rolle kildene har i arbeidet, slik at den kan brukes baade som oversikt og som arbeidsnotat. 

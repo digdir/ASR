@@ -1,3 +1,9 @@
+---
+layout: default
+title: Utkast omskriving av NAV-veiledning
+description: Utkast til nasjonal veileder for åpen kildekode i offentlig sektor
+---
+
 # Veileder om åpen kildekode for offentlig sektor
 
 *Dette er et utkast på en nasjonal veileder for åpen kildekode i offentlig sektor. Utkastet er under utvikling og bør kvalitetssikres før eventuell publisering.*

@@ -20,14 +20,14 @@ Denne delen samler relevante kilder for arbeidsgruppen.
 
 ## Hovedseksjoner
 
-- [Veiledning og praksis](kildeliste.md#veiledning-og-praksis)
-- [Strategier og regelverk](kildeliste.md#strategier-og-regelverk)
-- [Anskaffelser og finansiering](kildeliste.md#anskaffelser-og-finansiering)
-- [Eksempler og referanseprosjekter](kildeliste.md#eksempler-og-referanseprosjekter)
-- [Rapporter og analyser](kildeliste.md#rapporter-og-analyser)
+- [Veiledning og praksis](kildeliste/#veiledning-og-praksis)
+- [Strategier og regelverk](kildeliste/#strategier-og-regelverk)
+- [Anskaffelser og finansiering](kildeliste/#anskaffelser-og-finansiering)
+- [Eksempler og referanseprosjekter](kildeliste/#eksempler-og-referanseprosjekter)
+- [Rapporter og analyser](kildeliste/#rapporter-og-analyser)
 
 ## Lenker
 
-- [Kildeliste](kildeliste.md)
-- [Utkast omskriving av NAV-veiledning](utkast-omskriving-av-nav-veiledning.md)
-- [KI-sammendrag om tilskudd og bidrag](ki-sammendrag-tilskudd-og-bidrag.md)
+- [Kildeliste](kildeliste/)
+- [Utkast omskriving av NAV-veiledning](utkast-omskriving-av-nav-veiledning/)
+- [KI-sammendrag om tilskudd og bidrag](ki-sammendrag-tilskudd-og-bidrag/)
