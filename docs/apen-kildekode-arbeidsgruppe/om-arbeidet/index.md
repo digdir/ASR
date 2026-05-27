@@ -21,6 +21,11 @@ Offentlig sektor er i dag sterkt avhengig av et fåtall store, internasjonale pr
 
 Arkitektur- og standardiseringsrådet (ASR) behandlet saken i oktober 2024, noe som førte til at DigDir satte ned en arbeidsgruppe som ser på tre tema:
 
+<figure>
+  <img src="../assets/img/prinsippmodell.svg" alt="Modell med tre prinsipper: bruke, dele og bidra. Sammen styrker de en åpen digital grunnmur.">
+  <figcaption>Figur: Arbeidsgruppens tre prinsipper for åpen kildekode i offentlig sektor.</figcaption>
+</figure>
+
 ## 1. Bruke: Åpen kildekode som foretrukket valg
 
 Ved nye anskaffelser og utviklingsløp bør åpen kildekode velges der det er mulig og gir ønsket kvalitet.

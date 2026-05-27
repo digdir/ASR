@@ -28,6 +28,8 @@ GitHub Pages-publiseringen ligger under `docs/`.
   `docs/apen-kildekode-arbeidsgruppe/index.md`.
 - Undersider styres av `index.md` i undermappene, for eksempel
   `docs/apen-kildekode-arbeidsgruppe/kilder/index.md`.
+- Bilder og figurer for arbeidsgruppen kan legges i
+  `docs/apen-kildekode-arbeidsgruppe/assets/img/`.
 - Nettstedets tittel, beskrivelse, tema og base-URL styres av
   `docs/_config.yml`.
 - GitHub Pages bruker standardtemaet `jekyll-theme-cayman`.
