@@ -1,4 +1,4 @@
-# Apen kildekode arbeidsgruppe
+# Åpen kildekode arbeidsgruppe
 
 Dette repoet er strukturert for a stotte bade arbeidsprosess og apen publisering via GitHub Pages.
 
