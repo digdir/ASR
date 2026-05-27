@@ -1,5 +1,9 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: 'nb-NO' }}">
+  {% assign is_open_source_section = false %}
+  {% if page.url contains '/apen-kildekode-arbeidsgruppe/' or page.path contains 'apen-kildekode-arbeidsgruppe/' %}
+    {% assign is_open_source_section = true %}
+  {% endif %}
   <head>
     <meta charset="UTF-8">
 
@@ -7,16 +11,15 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="theme-color" content="#157878">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    {% if is_open_source_section %}
+      <link rel="stylesheet" href="{{ '/apen-kildekode-arbeidsgruppe/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    {% else %}
+      <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    {% endif %}
     {% include head-custom.html %}
   </head>
   <body>
     <a id="skip-to-content" href="#content">Gå til innholdet.</a>
-
-    {% assign is_open_source_section = false %}
-    {% if page.url contains '/apen-kildekode-arbeidsgruppe/' or page.path contains 'apen-kildekode-arbeidsgruppe/' %}
-      {% assign is_open_source_section = true %}
-    {% endif %}
 
     <header class="page-header{% if is_open_source_section %} page-header--open-source{% endif %}" role="banner">
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
