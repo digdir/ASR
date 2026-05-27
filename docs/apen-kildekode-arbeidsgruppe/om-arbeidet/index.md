@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Om arbeidet
-description: Aktiviteter og arbeid ifb ASR
 ---
 
 Arbeidsgruppen består av deltakere fra NAV, Norstella, Brønnøysundregistrene, UiO, Helsedirektoratet, Fiskeridirektoratet og Digdir. Gruppen skal bidra til at åpen kildekode blir et foretrukket valg ved utvikling og anskaffelse av nye offentlige løsninger.
