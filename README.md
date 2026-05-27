@@ -30,6 +30,9 @@ GitHub Pages-publiseringen ligger under `docs/`.
   `docs/apen-kildekode-arbeidsgruppe/kilder/index.md`.
 - Nettstedets tittel, beskrivelse, tema og base-URL styres av
   `docs/_config.yml`.
-- Stil for GitHub Pages styres av `docs/assets/css/style.scss`.
+- GitHub Pages bruker standardtemaet `jekyll-theme-cayman`.
+- Egen stil for brede kildetabeller lastes bare for kildesidene via
+  `docs/_includes/head-custom.html` og ligger i
+  `docs/apen-kildekode-arbeidsgruppe/assets/css/kilder.scss`.
 - Publiseringsjobben ligger i `.github/workflows/jekyll-gh-pages.yml` og bygger
   `docs/` til GitHub Pages.

@@ -1,9 +1,7 @@
 ---
 ---
 
-@import "{{ site.theme }}";
-
-/* Use more of the viewport on desktop so wide source tables are easier to read. */
+/* Use more of the viewport on source pages so wide tables are easier to read. */
 .main-content {
   max-width: min(99vw, 1700px);
   padding-left: 1rem;
