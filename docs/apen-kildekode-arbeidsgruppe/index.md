@@ -4,10 +4,11 @@ Dette nettstedet samler arbeidsgruppens arbeid med kilder, veiledning og beskriv
 
 ## Struktur
 
-- [Kilder](kilder/)
-- [Om arbeidet](om-arbeidet/)
-- [Tilskudd og bidrag](tilskudd-og-bidrag/)
 - [Veiledning](veiledning/)
+- [Tilskudd og bidrag](tilskudd-og-bidrag/)
+- [Om arbeidet](om-arbeidet/)
+- [Kilder](kilder/)
+
 
 ## Om innholdet
 
