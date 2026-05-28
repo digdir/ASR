@@ -53,4 +53,4 @@ Hele den digitale infrastrukturen i offentlig sektor hviler på åpen kildekode-
 ## Status
 
 All informasjon på disse sidene er arbeidsdokumenter som er under arbeid. 
-Vi tar gjerne imot tilbakemeldinger fra alle som er engasjerte i tematikken.:relaxed: Send tilbakemeldinger oss via diskusjonssiden https://github.com/digdir/ASR/discussions/3 eller på epost nasjonalarkitektur@digdir.no. 
+Vi tar gjerne imot tilbakemeldinger fra alle som er engasjerte i tematikken. :relaxed: Send tilbakemeldinger oss via diskusjonssiden https://github.com/digdir/ASR/discussions/3 eller på epost nasjonalarkitektur@digdir.no. 
