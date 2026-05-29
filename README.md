@@ -39,3 +39,24 @@ GitHub Pages-publiseringen ligger under `docs/`.
   `docs/apen-kildekode-arbeidsgruppe/assets/css/kilder.scss`.
 - Publiseringsjobben ligger i `.github/workflows/jekyll-gh-pages.yml` og bygger
   `docs/` til GitHub Pages.
+
+## Vedlikehold av Mermaid-diagrammer
+
+Mermaid-diagrammer brukes for å visualisere modeller og prosesser. For å sikre at diagrammer renderes korrekt på GitHub Pages, lastes mermaid.js fra CDN med SRI-hash-verifisering.
+
+**Oppdatering av Mermaid-versjonen:**
+
+Når du ønsker å oppdatere til en nyere versjon av Mermaid:
+
+1. Velg ønsket versjon fra https://www.npmjs.com/package/mermaid
+2. Generer ny SRI-hash:
+   ```bash
+   curl -fsSL https://cdn.jsdelivr.net/npm/mermaid@11.x.x/dist/mermaid.min.js | openssl dgst -sha384 -binary | openssl base64 -A
+   ```
+3. Oppdater `docs/apen-kildekode-arbeidsgruppe/_layouts/default.html`:
+   - Endre versjonsnummer i script-taggen
+   - Erstatt `integrity`-attributtet med den nye hashen
+
+**Nåværende konfigurasjon:**
+- Versjon: 11.4.0
+- Plassering: `docs/apen-kildekode-arbeidsgruppe/_layouts/default.html`
