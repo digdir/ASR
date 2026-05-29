@@ -2,7 +2,8 @@
 layout: default
 title: Åpen kildekode arbeidsgruppe
 ---
-**Åpen kildekode gjør offentlig sektor mer åpen, robust og handlekraftig**. Når kildekoden deles, blir digitale løsninger lettere å forstå, etterprøve, forbedre og gjenbruke. :seedling: Det gir bedre kontroll over egne systemer, reduserer avhengighet til enkeltleverandører og gjør det enklere å samarbeide på tvers av virksomheter og forvaltningsnivåer.
+**Åpen kildekode gjør offentlig sektor mer åpen, robust og handlekraftig**. Når kildekoden deles, blir digitale løsninger lettere å forstå, etterprøve, forbedre og gjenbruke. 🌱
+Det gir bedre kontroll over egne systemer, reduserer avhengighet til enkeltleverandører og gjør det enklere å samarbeide på tvers av virksomheter og forvaltningsnivåer.
 
 For offentlig sektor handler åpen kildekode ikke bare om teknologi. Det handler om tillit, kvalitet og felles verdiskaping. Når vi utvikler med offentlige midler, bør resultatene som hovedregel komme fellesskapet til gode. 
 
@@ -22,4 +23,4 @@ Hva betyr det for deg?
 -   **Kriser avslører avhengighet** – Geopolitisk uro, prissjokk og konkurser rammer hardest dem som ikke kontrollerer sin egen teknologi.
 -   **Fellesskapets problem løses ikke alene** – Tverrsektorielle utfordringer krever delte løsninger. Åpen kildekode er infrastruktur for samarbeid, ikke bare et teknologivalg.
 
-Hvis du ikke har en strategi for open source… så har du egentlig en strategi for vendor lock-in :boom: 
+Hvis du ikke har en strategi for open source… så har du egentlig en strategi for vendor lock-in 💥 
