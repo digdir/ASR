@@ -1,12 +1,11 @@
 ---
 layout: default
-title: Kildeliste
 description: Oversikt over relevante kilder for arbeidsgruppen
 ---
 
 # Kildeliste
 
-Dette er hovedlisten for relevante kilder. Listen er delt inn etter hvilken rolle kildene har i arbeidet, slik at den kan brukes baade som oversikt og som arbeidsnotat. 
+Dette er hovedlisten for relevante kilder. Listen er delt inn etter hvilken rolle kildene har i arbeidet, slik at den kan brukes baade som oversikt og som arbeidsnotat.
 
 ## Arbeidsmate
 
@@ -21,7 +20,7 @@ Dette er hovedlisten for relevante kilder. Listen er delt inn etter hvilken roll
 Brukes til praktiske retningslinjer, metodikk og innforing i hvordan apen kildekode og apne data kan brukes i offentlig sektor.
 
 | Tittel | Type | Avsender | Lenke | Relevans | Prioritet |
-|---|---|---|---|---|---|
+| --- | --- | --- | --- | --- | --- |
 | Veileder for åpne data | Veileder | Digdir | [Lenke](https://fellesdatakatalog.digdir.no/guide/veileder-apne-data) | Praktisk veiledning for deling og gjenbruk av data | Høy |
 | Arkitekturprinsipper | Prinsipper | Digdir | [Lenke](https://www.digdir.no/digital-samhandling/overordnede-arkitekturprinsipper/1065) | Relevant som styringsprinsipper for samhandling og deling | Høy |
 | Retningslinjer for åpen kildekode i Nav | Retningslinjer | NAV | [Lenke](https://github.com/navikt/offentlig) | Viser hvordan en stor offentlig aktør organiserer bruk av åpen kildekode | Høy |
@@ -48,7 +47,7 @@ Brukes til praktiske retningslinjer, metodikk og innforing i hvordan apen kildek
 Brukes til nasjonale og internasjonale styringsdokumenter, prinsipper og rammer.
 
 | Tittel | Type | Avsender | Lenke | Relevans | Prioritet |
-|---|---|---|---|---|---|
+| --- | --- | --- | --- | --- | --- |
 | St.meld. nr. 17 (2006-2007) om IKT og digitalisering | Stortingsmelding | Regjeringen | [Lenke](https://www.regjeringen.no/no/dokumenter/stmeld-nr-17-2006-2007-/id441497/?q=kildekode&ch=7) | Tidlig og viktig referanse for offentlig bruk av åpen kildekode | Middels |
 | Digitaliseringsrundskrivet | Styringsdokument | Regjeringen | [Lenke](https://www.regjeringen.no/no/dokumenter/digitaliseringsrundskrivet/id3103320/) | Sentralt styringsgrunnlag for digitalisering i staten | Høy |
 | Utredningsinstruksen | Styringsdokument | Regjeringen | [Lenke](https://www.regjeringen.no/no/dokumenter/utredningsinstruksen/id3060944/) | Relevant for krav til utredning av tiltak, inkludert digitale valg | Høy |
@@ -73,13 +72,15 @@ Brukes til nasjonale og internasjonale styringsdokumenter, prinsipper og rammer.
 | Digital Principles | Prinsipper | Digital Principles | [Lenke](https://digitalprinciples.org/) | Internasjonale prinsipper for ansvarlig digital utvikling | Middels |
 | Standard for Public Code | Standard | Foundation for Public Code | [Lenke](https://standard.publiccode.net/) | Praktisk standard for vedlikeholdbar og gjenbrukbar offentlig kode | Høy |
 | Publiccode YML Validator | Verktøy | Foundation for Public Code | [Lenke](https://yml.publiccode.tools/) | Verktøy for validering av publiccode.yml | Middels |
+| OSPO Alliance Good Governance Initiative | Standard | OSPO | [Lenke](https://ospo-alliance.org/ggi/introduction/) | Modenhetsmodell for organisasjoner som jobber med open source | Høy |
+| Open Source Software in Public Administration Handbook | Veiledning | EU | [Lenke](https://interoperable-europe.ec.europa.eu/sites/default/files/custom-page/attachment/2026-01/osor-handbook.pdf) | Veiledning fra interoberable-europe om open source i offentlig sektor | Høy |
 
 ### Anskaffelser og finansiering
 
 Brukes til kilder om innkjop, virkemidler, stotteordninger og finansieringsinitiativ.
 
 | Tittel | Type | Avsender | Lenke | Relevans | Prioritet |
-|---|---|---|---|---|---|
+| --- | --- | --- | --- | --- | --- |
 | Anskaffelser.no | Veiledningsportal | DFØ | [Lenke](https://anskaffelser.no) | Viktig for offentlige anskaffelser og leverandørdialog | Høy |
 | Veiledning om IKT-anskaffelser | Veiledning | DFØ | [Lenke](https://anskaffelser.no/verktoy/veiledere) | Relevant for kravstilling og gjennomføring av teknologianskaffelser | Høy |
 | Statens standardavtaler (SSA) | Kontraktsstandard | DFØ | [Lenke](https://www.anskaffelser.no/avtaler-og-regelverk/statens-standardavtaler-ssa) | Viktig for kontrakter, ansvar og leveransekrav i IKT-prosjekter | Høy |
@@ -95,7 +96,7 @@ Brukes til kilder om innkjop, virkemidler, stotteordninger og finansieringsiniti
 Brukes til konkrete offentlige eller semioffentlige prosjekter som viser praksis, modenhet eller gjenbruk.
 
 | Tittel | Type | Avsender | Lenke | Relevans | Prioritet |
-|---|---|---|---|---|---|
+| --- | --- | --- | --- | --- | --- |
 | Altinn Studio Docs / Åpen kildekode | Eksempel | Digdir / Altinn | [Lenke](https://altinn.github.io/docs/altinn-studio/) | Overordnet referanse for hvordan en offentlig plattform dokumenterer åpen kildekode | Høy |
 | Norwegian public organizations on GitHub | Oversikt | NAV | [Lenke](https://norwegian-public-organizations.vercel.app/) | Nyttig oversikt over offentlige aktører med åpne repoer | Høy |
 | Open source DocuSign alternative | Eksempel | docuseal | [Lenke](https://github.com/docusealco/docuseal) | Viser et konkret, relevant alternativ for digital signering | Middels |
@@ -111,7 +112,12 @@ Brukes til konkrete offentlige eller semioffentlige prosjekter som viser praksis
 | NAV GitHub | Eksempel | NAV | [Lenke](https://github.com/navikt) | Sentral inngang til åpne repos i NAV | Høy |
 | Digdir Docs | Dokumentasjon | Digdir | [Lenke](https://docs.digdir.no/) | Relevant som dokumentasjonssamling for offentlig digitalisering | Høy |
 | EU OSOR examples (cities and regions) | Eksempelsamling | EU / OSOR | [Lenke](https://interoperable-europe.ec.europa.eu/collection/open-source-observatory-osor/open-source-cities-and-regions) | Eksempler på åpen kildekode i offentlig sektor | Middels |
-| DHIS2 og HISP-miljøet ved UiO | Eksempel | UiO | [Lenke](https://dhis2.org/) | Viktig eksempel på internasjonal åpen plattform med norsk fagmiljø | Høy |
+| DHIS2 og HISP-miljøet ved UiO | Eksempel | UiO | [Lenke](https://dhis2.org/) | Eksempel på internasjonal åpen plattform med norsk fagmiljø | Lav |
+| EOSC Node (European Open Science Cloud) | Eksempel | EU | [Lenke](https://open-science-cloud.ec.europa.eu) | Eksempel på samarbeidsplattform i utdanningssektoren | Høy |
+| Project Jupyter | Open Source Prosjekt | Non Profit | [Lenke](https://jupyter.org/about) | Eksempel på prosjekt som er i utstrakt bruk i utdanningssektoren | Høy |
+| The R Project for Statistical Computing | Open Source Prosjekt | GNU | [Lenke](https://www.r-project.org/about.html) | Eksempel på open source programvare som erstatter komersiell programvare - brukt i utdanningssektoren | Høy |
+| Keycloak Platform Single Sign-on Extension | Open Source Projekt | UiO | [Lenke](https://github.com/unioslo/keycloak-psso-extension) | Autentiseringskomponent utviklet og forvaltet ved UiO for single sign on fra macOS | Høy |
+| NREC | Infrastruktur/skytjeneste | UiO og UiB | [Lenke](https://nrec.no) | skyplattform bygget på Open Source programvare, samarbeid mellom UiO og UiB | Høy |
 | Tilgangstyring lokalt | Eksempel | NAV | [Lenke](https://github.com/navikt/mock-oauth2-server/) | Eksempel på lokal tilgangsstyring og testkomponenter | Middels |
 | Loggløsning med open source-komponenter | Eksempel | UiO | [Lenke](https://www.uio.no/tjenester/it/hosting/dataops/) | Relevant som eksempel på sammensatt åpen teknologistack | Middels |
 | NAV - Network Administration Visualized | Eksempel | Utdanningssektoren | [Lenke](https://github.com/uninett/nav) | Eksempel på system som er i utbredt bruk i Norge | Høy |
@@ -123,7 +129,7 @@ Brukes til konkrete offentlige eller semioffentlige prosjekter som viser praksis
 Brukes til oppsummeringer, vurderinger og analyser som kan underbygge argumentasjon og prioritering.
 
 | Tittel | Type | Avsender | Lenke | Relevans | Prioritet |
-|---|---|---|---|---|---|
+| --- | --- | --- | --- | --- | --- |
 | Open source software best practices and supply chain risk management | Analyse / veiledning | Gov.uk | [Lenke](https://www.gov.uk/government/publications/open-source-software-best-practice-supply-chain-risk-management/open-source-software-best-practices-and-supply-chain-risk-management) | Relevant for risiko, drift og styring | Høy |
 | BlueHats Gazette (Frankrike) | Nyhetsbrev / fagoppdateringer | DINUM (Frankrike) | [Lenke](https://code.gouv.fr/fr/bluehats/tags/gazette/) | Løpende fagoppdateringer fra fransk offentlig forvaltning om åpen kildekode | Middels |
 | Open Source Software Country Intelligence Report - Germany | Rapport | Interoperable Europe Portal | [Lenke](https://interoperable-europe.ec.europa.eu/sites/default/files/inline-files/Open%20Source%20Software%20Country%20Intelligence%20Report%20-%20Germany.docx.pdf) | Landsanalyse med status og tiltak for offentlig open source | Middels |
