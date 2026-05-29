@@ -12,7 +12,7 @@ For offentlig sektor handler åpen kildekode ikke bare om teknologi. Det handler
 Hva betyr det for deg?
 -   Open source er ikke lenger “alternativt”
 -   Det blir en del av styringsmodellen
--   Du må vurdere: bygge, kjøpe – eller bidra
+-   Du må vurdere: dele, bruke og bidra
 
 
 ## Hvorfor åpen kildekode
