@@ -41,6 +41,7 @@ Brukes til praktiske retningslinjer, metodikk og innforing i hvordan apen kildek
 | NIST Secure Software Development Framework (SSDF) | Rammeverk | NIST | [Lenke](https://csrc.nist.gov/Projects/ssdf) | Relevant for sikker utviklingspraksis i bruk av åpen kildekode | Høy |
 | SLSA | Rammeverk | OpenSSF | [Lenke](https://slsa.dev/) | Relevant for leveransekjede og integritet i programvarebygging | Høy |
 | Sigstore | Verktøy / infrastruktur | Sigstore | [Lenke](https://www.sigstore.dev/) | Relevant for signering og verifisering av programvareartefakter | Høy |
+| OSOR Handbook | Håndbok / veiledning | Interoperable Europe Portal / OSOR | [Lenke](https://interoperable-europe.ec.europa.eu/sites/default/files/custom-page/attachment/2026-01/osor-handbook.pdf) | Praktisk håndbok med rammer og anbefalinger for bruk av åpen kildekode i offentlig sektor | Høy |
 
 ### Strategier og regelverk
 
