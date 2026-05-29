@@ -2,7 +2,7 @@
 Arkitektur- og standardiseringsrådet
 (Arbeidsgrupper og annen informasjon fra ASR...)
 
-Innholdet i dette repoet er publisert som github pages på https://digdir.github.io/ASR/
+Innholdet i dette repoet er publisert som github pages på https://digdir.github.io/ASR/.
 Innhold om arbeidet med åpen kildekode i offentlig sektor publiseres på https://digdir.github.io/ASR/apen-kildekode-arbeidsgruppe/
 
 ## Arbeidsflyt i delt repo
