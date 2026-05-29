@@ -17,10 +17,15 @@ Hva betyr det for deg?
 
 
 ## Hvorfor åpen kildekode
--   **Du betaler for det uansett** – Skattebetalerne finansierer utviklingen; da er det sløsing å betale igjen via lisenser, og enda mer sløsing å la løsningen samle støv i en skuff.
--   **Leverandøren eier deg – til du bytter** – Proprietær kode er en gylden håndjern. Åpen kildekode gir deg nøkkelen.
--   **Ingen kan sjekke hva som skjer inni boksen** – I offentlig sektor er etterprøvbarhet ikke et valg. Lukket kode er myndighetsutøvelse uten innsyn.
--   **Kriser avslører avhengighet** – Geopolitisk uro, prissjokk og konkurser rammer hardest dem som ikke kontrollerer sin egen teknologi.
--   **Fellesskapets problem løses ikke alene** – Tverrsektorielle utfordringer krever delte løsninger. Åpen kildekode er infrastruktur for samarbeid, ikke bare et teknologivalg.
+-   **Betalt én gang – brukt mange ganger**:
+    Når fellesskapet finansierer utvikling, bør løsningen kunne gjenbrukes, forbedres og deles videre.
+-   **Ikke la leverandøren holde nøkkelen**:
+    Lukket kode kan gjøre deg avhengig av én aktør. Åpen kildekode gir større frihet til å bytte, videreutvikle og samarbeide.
+-   **Ingen kan sjekke hva som skjer inni boksen**:
+    I Offentlig sektor må kunne forklare, etterprøve og stå inne for digitale løsninger som påvirker innbyggere og virksomheter. Åpen kildekode gjør det mulig å se hvordan løsningene faktisk virker.
+-   **Kriser avslører avhengighet**:
+    Geopolitisk uro, prissjokk og konkurser viser hvor sårbare digitale avhengigheter kan være. Åpen kildekode kan redusere risiko og styrke digital suverenitet.
+-   **Fellesskapets utfordringer løses ikke alene**:
+    Tverrsektorielle utfordringer krever delte løsninger. Åpen kildekode gjør det enklere å bygge videre på hverandres arbeid, dele kostnader og utvikle bedre tjenester sammen.
 
 Hvis du ikke har en strategi for open source… så har du egentlig en strategi for vendor lock-in 💥 
