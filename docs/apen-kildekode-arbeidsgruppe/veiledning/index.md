@@ -18,7 +18,43 @@ Dette er også bakgrunnen for at EU, NIST og OpenSSF arbeider med krav og standa
 
 Åpen kildekode innebærer at brukeren får innsyn i hvordan programvaren fungerer, og følgelig kan rette feil og gjøre forbedringer eller få noen andre til å gjøre dette for seg. Brukeren kan være et firma eller privatperson og kan eventuelt betale programvareutviklere for å skreddersy programvaren til sin bruk. Den forbedrede programvaren kan deles tilbake til offentligheten, og ideen er at det på denne måten vokser frem et «økosystem» av kvalitetssikret programvare som en fellesressurs.
 
-TODO: Nivå av åpen kildekode: dele koden, aktivt be om bidrag, kode etablert og forvaltet i felleskap (UiO/Digdir)
+## Modenhetsmodell for åpen kildekode
+
+Vi kan skille mellom ulike grader av modenehet for åpen kildekode. Det finnes
+flere modeller for beskrivelse av modenhet, én slik modell er skissert av OSPO
+alliance ([Referanse](https://ospo-alliance.org/ggi/introduction/)).
+
+Modellen modellen skisserer fem nivåer av modenhet: bruk, tillit, kultur,
+engasjement og strategi.
+
+```mermaid
+flowchart BT
+    U["Bruk — teknisk bruk av OSS"]
+    T["Tillit — sikker, etterrettelig bruk; compliance"]
+    C["Kultur — beste praksis og intern OSS-kultur"]
+    E["Engasjement — bidra tilbake, delta i økosystemet"]
+    S["Strategi — strategisk bruk for innovasjon"]
+    U --> T --> C --> E --> S
+```
+
+På det laveste nivået har vi altså bruk av åpen kildekode i en organisasjon,
+hvor man har tilstrekkelig kompetanse til å ta i bruk, men hovedsakelig er
+konsument.
+
+I neste nivå er det en økt bevisthet og kontrollerte rammer, slik som sikkerhet,
+håndtering av avhengigheter, juridiske og økonomiske forhold.
+
+På kulturnivået er en god praksis internalisert i organisasjonen, og det er
+utviklet en intern kultur der åpen kildekode er en naturlig del av
+arbeidsprosessen.
+
+På de to øverste nivåene går vi til engasjement, hvor organisasjonen er aktiv
+bidragsyter, enten ved å dele aktivt egene prosjekter, eller som bidragsyter i
+eksterne prosjekter.
+
+På det øverste nivået er åpen kildekode bevisst brukt som virkemiddel for å nå
+organisasjonens overordnede mål. Her er åpen kildekode ikke bare et teknisk
+valg, men også et strategisk valg forankret i øverste ledelse.
 
 Åpen kildekode og åpne standarder utfyller hverandre: standardene legger til rette for at systemer kan snakke sammen, mens åpen kildekode gir innsyn i hvordan samhandlingen faktisk er implementert. For offentlig sektor, der tjenester ofte må utveksle data på tvers av etater, kommuner og forvaltningsnivåer, er dette en forutsetning for å unngå at hver virksomhet bygger sine egne, inkompatible siloer.
 
