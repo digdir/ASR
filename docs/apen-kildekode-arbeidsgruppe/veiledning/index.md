@@ -100,7 +100,7 @@ For at gjenbruk skal fungere i praksis bør virksomheten:
 - publisere med åpen lisens og dokumentasjon som gjør løsningen mulig å ta i bruk for andre
 - gjøre løsningen synlig der andre leter – for eksempel gjennom felles kataloger og oversikter over offentlige åpne prosjekter
 
-Start der dere er. Har dere allerede kode som kan deles? Begynn med å publisere én komponent åpent for å teste prosessen, eller med å etablere oversikt over avhengighetene deres. Lær underveis, og se på hva andre offentlige virksomheter gjør – flere har delt både kode og erfaringer åpent. (oppdatere tekst - Fiskeridirektoratet)
+Start der dere er. Har dere allerede kode som kan deles? Begynn med å publisere én komponent åpent for å teste prosessen, eller med å etablere oversikt over avhengighetene deres. Lær underveis, og se på hva andre offentlige virksomheter gjør – flere har delt både kode og erfaringer åpent. (oppdatere tekst - Fiskeridirektoratet/UiO)
 
 ## Hvordan vi bruker siden
 
