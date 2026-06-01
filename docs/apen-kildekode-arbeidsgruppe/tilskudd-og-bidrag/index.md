@@ -4,9 +4,9 @@ title: Hvordan kan vi bidra?
 description: Tiltak, tilskudd og bidrag til åpen kildekode
 ---
 
-## Bakgrunn
+## Bakgrunn og behov for bidrag
 
-Det åpenbare tiltaket for å støtte åpen kode er å bidra med penger til utviklerne. Dette er ikke nødvendigvis "rett fram" å få til for oss innenfor rammene som lovverk og forskrifter setter. Vi har jo f.eks. i løpet av denne prosessenn lært at det å opprette økonomiske tilskuddsordninger er en veldig omfattende prosess med tidkrevende behandling på høyt politisk nivå. Vi vil i dette dokumentet derfor forsøke å peke på andre konkrete tiltak som støtter åpen kode og utviklerne som lager den, men på måter som ikke krever så mye prosess.
+Det åpenbare tiltaket for å støtte åpen kode er å bidra med penger til utviklerne. Dette er ikke nødvendigvis "rett fram" å få til for oss innenfor rammene som lovverk og forskrifter setter. Vi har jo f.eks. i løpet av denne prosessenn lært at det å opprette økonomiske tilskuddsordninger er en veldig omfattende prosess med tidkrevende behandling på høyt politisk nivå. Vi vil i dette dokumentet derfor forsøke å peke på andre konkrete tiltak som støtter åpen kode og utviklerne som lager den, men på måter som ikke krever så mye prosess. (mer om behov/bakgrunn - Digdir)
 
 ## Hosting
 
@@ -30,3 +30,4 @@ I tillegg til direkte støtte kan man se for seg andre og mere indirekte måter 
 For de mindre prosjektene som ikke er backet av store selskaper og foundations er utviklerkapasitet ofte et minst like stort problem som pengemangel. Dette belyses bl.a. i [The State of Open Source Report](https://opensource.org/blog/the-2026-state-of-open-source-report). For å støtte disse prosjektene kan man se for seg at utviklere i offentlige etater får lov til å bruke en andel av arbeidstiden til å bidra til prosjekter man benytter. Et ferskt eksempel på et prosjekt som måtte legge inn årene pga manglende kapasitet er [Ingress NGINX](https://www.kubernetes.dev/blog/2025/11/12/ingress-nginx-retirement/). Dette var en kjernekomponent i infrastrukturen til både offentlige etater og store selskaper, og de berørte har måttet bruke store ressurser på å få på plass en erstatter.
 
 Det trengs ikke en svær rigg med retningslinjer for når og hvor man skal bidra, utviklerne klarer selv å bedømme hvilke prosjekter som trenger hjelp og hvor de best kan hjelpe til. Det viktige er å få på plass aksept for å bruke arbeidstid til å bidra åpen kildekode.
+(mer detaljer - NAV)
