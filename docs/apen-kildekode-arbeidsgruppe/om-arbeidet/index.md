@@ -3,7 +3,7 @@ layout: default
 title: Om arbeidet
 ---
 
-Arbeidsgruppen består av deltakere fra NAV, Norstella, Brønnøysundregistrene, UiO, Helsedirektoratet, Fiskeridirektoratet og Digdir. Gruppen skal bidra til at åpen kildekode blir et foretrukket valg ved utvikling og anskaffelse av nye offentlige løsninger.
+Arbeidsgruppen består av deltakere fra NAV, Norstella, UiO, Helsedirektoratet, Fiskeridirektoratet og Digdir. Gruppen skal bidra til at åpen kildekode blir et foretrukket valg ved utvikling og anskaffelse av nye offentlige løsninger.
 
 Målet er at programvare utviklet for offentlige midler som hovedregel publiseres med åpen lisens, slik at offentlig sektor kan dele og gjenbruke mer på tvers. Samtidig skal offentlig sektor bli tydeligere på å bidra tilbake til utviklermiljøene som forvalter den digitale grunnmuren vi selv bruker.
 
@@ -53,4 +53,4 @@ Hele den digitale infrastrukturen i offentlig sektor hviler på åpen kildekode-
 ## Status
 
 All informasjon på disse sidene er arbeidsdokumenter som er under arbeid. 
-Vi tar gjerne imot tilbakemeldinger fra alle som er engasjerte i tematikken ☺️. Send tilbakemeldinger oss via [diskusjonssiden på github](https://github.com/digdir/ASR/discussions/3) eller på [epost](mailto:nasjonalarkitektur@digdir.no). Det er også lov å åpne en pull-request mot repoet. Arbeidsgruppen vil vurdere eventuelle bidrag. 
+Vi tar gjerne imot tilbakemeldinger fra alle som er engasjerte i tematikken ☺️. Send tilbakemeldinger oss via [diskusjonssiden på github](https://github.com/digdir/ASR/discussions/3) eller på [epost](mailto:nasjonalarkitektur@digdir.no). Det er også lov å åpne en pull-request mot repoet. Arbeidsgruppen vil vurdere eventuelle bidrag. (oppdatere tekst - Digdir)
