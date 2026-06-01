@@ -33,7 +33,7 @@ Hva betyr det for deg?
   krever delte løsninger. Åpen kildekode gjør det enklere å bygge videre på
   hverandres arbeid, dele kostnader og utvikle bedre tjenester sammen.
 
-Hvis du ikke har en strategi for open source… så har du egentlig en strategi for vendor lock-in 💥
+Hvis du ikke har en strategi for open source… så har du egentlig en strategi for vendor lock-in 💥 (oppdatere forsidetekst - NAV)
 
 Les om arbeidsgruppen og hvordan du kan bidra [her](om-arbeidet/index.md)
-(oppdatere tekst - NAV)
+
