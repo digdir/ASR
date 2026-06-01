@@ -36,3 +36,4 @@ Hva betyr det for deg?
 Hvis du ikke har en strategi for open source… så har du egentlig en strategi for vendor lock-in 💥
 
 Les om arbeidsgruppen og hvordan du kan bidra [her](om-arbeidet/index.md)
+(oppdatere tekst - NAV)
