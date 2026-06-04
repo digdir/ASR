@@ -41,6 +41,10 @@ Brukes til praktiske retningslinjer, metodikk og innforing i hvordan apen kildek
 | NIST Secure Software Development Framework (SSDF) | Rammeverk | NIST | [Lenke](https://csrc.nist.gov/Projects/ssdf) | Relevant for sikker utviklingspraksis i bruk av åpen kildekode | Høy |
 | SLSA | Rammeverk | OpenSSF | [Lenke](https://slsa.dev/) | Relevant for leveransekjede og integritet i programvarebygging | Høy |
 | Sigstore | Verktøy / infrastruktur | Sigstore | [Lenke](https://www.sigstore.dev/) | Relevant for signering og verifisering av programvareartefakter | Høy |
+| Top 5 Benefits of Open Source Software | Artikkel | OpenLogic | [Lenke](https://www.openlogic.com/blog/top-5-benefits-open-source-software) | Kort innføring i sentrale gevinster ved åpen kildekode, nyttig som argumentasjonsstøtte, men bør behandles som leverandørmateriale | Middels |
+| What is enterprise open source? | Artikkel | Red Hat | [Lenke](https://www.redhat.com/en/blog/what-enterprise-open-source) | Forklarer forskjellen mellom generell åpen kildekode og virksomhetsrettet open source med støtte, sikkerhet og livsløpsforvaltning | Middels |
+| Decision factors for open source software procurement | Veiledning | OSS Watch | [Lenke](http://oss-watch.ac.uk/resources/procurement-infopack) | Relevant for vurderingskriterier ved anskaffelse av open source-løsninger og sammenligning med proprietære alternativer | Middels |
+| 5 Open Source Procurement Best Practices | Artikkel / praksisnotat | Anchore | [Lenke](https://anchore.com/blog/5-open-source-procurement-best-practices/) | Praktiske råd om hvordan anskaffelse bør involvere IT, DevOps, sikkerhet, risikostyring og innkjøp | Middels |
 
 ### Strategier og regelverk
 
@@ -78,6 +82,9 @@ Brukes til nasjonale og internasjonale styringsdokumenter, prinsipper og rammer.
 | Publiccode YML Validator | Verktøy | Foundation for Public Code | [Lenke](https://yml.publiccode.tools/) | Verktøy for validering av publiccode.yml | Middels |
 | OSPO Alliance Good Governance Initiative | Standard | OSPO | [Lenke](https://ospo-alliance.org/ggi/introduction/) | Modenhetsmodell for organisasjoner som jobber med open source | Høy |
 | Open Source Software in Public Administration Handbook | Veiledning | EU | [Lenke](https://interoperable-europe.ec.europa.eu/sites/default/files/custom-page/attachment/2026-01/osor-handbook.pdf) | Veiledning fra interoberable-europe om open source i offentlig sektor | Høy |
+| Open Source Good Governance Handbook | Veiledning / modenhetsmodell | OSPO Alliance | [Lenke](https://ospo-alliance.org/docs/ggi_handbook_v1.3.pdf) | Praktisk håndbok for styring, modenhet, roller, prosesser og tiltak for organisasjoner som skal forvalte åpen kildekode profesjonelt | Høy |
+| OpenChain Project | Standard / sertifisering | OpenChain / Linux Foundation | [Lenke](https://www.openchainproject.org/) | Relevant for krav, prosesser og etterlevelse knyttet til open source compliance i virksomheter og leverandørkjeder | Høy |
+| Recommended Open Source Compliance Practices for the Enterprise | Veiledning / praksis | Linux Foundation | [Lenke](https://www.ibrahimatlinux.com/wp-content/uploads/2022/01/recommended-oss-compliance-practices.pdf) | Praktisk referanse for policy, roller og prosesser for lisens- og IP-etterlevelse i virksomheter | Høy |
 
 ### Anskaffelser og finansiering
 
@@ -94,6 +101,9 @@ Brukes til kilder om innkjop, virkemidler, stotteordninger og finansieringsiniti
 | Guideline on public procurement of Open Source Software | Veiledning | Interoperable Europe Portal | [Lenke](https://interoperable-europe.ec.europa.eu/collection/open-source-observatory-osor/document/guideline-public-procurement-open-source-software) | Praktisk veiledning om anskaffelser der open source inngar | Høy |
 | Denmark explores the prerequisites for success in open source | Analyse | Interoperable Europe Portal | [Lenke](https://interoperable-europe.ec.europa.eu/collection/open-source-observatory-osor/news/denmark-explores-prerequisites-success-open-source) | Innsikt i nasjonale forutsetninger for vellykket open source-bruk | Middels |
 | Developers Italia: Case Studies on Sustainability of Public Sector Open Source Communities | Casestudier | Interoperable Europe Portal | [Lenke](https://interoperable-europe.ec.europa.eu/collection/open-source-observatory-osor/document/developers-italia-case-studies-sustainability-public-sector-open-source-communities) | Caser om bærekraftige fellesskap i offentlig sektor | Middels |
+| Open Source Pledge | Finansieringsinitiativ | Open Source Pledge | [Lenke](https://opensourcepledge.com/) | Relevant som eksempel på forpliktende finansiering av open source-økosystemet og bærekraft for kritiske avhengigheter | Lav |
+| Open Source Collective | Finansieringsplattform | Open Source Collective | [Lenke](https://oscollective.org/) | Eksempel på infrastruktur for finansiering og forvaltning av åpne prosjekter; relevant ved vurdering av støtte til kritiske komponenter | Lav |
+| Sustain OSS | Fellesskap / initiativ | Sustain OSS | [Lenke](https://sustainoss.org) | Relevant som kunnskaps- og nettverksarena for bærekraftig vedlikehold av åpen kildekode | Middels |
 
 ### Eksempler og referanseprosjekter
 
@@ -127,6 +137,11 @@ Brukes til konkrete offentlige eller semioffentlige prosjekter som viser praksis
 | NAV - Network Administration Visualized | Eksempel | Utdanningssektoren | [Lenke](https://github.com/uninett/nav) | Eksempel på system som er i utbredt bruk i Norge | Høy |
 | Designsystemet | Eksempel | Digdir | [Lenke](https://www.designsystemet.no/) | Offentlig initiativ med høy synlighet og gjenbruk | Høy |
 | SILL - Socle Interministériel de Logiciels Libres | Katalog | DINUM (Frankrike) | [Lenke](https://code.gouv.fr/sill/) | Modell for nasjonalt katalog over anbefalt fri programvare i offentlig sektor | Høy |
+| ScanCode Toolkit | Verktøy | AboutCode | [Lenke](https://scancode-toolkit.readthedocs.io/en/stable/) | Verktøy for analyse av lisens, copyright og avhengigheter; relevant for compliance og programvareoversikt | Høy |
+| OSS Review Toolkit | Verktøy | OSS Review Toolkit | [Lenke](https://oss-review-toolkit.org/ort/) | Verktøy for orkestrering av avhengighetsanalyse, lisenssjekk, SBOM og sårbarhetsdata; relevant for SCA og leveransekjedekontroll | Høy |
+| OWASP Dependency-Check | Verktøy | OWASP | [Lenke](https://owasp.org/www-project-dependency-check/) | Open source-verktøy for sårbarhetssjekk i tredjepartsavhengigheter | Middels |
+| Eclipse SW360 | Verktøy / komponentregister | Eclipse Foundation | [Lenke](https://www.eclipse.org/sw360/) | Verktøy for håndtering av programvarekomponenter, lisenser og sårbarheter i større virksomheter | Middels |
+| ClearlyDefined | Verktøy / datakilde | ClearlyDefined | [Lenke](https://clearlydefined.io) | Kilde for lisens- og metadata om open source-komponenter, relevant for mer konsistent compliance-arbeid | Middels |
 
 ### Rapporter og analyser
 
@@ -144,3 +159,6 @@ Brukes til oppsummeringer, vurderinger og analyser som kan underbygge argumentas
 | Working in Public | Bok / refleksjon | Stripe Press | [Lenke](https://press.stripe.com/working-in-public) | Relevante perspektiver pa hvordan apne utviklingsfellesskap fungerer i praksis | Middels |
 | National Open Source Policy (CUT Library) | Policydokument | Cyprus University of Technology Library | [Lenke](https://library.cut.ac.cy/pdf/national_policy.pdf) | Eksempel pa nasjonalt policydokument for open source | Middels |
 | Report on burnout in open source software | Rapport | Miranda Heath | [Lenke](https://mirandaheath.website/report-on-burnout-in-open-source-software/) | Relevant for arbeidsmiljø, vedlikeholdsbyrde og risiko ved lavt bidragsnivå | Middels |
+| OSS-Based licence Compliance Tools | Verktøyoversikt | OSS Compliance Tooling | [Lenke](https://oss-compliance-tooling.org/Tooling-Landscape/OSS-Based-licence-Compliance-Tools/) | Oversikt over åpne verktøy for lisens- og compliance-arbeid; nyttig ved vurdering av verktøystøtte | Middels |
+| Open Source Vulnerabilities | Datakilde | Google / OSV | [Lenke](https://osv.dev/) | Relevant som åpen sårbarhetsdatabase for open source-avhengigheter og automatisert sårbarhetshåndtering | Middels |
+| NVD - National Vulnerability Database | Datakilde | NIST | [Lenke](https://nvd.nist.gov/) | Sentral sårbarhetsdatabase som kan brukes i prosesser for risikovurdering av open source-komponenter | Middels |
