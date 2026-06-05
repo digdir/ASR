@@ -50,7 +50,7 @@ Hele den digitale infrastrukturen i offentlig sektor hviler på åpen kildekode-
 
 **Risiko:** Lav. Krever en mekanisme for å identifisere kritiske avhengigheter og fordele midler, men dette er løsbart.
 
-## Status
+## Status - og hvordan kan du bidra?
 
 All informasjon på disse sidene er arbeidsdokumenter som er under arbeid. 
 Vi tar gjerne imot tilbakemeldinger fra alle som er engasjerte i tematikken ☺️. Send tilbakemeldinger oss via [diskusjonssiden på github](https://github.com/digdir/ASR/discussions/3) eller på [epost](mailto:nasjonalarkitektur@digdir.no). Det er også lov å åpne en pull-request mot repoet. Arbeidsgruppen vil vurdere eventuelle bidrag. (oppdatere tekst - Digdir)
