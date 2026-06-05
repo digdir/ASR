@@ -102,4 +102,29 @@ For at gjenbruk skal fungere i praksis bør virksomheten:
 
 Start der dere er. Har dere allerede kode som kan deles? Begynn med å publisere én komponent åpent for å teste prosessen, eller med å etablere oversikt over avhengighetene deres. Lær underveis, og se på hva andre offentlige virksomheter gjør – flere har delt både kode og erfaringer åpent. (oppdatere tekst - Fiskeridirektoratet/UiO)
 
+# Åpen kildekode i offentlig sektor
 
+## Hvorfor skal du bry deg?
+## Hva mener vi med åpen kildekode?
+## Tre valg alle offentlige virksomheter må ta
+### 1. Bruke: Hva bygger dere på?
+### 2. Dele: Hva kan andre gjenbruke?
+### 3. Bidra: Hva er dere avhengige av at andre vedlikeholder?
+
+## Hva får dere igjen?
+### Mer kontroll over livsløpet
+### Mindre leverandørinnlåsing
+### Bedre gjenbruk på tvers
+### Mer etterprøvbare digitale tjenester
+### Sterkere digital beredskap
+
+## Hva må dere ha kontroll på?
+### Sikkerhet og sårbarheter
+### Lisenser og rettigheter
+### Dokumentasjon og forvaltning
+### Roller og ansvar
+### Kostnader over tid
+
+## Hvor modne er dere?
+## Første steg: slik kommer dere i gang
+## Sjekkliste før publisering eller anskaffelse
