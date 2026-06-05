@@ -25,15 +25,7 @@ alliance ([Referanse](https://ospo-alliance.org/ggi/introduction/)).
 Modellen modellen skisserer fem nivåer av modenhet: bruk, tillit, kultur,
 engasjement og strategi.
 
-```mermaid
-flowchart BT
-    U["Bruk — teknisk bruk av OSS"]
-    T["Tillit — sikker, etterrettelig bruk; compliance"]
-    C["Kultur — beste praksis og intern OSS-kultur"]
-    E["Engasjement — bidra tilbake, delta i økosystemet"]
-    S["Strategi — strategisk bruk for innovasjon"]
-    U --> T --> C --> E --> S
-```
+![Modenhetsmodell for åpen kildekode](../assets/img/figur-modenhet-apen-kildekode.svg)
 
 På det laveste nivået har vi altså bruk av åpen kildekode i en organisasjon,
 hvor man har tilstrekkelig kompetanse til å ta i bruk, men hovedsakelig er
@@ -75,6 +67,8 @@ Når kildekoden er åpen og bygget på åpne standarder, reduseres innelåsingen
 Mange offentlige virksomheter har overlappende behov, men løser dem hver for seg. Resultatet er at samme funksjonalitet utvikles, betales for og vedlikeholdes mange ganger parallelt. Åpen kildekode gjør det mulig å erstatte dette med gjenbruk: én virksomhet kan bygge en løsning åpent, og andre kan ta den i bruk eller bygge videre på den.
 
 Gevinsten er størst når gjenbruk tenkes inn fra starten. En løsning som er publisert åpent, men uten dokumentasjon, lisens eller tydelig forvaltning, er teknisk tilgjengelig, men i praksis vanskelig å gjenbruke. Reell nyttiggjøring krever at andre kan finne løsningen, forstå hva den gjør, vurdere om den passer, og ta den i bruk uten å måtte kontakte utviklerne.
+
+![Fra publisert til gjenbrukbar åpen kildekode](../assets/img/figur-publisert-til-gjenbrukbar-vertikal-v3.svg)
 
 Gjenbruk er ikke bare god ressursbruk for den enkelte virksomhet; det er en samfunnsgevinst. Når flere bidrar til og bruker samme løsning, vokser det fram et felles økosystem av kvalitetssikret programvare som blir bedre og sikrere for alle som er avhengige av den.
 

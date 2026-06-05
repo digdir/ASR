@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="1040" viewBox="0 0 980 1040" role="img" aria-labelledby="title desc">
+<title id="title">Fra publisert kode til gjenbrukbar løsning</title>
+<desc id="desc">Vertikal stegmodell som viser hva som må på plass før publisert kode kan gjenbrukes.</desc>
+<defs>
+  <filter id="softShadow" x="-20%" y="-20%" width="140%" height="140%">
+    <feDropShadow dx="0" dy="7" stdDeviation="9" flood-color="#24483A" flood-opacity="0.11"/>
+  </filter>
+</defs>
+
+<rect width="980" height="1040" fill="#F6FAF7"/>
+<circle cx="850" cy="70" r="125" fill="#EAF4EE" opacity="0.85"/>
+<circle cx="45" cy="960" r="155" fill="#EAF4EE" opacity="0.70"/>
+
+<text x="490.0" y="76" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="40" font-weight="750" fill="#24483A">Fra publisert kode til gjenbrukbar løsning</text>
+<text x="490.0" y="121" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="400" fill="#5E7068">Det som må på plass før andre faktisk kan ta koden i bruk</text>
+
+
+<g filter="url(#softShadow)">
+  <rect x="110" y="190" width="760" height="122" rx="30" fill="#FFFFFF" stroke="#BFD8C7" stroke-width="1.8"/>
+</g>
+<rect x="150" y="221" width="60" height="60" rx="20" fill="#EAF4EE" stroke="#BFD8C7" stroke-width="1"/>
+<text x="180" y="260" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="24" font-weight="800" fill="#3F7D5A">1</text>
+
+<text x="250" y="240" text-anchor="start" font-family="Inter, Arial, sans-serif" font-size="28" font-weight="800" fill="#24483A">PUBLISERT KODE</text>
+<text x="250" y="278" text-anchor="start" font-family="Inter, Arial, sans-serif" font-size="21" font-weight="450" fill="#1F2D27">Koden er teknisk tilgjengelig</text>
+
+<line x1="490.0" y1="320" x2="490.0" y2="337" stroke="#6FA37D" stroke-width="4" stroke-linecap="round"/>
+<polygon points="474.0,332 506.0,332 490.0,348" fill="#6FA37D"/>
+
+
+<g filter="url(#softShadow)">
+  <rect x="110" y="357" width="760" height="122" rx="30" fill="#FFFFFF" stroke="#BFD8C7" stroke-width="1.8"/>
+</g>
+<rect x="150" y="388" width="60" height="60" rx="20" fill="#EAF4EE" stroke="#BFD8C7" stroke-width="1"/>
+<text x="180" y="427" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="24" font-weight="800" fill="#3F7D5A">2</text>
+
+<text x="250" y="407" text-anchor="start" font-family="Inter, Arial, sans-serif" font-size="28" font-weight="800" fill="#24483A">ÅPEN LISENS</text>
+<text x="250" y="445" text-anchor="start" font-family="Inter, Arial, sans-serif" font-size="21" font-weight="450" fill="#1F2D27">Andre vet hva de har lov til</text>
+
+<line x1="490.0" y1="487" x2="490.0" y2="504" stroke="#6FA37D" stroke-width="4" stroke-linecap="round"/>
+<polygon points="474.0,499 506.0,499 490.0,515" fill="#6FA37D"/>
+
+
+<g filter="url(#softShadow)">
+  <rect x="110" y="524" width="760" height="122" rx="30" fill="#FFFFFF" stroke="#BFD8C7" stroke-width="1.8"/>
+</g>
+<rect x="150" y="555" width="60" height="60" rx="20" fill="#EAF4EE" stroke="#BFD8C7" stroke-width="1"/>
+<text x="180" y="594" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="24" font-weight="800" fill="#3F7D5A">3</text>
+
+<text x="250" y="574" text-anchor="start" font-family="Inter, Arial, sans-serif" font-size="28" font-weight="800" fill="#24483A">DOKUMENTASJON</text>
+<text x="250" y="612" text-anchor="start" font-family="Inter, Arial, sans-serif" font-size="21" font-weight="450" fill="#1F2D27">Formål, bruk og installasjon er forklart</text>
+
+<line x1="490.0" y1="654" x2="490.0" y2="671" stroke="#6FA37D" stroke-width="4" stroke-linecap="round"/>
+<polygon points="474.0,666 506.0,666 490.0,682" fill="#6FA37D"/>
+
+
+<g filter="url(#softShadow)">
+  <rect x="110" y="691" width="760" height="122" rx="30" fill="#FFFFFF" stroke="#BFD8C7" stroke-width="1.8"/>
+</g>
+<rect x="150" y="722" width="60" height="60" rx="20" fill="#EAF4EE" stroke="#BFD8C7" stroke-width="1"/>
+<text x="180" y="761" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="24" font-weight="800" fill="#3F7D5A">4</text>
+
+<text x="250" y="741" text-anchor="start" font-family="Inter, Arial, sans-serif" font-size="28" font-weight="800" fill="#24483A">FORVALTNING</text>
+<text x="250" y="779" text-anchor="start" font-family="Inter, Arial, sans-serif" font-size="21" font-weight="450" fill="#1F2D27">Eier, kontaktpunkt og vedlikehold er avklart</text>
+
+<line x1="490.0" y1="821" x2="490.0" y2="838" stroke="#6FA37D" stroke-width="4" stroke-linecap="round"/>
+<polygon points="474.0,833 506.0,833 490.0,849" fill="#6FA37D"/>
+
+
+<g filter="url(#softShadow)">
+  <rect x="110" y="858" width="760" height="122" rx="30" fill="#FFFFFF" stroke="#BFD8C7" stroke-width="1.8"/>
+</g>
+<rect x="150" y="889" width="60" height="60" rx="20" fill="#EAF4EE" stroke="#BFD8C7" stroke-width="1"/>
+<text x="180" y="928" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="24" font-weight="800" fill="#3F7D5A">5</text>
+
+<text x="250" y="908" text-anchor="start" font-family="Inter, Arial, sans-serif" font-size="28" font-weight="800" fill="#24483A">GJENBRUKBAR LØSNING</text>
+<text x="250" y="946" text-anchor="start" font-family="Inter, Arial, sans-serif" font-size="21" font-weight="450" fill="#1F2D27">Andre kan vurdere, ta i bruk og bygge videre</text>
+</svg>

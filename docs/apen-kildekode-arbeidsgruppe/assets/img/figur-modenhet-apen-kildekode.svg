@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="620" viewBox="0 0 1400 620" role="img" aria-labelledby="title desc">
+  <title id="title">Fem steg mot moden bruk</title>
+  <desc id="desc">Modenhetsmodell for åpen kildekode i offentlig sektor</desc>
+  <defs>
+    <filter id="softShadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="8" stdDeviation="10" flood-color="#24483A" flood-opacity="0.12"/>
+    </filter>
+    <marker id="arrow" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#6FA37D"/>
+    </marker>
+  </defs>
+  <rect width="1400" height="620" fill="#F6FAF7"/>
+  <circle cx="1230" cy="90" r="130" fill="#EAF4EE" opacity="0.85"/>
+  <circle cx="155" cy="565" r="170" fill="#EAF4EE" opacity="0.7"/>
+  <text x="700" y="92" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="42" font-weight="750" fill="#24483A">Fem steg mot moden bruk</text>
+  <text x="700" y="135" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="400" fill="#5E7068">Fra tilfeldig bruk til strategisk styring av åpen kildekode</text>
+
+
+  <g filter="url(#softShadow)">
+    <rect x="80.0" y="255" width="220" height="205" rx="28" fill="#FFFFFF" stroke="#BFD8C7" stroke-width="1.6"/>
+  </g>
+  <rect x="102.0" y="277" width="52" height="52" rx="18" fill="#EAF4EE" stroke="#BFD8C7" stroke-width="1"/>
+  <text x="128.0" y="312" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="800" fill="#3F7D5A">1</text>
+  <text x="190.0" y="359" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="800" fill="#24483A">BRUK</text>
+
+  <text x="190.0" y="397" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="450" fill="#1F2D27">Vi bruker åpne</text>
+
+  <text x="190.0" y="423" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="450" fill="#1F2D27">komponenter</text>
+
+  <line x1="309.0" y1="357.5" x2="323.0" y2="357.5" stroke="#6FA37D" stroke-width="4" stroke-linecap="round" marker-end="url(#arrow)"/>
+
+  <g filter="url(#softShadow)">
+    <rect x="335.0" y="255" width="220" height="205" rx="28" fill="#FFFFFF" stroke="#BFD8C7" stroke-width="1.6"/>
+  </g>
+  <rect x="357.0" y="277" width="52" height="52" rx="18" fill="#EAF4EE" stroke="#BFD8C7" stroke-width="1"/>
+  <text x="383.0" y="312" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="800" fill="#3F7D5A">2</text>
+  <text x="445.0" y="359" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="800" fill="#24483A">TILLIT</text>
+
+  <text x="445.0" y="397" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="450" fill="#1F2D27">Kontroll på sikkerhet,</text>
+
+  <text x="445.0" y="423" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="450" fill="#1F2D27">lisenser og avhengigheter</text>
+
+  <line x1="564.0" y1="357.5" x2="578.0" y2="357.5" stroke="#6FA37D" stroke-width="4" stroke-linecap="round" marker-end="url(#arrow)"/>
+
+  <g filter="url(#softShadow)">
+    <rect x="590.0" y="255" width="220" height="205" rx="28" fill="#FFFFFF" stroke="#BFD8C7" stroke-width="1.6"/>
+  </g>
+  <rect x="612.0" y="277" width="52" height="52" rx="18" fill="#EAF4EE" stroke="#BFD8C7" stroke-width="1"/>
+  <text x="638.0" y="312" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="800" fill="#3F7D5A">3</text>
+  <text x="700.0" y="359" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="800" fill="#24483A">KULTUR</text>
+
+  <text x="700.0" y="397" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="450" fill="#1F2D27">Åpen kildekode er en</text>
+
+  <text x="700.0" y="423" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="450" fill="#1F2D27">naturlig arbeidsform</text>
+
+  <line x1="819.0" y1="357.5" x2="833.0" y2="357.5" stroke="#6FA37D" stroke-width="4" stroke-linecap="round" marker-end="url(#arrow)"/>
+
+  <g filter="url(#softShadow)">
+    <rect x="845.0" y="255" width="220" height="205" rx="28" fill="#FFFFFF" stroke="#BFD8C7" stroke-width="1.6"/>
+  </g>
+  <rect x="867.0" y="277" width="52" height="52" rx="18" fill="#EAF4EE" stroke="#BFD8C7" stroke-width="1"/>
+  <text x="893.0" y="312" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="800" fill="#3F7D5A">4</text>
+  <text x="955.0" y="359" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="800" fill="#24483A">ENGASJEMENT</text>
+
+  <text x="955.0" y="397" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="450" fill="#1F2D27">Vi deler, bidrar og</text>
+
+  <text x="955.0" y="423" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="450" fill="#1F2D27">deltar i økosystemet</text>
+
+  <line x1="1074.0" y1="357.5" x2="1088.0" y2="357.5" stroke="#6FA37D" stroke-width="4" stroke-linecap="round" marker-end="url(#arrow)"/>
+
+  <g filter="url(#softShadow)">
+    <rect x="1100.0" y="255" width="220" height="205" rx="28" fill="#FFFFFF" stroke="#BFD8C7" stroke-width="1.6"/>
+  </g>
+  <rect x="1122.0" y="277" width="52" height="52" rx="18" fill="#EAF4EE" stroke="#BFD8C7" stroke-width="1"/>
+  <text x="1148.0" y="312" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="800" fill="#3F7D5A">5</text>
+  <text x="1210.0" y="359" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="800" fill="#24483A">STRATEGI</text>
+
+  <text x="1210.0" y="397" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="450" fill="#1F2D27">Virkemiddel for</text>
+
+  <text x="1210.0" y="423" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="450" fill="#1F2D27">virksomhetens mål</text>
+
+  <text x="700" y="555" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="500" fill="#5E7068">Modenhetsmodell for åpen kildekode i offentlig sektor</text>
+</svg>
