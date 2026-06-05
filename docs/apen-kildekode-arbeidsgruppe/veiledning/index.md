@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Veiledning
+title: Åpen kildekode i offentlig sektor: bruk, deling og ansvar
 description: Høynivå veiledning om åpen kildekode i offentlig sektor
 ---
-
+## Spørsmålet er ikke om, men hvordan
 **Åpen kildekode kan gi store fordeler med tanke på at løsninger som utvikles i større grad kan gjenbrukes, og videreutvikles i felleskap. Videre så gir åpenheten større innsyn og kontroll for offentligheten. Denne etterprøvbarheten er vesentlig for ansvarlig utvikling av løsninger med komponenter av kunstig intelligens i offentlig sektor, og i det geopolitiske situasjonsbildet vi befinner oss i. Bruk av åpen kildekode åpner også for mer rettferdig konkurranse ved at tilbydere kan bygge videre på det som allerede eksisterer.** 
 
 Mange offentlige virksomheter ønsker å bruke mer åpen kildekode, men diskusjonen blir ofte knyttet til risiko og sikkerhet. Samtidig er realiteten at de fleste digitale løsninger allerede er bygget på åpen kildekode gjennom leverandørene. Moderne web- og skyløsninger er ofte avhengige av hundrevis eller tusenvis av åpne komponenter fra tjenester som npmjs.com. Dersom én av disse inneholder sårbarheter eller blir kompromittert, kan det påvirke store deler av løsningen.
@@ -102,7 +102,7 @@ For at gjenbruk skal fungere i praksis bør virksomheten:
 
 Start der dere er. Har dere allerede kode som kan deles? Begynn med å publisere én komponent åpent for å teste prosessen, eller med å etablere oversikt over avhengighetene deres. Lær underveis, og se på hva andre offentlige virksomheter gjør – flere har delt både kode og erfaringer åpent. (oppdatere tekst - Fiskeridirektoratet/UiO)
 
-# Åpen kildekode i offentlig sektor
+# Ny struktur 
 
 ## Hvorfor skal du bry deg?
 ## Hva mener vi med åpen kildekode?
