@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Åpen kildekode i offentlig sektor: bruk, deling og ansvar
+title: Veiledning
 description: Høynivå veiledning om åpen kildekode i offentlig sektor
 ---
 ## Spørsmålet er ikke om, men hvordan
