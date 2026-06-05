@@ -1,9 +1,33 @@
 ---
 layout: default
 title: Åpen kildekode arbeidsgruppe
+description: Kunnskapsgrunnlag, veiledning og vurderinger for åpen kildekode i offentlig sektor.
 ---
-**Åpen kildekode gjør offentlig sektor mer åpen, robust og handlekraftig**. Når kildekoden deles, blir digitale løsninger lettere å forstå, etterprøve, forbedre og gjenbruke. 🌱
-Det gir bedre kontroll over egne systemer, reduserer avhengighet til enkeltleverandører og gjør det enklere å samarbeide på tvers av virksomheter og forvaltningsnivåer.
+
+<p class="ak-lead"><strong>Åpen kildekode gjør offentlig sektor mer åpen, robust og handlekraftig.</strong> Når kildekoden deles, blir digitale løsninger lettere å forstå, etterprøve, forbedre og gjenbruke. Det gir bedre kontroll over egne systemer, reduserer avhengighet til enkeltleverandører og gjør det enklere å samarbeide på tvers av virksomheter og forvaltningsnivåer.</p>
+
+<div class="ak-card-grid" aria-label="Hovedinnganger">
+  <a class="ak-card" href="veiledning/">
+    <span class="ak-card__label">Veiledning</span>
+    <strong>Dele og bruke kode</strong>
+    <span>Praktiske råd for virksomheter som skal publisere, vurdere eller gjenbruke åpen kildekode.</span>
+  </a>
+  <a class="ak-card" href="tilskudd-og-bidrag/">
+    <span class="ak-card__label">Bidrag</span>
+    <strong>Støtte og bærekraft</strong>
+    <span>Vurderinger av finansiering, bidrag og forvaltning av åpne prosjekter over tid.</span>
+  </a>
+  <a class="ak-card" href="om-arbeidet/">
+    <span class="ak-card__label">Arbeidsgruppe</span>
+    <strong>Mandat og prosess</strong>
+    <span>Bakgrunn for arbeidet, hvem som deltar og hvordan kunnskapsgrunnlaget utvikles.</span>
+  </a>
+  <a class="ak-card" href="kilder/">
+    <span class="ak-card__label">Kilder</span>
+    <strong>Referanser og analyser</strong>
+    <span>Samlet kildeliste med veiledere, strategier, verktøy, eksempler og rapporter.</span>
+  </a>
+</div>
 
 For offentlig sektor handler åpen kildekode ikke bare om teknologi. Det handler om tillit, kvalitet og felles verdiskaping. Når vi utvikler med offentlige midler, bør resultatene som hovedregel komme fellesskapet til gode.
 
@@ -11,29 +35,24 @@ For offentlig sektor handler åpen kildekode ikke bare om teknologi. Det handler
 
 Hva betyr det for deg?
 
-- Open source er ikke lenger “alternativt”
-- Det blir en del av styringsmodellen
-- Du må vurdere: dele, bruke og bidra
+- Open source er ikke lenger et alternativ på siden av styringsmodellen.
+- Deling, gjenbruk og bidrag blir en del av vurderingsgrunnlaget.
+- Virksomheter må vurdere hvordan de både kan bruke, dele og bidra tilbake.
 
 ## Hvorfor åpen kildekode
 
-- **Betalt én gang – brukt mange ganger**: Når fellesskapet finansierer
+- **Betalt én gang, brukt mange ganger**: Når fellesskapet finansierer
   utvikling, bør løsningen kunne gjenbrukes, forbedres og deles videre.
-- **Ikke la leverandøren holde nøkkelen**: Lukket kode kan gjøre deg avhengig av
+- **Mindre leverandørbinding**: Lukket kode kan gjøre deg avhengig av
   én aktør. Åpen kildekode gir større frihet til å bytte, videreutvikle og
   samarbeide.
-- **Ingen kan sjekke hva som skjer inni boksen**: I Offentlig sektor må kunne
-  forklare, etterprøve og stå inne for digitale løsninger som påvirker
-  innbyggere og virksomheter. Åpen kildekode gjør det mulig å se hvordan
-  løsningene faktisk virker.
-- **Kriser avslører avhengighet**: Geopolitisk uro, prissjokk og konkurser viser
-  hvor sårbare digitale avhengigheter kan være. Åpen kildekode kan redusere
-  risiko og styrke digital suverenitet.
-- **Fellesskapets utfordringer løses ikke alene**: Tverrsektorielle utfordringer
-  krever delte løsninger. Åpen kildekode gjør det enklere å bygge videre på
-  hverandres arbeid, dele kostnader og utvikle bedre tjenester sammen.
+- **Bedre etterprøvbarhet**: Offentlig sektor må kunne forklare, etterprøve og
+  stå inne for digitale løsninger som påvirker innbyggere og virksomheter.
+- **Lavere sårbarhet**: Geopolitisk uro, prissjokk og konkurser viser hvor
+  sårbare digitale avhengigheter kan være. Åpen kildekode kan redusere risiko og
+  styrke digital suverenitet.
+- **Mer samarbeid på tvers**: Tverrsektorielle utfordringer krever delte
+  løsninger. Åpen kildekode gjør det enklere å bygge videre på hverandres arbeid,
+  dele kostnader og utvikle bedre tjenester sammen.
 
-Hvis du ikke har en strategi for open source… så har du egentlig en strategi for vendor lock-in 💥 (oppdatere forsidetekst - NAV)
-
-Les om arbeidsgruppen og hvordan du kan bidra [her](om-arbeidet/index.md)
-
+Les om arbeidsgruppen og hvordan du kan bidra på siden [Om arbeidet](om-arbeidet/).
