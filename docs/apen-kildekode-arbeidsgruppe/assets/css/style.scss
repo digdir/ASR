@@ -176,6 +176,22 @@ a:focus {
   font-size: 1.12rem;
 }
 
+.ak-figure {
+  margin: 2rem auto;
+  text-align: center;
+}
+
+.ak-figure img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: 0 auto;
+}
+
+.ak-figure--narrow img {
+  max-width: min(100%, 50rem);
+}
+
 .ak-card-grid {
   display: grid;
   grid-template-columns: repeat(4, minmax(0, 1fr));

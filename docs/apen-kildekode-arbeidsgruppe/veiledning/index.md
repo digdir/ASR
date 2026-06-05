@@ -68,7 +68,9 @@ Mange offentlige virksomheter har overlappende behov, men løser dem hver for se
 
 Gevinsten er størst når gjenbruk tenkes inn fra starten. En løsning som er publisert åpent, men uten dokumentasjon, lisens eller tydelig forvaltning, er teknisk tilgjengelig, men i praksis vanskelig å gjenbruke. Reell nyttiggjøring krever at andre kan finne løsningen, forstå hva den gjør, vurdere om den passer, og ta den i bruk uten å måtte kontakte utviklerne.
 
-![Fra publisert til gjenbrukbar åpen kildekode](../assets/img/figur-publisert-til-gjenbrukbar-vertikal-v3.svg)
+<figure class="ak-figure ak-figure--narrow">
+  <img src="../assets/img/figur-publisert-til-gjenbrukbar-vertikal-v3.svg" alt="Fra publisert til gjenbrukbar åpen kildekode">
+</figure>
 
 Gjenbruk er ikke bare god ressursbruk for den enkelte virksomhet; det er en samfunnsgevinst. Når flere bidrar til og bruker samme løsning, vokser det fram et felles økosystem av kvalitetssikret programvare som blir bedre og sikrere for alle som er avhengige av den.
 
