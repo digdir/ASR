@@ -36,6 +36,7 @@ I praksis bør virksomheten vurdere hele livsløpet allerede ved valg av løsnin
 Portabilitet handler om muligheten til å flytte løsninger, data og kompetanse mellom leverandører og plattformer uten å starte på nytt. Interoperabilitet handler om at systemer kan samhandle på tvers av virksomheter og forvaltningsnivåer. Begge deler svekkes når løsninger bygges lukket, og styrkes når de bygges åpent.
 
 Når kildekoden er åpen og bygget på åpne standarder, reduseres innelåsingen til én leverandør. Du kan bytte leverandør, ta deler av forvaltningen inn selv, eller la flere aktører konkurrere om videreutvikling og drift. Det gir både bedre forhandlingsposisjon og lavere risiko for at løsningen blir en blindvei.
+
 ### Bedre gjenbruk på tvers
 Mange offentlige virksomheter har overlappende behov, men løser dem hver for seg. Resultatet er at samme funksjonalitet utvikles, betales for og vedlikeholdes mange ganger parallelt. Åpen kildekode gjør det mulig å erstatte dette med gjenbruk: én virksomhet kan bygge en løsning åpent, og andre kan ta den i bruk eller bygge videre på den.
 
@@ -46,15 +47,22 @@ Gevinsten er størst når gjenbruk tenkes inn fra starten. En løsning som er pu
 </figure>
 
 Gjenbruk er ikke bare god ressursbruk for den enkelte virksomhet; det er en samfunnsgevinst. Når flere bidrar til og bruker samme løsning, vokser det fram et felles økosystem av kvalitetssikret programvare som blir bedre og sikrere for alle som er avhengige av den.
+
 ### Mer etterprøvbare digitale tjenester
 Åpen kildekode blir mer og mer vesentlig sett i lys av KI-drevet utvikling. En åpen kodebase er nærmest en forutsetning både for å gjøre det som lages etterprøvbart, forklarbart og for å kunne bruke KI-verktøy til kontinuerlig utvikling og forbedring. Dette fordi det er viktig med åpenhet og sporbarhet for hva KI-programvare som hjelper utvikleren med koding, testing, og dokumentasjon faktisk gjør, og fordi velregulert tilgang og definerte prosesser som åpen kildekode legger til rette for gir økt forklarbarhet rundt dette. 
+
 ### Sterkere digital beredskap
 
 ## Hva må dere ha kontroll på?
+
 ### Sikkerhet og sårbarheter
+
 ### Lisenser og rettigheter
+
 ### Dokumentasjon og forvaltning
+
 ### Roller og ansvar
+
 ### Kostnader over tid
 
 
@@ -94,7 +102,7 @@ valg, men også et strategisk valg forankret i øverste ledelse.
 
 ## Første steg: slik kommer dere i gang
 
-Åpen kildekode er ikke et prosjekt med en startdato og en sluttdato – det er en arbeidsform som modnes over tid. Du trenger ikke å gjøre alt på én gang, men du bør starte et sted. 
+Åpen kildekode er ikke et prosjekt med en startdato og en sluttdato – det er en arbeidsform som modnes over tid. Du trenger ikke å gjøre alt på én gang. Start der dere er. Har dere allerede kode som kan deles? Begynn med å publisere én komponent åpent for å teste prosessen, eller med å etablere oversikt over avhengighetene deres. Lær underveis, og se på hva andre offentlige virksomheter gjør – flere har delt både kode og erfaringer åpent. (oppdatere tekst - Fiskeridirektoratet/UiO) 
 
 For at gjenbruk skal fungere i praksis bør virksomheten:
 
@@ -102,7 +110,7 @@ For at gjenbruk skal fungere i praksis bør virksomheten:
 - publisere med åpen lisens og dokumentasjon som gjør løsningen mulig å ta i bruk for andre
 - gjøre løsningen synlig der andre leter – for eksempel gjennom felles kataloger og oversikter over offentlige åpne prosjekter
 
-Start der dere er. Har dere allerede kode som kan deles? Begynn med å publisere én komponent åpent for å teste prosessen, eller med å etablere oversikt over avhengighetene deres. Lær underveis, og se på hva andre offentlige virksomheter gjør – flere har delt både kode og erfaringer åpent. (oppdatere tekst - Fiskeridirektoratet/UiO)
+
 
 ## Sjekkliste før publisering eller anskaffelse
 Her er de første grepene:
@@ -115,7 +123,7 @@ Her er de første grepene:
 6. Plassér ansvaret tydelig. Hvem eier beslutninger om koden, hvem følger opp sikkerhet, og hvem svarer eksterne bidragsytere? Rollene kan være deltid og kombineres i små team, men de må være navngitte og kjente.
 7. For å lykkes med gjenbruk og samskaping  krevers både aktiv forvaltning, kvalitetssikring og kontinuerlig forbedring. Dette forutsetter kapasitet, engasjement og kontinuerlig utvikling. Kapasitet må brukes på å skape en god utvikleropplevelse for de som tar i koden i bruk eller som ønsker å bidra. Dette gjøres ved å ha åpne kanaler og prosesser for å ta imot forslag, kodebidrag, dokumentasjon, og feilhandtering.
 
-Praktisk råd: Still krav om åpne, standardiserte grensesnitt (API-er) og dokumenterte dataformater i anskaffelser, og vurder hvor lett er det å komme seg ut igjen?
+Still krav om åpne, standardiserte grensesnitt (API-er) og dokumenterte dataformater i anskaffelser, og vurder hvor lett er det å komme seg ut igjen?
 
 
 
