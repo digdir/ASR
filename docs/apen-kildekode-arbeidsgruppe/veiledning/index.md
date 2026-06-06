@@ -134,5 +134,18 @@ Her er de første grepene:
 
 Still krav om åpne, standardiserte grensesnitt (API-er) og dokumenterte dataformater i anskaffelser, og vurder hvor lett er det å komme seg ut igjen?
 
+Før publisering eller anskaffelse bør dere kunne svare på:
+
+- Hva er formålet med å åpne, bruke eller anskaffe åpen kildekode?
+- Hvilke deler av løsningen kan publiseres forsvarlig?
+- Er sikkerhet, personvern, taushetsplikt og nasjonale sikkerhetshensyn vurdert?
+- Er hemmeligheter og sensitiv informasjon fjernet fra kode og historikk?
+- Er lisens valgt og dokumentert?
+- Er eierskap og forvaltningsansvar tydelig?
+- Finnes nødvendig dokumentasjon?
+- Er avhengigheter og tredjepartslisenser kartlagt?
+- Er det rutiner for sårbarheter og oppdateringer?
+- Ved anskaffelse: gir avtalen reell mulighet til innsyn, videreutvikling, datatilgang og leverandørbytte?
+
 (oppdatere tekst - Fiskeridirektoratet/UiO) 
 
