@@ -145,7 +145,7 @@ Her er de første grepene:
 **Håndter lisenser tidlig**. Velg én standardlisens for nye prosjekter (for eksempel MIT, Apache 2.0 eller EUPL 1.2), og etabler en rutine for å scanne og dokumentere tredjepartslisenser automatisk i byggeprosessen.<br>
 **Sett en minimumsstandard for dokumentasjon**. README med formål, installasjon og bruk; CONTRIBUTING med bidragsregler; LICENSE-fil; og en enkel arkitekturbeskrivelse. Bruk dette som sjekkliste før publisering.<br>
 **Bygg sikkerhet inn i prosessen**. Aktiver automatisk sårbarhetsskanning i alle repositorier, og etabler en fast rutine for å vurdere og oppgradere avhengigheter. Husk: hemmeligheter som nøkler, passord og tokens skal aldri publiseres, og kode må saneres før den åpnes.<br>
-**Plassér ansvaret tydelig**. Hvem eier beslutninger om koden, hvem følger opp sikkerhet, og hvem svarer eksterne bidragsytere? Rollene kan være deltid og kombineres i små team, men de må være navngitte og kjente.<br>
+**Plasser ansvaret tydelig**. Hvem eier beslutninger om koden, hvem følger opp sikkerhet, og hvem svarer eksterne bidragsytere? Rollene kan være deltid og kombineres i små team, men de må være navngitte og kjente.<br>
 **For å lykkes med gjenbruk og samskaping**  krevers både aktiv forvaltning, kvalitetssikring og kontinuerlig forbedring. Dette forutsetter kapasitet, engasjement og kontinuerlig utvikling. Kapasitet må brukes på å skape en god utvikleropplevelse for de som tar i koden i bruk eller som ønsker å bidra. Dette gjøres ved å ha åpne kanaler og prosesser for å ta imot forslag, kodebidrag, dokumentasjon, og feilhandtering.<br>
 
 Still krav om åpne, standardiserte grensesnitt (API-er) og dokumenterte dataformater i anskaffelser, og vurder hvor lett er det å komme seg ut igjen?
