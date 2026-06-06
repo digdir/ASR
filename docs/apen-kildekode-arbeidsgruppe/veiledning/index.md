@@ -37,8 +37,7 @@ Dette er også bakgrunnen for at EU, NIST og OpenSSF arbeider med krav og standa
 
 ## Virkninger
 
-Digitale løsninger i offentlig sektor har ofte lang levetid – gjerne 10–20  
-år – og det er gjennom hele denne livssyklusen, ikke bare ved anskaffelsen, at kostnadene og risikoen faktisk påløper.
+Digitale løsninger i offentlig sektor har ofte lang levetid – gjerne 10–20 år – og det er gjennom hele denne livssyklusen, ikke bare ved anskaffelsen, at kostnadene og risikoen faktisk påløper.
 
 Med proprietær programvare er du prisgitt leverandørens valg gjennom hele løpet: når produktet videreutvikles, når det avvikles («end of life»), hvilke priser som gjelder ved fornyelse, og om du i det hele tatt får migrert dataene dine ut når avtalen tar slutt. Blir leverandøren kjøpt opp, endrer strategi eller går konkurs, kan en kritisk tjeneste stå uten vedlikehold over natten.
 
@@ -97,7 +96,18 @@ valg, men også et strategisk valg forankret i øverste ledelse.
 
 ## Første steg: slik kommer dere i gang
 
-Åpen kildekode er ikke et prosjekt med en startdato og en sluttdato – det er en arbeidsform som modnes over tid. Du trenger ikke å gjøre alt på én gang, men du bør starte et sted. Her er de første grepene:
+Åpen kildekode er ikke et prosjekt med en startdato og en sluttdato – det er en arbeidsform som modnes over tid. Du trenger ikke å gjøre alt på én gang, men du bør starte et sted. 
+
+For at gjenbruk skal fungere i praksis bør virksomheten:
+
+- skille tydelig mellom det som er generisk (og dermed gjenbrukbart) og det som er lokalt tilpasset
+- publisere med åpen lisens og dokumentasjon som gjør løsningen mulig å ta i bruk for andre
+- gjøre løsningen synlig der andre leter – for eksempel gjennom felles kataloger og oversikter over offentlige åpne prosjekter
+
+Start der dere er. Har dere allerede kode som kan deles? Begynn med å publisere én komponent åpent for å teste prosessen, eller med å etablere oversikt over avhengighetene deres. Lær underveis, og se på hva andre offentlige virksomheter gjør – flere har delt både kode og erfaringer åpent. (oppdatere tekst - Fiskeridirektoratet/UiO)
+
+## Sjekkliste før publisering eller anskaffelse
+Her er de første grepene:
 
 1. Avklar hva dere vil oppnå. Skal koden deles for transparens, ønsker dere aktive bidrag fra andre, eller er målet intern gjenbruk på tvers av team? Skriv målet ned i én setning, det blir rettesnoren for valg av lisens, dokumentasjonsnivå og forvaltningsmodell.
 2. Få oversikt over det dere allerede bruker. De fleste løsningene deres er allerede bygget på åpen kildekode gjennom leverandørene. Skaff oversikt over hvilke åpne komponenter dere er avhengige av, det er en forutsetning for å håndtere både sikkerhet og lisenser.
@@ -109,15 +119,8 @@ valg, men også et strategisk valg forankret i øverste ledelse.
 
 Praktisk råd: Still krav om åpne, standardiserte grensesnitt (API-er) og dokumenterte dataformater i anskaffelser, og vurder hvor lett er det å komme seg ut igjen?
 
-For at gjenbruk skal fungere i praksis bør virksomheten:
 
-- skille tydelig mellom det som er generisk (og dermed gjenbrukbart) og det som er lokalt tilpasset
-- publisere med åpen lisens og dokumentasjon som gjør løsningen mulig å ta i bruk for andre
-- gjøre løsningen synlig der andre leter – for eksempel gjennom felles kataloger og oversikter over offentlige åpne prosjekter
 
-Start der dere er. Har dere allerede kode som kan deles? Begynn med å publisere én komponent åpent for å teste prosessen, eller med å etablere oversikt over avhengighetene deres. Lær underveis, og se på hva andre offentlige virksomheter gjør – flere har delt både kode og erfaringer åpent. (oppdatere tekst - Fiskeridirektoratet/UiO)
-
-## Sjekkliste før publisering eller anskaffelse
 
 # Ny struktur 
 
