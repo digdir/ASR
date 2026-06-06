@@ -16,12 +16,24 @@ Dette er også bakgrunnen for at EU, NIST og OpenSSF arbeider med krav og standa
 
 Åpen kildekode innebærer at brukeren får innsyn i hvordan programvaren fungerer, og følgelig kan rette feil og gjøre forbedringer eller få noen andre til å gjøre dette for seg. Brukeren kan være et firma eller privatperson og kan eventuelt betale programvareutviklere for å skreddersy programvaren til sin bruk. Den forbedrede programvaren kan deles tilbake til offentligheten, og ideen er at det på denne måten vokser frem et «økosystem» av kvalitetssikret programvare som en fellesressurs. (oppdatere tekst Hdir)
 
-## Tre valg alle offentlige virksomheter må ta
-### 1. Bruke: Hva bygger dere på?
-### 2. Dele: Hva kan andre gjenbruke?
-### 3. Bidra: Hva er dere avhengige av at andre vedlikeholder?
+## Tre vurderinger offentlige virksomheter må ta
+### 1. Bruke: 
+Virksomheten bør ha oversikt over hvilke åpne komponenter, rammeverk og plattformer den allerede bruker. Det gjelder både løsninger dere utvikler selv, og løsninger dere kjøper fra leverandører.
+
+Å bruke åpen kildekode ansvarlig handler om mer enn å velge en teknologi. Dere bør vite hvilke avhengigheter løsningen har, hvilke lisenser som gjelder, hvordan sårbarheter følges opp, og om løsningen kan videreutvikles eller flyttes ved behov.
+
+### 2. Dele: 
+Når programvare utvikles for offentlige midler, bør virksomheten vurdere om koden kan publiseres åpent. Målet er ikke å åpne alt ukritisk, men å åpne så mye som mulig innenfor det som er forsvarlig.
+
+Kode som deles bør være mulig å forstå, vurdere og ta i bruk. Det krever tydelig lisens, dokumentasjon, kontaktpunkt og avklart ansvar for videre forvaltning.
+
+### 3. Bidra: 
+Offentlig sektor er avhengig av åpne prosjekter som ofte vedlikeholdes av små miljøer. Hvis slike prosjekter svekkes eller forsvinner, kan det ramme mange offentlige tjenester samtidig.
+
+Å bidra kan handle om mer enn kode. Det kan være feilretting, dokumentasjon, testing, sikkerhetsarbeid, finansiering, deltakelse i fagmiljøer eller at ansatte får tid til å bidra til prosjekter virksomheten er avhengig av.
 
 ## Hva får dere igjen?
+
 ### Mer kontroll over livsløpet
 Digitale løsninger i offentlig sektor har ofte lang levetid – gjerne 10–20 år – og det er gjennom hele denne livssyklusen, ikke bare ved anskaffelsen, at kostnadene og risikoen faktisk påløper.
 
@@ -52,6 +64,7 @@ Gjenbruk er ikke bare god ressursbruk for den enkelte virksomhet; det er en samf
 Åpen kildekode blir mer og mer vesentlig sett i lys av KI-drevet utvikling. En åpen kodebase er nærmest en forutsetning både for å gjøre det som lages etterprøvbart, forklarbart og for å kunne bruke KI-verktøy til kontinuerlig utvikling og forbedring. Dette fordi det er viktig med åpenhet og sporbarhet for hva KI-programvare som hjelper utvikleren med koding, testing, og dokumentasjon faktisk gjør, og fordi velregulert tilgang og definerte prosesser som åpen kildekode legger til rette for gir økt forklarbarhet rundt dette. 
 
 ### Sterkere digital beredskap
+Åpen kildekode kan redusere sårbarhet ved at virksomheten ikke er like bundet til lukkede løsninger, enkeltleverandører eller utilgjengelig kompetanse. Det gir større handlefrihet ved teknologiske, økonomiske eller geopolitiske endringer.
 
 ## Hva må dere ha kontroll på?
 
@@ -63,13 +76,16 @@ Før kode publiseres må repository, dokumentasjon og historikk gjennomgås. Hem
 Virksomheten bør bruke automatiserte verktøy for å oppdage sårbarheter, lisensutfordringer og hemmeligheter i kodebasen. Det bør også være tydelig hvordan eksterne kan melde fra om sikkerhetsproblemer.
 
 ### Lisenser og rettigheter
+Virksomheten må vite hvilke rettigheter og plikter som følger med åpen kildekode den bruker. Kode som publiseres bør ha en tydelig lisens, og lisensvalg bør avklares tidlig.
 
 ### Dokumentasjon og forvaltning
+Kode som deles uten dokumentasjon, lisens eller kontaktpunkt er vanskelig å gjenbruke. Et åpent repository bør minst ha README, LICENSE, informasjon om eierskap og en enkel beskrivelse av hvordan løsningen bygges, testes og forvaltes.
 
 ### Roller og ansvar
+Det må være tydelig hvem som eier koden, hvem som kan godkjenne endringer, hvem som følger opp feil og sårbarheter, og hvem som svarer på spørsmål eller bidrag utenfra.x|    
 
 ### Kostnader over tid
-
+Åpen kildekode er ikke gratis å forvalte. Drift, sikkerhet, oppgraderinger, dokumentasjon og vedlikehold krever kapasitet. Gevinsten er at kostnadene blir mer synlige og at virksomheten får større kontroll over dem.
 
 (Norstella - leverandørperspektiv)
 
