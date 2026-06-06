@@ -56,6 +56,11 @@ Gjenbruk er ikke bare god ressursbruk for den enkelte virksomhet; det er en samf
 ## Hva må dere ha kontroll på?
 
 ### Sikkerhet og sårbarheter
+Åpenhet kan styrke sikkerheten, men bare dersom virksomheten har gode rutiner.
+
+Før kode publiseres må repository, dokumentasjon og historikk gjennomgås. Hemmeligheter, tilgangsnøkler, passord, tokens, personopplysninger og sensitiv konfigurasjon skal ikke publiseres.
+
+Virksomheten bør bruke automatiserte verktøy for å oppdage sårbarheter, lisensutfordringer og hemmeligheter i kodebasen. Det bør også være tydelig hvordan eksterne kan melde fra om sikkerhetsproblemer.
 
 ### Lisenser og rettigheter
 
@@ -102,7 +107,11 @@ valg, men også et strategisk valg forankret i øverste ledelse.
 
 ## Første steg: slik kommer dere i gang
 
-Åpen kildekode er ikke et prosjekt med en startdato og en sluttdato – det er en arbeidsform som modnes over tid. Du trenger ikke å gjøre alt på én gang. Start der dere er. Har dere allerede kode som kan deles? Begynn med å publisere én komponent åpent for å teste prosessen, eller med å etablere oversikt over avhengighetene deres. Lær underveis, og se på hva andre offentlige virksomheter gjør – flere har delt både kode og erfaringer åpent. (oppdatere tekst - Fiskeridirektoratet/UiO) 
+Åpen kildekode er ikke et prosjekt med en startdato og en sluttdato – det er en arbeidsform som modnes over tid. Du trenger ikke å gjøre alt på én gang. Start der dere er. Velg én løsning, ett repository eller én anskaffelse der åpen kildekode kan vurderes. Bruk arbeidet til å etablere en enkel praksis for lisens, dokumentasjon, sikkerhet, ansvar og publisering.
+
+Deretter kan virksomheten gradvis bygge modenhet: først oversikt over hva dere bruker, så rutiner for trygg bruk og publisering, og etter hvert mer aktiv gjenbruk, samarbeid og bidrag til prosjekter dere er avhengige av.
+
+Lær underveis, og se på hva andre offentlige virksomheter gjør – flere har delt både kode og erfaringer åpent.
 
 For at gjenbruk skal fungere i praksis bør virksomheten:
 
@@ -110,7 +119,7 @@ For at gjenbruk skal fungere i praksis bør virksomheten:
 - publisere med åpen lisens og dokumentasjon som gjør løsningen mulig å ta i bruk for andre
 - gjøre løsningen synlig der andre leter – for eksempel gjennom felles kataloger og oversikter over offentlige åpne prosjekter
 
-
+(oppdatere tekst - Fiskeridirektoratet/UiO) 
 
 ## Sjekkliste før publisering eller anskaffelse
 Her er de første grepene:
@@ -125,32 +134,5 @@ Her er de første grepene:
 
 Still krav om åpne, standardiserte grensesnitt (API-er) og dokumenterte dataformater i anskaffelser, og vurder hvor lett er det å komme seg ut igjen?
 
+(oppdatere tekst - Fiskeridirektoratet/UiO) 
 
-
-
-# Ny struktur 
-
-## Hvorfor skal du bry deg?
-## Hva mener vi med åpen kildekode?
-## Tre valg alle offentlige virksomheter må ta
-### 1. Bruke: Hva bygger dere på?
-### 2. Dele: Hva kan andre gjenbruke?
-### 3. Bidra: Hva er dere avhengige av at andre vedlikeholder?
-
-## Hva får dere igjen?
-### Mer kontroll over livsløpet
-### Mindre leverandørinnlåsing
-### Bedre gjenbruk på tvers
-### Mer etterprøvbare digitale tjenester
-### Sterkere digital beredskap
-
-## Hva må dere ha kontroll på?
-### Sikkerhet og sårbarheter
-### Lisenser og rettigheter
-### Dokumentasjon og forvaltning
-### Roller og ansvar
-### Kostnader over tid
-
-## Hvor modne er dere?
-## Første steg: slik kommer dere i gang
-## Sjekkliste før publisering eller anskaffelse
