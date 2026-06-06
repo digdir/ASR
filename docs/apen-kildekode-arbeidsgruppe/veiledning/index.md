@@ -140,13 +140,13 @@ For at gjenbruk skal fungere i praksis bør virksomheten:
 ## Sjekkliste før publisering eller anskaffelse
 Her er de første grepene:
 
-**Avklar hva dere vil oppnå**. Skal koden deles for transparens, ønsker dere aktive bidrag fra andre, eller er målet intern gjenbruk på tvers av team? Skriv målet ned i én setning, det blir rettesnoren for valg av lisens, dokumentasjonsnivå og forvaltningsmodell.
-**Få oversikt over det dere allerede bruker**. De fleste løsningene deres er allerede bygget på åpen kildekode gjennom leverandørene. Skaff oversikt over hvilke åpne komponenter dere er avhengige av, det er en forutsetning for å håndtere både sikkerhet og lisenser.
-**Håndter lisenser tidlig**. Velg én standardlisens for nye prosjekter (for eksempel MIT, Apache 2.0 eller EUPL 1.2), og etabler en rutine for å scanne og dokumentere tredjepartslisenser automatisk i byggeprosessen.
-**Sett en minimumsstandard for dokumentasjon**. README med formål, installasjon og bruk; CONTRIBUTING med bidragsregler; LICENSE-fil; og en enkel arkitekturbeskrivelse. Bruk dette som sjekkliste før publisering.
-**Bygg sikkerhet inn i prosessen**. Aktiver automatisk sårbarhetsskanning i alle repositorier, og etabler en fast rutine for å vurdere og oppgradere avhengigheter. Husk: hemmeligheter som nøkler, passord og tokens skal aldri publiseres, og kode må saneres før den åpnes.
-**Plassér ansvaret tydelig**. Hvem eier beslutninger om koden, hvem følger opp sikkerhet, og hvem svarer eksterne bidragsytere? Rollene kan være deltid og kombineres i små team, men de må være navngitte og kjente.
-**For å lykkes med gjenbruk og samskaping**  krevers både aktiv forvaltning, kvalitetssikring og kontinuerlig forbedring. Dette forutsetter kapasitet, engasjement og kontinuerlig utvikling. Kapasitet må brukes på å skape en god utvikleropplevelse for de som tar i koden i bruk eller som ønsker å bidra. Dette gjøres ved å ha åpne kanaler og prosesser for å ta imot forslag, kodebidrag, dokumentasjon, og feilhandtering.
+**Avklar hva dere vil oppnå**. Skal koden deles for transparens, ønsker dere aktive bidrag fra andre, eller er målet intern gjenbruk på tvers av team? Skriv målet ned i én setning, det blir rettesnoren for valg av lisens, dokumentasjonsnivå og forvaltningsmodell.<br>
+**Få oversikt over det dere allerede bruker**. De fleste løsningene deres er allerede bygget på åpen kildekode gjennom leverandørene. Skaff oversikt over hvilke åpne komponenter dere er avhengige av, det er en forutsetning for å håndtere både sikkerhet og lisenser.<br>
+**Håndter lisenser tidlig**. Velg én standardlisens for nye prosjekter (for eksempel MIT, Apache 2.0 eller EUPL 1.2), og etabler en rutine for å scanne og dokumentere tredjepartslisenser automatisk i byggeprosessen.<br>
+**Sett en minimumsstandard for dokumentasjon**. README med formål, installasjon og bruk; CONTRIBUTING med bidragsregler; LICENSE-fil; og en enkel arkitekturbeskrivelse. Bruk dette som sjekkliste før publisering.<br>
+**Bygg sikkerhet inn i prosessen**. Aktiver automatisk sårbarhetsskanning i alle repositorier, og etabler en fast rutine for å vurdere og oppgradere avhengigheter. Husk: hemmeligheter som nøkler, passord og tokens skal aldri publiseres, og kode må saneres før den åpnes.<br>
+**Plassér ansvaret tydelig**. Hvem eier beslutninger om koden, hvem følger opp sikkerhet, og hvem svarer eksterne bidragsytere? Rollene kan være deltid og kombineres i små team, men de må være navngitte og kjente.<br>
+**For å lykkes med gjenbruk og samskaping**  krevers både aktiv forvaltning, kvalitetssikring og kontinuerlig forbedring. Dette forutsetter kapasitet, engasjement og kontinuerlig utvikling. Kapasitet må brukes på å skape en god utvikleropplevelse for de som tar i koden i bruk eller som ønsker å bidra. Dette gjøres ved å ha åpne kanaler og prosesser for å ta imot forslag, kodebidrag, dokumentasjon, og feilhandtering.<br>
 
 Still krav om åpne, standardiserte grensesnitt (API-er) og dokumenterte dataformater i anskaffelser, og vurder hvor lett er det å komme seg ut igjen?
 
