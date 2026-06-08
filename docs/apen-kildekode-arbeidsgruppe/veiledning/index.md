@@ -16,6 +16,9 @@ Dette er også bakgrunnen for at EU, NIST og OpenSSF arbeider med krav og standa
 
 Åpen kildekode innebærer at brukeren får innsyn i hvordan programvaren fungerer, og følgelig kan rette feil og gjøre forbedringer eller få noen andre til å gjøre dette for seg. Brukeren kan være et firma eller privatperson og kan eventuelt betale programvareutviklere for å skreddersy programvaren til sin bruk. Den forbedrede programvaren kan deles tilbake til offentligheten, og ideen er at det på denne måten vokser frem et «økosystem» av kvalitetssikret programvare som en fellesressurs. (oppdatere tekst Hdir)
 
+**Hva sier EU?**
+....
+
 ## Tre vurderinger offentlige virksomheter må ta
 ### 1. Bruke: 
 Virksomheten bør ha oversikt over hvilke åpne komponenter, rammeverk og plattformer den allerede bruker. Det gjelder både løsninger dere utvikler selv, og løsninger dere kjøper fra leverandører.
