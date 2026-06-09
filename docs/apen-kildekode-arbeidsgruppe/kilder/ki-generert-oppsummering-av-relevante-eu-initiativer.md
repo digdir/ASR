@@ -75,6 +75,10 @@ Kilder om anskaffelser og cybersikkerhet viser at gevinster uteblir hvis ikke kr
 
 OSOR, EU-katalogen og håndbøker gir allerede erfaringer, metoder og eksempler fra andre land. Det reduserer behovet for å starte fra null. Strategisk gevinst for Norge ligger i rask oversettelse av europeisk praksis til nasjonale prioriteringer.
 
+### Andre europeiske initiativer verdt å følge
+
+I tillegg til styrende EU-regelverk finnes det operative initiativer som kan gi rask læring. [Open Source Software in Public Administration Handbook](https://interoperable-europe.ec.europa.eu/sites/default/files/custom-page/attachment/2026-01/osor-handbook.pdf) er relevant som praktisk EU-veiledning for innføring i offentlig sektor. [Open Source Good Governance Handbook (OSPO Alliance)](https://ospo-alliance.org/docs/ggi_handbook_v1.3.pdf) er en nyttig modenhets- og styringsreferanse for roller, prosesser og tiltak. Andre nyttige spor er [OSOR sitt e-læringsløp for offentlige virksomheter](https://academy.europa.eu/local/euacademy/pages/course/community-overview.php?title=interoperable-europe-academy-community), [OSOR-rapporten om strategier for å øke gjenbruk av åpen kildekode](https://interoperable-europe.ec.europa.eu/collection/open-source-observatory-osor/news/report-strategies-boost-open-source-reuse), samt nordiske erfaringer fra [Sverige 2026 Country Report](https://interoperable-europe.ec.europa.eu/collection/open-source-observatory-osor/news/sweden-2026-country-report), [Finlands anskaffelsesguide for kommuner](https://interoperable-europe.ec.europa.eu/collection/open-source-observatory-osor/document/facilitating-open-source-procurement-local-level-case-study-open-source-procurement-guide-finnish) og [Danmarks pilotering av LibreOffice](https://interoperable-europe.ec.europa.eu/collection/open-source-observatory-osor/news/denmark-embraces-open-source-software).
+
 ## Forslag til hva vi bør følge tett neste 12 måneder
 
 1. Implementeringsspor for Interoperable Europe Act: hvilke konkrete krav, samarbeidsmekanismer og forventninger som treffer nasjonale myndigheter.
@@ -102,20 +106,26 @@ Et minimum for nasjonal retning kan være:
 
 ## Kildegrunnlag brukt i denne oppsummeringen
 
+### Styrende EU-kilder (policy og regelverk)
+
 - European Technological Sovereignty Package
 - Communication on European Tech Sovereignty, accompanied by an EU Open Source Strategy
 - Interoperable Europe Act
 - EU Open Source Strategy
+- AI Act (Regulation (EU) 2024/1689)
+- Proposal for the Cloud and AI Development Act (CADA)
+- Regulation (EU) 2024/2847
+- Digital Europe Programme
+
+### Operative støttekilder (praksis, veiledning og implementering)
+
 - Open Source Observatory (OSOR)
 - code.europa.eu
 - Commission boosts open and interoperable digital ecosystems for public administrations
-- AI Act (Regulation (EU) 2024/1689)
-- Proposal for the Cloud and AI Development Act (CADA)
 - EU Open Source Solutions Catalogue
-- Regulation (EU) 2024/2847
 - Overview of EU legislation for FOSS
-- Digital Europe Programme
 - Guideline on public procurement of Open Source Software
 - EUPL og Joinup Licensing Assistant
 - ADMS og DCAT-AP
 - Open Source Software in Public Administration Handbook
+- Open Source Good Governance Handbook (OSPO Alliance)
