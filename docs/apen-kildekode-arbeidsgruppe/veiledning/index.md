@@ -143,9 +143,9 @@ For mange virksomheter er det nyttig å starte i liten skala:
 - Sett av navngitt ansvar for oppfølging av sikkerhet, lisens og publisering.
 
 ## Sjekkliste for bruk, deling og bidrag
-Bruk sjekklisten under for å kvalitetssikre praktiske valg knyttet til bruk, deling og bidrag.
+Bruk sjekklisten under for å sikre at dere har det viktigste på plass for bruk, deling og bidrag.
 
-Før dere går inn i detaljspørsmålene, kan det være nyttig å sikre en enkel minimumspakke:
+Start med noen enkle grunnkrav før dere går videre til de mer konkrete punktene:
 
 - **Håndter lisenser tidlig:** avklar lisensvalg for egne leveranser og etabler en enkel rutine for tredjepartslisenser.
 - **Sett en minimumsstandard for dokumentasjon:** sørg for README, lisensfil, kontaktpunkt og kort beskrivelse av forvaltning.
