@@ -37,6 +37,7 @@ Brukes til praktiske retningslinjer, metodikk og innforing i hvordan apen kildek
 | Open Technology Fund - Projects We Support | Prosjektoversikt | Open Technology Fund | [Lenke](https://www.opentech.fund/projects-we-support/) | Viser finansierte open source-prosjekter med relevans for offentlig digital infrastruktur | Middels |
 | What is Open Source Software (OSS)? | Veiledning | Open Source Initiative | [Lenke](https://opensource.org/osd) | Grunnleggende definisjon og forståelse av åpen kildekode | Høy |
 | Be open and use open source | Veiledning | Gov.uk | [Lenke](https://www.gov.uk/guidance/be-open-and-use-open-source) | Praktisk veiledning om å bruke og dele åpen kildekode i offentlig sektor | Middels |
+| When code should be open or closed | Veiledning | Gov.uk | [Lenke](https://www.gov.uk/government/publications/open-source-guidance/when-code-should-be-open-or-closed) | Praktisk beslutningsstøtte for når kode bør være åpen eller lukket i offentlig sektor | Middels |
 | Code.gouv Free Software Unit | Veiledning / organisering | DINUM (Frankrike) | [Lenke](https://code.gouv.fr/en/) | Viser hvordan statlig enhet organiserer bruk og publisering av åpen kildekode i offentlig forvaltning | Høy |
 | NIST Secure Software Development Framework (SSDF) | Rammeverk | NIST | [Lenke](https://csrc.nist.gov/Projects/ssdf) | Relevant for sikker utviklingspraksis i bruk av åpen kildekode | Høy |
 | SLSA | Rammeverk | OpenSSF | [Lenke](https://slsa.dev/) | Relevant for leveransekjede og integritet i programvarebygging | Høy |
