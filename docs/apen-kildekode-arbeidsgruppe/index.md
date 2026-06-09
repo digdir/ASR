@@ -12,9 +12,9 @@ For offentlig sektor handler åpen kildekode ikke bare om teknologi. Det handler
 
 Hva betyr det for deg?
 
-- Open source er ikke lenger et alternativ på siden av styringsmodellen.
-- Deling, gjenbruk og bidrag blir en del av vurderingsgrunnlaget.
-- Virksomheter må vurdere hvordan de både kan bruke, dele og bidra tilbake.
+- EU forventer mer deling og gjenbruk av løsninger i offentlig sektor.
+- Krav til sikkerhet, dokumentasjon og anskaffelser blir viktigere når åpen kildekode brukes.
+- Virksomheten bør planlegge for både bruk, deling og bidrag tilbake.
 
 ## Hvorfor åpen kildekode
 
