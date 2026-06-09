@@ -47,7 +47,7 @@ Les om arbeidsgruppen og hvordan du kan bidra på siden [Om arbeidet](om-arbeide
   </a>
   <a class="ak-card" href="om-arbeidet/">
     <span class="ak-card__label">Arbeidsgruppe</span>
-    <strong>Mandat og prosess</strong>
+    <strong>Bakrunn og Om oss</strong>
     <span>Bakgrunn for arbeidet, hvem som deltar og hvordan kunnskapsgrunnlaget utvikles.</span>
   </a>
   <a class="ak-card" href="kilder/">
