@@ -77,26 +77,17 @@ Gjenbruk er ikke bare god ressursbruk for den enkelte virksomhet; det er en samf
 ### Sterkere digital beredskap
 Åpen kildekode kan redusere sårbarhet ved at virksomheten ikke er like bundet til lukkede løsninger, enkeltleverandører eller utilgjengelig kompetanse. Det gir større handlefrihet ved teknologiske, økonomiske eller geopolitiske endringer.
 
-## Hva må dere ha kontroll på?
+## Før dere starter: få kontroll på rammene
 
-### Sikkerhet og sårbarheter
-Åpenhet kan styrke sikkerheten, men bare dersom virksomheten har gode rutiner.
+Før dere går til praktiske valg om bruk, deling og bidrag, bør virksomheten ha kontroll på noen grunnleggende rammer:
 
-Før kode publiseres må repository, dokumentasjon og historikk gjennomgås. Hemmeligheter, tilgangsnøkler, passord, tokens, personopplysninger og sensitiv konfigurasjon skal ikke publiseres.
+- **Sikkerhet og sårbarheter:** etabler rutiner for å oppdage, håndtere og følge opp sårbarheter og eksponerte hemmeligheter.
+- **Lisenser og rettigheter:** avklar lisensvalg tidlig, og ha oversikt over plikter knyttet til komponentene dere bruker.
+- **Dokumentasjon og forvaltning:** sørg for minimumsnivå for README, lisens, kontaktpunkt og enkel forvaltningsbeskrivelse.
+- **Roller og ansvar:** gjør det tydelig hvem som eier koden, godkjenner endringer og følger opp feil, bidrag og sikkerhet.
+- **Kostnader over tid:** planlegg for drift, vedlikehold, sikkerhetsoppdateringer og kompetanse, ikke bare oppstart.
 
-Virksomheten bør bruke automatiserte verktøy for å oppdage sårbarheter, lisensutfordringer og hemmeligheter i kodebasen. Det bør også være tydelig hvordan eksterne kan melde fra om sikkerhetsproblemer.
-
-### Lisenser og rettigheter
-Virksomheten må vite hvilke rettigheter og plikter som følger med åpen kildekode den bruker. Kode som publiseres bør ha en tydelig lisens, og lisensvalg bør avklares tidlig.
-
-### Dokumentasjon og forvaltning
-Kode som deles uten dokumentasjon, lisens eller kontaktpunkt er vanskelig å gjenbruke. Et åpent repository bør minst ha README, LICENSE, informasjon om eierskap og en enkel beskrivelse av hvordan løsningen bygges, testes og forvaltes.
-
-### Roller og ansvar
-Det må være tydelig hvem som eier koden, hvem som kan godkjenne endringer, hvem som følger opp feil og sårbarheter, og hvem som svarer på spørsmål eller bidrag utenfra.
-
-### Kostnader over tid
-Åpen kildekode er ikke gratis å forvalte. Drift, sikkerhet, oppgraderinger, dokumentasjon og vedlikehold krever kapasitet. Gevinsten er at kostnadene blir mer synlige og at virksomheten får større kontroll over dem.
+Når disse rammene er på plass, blir det enklere å gå fra ambisjon til praktisk gjennomføring.
 
 (Norstella - leverandørperspektiv)
 
@@ -134,13 +125,13 @@ valg, men også et strategisk valg forankret i øverste ledelse.
 
 ## Første steg: slik kommer dere i gang
 
-Åpen kildekode er ikke et prosjekt med start og slutt, men en arbeidsform som modnes over tid. Dere trenger ikke gjøre alt samtidig. Start med ett avgrenset område, for eksempel én løsning, ett repository eller én anskaffelse.
+Åpen kildekode er ikke et prosjekt med start og slutt, men en arbeidsform som modnes over tid. Dere trenger ikke gjøre alt samtidig. Start med ett avgrenset område, for eksempel én løsning eller ett repository.
 
-Et praktisk utgangspunkt er å jobbe i tre spor:
+Etter at rammene over er avklart, er et praktisk utgangspunkt å jobbe i tre spor:
 
 - **Bruke:** få oversikt over avhengigheter, lisenser og sårbarheter i det dere allerede er avhengige av.
 - **Dele:** velg én konkret kandidat for publisering, og avklar lisens, dokumentasjon og forvaltningsansvar.
-- **Bidra:** avklar hvordan virksomheten kan bidra tilbake på en realistisk måte, og hvordan anskaffelser kan støtte åpenhet og gjenbruk.
+- **Bidra:** avklar hvordan virksomheten kan bidra tilbake på en realistisk måte, for eksempel med kode, dokumentasjon, testing eller finansiering.
 
 Lær underveis, og bruk erfaringer fra andre offentlige virksomheter som allerede har delt kode og praksis åpent.
 
