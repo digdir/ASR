@@ -5,12 +5,6 @@ title: Kilder
 
 Denne delen samler relevante kilder for arbeidsgruppen. Se [totaloversikt – Kildeliste](https://digdir.github.io/ASR/apen-kildekode-arbeidsgruppe/kilder/kildeliste.html) for alle kilder.
 
-## Hva som kan ligge her
-
-- lenker til veiledere, analyser, strategier og nyheter
-- referanser til nasjonale og internasjonale initiativer
-- kilder om finansiering, bidrag og forvaltning av åpen kildekode
-
 ## Hovedseksjoner
 
 - [Veiledning og praksis]({{ '/apen-kildekode-arbeidsgruppe/kilder/kildeliste.html#veiledning-og-praksis' | relative_url }})
@@ -19,13 +13,18 @@ Denne delen samler relevante kilder for arbeidsgruppen. Se [totaloversikt – Ki
 - [Eksempler og referanseprosjekter]({{ '/apen-kildekode-arbeidsgruppe/kilder/kildeliste.html#eksempler-og-referanseprosjekter' | relative_url }})
 - [Rapporter og analyser]({{ '/apen-kildekode-arbeidsgruppe/kilder/kildeliste.html#rapporter-og-analyser' | relative_url }})
 
-## Lenker
+## KI-genererte dokumenter basert på kilder
 
-- [Kildeliste]({{ '/apen-kildekode-arbeidsgruppe/kilder/kildeliste.html' | relative_url }})
 - [Utkast omskriving av NAV-veiledning]({{ '/apen-kildekode-arbeidsgruppe/kilder/utkast-omskriving-av-nav-veiledning.html' | relative_url }})
 - [KI-sammendrag om veiledning]({{ '/apen-kildekode-arbeidsgruppe/kilder/ki-sammendrag-veiledning.html' | relative_url }})
 - [KI-sammendrag om tilskudd og bidrag]({{ '/apen-kildekode-arbeidsgruppe/kilder/ki-sammendrag-tilskudd-og-bidrag.html' | relative_url }})
 - [KI-generert oppsummering av relevante EU initiativer]({{ '/apen-kildekode-arbeidsgruppe/kilder/ki-generert-oppsummering-av-relevante-eu-initiativer.html' | relative_url }})
+
+## Hva som kan ligge her
+
+- lenker til veiledere, analyser, strategier og nyheter
+- referanser til nasjonale og internasjonale initiativer
+- kilder om finansiering, bidrag og forvaltning av åpen kildekode
 
 ## Hvordan vi bruker siden
 
