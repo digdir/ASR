@@ -36,6 +36,17 @@ Analysen prioriterer initiativer som mest direkte påvirker åpen kildekode, int
 | 11 | [DCAT-AP](https://interoperable-europe.ec.europa.eu/collection/semic-support-centre/solution/dcat-application-profile-data-portals-europe) + [ADMS](https://joinup.ec.europa.eu/collection/semantic-interoperability-community-semic/solution/asset-description-metadata-schema-adms) | Middels/høy | Høy | Viktige for metadata, katalogisering og oppdagbarhet av felles ressurser. Lite synlige politisk, men avgjørende for praktisk gjenbruk i stor skala. |
 | 12 | [Open Source Software in Public Administration Handbook](https://interoperable-europe.ec.europa.eu/sites/default/files/custom-page/attachment/2026-01/osor-handbook.pdf) | Middels | Middels | Ikke regelverk, men et viktig modenhetsgrunnlag som kan oversettes til nasjonal veiledning, roller og praktiske minimumskrav. |
 
+## Hvordan topp 4 henger sammen
+
+De fire høyest prioriterte initiativene virker på ulike nivåer og bør leses samlet:
+
+1. Interoperable Europe Act setter juridiske rammer for samhandling og gjenbruk i offentlig sektor.
+2. European Technological Sovereignty Package setter overordnet politisk retning for digital autonomi.
+3. EU Open Source Strategy konkretiserer hvordan åpen kildekode skal brukes som virkemiddel i denne retningen.
+4. AI Act setter bindende krav til risikostyring, ansvar og etterlevelse for KI-systemer.
+
+Kort sagt: pakken (2) setter retning, forordningene (1 og 4) setter rammer, og strategien (3) beskriver gjennomføring for åpen kildekode.
+
 ## Hvorfor disse er viktigst nå
 
 ### 1. EU flytter åpen kildekode fra teknisk tema til styrings- og samhandlingspolitikk
