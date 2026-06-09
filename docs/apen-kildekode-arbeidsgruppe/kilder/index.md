@@ -31,3 +31,4 @@ Denne delen samler relevante kilder for arbeidsgruppen.
 - [Utkast omskriving av NAV-veiledning]({{ '/apen-kildekode-arbeidsgruppe/kilder/utkast-omskriving-av-nav-veiledning.html' | relative_url }})
 - [KI-sammendrag om veiledning]({{ '/apen-kildekode-arbeidsgruppe/kilder/ki-sammendrag-veiledning.html' | relative_url }})
 - [KI-sammendrag om tilskudd og bidrag]({{ '/apen-kildekode-arbeidsgruppe/kilder/ki-sammendrag-tilskudd-og-bidrag.html' | relative_url }})
+- [KI-generert oppsummering av relevante EU initiativer]({{ '/apen-kildekode-arbeidsgruppe/kilder/ki-generert-oppsummering-av-relevante-eu-initiativer.html' | relative_url }})

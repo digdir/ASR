@@ -1,4 +1,4 @@
----
+﻿---
 layout: default
 title: KI-sammendrag veiledning
 description: KI-oppsummering av veiledning i åpen kildekode for offentlig sektor
@@ -139,3 +139,4 @@ Denne teksten bygger på et bredt sett av norske og internasjonale kilder:
 - Interoperable Europe Act  
 - EU Open Source Observatory (OSOR)  
 - EU Open Source Strategy
+

@@ -1,4 +1,4 @@
----
+﻿---
 layout: default
 title: KI-sammendrag tilskudd og bidrag
 description: KI-oppsummering av finansiering og bidrag for åpen kildekode
