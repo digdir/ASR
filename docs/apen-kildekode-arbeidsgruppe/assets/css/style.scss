@@ -191,6 +191,16 @@ a:focus {
   max-width: min(100%, 50rem);
 }
 
+.ak-figure--compact img {
+  max-width: min(100%, 22rem);
+}
+
+.ak-figure--compact figcaption {
+  max-width: 30rem;
+  margin: 0.5rem auto 0;
+  font-size: 1rem;
+}
+
 .ak-card-grid {
   display: grid;
   grid-template-columns: repeat(4, minmax(0, 1fr));

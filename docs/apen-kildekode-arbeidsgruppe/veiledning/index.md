@@ -17,23 +17,31 @@ Dette er også bakgrunnen for at EU, NIST og OpenSSF arbeider med krav og standa
 Åpen kildekode innebærer at brukeren får innsyn i hvordan programvaren fungerer, og følgelig kan rette feil og gjøre forbedringer eller få noen andre til å gjøre dette for seg. Brukeren kan være et firma eller privatperson og kan eventuelt betale programvareutviklere for å skreddersy programvaren til sin bruk. Den forbedrede programvaren kan deles tilbake til offentligheten, og ideen er at det på denne måten vokser frem et «økosystem» av kvalitetssikret programvare som en fellesressurs. (oppdatere tekst Hdir)
 
 **Hva sier EU?**
-....
+EU løfter åpen kildekode fram som et virkemiddel for interoperabilitet, digital suverenitet og bedre gjenbruk i offentlig sektor. Med føringer gjennom blant annet Interoperable Europe Act, EU Open Source Strategy og relaterte initiativer blir det viktigere å jobbe systematisk med både bruk, deling og bidrag tilbake.
 
-## Tre vurderinger offentlige virksomheter må ta
-### 1. Bruke: 
-Virksomheten bør ha oversikt over hvilke åpne komponenter, rammeverk og plattformer den allerede bruker. Det gjelder både løsninger dere utvikler selv, og løsninger dere kjøper fra leverandører.
+## Tre anbefalinger til offentlige virksomheter
 
-Å bruke åpen kildekode ansvarlig handler om mer enn å velge en teknologi. Dere bør vite hvilke avhengigheter løsningen har, hvilke lisenser som gjelder, hvordan sårbarheter følges opp, og om løsningen kan videreutvikles eller flyttes ved behov.
+Arbeidsgruppen anbefaler tre grep som kan styrke offentlig sektors handlingsrom og redusere sårbarhet over tid.
 
-### 2. Dele: 
-Når programvare utvikles for offentlige midler, bør virksomheten vurdere om koden kan publiseres åpent. Målet er ikke å åpne alt ukritisk, men å åpne så mye som mulig innenfor det som er forsvarlig.
+<figure class="ak-figure ak-figure--compact">
+  <img src="../assets/img/prinsippmodell.svg" alt="Modell med tre anbefalinger: bruke, dele og bidra. Sammen styrker de en åpen digital grunnmur.">
+  <figcaption>Figur: Tre anbefalinger for åpen kildekode i offentlig sektor.</figcaption>
+</figure>
 
-Kode som deles bør være mulig å forstå, vurdere og ta i bruk. Det krever tydelig lisens, dokumentasjon, kontaktpunkt og avklart ansvar for videre forvaltning.
+### Bruke: Åpen kildekode som foretrukket valg
+Ved nye anskaffelser og utviklingsløp bør åpen kildekode velges der det er mulig og gir ønsket kvalitet. Dette gjelder både løsninger dere bygger selv og løsninger dere kjøper.
 
-### 3. Bidra: 
-Offentlig sektor er avhengig av åpne prosjekter som ofte vedlikeholdes av små miljøer. Hvis slike prosjekter svekkes eller forsvinner, kan det ramme mange offentlige tjenester samtidig.
+Gevinsten er særlig økt endringsevne: åpne løsninger og åpne standarder gjør det lettere å bytte komponenter og leverandører uten å starte på nytt.
 
-Å bidra kan handle om mer enn kode. Det kan være feilretting, dokumentasjon, testing, sikkerhetsarbeid, finansiering, deltakelse i fagmiljøer eller at ansatte får tid til å bidra til prosjekter virksomheten er avhengig av.
+### Dele: Åpent som standard
+Programvare utviklet for offentlige midler bør som hovedregel publiseres med åpen lisens. Målet er å åpne så mye som mulig innenfor det som er forsvarlig.
+
+Åpen deling gir mer innsyn, bedre etterprøvbarhet og bedre grunnlag for gjenbruk på tvers av virksomheter.
+
+### Bidra: Sikre den digitale grunnmuren
+Offentlig sektor er avhengig av åpne prosjekter som ofte vedlikeholdes av små miljøer. Når kritiske prosjekter svekkes, øker risikoen for mange tjenester samtidig.
+
+Bidrag kan være kode, dokumentasjon, testing og deltakelse i fagmiljø, men finansiering er ofte særlig viktig for å sikre vedlikehold og sikkerhetsoppdateringer over tid.
 
 ## Hva får dere igjen?
 
