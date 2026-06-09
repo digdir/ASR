@@ -21,7 +21,7 @@ Analysen prioriterer initiativer som mest direkte påvirker åpen kildekode, int
 
 ## Rangert oversikt
 
-| Rang | Initiativ | Relevans for åpen kildekode | Modenhet | Min vurdering |
+| Rang | Initiativ | Relevans for åpen kildekode | Modenhet | Vurdering |
 | ---: | --- | --- | --- | --- |
 | 1 | [Interoperable Europe Act](https://eur-lex.europa.eu/eli/reg/2024/903/oj) | Svært høy | Høy (vedtatt, i innføring) | Mest styrende for offentlig sektor fordi den knytter samhandling, gjenbruk og fellesløsninger tettere sammen på tvers av land og forvaltningsnivå. |
 | 2 | [European Technological Sovereignty Package](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1187) | Svært høy | Middels | Setter overordnet politisk retning og samler sentrale initiativer for sky, KI, åpen kildekode og halvledere i én strategisk ramme. |
@@ -36,16 +36,30 @@ Analysen prioriterer initiativer som mest direkte påvirker åpen kildekode, int
 | 11 | [DCAT-AP](https://interoperable-europe.ec.europa.eu/collection/semic-support-centre/solution/dcat-application-profile-data-portals-europe) + [ADMS](https://joinup.ec.europa.eu/collection/semantic-interoperability-community-semic/solution/asset-description-metadata-schema-adms) | Middels/høy | Høy | Viktige for metadata, katalogisering og oppdagbarhet av felles ressurser. Lite synlige politisk, men avgjørende for praktisk gjenbruk i stor skala. |
 | 12 | [Open Source Software in Public Administration Handbook](https://interoperable-europe.ec.europa.eu/sites/default/files/custom-page/attachment/2026-01/osor-handbook.pdf) | Middels | Middels | Ikke regelverk, men et viktig modenhetsgrunnlag som kan oversettes til nasjonal veiledning, roller og praktiske minimumskrav. |
 
-## Hvordan topp 4 henger sammen
+## Hvordan topp 3 henger sammen
 
-De fire høyest prioriterte initiativene virker på ulike nivåer og bør leses samlet:
+De tre høyest prioriterte initiativene virker på ulike nivåer og bør leses samlet:
 
 1. Interoperable Europe Act setter juridiske rammer for samhandling og gjenbruk i offentlig sektor.
 2. European Technological Sovereignty Package setter overordnet politisk retning for digital autonomi.
 3. EU Open Source Strategy konkretiserer hvordan åpen kildekode skal brukes som virkemiddel i denne retningen.
-4. AI Act setter bindende krav til risikostyring, ansvar og etterlevelse for KI-systemer.
 
-Kort sagt: pakken (2) setter retning, forordningene (1 og 4) setter rammer, og strategien (3) beskriver gjennomføring for åpen kildekode.
+Kort sagt: pakken (2) setter retning, forordningen (1) setter juridiske rammer, og strategien (3) beskriver gjennomføring for åpen kildekode.
+
+Tiltak med høy relevans som følger etter topp 3 (nr. 4-9):
+
+- **Nr. 4 AI Act:** setter bindende krav for risikostyring, dokumentasjon og ansvar ved bruk av KI-systemer. For åpen kildekode betyr dette økte forventninger til sporbarhet, modell- og datadokumentasjon og tydelig rollefordeling mellom den som utvikler, integrerer og drifter løsningen.
+- **Nr. 5 Regulation (EU) 2024/2847:** skjerper krav til sikkerhet og etterlevelse i programvare og digitale produkter. I åpen-kildekode-sammenheng løfter dette behovet for kontinuerlig sårbarhetshåndtering, avhengighetskontroll og planlagt livsløpsforvaltning.
+- **Nr. 6 Digital Europe Programme:** gir finansieringsspor for kapasitetsbygging, interoperabilitet og felles digital infrastruktur. For Norge er dette relevant fordi det kan brukes til å finansiere modenhetstiltak som dokumentasjon, sikkerhetsforbedringer og gjenbrukbare felleskomponenter.
+- **Nr. 7 CADA (forslag):** peker ut mulig ny retning for sky- og KI-kapasitet, men med lavere modenhet fordi den fortsatt er på forslagsstadiet. Betydningen for åpen kildekode ligger særlig i hvordan framtidige krav til infrastruktur, suverenitet og tilgang på kapasitet utformes.
+- **Nr. 8 OSOR + EU Open Source Solutions Catalogue:** gir praktiske eksempler og løsningsoversikt som støtter raskere gjenbruk. De fungerer som operative læringskilder for hva som faktisk virker i offentlig sektor, og kan redusere dobbeltarbeid i nasjonal implementering.
+- **Nr. 9 Anskaffelsesveileder for åpen kildekode:** oversetter strategiske mål til konkrete anskaffelsesgrep i offentlig sektor. Dette er sentralt for å få effekt i praksis, fordi krav til rettigheter, overlevering, vedlikehold og leverandøruavhengighet må inn i kontrakter og tildelingskriterier.
+
+### Hva dette betyr for nasjonal veiledning i praksis
+
+For at åpen kildekode skal fungere som et strategisk virkemiddel, må veilederen koble politikk, regelverk og operativ gjennomføring tydeligere enn i dag. Det innebærer at anbefalinger om gjenbruk, interoperabilitet og deling må følges av konkrete krav til sikkerhet, dokumentasjon, anskaffelser og forvaltningsansvar.
+
+En praktisk konsekvens er at veilederen bør beskrive et minimumsnivå for modenhet som virksomheter kan styre etter: tydelig lisensvalg, dokumenterte avhengigheter, fast prosess for sårbarhetsoppfølging, og kontraktskrav som muliggjør viderebruk på tvers av leverandører. Med en slik kobling mellom ambisjon og gjennomføring øker sannsynligheten for at åpen kildekode gir varig verdi og ikke bare enkeltstående pilotprosjekter.
 
 ## Hvorfor disse er viktigst nå
 
