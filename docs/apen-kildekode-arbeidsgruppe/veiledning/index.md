@@ -126,47 +126,60 @@ valg, men også et strategisk valg forankret i øverste ledelse.
 
 ## Første steg: slik kommer dere i gang
 
-Åpen kildekode er ikke et prosjekt med en startdato og en sluttdato – det er en arbeidsform som modnes over tid. Du trenger ikke å gjøre alt på én gang. Start der dere er. Velg én løsning, ett repository eller én anskaffelse der åpen kildekode kan vurderes. Bruk arbeidet til å etablere en enkel praksis for lisens, dokumentasjon, sikkerhet, ansvar og publisering.
+Åpen kildekode er ikke et prosjekt med start og slutt, men en arbeidsform som modnes over tid. Dere trenger ikke gjøre alt samtidig. Start med ett avgrenset område, for eksempel én løsning, ett repository eller én anskaffelse.
 
-Deretter kan virksomheten gradvis bygge modenhet: først oversikt over hva dere bruker, så rutiner for trygg bruk og publisering, og etter hvert mer aktiv gjenbruk, samarbeid og bidrag til prosjekter dere er avhengige av.
+Et praktisk utgangspunkt er å jobbe i tre spor:
 
-Lær underveis, og se på hva andre offentlige virksomheter gjør – flere har delt både kode og erfaringer åpent.
+- **Bruke:** få oversikt over avhengigheter, lisenser og sårbarheter i det dere allerede er avhengige av.
+- **Dele:** velg én konkret kandidat for publisering, og avklar lisens, dokumentasjon og forvaltningsansvar.
+- **Bidra:** avklar hvordan virksomheten kan bidra tilbake på en realistisk måte, og hvordan anskaffelser kan støtte åpenhet og gjenbruk.
 
-For at gjenbruk skal fungere i praksis bør virksomheten:
+Lær underveis, og bruk erfaringer fra andre offentlige virksomheter som allerede har delt kode og praksis åpent.
 
-- skille tydelig mellom det som er generisk (og dermed gjenbrukbart) og det som er lokalt tilpasset
-- publisere med åpen lisens og dokumentasjon som gjør løsningen mulig å ta i bruk for andre
-- gjøre løsningen synlig der andre leter – for eksempel gjennom felles kataloger og oversikter over offentlige åpne prosjekter
+For mange virksomheter er det nyttig å starte i liten skala:
 
-(oppdatere tekst - Fiskeridirektoratet/UiO) 
+- Velg ett system eller én tjeneste dere kjenner godt.
+- Kartlegg hvilke åpne komponenter dere faktisk bruker i dag.
+- Avklar hva som eventuelt kan deles trygt uten at dere åpner alt på én gang.
+- Sett av navngitt ansvar for oppfølging av sikkerhet, lisens og publisering.
 
 ## Sjekkliste før publisering eller anskaffelse
-Her er de første grepene:
+Bruk sjekklisten under for å kvalitetssikre beslutninger om bruk, deling og bidrag.
 
-**Avklar hva dere vil oppnå**. Skal koden deles for transparens, ønsker dere aktive bidrag fra andre, eller er målet intern gjenbruk på tvers av team? Skriv målet ned i én setning, det blir rettesnoren for valg av lisens, dokumentasjonsnivå og forvaltningsmodell.<br>
-**Få oversikt over det dere allerede bruker**. De fleste løsningene deres er allerede bygget på åpen kildekode gjennom leverandørene. Skaff oversikt over hvilke åpne komponenter dere er avhengige av, det er en forutsetning for å håndtere både sikkerhet og lisenser.<br>
-**Håndter lisenser tidlig**. Velg én standardlisens for nye prosjekter (for eksempel MIT, Apache 2.0 eller EUPL 1.2), og etabler en rutine for å scanne og dokumentere tredjepartslisenser automatisk i byggeprosessen.<br>
-**Sett en minimumsstandard for dokumentasjon**. README med formål, installasjon og bruk; CONTRIBUTING med bidragsregler; LICENSE-fil; og en enkel arkitekturbeskrivelse. Bruk dette som sjekkliste før publisering.<br>
-**Bygg sikkerhet inn i prosessen**. Aktiver automatisk sårbarhetsskanning i alle repositorier, og etabler en fast rutine for å vurdere og oppgradere avhengigheter. Husk: hemmeligheter som nøkler, passord og tokens skal aldri publiseres, og kode må saneres før den åpnes.<br>
-**Plasser ansvaret tydelig**. Hvem eier beslutninger om koden, hvem følger opp sikkerhet, og hvem svarer eksterne bidragsytere? Rollene kan være deltid og kombineres i små team, men de må være navngitte og kjente.<br>
-**For å lykkes med gjenbruk og samskaping**  krevers både aktiv forvaltning, kvalitetssikring og kontinuerlig forbedring. Dette forutsetter kapasitet, engasjement og kontinuerlig utvikling. Kapasitet må brukes på å skape en god utvikleropplevelse for de som tar i koden i bruk eller som ønsker å bidra. Dette gjøres ved å ha åpne kanaler og prosesser for å ta imot forslag, kodebidrag, dokumentasjon, og feilhandtering.<br>
+Før dere går inn i detaljspørsmålene, kan det være nyttig å sikre en enkel minimumspakke:
 
-Still krav om åpne, standardiserte grensesnitt (API-er) og dokumenterte dataformater i anskaffelser, og vurder hvor lett er det å komme seg ut igjen?
+- **Håndter lisenser tidlig:** avklar lisensvalg for egne leveranser og etabler en enkel rutine for tredjepartslisenser.
+- **Sett en minimumsstandard for dokumentasjon:** sørg for README, lisensfil, kontaktpunkt og kort beskrivelse av forvaltning.
+- **Bygg sikkerhet inn i prosessen:** bruk skanning av avhengigheter og hemmeligheter, og avklar hvordan sårbarheter håndteres.
+- **Plasser ansvaret tydelig:** navngi hvem som eier koden, hvem som godkjenner endringer, og hvem som følger opp bidrag og feil.
 
-Før publisering eller anskaffelse bør dere kunne svare på:
+Når dere vurderer å ta i bruk et åpent prosjekt, er det også nyttig å se etter noen grunnleggende kjennetegn: tydelig lisens, aktivt vedlikehold, god dokumentasjon, åpen styring og en viss stabilitet i kode og videreutvikling.
 
-- Hva er formålet med å åpne, bruke eller anskaffe åpen kildekode?
-- Hvilke deler av løsningen kan publiseres forsvarlig?
-- Er sikkerhet, personvern, taushetsplikt og nasjonale sikkerhetshensyn vurdert?
-- Er hemmeligheter og sensitiv informasjon fjernet fra kode og historikk?
-- Er lisens valgt og dokumentert?
-- Er eierskap og forvaltningsansvar tydelig?
-- Finnes nødvendig dokumentasjon?
-- Er avhengigheter og tredjepartslisenser kartlagt?
-- Er det rutiner for sårbarheter og oppdateringer?
-- Ved anskaffelse: gir avtalen reell mulighet til innsyn, videreutvikling, datatilgang og leverandørbytte?
+### Når dere skal bruke åpen kildekode
 
-(oppdatere tekst - Fiskeridirektoratet/UiO) 
+- Har dere oversikt over hvilke åpne komponenter, avhengigheter og lisenser løsningen bygger på?
+- Er prosjektet aktivt vedlikeholdt, og finnes det nok dokumentasjon og støtte til å ta det i bruk forsvarlig?
+- Har dere rutiner for å oppdage og følge opp sårbarheter, oppgraderinger og lisensutfordringer?
+- Ved anskaffelse: stiller avtalen krav til åpne standarder, dokumenterte dataformater, innsyn, videreutvikling og mulighet for leverandørbytte?
+
+Praktisk råd: start med å lage en enkel oversikt over hvilke åpne biblioteker og rammeverk dere allerede er avhengige av. Da blir det lettere å prioritere hva som må følges tettest opp.
+
+### Når dere skal dele kode
+
+- Hva er formålet med å dele koden: transparens, gjenbruk, samarbeid eller videreutvikling?
+- Kan koden publiseres forsvarlig, eller inneholder den hemmeligheter, sensitiv informasjon eller forhold som må skjermes?
+- Er lisens, README, kontaktpunkt og forvaltningsansvar på plass før publisering?
+- Er repository og historikk sanert for nøkler, passord, personopplysninger og sensitiv konfigurasjon?
+- Finnes en enkel kanal for å melde sårbarheter og feil?
+
+Praktisk råd: velg ett repository som pilot. Få på plass minimumspakken (lisens, README, kontaktpunkt og enkel forvaltningsbeskrivelse), og bruk læringen derfra før dere åpner flere.
+
+### Når dere skal bidra tilbake
+
+- Hva er målet med å bidra tilbake: redusere risiko, styrke kvalitet, bygge kompetanse eller støtte kritiske avhengigheter?
+- Hvilke bidragsformer er realistiske for dere: kode, feilretting, dokumentasjon, testing, finansiering eller deltakelse i fagmiljø?
+
+Praktisk råd: vurder aktivt hvordan virksomheten kan bidra tilbake til prosjekter dere er avhengige av. Bidrag kan være kode, dokumentasjon og testing, men finansiering er ofte et særlig viktig bidrag for å sikre vedlikehold, sikkerhetsoppdateringer og videre utvikling over tid.
 
 ## Status - og hvordan kan du bidra?
 
