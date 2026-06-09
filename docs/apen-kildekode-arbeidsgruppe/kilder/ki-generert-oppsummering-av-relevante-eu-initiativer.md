@@ -82,6 +82,7 @@ Et minimum for nasjonal retning kan være:
 - Interoperable Europe Act
 - EU Open Source Strategy
 - Open Source Observatory (OSOR)
+- code.europa.eu
 - Commission boosts open and interoperable digital ecosystems for public administrations
 - AI Act (Regulation (EU) 2024/1689)
 - Proposal for the Cloud and AI Development Act (CADA)

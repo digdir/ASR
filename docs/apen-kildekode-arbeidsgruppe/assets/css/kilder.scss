@@ -15,26 +15,13 @@
   max-width: 100%;
   overflow-x: auto;
   -webkit-overflow-scrolling: touch;
-  table-layout: fixed;
+  table-layout: auto;
 }
 
 .main-content th,
 .main-content td {
   vertical-align: top;
-  overflow-wrap: anywhere;
-  word-break: break-word;
-}
-
-.main-content th:nth-child(2),
-.main-content td:nth-child(2),
-.main-content th:nth-child(3),
-.main-content td:nth-child(3),
-.main-content th:nth-child(6),
-.main-content td:nth-child(6) {
-  white-space: nowrap;
-}
-
-.main-content th:nth-child(4),
-.main-content td:nth-child(4) {
-  width: 10%;
+  white-space: normal;
+  word-break: normal;
+  overflow-wrap: break-word;
 }
