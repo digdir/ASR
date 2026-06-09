@@ -93,7 +93,7 @@ Virksomheten må vite hvilke rettigheter og plikter som følger med åpen kildek
 Kode som deles uten dokumentasjon, lisens eller kontaktpunkt er vanskelig å gjenbruke. Et åpent repository bør minst ha README, LICENSE, informasjon om eierskap og en enkel beskrivelse av hvordan løsningen bygges, testes og forvaltes.
 
 ### Roller og ansvar
-Det må være tydelig hvem som eier koden, hvem som kan godkjenne endringer, hvem som følger opp feil og sårbarheter, og hvem som svarer på spørsmål eller bidrag utenfra.x|    
+Det må være tydelig hvem som eier koden, hvem som kan godkjenne endringer, hvem som følger opp feil og sårbarheter, og hvem som svarer på spørsmål eller bidrag utenfra.
 
 ### Kostnader over tid
 Åpen kildekode er ikke gratis å forvalte. Drift, sikkerhet, oppgraderinger, dokumentasjon og vedlikehold krever kapasitet. Gevinsten er at kostnadene blir mer synlige og at virksomheten får større kontroll over dem.
@@ -151,8 +151,8 @@ For mange virksomheter er det nyttig å starte i liten skala:
 - Avklar hva som eventuelt kan deles trygt uten at dere åpner alt på én gang.
 - Sett av navngitt ansvar for oppfølging av sikkerhet, lisens og publisering.
 
-## Sjekkliste før publisering eller anskaffelse
-Bruk sjekklisten under for å kvalitetssikre beslutninger om bruk, deling og bidrag.
+## Sjekkliste for bruk, deling og bidrag
+Bruk sjekklisten under for å kvalitetssikre praktiske valg knyttet til bruk, deling og bidrag.
 
 Før dere går inn i detaljspørsmålene, kan det være nyttig å sikre en enkel minimumspakke:
 
@@ -168,7 +168,6 @@ Når dere vurderer å ta i bruk et åpent prosjekt, er det også nyttig å se et
 - Har dere oversikt over hvilke åpne komponenter, avhengigheter og lisenser løsningen bygger på?
 - Er prosjektet aktivt vedlikeholdt, og finnes det nok dokumentasjon og støtte til å ta det i bruk forsvarlig?
 - Har dere rutiner for å oppdage og følge opp sårbarheter, oppgraderinger og lisensutfordringer?
-- Ved anskaffelse: stiller avtalen krav til åpne standarder, dokumenterte dataformater, innsyn, videreutvikling og mulighet for leverandørbytte?
 
 Praktisk råd: start med å lage en enkel oversikt over hvilke åpne biblioteker og rammeverk dere allerede er avhengige av. Da blir det lettere å prioritere hva som må følges tettest opp.
 
