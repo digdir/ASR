@@ -4,7 +4,27 @@ title: Hvordan kan vi bidra?
 description: Tiltak, tilskudd og bidrag til åpen kildekode
 ---
 
-## Bakgrunn og behov for bidrag
+## Hvorfor bør offentlig sektor bidra tilbake?
+
+### Vi er allerede avhengige av åpen kildekode
+
+Offentlig sektor bruker åpen kildekode i digitale tjenester, utviklingsverktøy, infrastruktur, felleskomponenter og leverandørløsninger. Mye av denne bruken er lite synlig, men den er likevel en del av den digitale grunnmuren vi bygger på.
+
+Når vi bruker åpen kildekode, er vi også avhengige av miljøene som utvikler og vedlikeholder den. Mange av disse miljøene har begrenset kapasitet til sikkerhetsoppdateringer, feilretting, dokumentasjon og videreutvikling. Derfor bør offentlig sektor ikke bare hente verdi fra åpen kildekode, men også bidra til at viktige prosjekter forblir robuste og bærekraftige.
+
+### Å gi tilbake reduserer risiko
+
+Bidrag tilbake handler ikke bare om idealisme. Det handler om sikkerhet, kvalitet og langsiktig forvaltning. Dersom sentrale åpne komponenter ikke vedlikeholdes, kan det gi økt teknisk risiko, sårbarheter og større avhengighet til enkeltpersoner eller enkeltleverandører.
+
+For offentlig sektor er dette også god ressursbruk. Åpen kildekode skaper verdi fordi mange kan bruke, dele og forbedre den. Da bør også offentlige virksomheter bidra til miljøene de er avhengige av – særlig der programvaren har stor betydning for offentlige tjenester.
+
+### Flere måter å bidra på
+
+Bidrag trenger ikke bare være penger. Offentlig sektor kan bidra med kode, feilrettinger, dokumentasjon, sikkerhetstesting, testmiljøer, opplæring eller faglig deltakelse i relevante prosjekter og fellesskap. For mange prosjekter kan tid, kompetanse og tydelige prioriteringer være like viktig som økonomisk støtte.
+
+Det kan også være aktuelt å støtte teknisk infrastruktur, for eksempel speiling av sentrale pakkeregistre eller kildekodearkiv. Anskaffelser kan brukes mer aktivt ved å stille krav om kontroll på åpen kildekode, dokumenterte avhengigheter og bidrag tilbake til prosjekter leverandørene bygger på.
+
+## Bidrag med penger
 
 Det åpenbare tiltaket for å støtte åpen kode er å bidra med penger til utviklerne. Dette er ikke nødvendigvis "rett fram" å få til for oss innenfor rammene som lovverk og forskrifter setter. Vi har jo f.eks. i løpet av denne prosessenn lært at det å opprette økonomiske tilskuddsordninger er en veldig omfattende prosess med tidkrevende behandling på høyt politisk nivå. Vi vil i dette dokumentet derfor forsøke å peke på andre konkrete tiltak som støtter åpen kode og utviklerne som lager den, men på måter som ikke krever så mye prosess. (mer om behov/bakgrunn - Digdir)
 
