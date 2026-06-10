@@ -188,15 +188,15 @@ a:focus {
 }
 
 .ak-figure--narrow img {
-  max-width: min(100%, 50rem);
+  width: min(100%, 695px);
 }
 
 .ak-figure--compact img {
-  width: min(100%, 697px);
+  width: min(100%, 730px);
 }
 
 .ak-figure--compact figcaption {
-  max-width: 697px;
+  max-width: 730px;
   margin: 0.5rem auto 0;
   font-size: 1rem;
 }
