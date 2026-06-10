@@ -24,7 +24,7 @@ EU løfter åpen kildekode fram som et virkemiddel for interoperabilitet, digita
 Arbeidsgruppen anbefaler tre grep som kan styrke offentlig sektors handlingsrom og redusere sårbarhet over tid.
 
 <figure class="ak-figure ak-figure--compact" align="center">
-  <img src="../assets/img/prinsippmodell.svg" alt="Modell med tre anbefalinger: bruke, dele og bidra. Sammen styrker de en åpen digital grunnmur." width="730">
+  <img src="../assets/img/prinsippmodell.svg" alt="Modell med tre anbefalinger: bruke, dele og bidra. Sammen styrker de en åpen digital grunnmur." width="760">
   <figcaption>Figur: Tre anbefalinger for åpen kildekode i offentlig sektor.</figcaption>
 </figure>
 
@@ -66,7 +66,7 @@ Mange offentlige virksomheter har overlappende behov, men løser dem hver for se
 Gevinsten er størst når gjenbruk tenkes inn fra starten. En løsning som er publisert åpent, men uten dokumentasjon, lisens eller tydelig forvaltning, er teknisk tilgjengelig, men i praksis vanskelig å gjenbruke. Reell nyttiggjøring krever at andre kan finne løsningen, forstå hva den gjør, vurdere om den passer, og ta den i bruk uten å måtte kontakte utviklerne.
 
 <figure class="ak-figure ak-figure--narrow" align="center">
-  <img src="../assets/img/figur-publisert-til-gjenbrukbar-vertikal-v3.svg" alt="Fra publisert til gjenbrukbar åpen kildekode" width="695">
+  <img src="../assets/img/figur-publisert-til-gjenbrukbar-vertikal-v3.svg" alt="Fra publisert til gjenbrukbar åpen kildekode" width="725">
 </figure>
 
 Gjenbruk er ikke bare god ressursbruk for den enkelte virksomhet; det er en samfunnsgevinst. Når flere bidrar til og bruker samme løsning, vokser det fram et felles økosystem av kvalitetssikret programvare som blir bedre og sikrere for alle som er avhengige av den.
