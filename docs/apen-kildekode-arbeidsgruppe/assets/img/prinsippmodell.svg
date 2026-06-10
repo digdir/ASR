@@ -13,9 +13,9 @@
       .connector { stroke: #88aeb2; stroke-width: 4; stroke-linecap: round; }
       .label { fill: #12343b; font: 700 34px Arial, sans-serif; }
       .sub { fill: #31565e; font: 22px Arial, sans-serif; }
-      .small { fill: #31565e; font: 19px Arial, sans-serif; }
+      .small { fill: #31565e; font: 22px Arial, sans-serif; }
       .center-title { fill: #12343b; font: 700 30px Arial, sans-serif; }
-      .center-sub { fill: #31565e; font: 20px Arial, sans-serif; }
+      .center-sub { fill: #31565e; font: 22px Arial, sans-serif; }
       .pill { fill: #e8f2f2; stroke: #c7dcde; stroke-width: 2; }
     </style>
   </defs>
@@ -26,26 +26,30 @@
   <line class="connector" x1="392" y1="410" x2="488" y2="350"/>
   <line class="connector" x1="708" y1="410" x2="612" y2="350"/>
 
-  <rect class="card use" x="355" y="50" width="390" height="150" rx="18"/>
-  <text class="label" x="550" y="102" text-anchor="middle">1. Bruke</text>
-  <text class="sub" x="550" y="139" text-anchor="middle">Velg åpen kildekode</text>
-  <text class="small" x="550" y="169" text-anchor="middle">der det gir kvalitet og handlingsrom</text>
+  <rect class="card use" x="340" y="42" width="420" height="172" rx="18"/>
+  <text class="label" x="550" y="94" text-anchor="middle">1. Bruke</text>
+  <text class="sub" x="550" y="131" text-anchor="middle">Velg åpen kildekode</text>
+  <text class="small" x="550" y="163" text-anchor="middle">der det gir kvalitet</text>
+  <text class="small" x="550" y="191" text-anchor="middle">og handlingsrom</text>
 
-  <rect class="card share" x="75" y="365" width="390" height="155" rx="18"/>
-  <text class="label" x="270" y="419" text-anchor="middle">2. Dele</text>
-  <text class="sub" x="270" y="456" text-anchor="middle">Publiser åpent som standard</text>
-  <text class="small" x="270" y="486" text-anchor="middle">når kode er utviklet for offentlige midler</text>
+  <rect class="card share" x="60" y="354" width="420" height="184" rx="18"/>
+  <text class="label" x="270" y="407" text-anchor="middle">2. Dele</text>
+  <text class="sub" x="270" y="444" text-anchor="middle">Publiser åpent som standard</text>
+  <text class="small" x="270" y="477" text-anchor="middle">når kode er utviklet</text>
+  <text class="small" x="270" y="505" text-anchor="middle">for offentlige midler</text>
 
-  <rect class="card contribute" x="635" y="365" width="390" height="155" rx="18"/>
-  <text class="label" x="830" y="419" text-anchor="middle">3. Bidra</text>
-  <text class="sub" x="830" y="456" text-anchor="middle">Styrk prosjektene vi er avhengige av</text>
-  <text class="small" x="830" y="486" text-anchor="middle">med finansiering, tid og vedlikehold</text>
+  <rect class="card contribute" x="620" y="354" width="420" height="184" rx="18"/>
+  <text class="label" x="830" y="407" text-anchor="middle">3. Bidra</text>
+  <text class="sub" x="830" y="440" text-anchor="middle">Styrk prosjektene</text>
+  <text class="sub" x="830" y="468" text-anchor="middle">vi er avhengige av</text>
+  <text class="small" x="830" y="501" text-anchor="middle">med finansiering, tid</text>
+  <text class="small" x="830" y="529" text-anchor="middle">og vedlikehold</text>
 
   <circle class="center" cx="550" cy="320" r="102"/>
   <text class="center-title" x="550" y="294" text-anchor="middle">Åpen</text>
   <text class="center-title" x="550" y="329" text-anchor="middle">digital</text>
   <text class="center-title" x="550" y="364" text-anchor="middle">grunnmur</text>
 
-  <rect class="pill" x="310" y="548" width="480" height="48" rx="24"/>
-  <text class="center-sub" x="550" y="579" text-anchor="middle">Mer suverenitet, innsyn, gjenbruk og robusthet</text>
+  <rect class="pill" x="200" y="550" width="700" height="52" rx="26"/>
+  <text class="center-sub" x="550" y="584" text-anchor="middle">Mer suverenitet, innsyn, gjenbruk og robusthet</text>
 </svg>

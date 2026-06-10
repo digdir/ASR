@@ -192,11 +192,11 @@ a:focus {
 }
 
 .ak-figure--compact img {
-  max-width: min(100%, 32rem);
+  width: min(100%, 42rem);
 }
 
 .ak-figure--compact figcaption {
-  max-width: 30rem;
+  max-width: 42rem;
   margin: 0.5rem auto 0;
   font-size: 1rem;
 }
