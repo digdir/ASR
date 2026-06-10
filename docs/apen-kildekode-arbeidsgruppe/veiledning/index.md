@@ -24,7 +24,7 @@ EU løfter åpen kildekode fram som et virkemiddel for interoperabilitet, digita
 Arbeidsgruppen anbefaler tre grep som kan styrke offentlig sektors handlingsrom og redusere sårbarhet over tid.
 
 <figure class="ak-figure ak-figure--compact">
-  <img src="../assets/img/prinsippmodell.svg" alt="Modell med tre anbefalinger: bruke, dele og bidra. Sammen styrker de en åpen digital grunnmur.">
+  <img src="../assets/img/prinsippmodell.svg" alt="Modell med tre anbefalinger: bruke, dele og bidra. Sammen styrker de en åpen digital grunnmur." width="697">
   <figcaption>Figur: Tre anbefalinger for åpen kildekode i offentlig sektor.</figcaption>
 </figure>
 
