@@ -9,7 +9,7 @@ description: Høynivå veiledning om åpen kildekode i offentlig sektor
 Mange offentlige virksomheter ønsker å bruke mer åpen kildekode, men diskusjonen blir ofte knyttet til risiko og sikkerhet. Samtidig er realiteten at de fleste digitale løsninger allerede er bygget på åpen kildekode gjennom leverandørene. Moderne web- og skyløsninger er ofte avhengige av hundrevis eller tusenvis av åpne komponenter fra tjenester som npmjs.com. Dersom én av disse inneholder sårbarheter eller blir kompromittert, kan det påvirke store deler av løsningen.
 Utfordringer knyttet til programvareforsyningskjeden er derfor ikke noe man møter først når man velger å utvikle eller dele åpen kildekode, det er allerede en del av dagens digitale infrastruktur. Spørsmålet er derfor ikke om man bruker åpen kildekode, men hvordan man forvalter den på en ansvarlig måte.
 
-Når offentlig sektor er avhengig av slike komponenter i stor skala, blir det også viktig å bidra tilbake gjennom finansiering, deling, vedlikehold og aktiv deltakelse i miljøene som utvikler og forvalter teknologien. (oppdatere tekst Hdir)
+En ansvarlig forvaltning av åpen kildekode stopper ikke ved egen bruk. Når offentlig sektor er avhengig av disse komponentene i stor skala, er det også et felles ansvar å bidra tilbake gjennom finansiering, deling, vedlikehold og aktiv deltakelse i miljøene som utvikler og forvalter teknologien. 
 
 **Hva sier EU?**
 EU løfter åpen kildekode fram som et virkemiddel for interoperabilitet, digital suverenitet og bedre gjenbruk i offentlig sektor. Med føringer gjennom blant annet Interoperable Europe Act, EU Open Source Strategy og relaterte initiativer blir det viktigere å jobbe systematisk med både bruk, deling og bidrag tilbake.
