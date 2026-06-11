@@ -25,7 +25,9 @@ Det viktigste funnet er at bærekraft sjelden kommer fra én finansieringskilde 
 
 Kildene viser at EU allerede har flere relevante finansieringsspor for åpen kildekode i offentlig sektor.
 
-**Digital Europe Programme** er det tydeligste eksempelet i kildelista. Programmet finansierer digital kapasitet og digital transformasjon for virksomheter, innbyggere og offentlig sektor. For åpne kildekode-miljøer er dette særlig relevant når prosjekter handler om interoperabilitet, felles digitale byggesteiner, cybersikkerhet, digital kompetanse eller grensekryssende offentlige tjenester.
+**Digital Europe Programme** er det tydeligste finansieringsprogrammet i kildelista. Programmet finansierer digital kapasitet og digital transformasjon for virksomheter, innbyggere og offentlig sektor. For åpne kildekode-miljøer er dette særlig relevant når prosjekter handler om interoperabilitet, felles digitale byggesteiner, cybersikkerhet, digital kompetanse eller grensekryssende offentlige tjenester.
+
+**European Digital Infrastructure Consortium (EDIC)** bør ses som et eget, supplerende spor. EDIC er ikke en erstatning for Digital Europe Programme, men en juridisk og organisatorisk ramme som gjør det mulig for flere land å etablere, styre og drifte felles digital infrastruktur. Særlig **Digital Commons EDIC** er relevant for åpen kildekode fordi konsortiet skal støtte digitale allmenninger, åpne byggesteiner, offentlig gjenbruk og samarbeid mellom offentlige virksomheter, open source-miljøer og leverandører.
 
 OSOR-siden om finansieringsmuligheter peker i tillegg på at åpne kildekode-prosjekter kan være aktuelle i bredere EU-spor som **Horizon Europe**, **Digital Europe Programme** og **Next Generation Internet / Open Internet Stack**. Poenget er ikke at det finnes ett eget "open source-tilskudd" for alt, men at åpen kildekode kan finansieres når den er virkemiddel for digital infrastruktur, samhandling, sikkerhet eller innovasjon.
 
@@ -295,6 +297,8 @@ Kildene peker samlet mot at den mest bærekraftige modellen for åpen kildekode 
 ## Kilder som særlig ligger til grunn for sammendraget
 
 - Digital Europe Programme
+- European Digital Infrastructure Consortium (EDIC)
+- Digital Commons EDIC
 - Funding Opportunities for Open Source Software Projects in the Public Sector (OSOR)
 - Guideline on public procurement of Open Source Software
 - Statens standardavtaler (SSA)

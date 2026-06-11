@@ -17,6 +17,8 @@ Analysen prioriterer initiativer som mest direkte påvirker åpen kildekode, int
 
 - Det viktigste sporet å følge er overgangen fra enkelttiltak til et samlet EU-rammeverk for interoperabilitet, åpen kildekode og digital suverenitet i offentlig sektor.
 - Interoperable Europe Act, European Technological Sovereignty Package og EU Open Source Strategy bør behandles som en samlet strategisk retning.
+- European Digital Infrastructure Consortium (EDIC), særlig Digital Commons EDIC, bør løftes fram som en konkret gjennomføringsmekanisme for flerlandsprosjekter og felles digitale byggesteiner.
+- EDIC erstatter ikke Digital Europe Programme. Digital Europe er fortsatt finansieringsprogrammet, mens EDIC gir juridisk ramme, styring og langsiktig organisering for felles infrastrukturprosjekter.
 - Regulering av cybersikkerhet og leveransekjede (særlig Regulation (EU) 2024/2847) blir avgjørende for hvordan åpne komponenter kan anskaffes, brukes og forvaltes i praksis.
 
 ## Rangert oversikt
@@ -26,15 +28,16 @@ Analysen prioriterer initiativer som mest direkte påvirker åpen kildekode, int
 | 1 | [Interoperable Europe Act](https://eur-lex.europa.eu/eli/reg/2024/903/oj) | Svært høy | Høy (vedtatt, i innføring) | Mest styrende for offentlig sektor fordi den knytter samhandling, gjenbruk og fellesløsninger tettere sammen på tvers av land og forvaltningsnivå. |
 | 2 | [European Technological Sovereignty Package](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1187) | Svært høy | Middels | Setter overordnet politisk retning og samler sentrale initiativer for sky, KI, åpen kildekode og halvledere i én strategisk ramme. |
 | 3 | [EU Open Source Strategy](https://digital-strategy.ec.europa.eu/en/policies/open-source-strategy) | Svært høy | Middels/høy | Gir konkret retning for åpne og interoperable digitale økosystemer, inkludert offentlig sektor, anskaffelser og langsiktig vedlikehold. |
-| 4 | [AI Act (Regulation (EU) 2024/1689)](https://eur-lex.europa.eu/eli/reg/2024/1689/oj) | Høy | Høy (vedtatt, fases inn) | Svært viktig for nasjonal strategisk retning fordi den setter plikter, risikonivå og ansvar for KI-systemer som også bygges på åpen kildekode. |
-| 5 | [Regulation (EU) 2024/2847](https://eur-lex.europa.eu/eli/reg/2024/2847/oj) (cybersikkerhet) | Høy | Høy (vedtatt, fases inn) | Viktig for krav til sikker utvikling, ansvar og etterlevelse i programvare med digitale elementer, inkludert bruk av åpne komponenter. |
-| 6 | [Digital Europe Programme](https://digital-strategy.ec.europa.eu/en/activities/digital-programme) | Høy | Høy (etablert program) | Viktig fordi finansiering kan akselerere nasjonale tiltak innen felleskomponenter, interoperabilitet, sikkerhet og kapasitet. |
-| 7 | [Proposal for the Cloud and AI Development Act (CADA)](https://digital-strategy.ec.europa.eu/en/library/proposal-cloud-and-ai-development-act-cada) | Høy | Lav/middels (forslag) | Bør vurderes tett fordi det kan påvirke offentlig kapasitet, infrastrukturvalg og styring av sky- og KI-ressurser. Relevansen er høy, men modenheten er foreløpig lavere siden dette er et forslag. |
-| 8 | [Open Source Observatory (OSOR)](https://joinup.ec.europa.eu/collection/open-source-observatory-osor) + [EU Open Source Solutions Catalogue](https://interoperable-europe.ec.europa.eu/eu-oss-catalogue) | Høy | Høy (etablerte plattformer) | Gir praktisk innsikt i hva andre land faktisk gjør, og reduserer risiko for at Norge utvikler i parallell der gjenbruk er mulig. |
-| 9 | [Guideline on public procurement of Open Source Software](https://interoperable-europe.ec.europa.eu/collection/open-source-observatory-osor/document/guideline-public-procurement-open-source-software) | Middels | Lav (arkivert, 2010) | Nyttig som historisk referanse for prinsipper, men bør brukes som supplement til nyere føringer i EU Open Source Strategy og oppdatert nasjonal anskaffelsesveiledning. |
-| 10 | [EUPL](https://joinup.ec.europa.eu/collection/eupl/eupl-text-eupl-12) + [Joinup Licensing Assistant](https://interoperable-europe.ec.europa.eu/collection/eupl/solution/joinup-licensing-assistant) | Middels/høy | Høy | Relevante byggesteiner for lisensstrategi og kompatibilitetsvurderinger i offentlig sektor, spesielt ved deling på tvers av virksomheter og land. |
-| 11 | [DCAT-AP](https://interoperable-europe.ec.europa.eu/collection/semic-support-centre/solution/dcat-application-profile-data-portals-europe) + [ADMS](https://joinup.ec.europa.eu/collection/semantic-interoperability-community-semic/solution/asset-description-metadata-schema-adms) | Middels/høy | Høy | Viktige for metadata, katalogisering og oppdagbarhet av felles ressurser. Lite synlige politisk, men avgjørende for praktisk gjenbruk i stor skala. |
-| 12 | [Open Source Software in Public Administration Handbook](https://interoperable-europe.ec.europa.eu/sites/default/files/custom-page/attachment/2026-01/osor-handbook.pdf) | Middels | Middels | Ikke regelverk, men et viktig modenhetsgrunnlag som kan oversettes til nasjonal veiledning, roller og praktiske minimumskrav. |
+| 4 | [Digital Commons EDIC](https://digital-strategy.ec.europa.eu/en/news/digital-commons-edic-launches-advance-europes-technological-sovereignty) + [EDIC-rammen](https://digital-strategy.ec.europa.eu/en/policies/edic) | Svært høy | Høy (etablert instrument, DC-EDIC lansert) | Viktig gjennomføringsspor fordi EDIC gir felles juridisk og organisatorisk ramme for flerlandsprosjekter, og DC-EDIC er direkte rettet mot digitale allmenninger, åpne byggesteiner og offentlig gjenbruk. |
+| 5 | [AI Act (Regulation (EU) 2024/1689)](https://eur-lex.europa.eu/eli/reg/2024/1689/oj) | Høy | Høy (vedtatt, fases inn) | Svært viktig for nasjonal strategisk retning fordi den setter plikter, risikonivå og ansvar for KI-systemer som også bygges på åpen kildekode. |
+| 6 | [Regulation (EU) 2024/2847](https://eur-lex.europa.eu/eli/reg/2024/2847/oj) (cybersikkerhet) | Høy | Høy (vedtatt, fases inn) | Viktig for krav til sikker utvikling, ansvar og etterlevelse i programvare med digitale elementer, inkludert bruk av åpne komponenter. |
+| 7 | [Digital Europe Programme](https://digital-strategy.ec.europa.eu/en/activities/digital-programme) | Høy | Høy (etablert program) | Viktig fordi finansiering kan akselerere nasjonale tiltak innen felleskomponenter, interoperabilitet, sikkerhet og kapasitet. Utfyller EDIC-sporet, men erstattes ikke av det. |
+| 8 | [Proposal for the Cloud and AI Development Act (CADA)](https://digital-strategy.ec.europa.eu/en/library/proposal-cloud-and-ai-development-act-cada) | Høy | Lav/middels (forslag) | Bør vurderes tett fordi det kan påvirke offentlig kapasitet, infrastrukturvalg og styring av sky- og KI-ressurser. Relevansen er høy, men modenheten er foreløpig lavere siden dette er et forslag. |
+| 9 | [Open Source Observatory (OSOR)](https://joinup.ec.europa.eu/collection/open-source-observatory-osor) + [EU Open Source Solutions Catalogue](https://interoperable-europe.ec.europa.eu/eu-oss-catalogue) | Høy | Høy (etablerte plattformer) | Gir praktisk innsikt i hva andre land faktisk gjør, og reduserer risiko for at Norge utvikler i parallell der gjenbruk er mulig. |
+| 10 | [Guideline on public procurement of Open Source Software](https://interoperable-europe.ec.europa.eu/collection/open-source-observatory-osor/document/guideline-public-procurement-open-source-software) | Middels | Lav (arkivert, 2010) | Nyttig som historisk referanse for prinsipper, men bør brukes som supplement til nyere føringer i EU Open Source Strategy og oppdatert nasjonal anskaffelsesveiledning. |
+| 11 | [EUPL](https://joinup.ec.europa.eu/collection/eupl/eupl-text-eupl-12) + [Joinup Licensing Assistant](https://interoperable-europe.ec.europa.eu/collection/eupl/solution/joinup-licensing-assistant) | Middels/høy | Høy | Relevante byggesteiner for lisensstrategi og kompatibilitetsvurderinger i offentlig sektor, spesielt ved deling på tvers av virksomheter og land. |
+| 12 | [DCAT-AP](https://interoperable-europe.ec.europa.eu/collection/semic-support-centre/solution/dcat-application-profile-data-portals-europe) + [ADMS](https://joinup.ec.europa.eu/collection/semantic-interoperability-community-semic/solution/asset-description-metadata-schema-adms) | Middels/høy | Høy | Viktige for metadata, katalogisering og oppdagbarhet av felles ressurser. Lite synlige politisk, men avgjørende for praktisk gjenbruk i stor skala. |
+| 13 | [Open Source Software in Public Administration Handbook](https://interoperable-europe.ec.europa.eu/sites/default/files/custom-page/attachment/2026-01/osor-handbook.pdf) | Middels | Middels | Ikke regelverk, men et viktig modenhetsgrunnlag som kan oversettes til nasjonal veiledning, roller og praktiske minimumskrav. |
 
 ## Hvordan topp 3 henger sammen
 
@@ -46,14 +49,15 @@ De tre høyest prioriterte initiativene virker på ulike nivåer og bør leses s
 
 Kort sagt: pakken (2) setter retning, forordningen (1) setter juridiske rammer, og strategien (3) beskriver gjennomføring for åpen kildekode.
 
-Tiltak med høy relevans som følger etter topp 3 (nr. 4-9):
+Tiltak med høy relevans som følger etter topp 3 (nr. 4-10):
 
-- **Nr. 4 AI Act:** setter bindende krav for risikostyring, dokumentasjon og ansvar ved bruk av KI-systemer. For åpen kildekode betyr dette økte forventninger til sporbarhet, modell- og datadokumentasjon og tydelig rollefordeling mellom den som utvikler, integrerer og drifter løsningen.
-- **Nr. 5 Regulation (EU) 2024/2847:** skjerper krav til sikkerhet og etterlevelse i programvare og digitale produkter. I åpen-kildekode-sammenheng løfter dette behovet for kontinuerlig sårbarhetshåndtering, avhengighetskontroll og planlagt livsløpsforvaltning.
-- **Nr. 6 Digital Europe Programme:** gir finansieringsspor for kapasitetsbygging, interoperabilitet og felles digital infrastruktur. For Norge er dette relevant fordi det kan brukes til å finansiere modenhetstiltak som dokumentasjon, sikkerhetsforbedringer og gjenbrukbare felleskomponenter.
-- **Nr. 7 CADA (forslag):** peker ut mulig ny retning for sky- og KI-kapasitet, men med lavere modenhet fordi den fortsatt er på forslagsstadiet. Betydningen for åpen kildekode ligger særlig i hvordan framtidige krav til infrastruktur, suverenitet og tilgang på kapasitet utformes.
-- **Nr. 8 OSOR + EU Open Source Solutions Catalogue:** gir praktiske eksempler og løsningsoversikt som støtter raskere gjenbruk. De fungerer som operative læringskilder for hva som faktisk virker i offentlig sektor, og kan redusere dobbeltarbeid i nasjonal implementering.
-- **Nr. 9 Anskaffelsesveileder for åpen kildekode:** er arkivert og datert (2010), men inneholder fortsatt nyttige prinsipper om anskaffelse av åpen kildekode. Den bør brukes som bakgrunnskilde, mens operativ praksis forankres i nyere EU-føringer og nasjonale kilder som DFØ/Anskaffelser.no.
+- **Nr. 4 EDIC / Digital Commons EDIC:** gir en juridisk og organisatorisk modell for flerlandsprosjekter der flere stater kan utvikle, drifte og videreutvikle felles digital infrastruktur. Digital Commons EDIC er særlig relevant fordi den er rettet mot digitale allmenninger, open source-miljøer, offentlige virksomheter og gjenbrukbare byggesteiner.
+- **Nr. 5 AI Act:** setter bindende krav for risikostyring, dokumentasjon og ansvar ved bruk av KI-systemer. For åpen kildekode betyr dette økte forventninger til sporbarhet, modell- og datadokumentasjon og tydelig rollefordeling mellom den som utvikler, integrerer og drifter løsningen.
+- **Nr. 6 Regulation (EU) 2024/2847:** skjerper krav til sikkerhet og etterlevelse i programvare og digitale produkter. I åpen-kildekode-sammenheng løfter dette behovet for kontinuerlig sårbarhetshåndtering, avhengighetskontroll og planlagt livsløpsforvaltning.
+- **Nr. 7 Digital Europe Programme:** gir finansieringsspor for kapasitetsbygging, interoperabilitet og felles digital infrastruktur. For Norge er dette relevant fordi det kan brukes til å finansiere modenhetstiltak som dokumentasjon, sikkerhetsforbedringer og gjenbrukbare felleskomponenter. Programmet bør ses sammen med EDIC, ikke som noe EDIC erstatter.
+- **Nr. 8 CADA (forslag):** peker ut mulig ny retning for sky- og KI-kapasitet, men med lavere modenhet fordi den fortsatt er på forslagsstadiet. Betydningen for åpen kildekode ligger særlig i hvordan framtidige krav til infrastruktur, suverenitet og tilgang på kapasitet utformes.
+- **Nr. 9 OSOR + EU Open Source Solutions Catalogue:** gir praktiske eksempler og løsningsoversikt som støtter raskere gjenbruk. De fungerer som operative læringskilder for hva som faktisk virker i offentlig sektor, og kan redusere dobbeltarbeid i nasjonal implementering.
+- **Nr. 10 Anskaffelsesveileder for åpen kildekode:** er arkivert og datert (2010), men inneholder fortsatt nyttige prinsipper om anskaffelse av åpen kildekode. Den bør brukes som bakgrunnskilde, mens operativ praksis forankres i nyere EU-føringer og nasjonale kilder som DFØ/Anskaffelser.no.
 
 ### Hva dette betyr for nasjonal veiledning i praksis
 
@@ -85,9 +89,10 @@ I tillegg til styrende EU-regelverk finnes det operative initiativer som kan gi 
 2. Oppfølging av European Technological Sovereignty Package i praksis: hvilke tiltak som faktisk går fra politisk ramme til gjennomføring i medlemslandene.
 3. Oppfølging av EU Open Source Strategy i praksis: nye programmer, veiledere, governance-krav og eventuelle indikatorer for offentlig sektor.
 4. Praktiske konsekvenser av Regulation (EU) 2024/2847: hvordan kravene påvirker anskaffelser, leverandører og forvaltning av åpne komponenter.
-5. Utlysninger og prioriteringer i Digital Europe Programme: hva som kan brukes for å finansiere nasjonale fellesbehov.
-6. Videre utvikling av Proposal for the Cloud and AI Development Act (CADA): hva som går fra forslag til konkrete krav og hvordan dette kan påvirke offentlig sektor.
-7. Nye policyeksempler i OSOR (land, regioner, etater): hvilke tiltak som faktisk virker og kan overføres til norsk kontekst.
+5. Videre utvikling av EDIC-er, særlig Digital Commons EDIC og IMPACTS-EDIC: hvordan konsortiene blir brukt til felles digital infrastruktur, åpne byggesteiner og interoperable offentlige tjenester.
+6. Utlysninger og prioriteringer i Digital Europe Programme: hva som kan brukes for å finansiere nasjonale fellesbehov og støtte EDIC-relaterte eller andre flerlandsprosjekter.
+7. Videre utvikling av Proposal for the Cloud and AI Development Act (CADA): hva som går fra forslag til konkrete krav og hvordan dette kan påvirke offentlig sektor.
+8. Nye policyeksempler i OSOR (land, regioner, etater): hvilke tiltak som faktisk virker og kan overføres til norsk kontekst.
 
 ## Konsekvens for nasjonal høynivå veileder
 
@@ -112,6 +117,8 @@ Et minimum for nasjonal retning kan være:
 - Communication on European Tech Sovereignty, accompanied by an EU Open Source Strategy
 - Interoperable Europe Act
 - EU Open Source Strategy
+- European Digital Infrastructure Consortium (EDIC)
+- Digital Commons EDIC
 - AI Act (Regulation (EU) 2024/1689)
 - Proposal for the Cloud and AI Development Act (CADA)
 - Regulation (EU) 2024/2847
