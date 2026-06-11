@@ -22,7 +22,7 @@ Hva betyr det for deg?
   utvikling, bør løsningen kunne gjenbrukes, forbedres og deles videre.
 - **Mindre leverandørbinding**: Lukket kode kan gjøre deg avhengig av
   én aktør. Åpen kildekode gir større frihet til å bytte, videreutvikle og
-  samarbeide. 
+  samarbeide.
 - **Bedre etterprøvbarhet**: Offentlig sektor må kunne forklare, etterprøve og
   stå inne for digitale løsninger som påvirker innbyggere og virksomheter.
 - **Lavere risiko**: Geopolitisk uro, prissjokk og konkurser viser hvor
