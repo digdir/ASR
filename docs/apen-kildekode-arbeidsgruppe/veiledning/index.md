@@ -4,7 +4,7 @@ title: Veiledning
 description: Høynivå veiledning om åpen kildekode i offentlig sektor
 ---
 ## Hvorfor skal offentlig sektor bry seg om åpen kildekode?
-**Åpen kildekode kan gi store fordeler med tanke på at løsninger kan gjenbrukes, og videreutvikles i felleskap. Videre så gir åpenheten større innsyn og kontroll for offentligheten. Denne etterprøvbarheten er vesentlig for ansvarlig utvikling av løsninger med komponenter av kunstig intelligens i offentlig sektor, og i det geopolitiske situasjonsbildet vi befinner oss i. Bruk av åpen kildekode åpner også for mer rettferdig konkurranse ved at tilbydere kan bygge videre på det som allerede eksisterer.** 
+**Åpen kildekode kan gi store fordeler med tanke på at løsninger kan gjenbrukes, og videreutvikles i fellesskap. Videre gir åpenheten større innsyn og kontroll for offentligheten. Denne etterprøvbarheten er vesentlig for ansvarlig utvikling av løsninger med komponenter av kunstig intelligens i offentlig sektor, og i det geopolitiske situasjonsbildet vi befinner oss i. Bruk av åpen kildekode åpner også for mer rettferdig konkurranse ved at tilbydere kan bygge videre på det som allerede eksisterer.**
 
 Mange offentlige virksomheter ønsker å bruke mer åpen kildekode, men diskusjonen blir ofte knyttet til risiko og sikkerhet. Samtidig er realiteten at de fleste digitale løsninger allerede er bygget på åpen kildekode gjennom leverandørene. Moderne web- og skyløsninger er ofte avhengige av hundrevis eller tusenvis av åpne komponenter fra tjenester som npmjs.com. Dersom én av disse inneholder sårbarheter eller blir kompromittert, kan det påvirke store deler av løsningen.
 Utfordringer knyttet til programvareforsyningskjeden er derfor ikke noe man møter først når man velger å utvikle eller dele åpen kildekode, det er allerede en del av dagens digitale infrastruktur. Spørsmålet er derfor ikke om man bruker åpen kildekode, men hvordan man forvalter den på en ansvarlig måte.
@@ -94,11 +94,11 @@ Når disse rammene er på plass, blir det enklere å gå fra ambisjon til prakti
 
 ## Hvor modne er dere?
 
-Vi kan skille mellom ulike grader av modenehet for åpen kildekode. Det finnes
+Vi kan skille mellom ulike grader av modenhet for åpen kildekode. Det finnes
 flere modeller for beskrivelse av modenhet, én slik modell er skissert av OSPO
 alliance ([Referanse](https://ospo-alliance.org/ggi/introduction/)).
 
-Modellen modellen skisserer fem nivåer av modenhet: bruk, tillit, kultur,
+Modellen skisserer fem nivåer av modenhet: bruk, tillit, kultur,
 engasjement og strategi.
 
 ![Modenhetsmodell for åpen kildekode](../assets/img/figur-modenhet-apen-kildekode.svg)
@@ -107,7 +107,7 @@ På det laveste nivået har vi altså bruk av åpen kildekode i en organisasjon,
 hvor man har tilstrekkelig kompetanse til å ta i bruk, men hovedsakelig er
 konsument.
 
-I neste nivå er det en økt bevisthet og kontrollerte rammer, slik som sikkerhet,
+I neste nivå er det en økt bevissthet og kontrollerte rammer, slik som sikkerhet,
 håndtering av avhengigheter, juridiske og økonomiske forhold.
 
 På kulturnivået er en god praksis internalisert i organisasjonen, og det er
@@ -115,7 +115,7 @@ utviklet en intern kultur der åpen kildekode er en naturlig del av
 arbeidsprosessen.
 
 På de to øverste nivåene går vi til engasjement, hvor organisasjonen er aktiv
-bidragsyter, enten ved å dele aktivt egene prosjekter, eller som bidragsyter i
+bidragsyter, enten ved å dele aktivt egne prosjekter, eller som bidragsyter i
 eksterne prosjekter.
 
 På det øverste nivået er åpen kildekode bevisst brukt som virkemiddel for å nå
