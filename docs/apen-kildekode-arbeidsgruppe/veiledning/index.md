@@ -3,7 +3,8 @@ layout: default
 title: Veiledning
 description: Høynivå veiledning om åpen kildekode i offentlig sektor
 ---
-## Hvorfor skal offentlig sektor bry seg om åpen kildekode?
+## Hvorfor er åpen kildekode viktig for offentlig sektor?
+
 **Åpen kildekode kan gi store fordeler med tanke på at løsninger kan gjenbrukes, og videreutvikles i fellesskap. Videre gir åpenheten større innsyn og kontroll for offentligheten. Denne etterprøvbarheten er vesentlig for ansvarlig utvikling av løsninger med komponenter av kunstig intelligens i offentlig sektor, og i det geopolitiske situasjonsbildet vi befinner oss i. Bruk av åpen kildekode åpner også for mer rettferdig konkurranse ved at tilbydere kan bygge videre på det som allerede eksisterer.**
 
 Mange offentlige virksomheter ønsker å bruke mer åpen kildekode, men diskusjonen blir ofte knyttet til risiko og sikkerhet. Samtidig er realiteten at de fleste digitale løsninger allerede er bygget på åpen kildekode gjennom leverandørene. Moderne web- og skyløsninger er ofte avhengige av hundrevis eller tusenvis av åpne komponenter fra tjenester som npmjs.com. Dersom én av disse inneholder sårbarheter eller blir kompromittert, kan det påvirke store deler av løsningen.
