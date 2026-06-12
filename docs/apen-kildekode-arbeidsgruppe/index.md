@@ -16,6 +16,8 @@ Hva betyr det for deg?
 - Krav til sikkerhet, dokumentasjon og anskaffelser blir viktigere når det man koder åpent og bruker åpen kildekode.
 - Virksomheten bør planlegge for både bruk, deling og bidrag tilbake.
 
+(ToDo: Legg inn at det vil komme sterkere føringer på dette, og at bruk av åpen kildekode vil bli sterkere styrt fremover)
+
 ## Hvorfor åpen kildekode
 
 - **Betalt én gang, brukt mange ganger**: Når fellesskapet finansierer
