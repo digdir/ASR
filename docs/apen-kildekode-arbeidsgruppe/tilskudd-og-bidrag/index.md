@@ -55,9 +55,9 @@ Den økende bruken av språkmodeller og stadig større mengder datakraft har fø
 
 ---
 
-# Morten innspill - Forslag til struktur: Tilskudd og bidrag til åpen kildekode
+## Innspill - Forslag til struktur: Tilskudd og bidrag til åpen kildekode
 
-ToDo: Se på EU finaniseringsmodeller
+ToDo: Se på EU finaniseringsmodeller. Må knyttes til innholdet over
 
 ## Hvordan kan offentlig sektor bidra tilbake?
 
