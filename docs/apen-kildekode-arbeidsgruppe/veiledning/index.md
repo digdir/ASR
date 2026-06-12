@@ -93,39 +93,8 @@ Når disse rammene er på plass, blir det enklere å gå fra ambisjon til prakti
 
 (Norstella - leverandørperspektiv)
 
-## Hvor modne er dere?
 
-Vi kan skille mellom ulike grader av modenhet for åpen kildekode. Det finnes
-flere modeller for beskrivelse av modenhet, én slik modell er skissert av OSPO
-alliance ([Referanse](https://ospo-alliance.org/ggi/introduction/)).
-
-Modellen skisserer fem nivåer av modenhet: bruk, tillit, kultur,
-engasjement og strategi.
-
-![Modenhetsmodell for åpen kildekode](../assets/img/figur-modenhet-apen-kildekode.svg)
-
-På det laveste nivået har vi altså bruk av åpen kildekode i en organisasjon,
-hvor man har tilstrekkelig kompetanse til å ta i bruk, men hovedsakelig er
-konsument.
-
-I neste nivå er det en økt bevissthet og kontrollerte rammer, slik som sikkerhet,
-håndtering av avhengigheter, juridiske og økonomiske forhold.
-
-På kulturnivået er en god praksis internalisert i organisasjonen, og det er
-utviklet en intern kultur der åpen kildekode er en naturlig del av
-arbeidsprosessen.
-
-På de to øverste nivåene går vi til engasjement, hvor organisasjonen er aktiv
-bidragsyter, enten ved å dele aktivt egne prosjekter, eller som bidragsyter i
-eksterne prosjekter.
-
-På det øverste nivået er åpen kildekode bevisst brukt som virkemiddel for å nå
-organisasjonens overordnede mål. Her er åpen kildekode ikke bare et teknisk
-valg, men også et strategisk valg forankret i øverste ledelse.
-
-Åpen kildekode og åpne standarder utfyller hverandre: standardene legger til rette for at systemer kan snakke sammen, mens åpen kildekode gir innsyn i hvordan samhandlingen faktisk er implementert. For offentlig sektor, der tjenester ofte må utveksle data på tvers av etater, kommuner og forvaltningsnivåer, er dette en forutsetning for å unngå at hver virksomhet bygger sine egne, inkompatible siloer. (oppdatere tekst Digdir)
-
-## Første steg: slik kommer dere i gang
+## Operativ veiledning
 
 Åpen kildekode er ikke et prosjekt med start og slutt, men en arbeidsform som modnes over tid. Dere trenger ikke gjøre alt samtidig. Start med ett avgrenset område, for eksempel én løsning eller ett repository.
 
@@ -144,7 +113,7 @@ For mange virksomheter er det nyttig å starte i liten skala:
 - Avklar hva som eventuelt kan deles trygt uten at dere åpner alt på én gang.
 - Sett av navngitt ansvar for oppfølging av sikkerhet, lisens og publisering.
 
-## Sjekkliste for bruk, deling og bidrag
+## Minimumskrav 
 Bruk sjekklisten under for å sikre at dere har det viktigste på plass for bruk, deling og bidrag.
 
 Start med noen enkle grunnkrav før dere går videre til de mer konkrete punktene:
@@ -181,9 +150,45 @@ Praktisk råd: velg ett repository som pilot. Få på plass minimumspakken (lise
 
 Praktisk råd: vurder aktivt hvordan virksomheten kan bidra tilbake til prosjekter dere er avhengige av. Bidrag kan være kode, dokumentasjon og testing, men finansiering er ofte et særlig viktig bidrag for å sikre vedlikehold, sikkerhetsoppdateringer og videre utvikling over tid.
 
+## Hvor modne er dere?
+
+Vi kan skille mellom ulike grader av modenhet for åpen kildekode. Det finnes
+flere modeller for beskrivelse av modenhet, én slik modell er skissert av OSPO
+alliance ([Referanse](https://ospo-alliance.org/ggi/introduction/)).
+
+Modellen skisserer fem nivåer av modenhet: bruk, tillit, kultur,
+engasjement og strategi.
+
+![Modenhetsmodell for åpen kildekode](../assets/img/figur-modenhet-apen-kildekode.svg)
+
+På det laveste nivået har vi altså bruk av åpen kildekode i en organisasjon,
+hvor man har tilstrekkelig kompetanse til å ta i bruk, men hovedsakelig er
+konsument.
+
+I neste nivå er det en økt bevissthet og kontrollerte rammer, slik som sikkerhet,
+håndtering av avhengigheter, juridiske og økonomiske forhold.
+
+På kulturnivået er en god praksis internalisert i organisasjonen, og det er
+utviklet en intern kultur der åpen kildekode er en naturlig del av
+arbeidsprosessen.
+
+På de to øverste nivåene går vi til engasjement, hvor organisasjonen er aktiv
+bidragsyter, enten ved å dele aktivt egne prosjekter, eller som bidragsyter i
+eksterne prosjekter.
+
+På det øverste nivået er åpen kildekode bevisst brukt som virkemiddel for å nå
+organisasjonens overordnede mål. Her er åpen kildekode ikke bare et teknisk
+valg, men også et strategisk valg forankret i øverste ledelse.
+
+Åpen kildekode og åpne standarder utfyller hverandre: standardene legger til rette for at systemer kan snakke sammen, mens åpen kildekode gir innsyn i hvordan samhandlingen faktisk er implementert. For offentlig sektor, der tjenester ofte må utveksle data på tvers av etater, kommuner og forvaltningsnivåer, er dette en forutsetning for å unngå at hver virksomhet bygger sine egne, inkompatible siloer. (oppdatere tekst Digdir)
+(bør bli mer handlingsrettet?)
+
 ## Status - og hvordan kan du bidra?
 
 All informasjon på disse sidene er arbeidsdokumenter som er under arbeid. 
 Vi tar gjerne imot tilbakemeldinger fra alle som er engasjerte i tematikken ☺️. Send tilbakemeldinger oss via [diskusjonssiden på github](https://github.com/digdir/ASR/discussions/3) eller på [epost](mailto:nasjonalarkitektur@digdir.no). Det er også lov å åpne en pull-request mot repoet. Arbeidsgruppen vil vurdere eventuelle bidrag.
+
+### Videre lesing og referanser 
+Liste opp
 
 <!-- LEGG TIL: Noe om Inner sourcing -->
