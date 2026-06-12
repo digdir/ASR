@@ -131,7 +131,7 @@ valg, men også et strategisk valg forankret i øverste ledelse.
 
 Etter at rammene over er avklart, er et praktisk utgangspunkt å jobbe i tre spor:
 
-- **Bruke:** få oversikt over avhengigheter, lisenser og sårbarheter i det dere allerede er avhengige av.
+- **Bruke:** få oversikt over avhengigheter, lisenser og sårbarheter i det dere allerede er avhengige av. (mer om lisenstyper)
 - **Dele:** velg én konkret kandidat for publisering, og avklar lisens, dokumentasjon og forvaltningsansvar.
 - **Bidra:** avklar hvordan virksomheten kan bidra tilbake på en realistisk måte, for eksempel med kode, dokumentasjon, testing eller finansiering.
 
