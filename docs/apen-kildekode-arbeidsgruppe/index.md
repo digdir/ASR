@@ -19,7 +19,6 @@ Hva betyr det for deg?
 (ToDo:
 
 - Legg inn at det vil komme sterkere føringer på dette, og at bruk av åpen kildekode vil bli sterkere styrt fremover
-- [Støtteregisteret Brønnøysundregistrene](https://www.brreg.no/om-oss/registrene-vare/om-stotteregisteret/)
 
 )
 

@@ -57,7 +57,13 @@ Den økende bruken av språkmodeller og stadig større mengder datakraft har fø
 
 ## Innspill - Forslag til struktur: Tilskudd og bidrag til åpen kildekode
 
-ToDo: Se på EU finaniseringsmodeller. Må knyttes til innholdet over
+(ToDo:
+
+- Se på EU finaniseringsmodeller. Må knyttes til innholdet over: Legg inn at det vil komme sterkere føringer på dette, og at bruk av åpen kildekode vil bli sterkere styrt fremover
+
+- [Støtteregisteret Brønnøysundregistrene](https://www.brreg.no/om-oss/registrene-vare/om-stotteregisteret/)
+
+)
 
 ## Hvordan kan offentlig sektor bidra tilbake?
 
