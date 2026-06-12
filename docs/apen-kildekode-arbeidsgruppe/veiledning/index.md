@@ -21,7 +21,7 @@ EU løfter åpen kildekode fram som et virkemiddel for interoperabilitet, digita
 
 Når en har innsyn og rett til å gjøre endringer, kan en rette feil og gjøre forbedringer eller få noen andre til å gjøre dette for seg. Den forbedrede programvaren kan deles tilbake til offentligheten, og ideen er at det på denne måten vokser frem et «økosystem» av kvalitetssikret programvare som en fellesressurs.
 
-## Tre anbefalinger til offentlige virksomheter
+## Anebfalinger: bruke, dele og bidra
 
 Arbeidsgruppen anbefaler tre grep som kan styrke offentlig sektors handlingsrom og redusere sårbarhet over tid.
 
