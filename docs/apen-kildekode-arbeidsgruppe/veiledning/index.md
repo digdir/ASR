@@ -185,3 +185,5 @@ Praktisk råd: vurder aktivt hvordan virksomheten kan bidra tilbake til prosjekt
 
 All informasjon på disse sidene er arbeidsdokumenter som er under arbeid. 
 Vi tar gjerne imot tilbakemeldinger fra alle som er engasjerte i tematikken ☺️. Send tilbakemeldinger oss via [diskusjonssiden på github](https://github.com/digdir/ASR/discussions/3) eller på [epost](mailto:nasjonalarkitektur@digdir.no). Det er også lov å åpne en pull-request mot repoet. Arbeidsgruppen vil vurdere eventuelle bidrag.
+
+<!-- LEGG TIL: Noe om Inner sourcing -->
