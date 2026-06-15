@@ -5,7 +5,7 @@ title: Om arbeidet
 ## Hvem er vi?
 Arbeidsgruppen består av deltakere fra NAV, Norstella, UiO, Helsedirektoratet, Fiskeridirektoratet og Digdir. Gruppen skal bidra til at åpen kildekode blir et foretrukket valg ved utvikling og anskaffelse av nye offentlige løsninger.
 
-Målet er at programvare utviklet for offentlige midler som hovedregel publiseres med åpen lisens, slik at offentlig sektor kan dele og gjenbruke mer på tvers. Samtidig skal offentlig sektor bli tydeligere på å bidra tilbake til utviklermiljøene som forvalter den digitale grunnmuren vi selv bruker.
+Målet er at programvare utviklet for offentlige midler som hovedregel publiseres med åpen lisens, slik at offentlig sektor kan dele og gjenbruke mer på tvers. Samtidig skal offentlig sektor bli tydeligere på å bidra tilbake til utviklermiljøene som forvalter den digitale grunnmuren vi selv bruker. Det er også et mål om økt bruk av åpen kildekode og løsninger basert på åpen kildekode.
 
 Før sommeren skal arbeidsgruppen sammenstille et kunnskapsgrunnlag, lage en høynivå veileder som avmystifiserer åpen kildekode, og vurdere grunnlaget for en tilskuddsordning og andre kortsiktige og langsiktige tiltak.
 
