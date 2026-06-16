@@ -17,11 +17,11 @@ EU løfter åpen kildekode fram som et virkemiddel for interoperabilitet, digita
 
 ## Hva mener vi med åpen kildekode?
 
-Åpen kildekode er programvare som gir tilgang til å fritt bruke, lese og dele kildekoden til programvaren. Dette brukes som betegnelse ettersom mange kommersielle programvareleverandører holder kildekoden sin hemmelig. Når kildekoden som offentlig sektor bruker i sine løsninger er åpen, har myndigheter, befolkning og leverandører innsyn i hvordan programvaren fungerer.
+Åpen kildekode er programvare som gir tilgang til å lese og dele kildekoden til programvaren. Dette brukes som betegnelse ettersom mange kommersielle programvareleverandører holder kildekoden sin hemmelig. Når kildekoden som offentlig sektor bruker i sine løsninger er åpen, har myndigheter, befolkning og leverandører innsyn i hvordan programvaren fungerer. Åpen kildekode betyr ikke nødvendigvis gratis programvare, og det finnes en rekke ulike åpen kildekode-lisenser tilpasset ulike formål. 
 
 Når en har innsyn og rett til å gjøre endringer, kan en rette feil og gjøre forbedringer eller få noen andre til å gjøre dette for seg. Den forbedrede programvaren kan deles tilbake til offentligheten, og ideen er at det på denne måten vokser frem et «økosystem» av kvalitetssikret programvare som en fellesressurs.
 
-## Anebfalinger: bruke, dele og bidra
+## Anbefalinger: bruke, dele og bidra
 
 Arbeidsgruppen anbefaler tre grep som kan styrke offentlig sektors handlingsrom og redusere sårbarhet over tid.
 
