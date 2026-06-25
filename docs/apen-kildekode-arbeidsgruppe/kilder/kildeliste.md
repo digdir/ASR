@@ -29,6 +29,7 @@ Brukes til praktiske retningslinjer, metodikk og innforing i hvordan apen kildek
 | Open Source Guides | Guide | GitHub | [Lenke](https://opensource.guide/) | Samling av nyttige ressurser for prosjekter og bidragsytere | Høy |
 | TODO Group Guides | Guide | Linux Foundation | [Lenke](https://todogroup.org/guides/) | Struktur og organisering av open source-arbeid i virksomheter | Høy |
 | Lista med delat material | Wiki | Open Data Knowledge Sharing / GitLab | [Lenke](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/Lista-med-delat-material) | Relevant som samling av delt materiale og åpne ressurser i praksis | Middels |
+| NOSAD - Network open source and data | Nettverk / ressurssamling | NOSAD | [Lenke](https://nosad.se/tips) | Relevant svensk ressurssamling for åpen kildekode, åpne data og kunnskapsdeling | Høy |
 | UK Government OSS Guidance | Veiledning | UK Government | [Lenke](https://www.gov.uk/guidance/be-open-and-use-open-source) | Relevant offentlig veiledning fra annet lands forvaltning | Middels |
 | Code.gov Playbook | Veiledning | Digital.gov / USA | [Lenke](https://code.gov/playbook/) | Relevant prosessveiledning for offentlig open source-arbeid | Middels |
 | Choose an open source license | Veiledning | choosealicense.com | [Lenke](https://choosealicense.com/) | Relevant for valg av lisens ved publisering av kode | Høy |
@@ -117,7 +118,6 @@ Brukes til kilder om innkjop, virkemidler, stotteordninger og finansieringsiniti
 | Open Source Pledge | Finansieringsinitiativ | Open Source Pledge | [Lenke](https://opensourcepledge.com/) | Relevant som eksempel på forpliktende finansiering av open source-økosystemet og bærekraft for kritiske avhengigheter | Lav |
 | Open Source Collective | Finansieringsplattform | Open Source Collective | [Lenke](https://oscollective.org/) | Eksempel på infrastruktur for finansiering og forvaltning av åpne prosjekter; relevant ved vurdering av støtte til kritiske komponenter | Lav |
 | Sustain OSS | Fellesskap / initiativ | Sustain OSS | [Lenke](https://sustainoss.org) | Relevant som kunnskaps- og nettverksarena for bærekraftig vedlikehold av åpen kildekode | Middels |
-| NOSAD - Network open source and data | Nettverk / ressurssamling | NOSAD | [Lenke](https://nosad.se/tips) | Relevant svensk ressurssamling for åpen kildekode, åpne data og kunnskapsdeling | Høy |
 | Kuntaliitto: Avoimen lähdekoodin hankintaopas kunnille | Veileder / anskaffelser | Kuntaliitto | [Lenke](https://www.kuntaliitto.fi/julkaisut/2022/2163-avoimen-lahdekoodin-hankintaopas-kunnille) | Relevant nordisk anskaffelsesguide for kommuner som vurderer åpen kildekode | Høy |
 
 ### Eksempler og referanseprosjekter
