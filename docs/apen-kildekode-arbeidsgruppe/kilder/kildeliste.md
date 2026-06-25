@@ -28,6 +28,7 @@ Brukes til praktiske retningslinjer, metodikk og innforing i hvordan apen kildek
 | GitHub Docs - Licensing a repository | Dokumentasjon | GitHub | [Lenke](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository) | Relevant for lisensiering av repoer | Høy |
 | Open Source Guides | Guide | GitHub | [Lenke](https://opensource.guide/) | Samling av nyttige ressurser for prosjekter og bidragsytere | Høy |
 | TODO Group Guides | Guide | Linux Foundation | [Lenke](https://todogroup.org/guides/) | Struktur og organisering av open source-arbeid i virksomheter | Høy |
+| Lista med delat material | Wiki | Open Data Knowledge Sharing / GitLab | [Lenke](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/Lista-med-delat-material) | Relevant som samling av delt materiale og åpne ressurser i praksis | Middels |
 | UK Government OSS Guidance | Veiledning | UK Government | [Lenke](https://www.gov.uk/guidance/be-open-and-use-open-source) | Relevant offentlig veiledning fra annet lands forvaltning | Middels |
 | Code.gov Playbook | Veiledning | Digital.gov / USA | [Lenke](https://code.gov/playbook/) | Relevant prosessveiledning for offentlig open source-arbeid | Middels |
 | Choose an open source license | Veiledning | choosealicense.com | [Lenke](https://choosealicense.com/) | Relevant for valg av lisens ved publisering av kode | Høy |
@@ -116,6 +117,8 @@ Brukes til kilder om innkjop, virkemidler, stotteordninger og finansieringsiniti
 | Open Source Pledge | Finansieringsinitiativ | Open Source Pledge | [Lenke](https://opensourcepledge.com/) | Relevant som eksempel på forpliktende finansiering av open source-økosystemet og bærekraft for kritiske avhengigheter | Lav |
 | Open Source Collective | Finansieringsplattform | Open Source Collective | [Lenke](https://oscollective.org/) | Eksempel på infrastruktur for finansiering og forvaltning av åpne prosjekter; relevant ved vurdering av støtte til kritiske komponenter | Lav |
 | Sustain OSS | Fellesskap / initiativ | Sustain OSS | [Lenke](https://sustainoss.org) | Relevant som kunnskaps- og nettverksarena for bærekraftig vedlikehold av åpen kildekode | Middels |
+| NOSAD - Network open source and data | Nettverk / ressurssamling | NOSAD | [Lenke](https://nosad.se/tips) | Relevant svensk ressurssamling for åpen kildekode, åpne data og kunnskapsdeling | Høy |
+| Kuntaliitto: Avoimen lähdekoodin hankintaopas kunnille | Veileder / anskaffelser | Kuntaliitto | [Lenke](https://www.kuntaliitto.fi/julkaisut/2022/2163-avoimen-lahdekoodin-hankintaopas-kunnille) | Relevant nordisk anskaffelsesguide for kommuner som vurderer åpen kildekode | Høy |
 
 ### Eksempler og referanseprosjekter
 
@@ -138,6 +141,7 @@ Brukes til konkrete offentlige eller semioffentlige prosjekter som viser praksis
 | npmjs | Pakkeregister | npm | [Lenke](https://www.npmjs.com) | Eksempel på sentralt register for JavaScript-pakker, relevant for speiling og robusthet | Middels |
 | NAV GitHub | Eksempel | NAV | [Lenke](https://github.com/navikt) | Sentral inngang til åpne repos i NAV | Høy |
 | Digdir Docs | Dokumentasjon | Digdir | [Lenke](https://docs.digdir.no/) | Relevant som dokumentasjonssamling for offentlig digitalisering | Høy |
+| Hugging Face | Plattform | Hugging Face | [Lenke](https://huggingface.co/) | Relevant som sentral plattform for deling av modeller, datasett og åpen KI-infrastruktur | Høy |
 | EU OSOR examples (cities and regions) | Eksempelsamling | EU / OSOR | [Lenke](https://interoperable-europe.ec.europa.eu/collection/open-source-observatory-osor/open-source-cities-and-regions) | Eksempler på åpen kildekode i offentlig sektor | Middels |
 | DHIS2 | Eksempel / digitalt fellesgode | HISP / UiO | [Lenke](https://dhis2.org/) | Internasjonal open source-plattform utviklet og forvaltet gjennom HISP-nettverket, med bruk i offentlig styring og datainnsamling i mange land | Høy |
 | HISP Centre ved UiO | Fagmiljø / forvaltningsmodell | UiO | [Lenke](https://www.mn.uio.no/hisp/index.html) | Norsk fagmiljø som koordinerer DHIS2-prosjektet og viser hvordan åpen kildekode kan forvaltes gjennom langsiktig akademisk og internasjonalt samarbeid | Høy |
@@ -169,6 +173,8 @@ Brukes til oppsummeringer, vurderinger og analyser som kan underbygge argumentas
 | BlueHats Gazette (Frankrike) | Nyhetsbrev / fagoppdateringer | DINUM (Frankrike) | [Lenke](https://code.gouv.fr/fr/bluehats/tags/gazette/) | Løpende fagoppdateringer fra fransk offentlig forvaltning om åpen kildekode | Middels |
 | Open Source Software Country Intelligence Report - Germany | Rapport | Interoperable Europe Portal | [Lenke](https://interoperable-europe.ec.europa.eu/sites/default/files/inline-files/Open%20Source%20Software%20Country%20Intelligence%20Report%20-%20Germany.docx.pdf) | Landsanalyse med status og tiltak for offentlig open source | Middels |
 | Sweden 2026 Country Report | Rapport | OSOR / Interoperable Europe Portal | [Lenke](https://interoperable-europe.ec.europa.eu/collection/open-source-observatory-osor/news/sweden-2026-country-report) | Nordisk referanse for hvordan desentralisert, bottom-up innforing av open source skjer i offentlig sektor | Høy |
+| Policy för öppen programvara | Policy | Digg | [Lenke](https://www.digg.se/download/18.7069295d19e7ac21c04746/1780485334476/Policy%20f%C3%B6r%20%C3%B6ppen%20programvara.pdf#page=3.19) | Relevant svensk policyreferanse for bruk og styring av åpen programvare | Høy |
+| Riktlinje för öppen programvara | Retningslinje | Digg | [Lenke](https://www.digg.se/download/18.7069295d19e7ac21c04747/1780485362831/Riktlinje%20f%C3%B6r%20%C3%B6ppen%20programvara.pdf) | Relevant svensk retningslinje for praktisk håndtering av åpen programvare i offentlig sektor | Høy |
 | OSS Country Intelligence Report Cyprus 2024 | Rapport | Interoperable Europe Portal | [Lenke](https://interoperable-europe.ec.europa.eu/sites/default/files/inline-files/OSS%20Country%20Intelligence%20Report%20Cyprus%202024.pdf) | Landsanalyse for offentlig open source-arbeid i Kypros | Middels |
 | The European Public Sector Open Source Opportunity | Rapport | Linux Foundation Europe / LF Research | [Lenke](https://www.linuxfoundation.org/hubfs/LF%20Research/European%20Public%20Sector%20Open%20Source%20Opportunity%20-%20Report.pdf?hsLang=en) | Analyse av muligheter, utfordringer og anbefalinger for offentlig sektors rolle i europeisk open source | Høy |
 | The 2026 State of Open Source Report | Rapport / analyse | Open Source Initiative / OpenLogic | [Lenke](https://opensource.org/blog/the-2026-state-of-open-source-report) | Underbygger behov for styring, sikkerhet, vedlikehold og bidrag til open source som strategisk ressurs | Høy |
