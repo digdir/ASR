@@ -21,6 +21,14 @@ EU løfter åpen kildekode fram som et virkemiddel for interoperabilitet, digita
 
 Når en har innsyn og rett til å gjøre endringer, kan en rette feil og gjøre forbedringer eller få noen andre til å gjøre dette for seg. Den forbedrede programvaren kan deles tilbake til offentligheten, og ideen er at det på denne måten vokser frem et «økosystem» av kvalitetssikret programvare som en fellesressurs.
 
+## Hovedregel: åpent når det er forsvarlig
+
+Offentlig sektor bør som hovedregel utvikle og forvalte programvare åpent. Kode bør publiseres så tidlig som mulig når det er forsvarlig, slik at andre kan forstå, bruke og bidra til løsningen. Målet er ikke å åpne alt uten vurdering, men å åpne så mye som mulig innenfor rammene av sikkerhet, personvern, taushetsplikt, rettigheter og samfunnsansvar.
+
+Når hele løsningen ikke kan åpnes, bør virksomheten se etter det som likevel kan deles: deler av koden, dokumentasjonen, API-spesifikasjoner, testverktøy, arkitekturbeskrivelser eller overordnet logikk. Ofte kan nettopp disse delene gjøre løsningen mer forståelig og gjenbrukbar, selv når full publisering ikke er mulig.
+
+Dette er utgangspunktet for de tre anbefalingene under: bruk, del og bidra.
+
 ## Anbefalinger: bruke, dele og bidra
 
 Arbeidsgruppen anbefaler tre grep som kan styrke offentlig sektors handlingsrom og redusere sårbarhet over tid.
