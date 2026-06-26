@@ -154,6 +154,12 @@ a:focus {
   letter-spacing: 0;
 }
 
+.main-content h3 {
+  color: var(--ak-accent-dark);
+  font-weight: 700;
+  border-left: 4px solid var(--ak-accent);
+}
+
 .main-content h2 {
   margin-top: 2.5rem;
   padding-top: 0.2rem;
