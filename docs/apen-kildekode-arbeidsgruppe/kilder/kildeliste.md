@@ -30,6 +30,7 @@ Brukes til praktiske retningslinjer, metodikk og innforing i hvordan apen kildek
 | TODO Group Guides | Guide | Linux Foundation | [Lenke](https://todogroup.org/guides/) | Struktur og organisering av open source-arbeid i virksomheter | Høy |
 | Lista med delat material | Wiki | Open Data Knowledge Sharing / GitLab | [Lenke](https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/Lista-med-delat-material) | Relevant som samling av delt materiale og åpne ressurser i praksis | Middels |
 | NOSAD - Network open source and data | Nettverk / ressurssamling | NOSAD | [Lenke](https://nosad.se/tips) | Relevant svensk ressurssamling for åpen kildekode, åpne data og kunnskapsdeling | Høy |
+| Concise Guide for Evaluating Open Source Software | Veiledning | OpenSSF | [Lenke](https://best.openssf.org/sv/Concise-Guide-for-Evaluating-Open-Source-Software) | Praktisk guide for å vurdere åpen kildekode før bruk eller anskaffelse | Høy |
 | UK Government OSS Guidance | Veiledning | UK Government | [Lenke](https://www.gov.uk/guidance/be-open-and-use-open-source) | Relevant offentlig veiledning fra annet lands forvaltning | Middels |
 | Code.gov Playbook | Veiledning | Digital.gov / USA | [Lenke](https://code.gov/playbook/) | Relevant prosessveiledning for offentlig open source-arbeid | Middels |
 | Choose an open source license | Veiledning | choosealicense.com | [Lenke](https://choosealicense.com/) | Relevant for valg av lisens ved publisering av kode | Høy |
