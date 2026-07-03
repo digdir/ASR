@@ -8,7 +8,7 @@ description: Tiltak, tilskudd og bidrag til åpen kildekode
 
 ## Tiltak, tilskudd og bidrag til åpen kildekode
 
-> **Arbeidsnotat:** 3. Juli, 2026 / Morten G:Denne siden beskriver behov, mulige tiltak og mulige finansieringsmodeller for å styrke åpen kildekode som offentlig sektor bruker, deler og er avhengig av. Teksten er et forslag til samlet struktur og innhold. Tiltakene er ikke juridisk, anskaffelsesfaglig eller økonomisk kvalitetssikret. Slike vurderinger må gjøres før tiltak prioriteres, besluttes eller gjennomføres.
+> **Arbeidsnotat:** 3. Juli, 2026 / Morten G: Denne siden beskriver behov, mulige tiltak og mulige finansieringsmodeller for å styrke åpen kildekode som offentlig sektor bruker, deler og er avhengig av. Teksten er et forslag til samlet struktur og innhold. Tiltakene er ikke juridisk, anskaffelsesfaglig eller økonomisk kvalitetssikret. Slike vurderinger må gjøres før tiltak prioriteres, besluttes eller gjennomføres. Teksten har tatt med innholdet fra både eksisterende side (index.md), og de to tidligere NAV-notatene.
 
 ## Kort oppsummert
 
