@@ -8,6 +8,9 @@ description: Tiltak, tilskudd og bidrag til åpen kildekode
 
 > **Arbeidsnotat:** 3. Juli, 2026 / Morten G: Jeg har laget et nytt dokument som et forsøk på å få inn struktur og mer innhold, men ville ikke fjerne denne siden foreløpig, se her for forslag ny side: [Les forslaget om tilskudd og bidrag til åpen kildekode](forslag-tilskudd-og-bidrag-apen-kildekode.md)
 
+# NB! Se her for forslag ny side:#
+[Les forslaget om tilskudd og bidrag til åpen kildekode](forslag-tilskudd-og-bidrag-apen-kildekode.md)
+Alt under er kun bevart inntil videre...
 
 ### Vi er allerede avhengige av åpen kildekode
 
