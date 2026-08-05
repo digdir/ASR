@@ -49,6 +49,7 @@ Brukes til praktiske retningslinjer, metodikk og innforing i hvordan apen kildek
 | What is enterprise open source? | Artikkel | Red Hat | [Lenke](https://www.redhat.com/en/blog/what-enterprise-open-source) | Forklarer forskjellen mellom generell åpen kildekode og virksomhetsrettet open source med støtte, sikkerhet og livsløpsforvaltning | Middels |
 | Decision factors for open source software procurement | Veiledning | OSS Watch | [Lenke](http://oss-watch.ac.uk/resources/procurement-infopack) | Relevant for vurderingskriterier ved anskaffelse av open source-løsninger og sammenligning med proprietære alternativer | Middels |
 | 5 Open Source Procurement Best Practices | Artikkel / praksisnotat | Anchore | [Lenke](https://anchore.com/blog/5-open-source-procurement-best-practices/) | Praktiske råd om hvordan anskaffelse bør involvere IT, DevOps, sikkerhet, risikostyring og innkjøp | Middels |
+| Tools for publishing Open Source Software | Veiledere og verktøy | Sveitsiske myndigheter | [Lenke](https://github.com/swiss/opensource-guidelines/blob/main/docs/index_en.md) | Veiledning og konkrete verktøy/sjekklister. Sveits har lovfestet krav om publisering av åpne kildekode. | Høy | 
 
 ### Strategier og regelverk
 
