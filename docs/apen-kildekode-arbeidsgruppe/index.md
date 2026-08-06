@@ -26,18 +26,25 @@ For offentlig sektor handler ikke åpen kildekode bare om teknologi. Det handler
 
 ## Europa trapper opp satsingen på åpen kildekode i offentlig sektor
 
-Det er  tydelige signaler fra EU-kommisjonen om at de forventer mer deling og gjenbruk av løsninger i offentlig sektor. De har lansert EU Open Source Strategy med tiltak for finansiering, anskaffelser, vedlikehold og økt bruk av åpne løsninger. 
-Interoperable Europe Act bidrar med bindende krav til deling og gjenbruk av interoperabilitetsløsninger. Offentlige virksomheter skal blant annet:
-- gjøre relevante løsninger, dokumentasjon og kildekode tilgjengelig for gjenbruk
-- prioritere løsninger uten restriktive lisensvilkår, som åpen kildekode, når alternativene ellers er likeverdige
-- tillate at delte løsninger tilpasses og videreutvikles, med visse unntak for tredjepartsrettigheter
-- bruke Interoperable Europe Portal til å finne og dele gjenbrukbare løsninger
+EU-kommisjonen trapper opp satsingen på åpen kildekode som del av arbeidet med europeisk teknologisk suverenitet. I suverenitetspakken inngår **EU Open Source Strategy**, som skal styrke utvikling, bruk, anskaffelse og langsiktig vedlikehold av åpne løsninger.
+**Interoperable Europe Act** gir et juridisk rammeverk for bedre samhandling mellom offentlige virksomheter i Europa. Regelverket stiller blant annet krav om interoperabilitetsvurderinger og legger til rette for at løsninger, spesifikasjoner og annen dokumentasjon kan deles og gjenbrukes mellom offentlige organer. Åpne og gjenbrukbare løsninger skal få en tydeligere plass i dette samarbeidet.
 
-I tillegg utvikler de blant annet OSOR, EU Open Source Solutions Catalogue og Open Internet Stack.
+EU utvikler også konkrete tjenester og fellesarenaer:  
+- **Interoperable Europe Portal** er den felles inngangen til løsninger, kunnskap og samarbeid om interoperabilitet.
+- **EU Open Source Solutions Catalogue** gjør det enklere å finne åpne løsninger utviklet av eller for offentlig sektor.
+- **OSOR – Open Source Observatory** deler kunnskap, erfaringer og eksempler på bruk av åpen kildekode.
+- **Open Internet Stack** skal bidra til tilgjengelige og åpne teknologiske byggeklosser for europeiske digitale tjenester.
 
-**Hva betyr det for deg som  virksomhet?** - EU gir sterkere føringer for at offentlig sektor skal vurdere, bruke og dele åpen kildekode. På kort sikt bør virksomheten få oversikt over egen bruk, stille tydeligere krav i anskaffelser og sikre rettigheter til å dele og videreutvikle programvare.  
+**Hva betyr det for deg som offentlig virksomhet?**  
+EU gir en tydeligere retning: Offentlig sektor bør vurdere åpne alternativer, redusere uheldige leverandøravhengigheter og legge bedre til rette for deling, gjenbruk og videreutvikling.
 
-Vi ønsker dialog om behov, spørsmål og hindringer, og vil utvikle veiledning og praktisk støtte som gjør det enklere å lykkes med åpen kildekode. Les om arbeidsgruppen og hvordan du kan bidra på siden [Om arbeidet](om-arbeidet/).
+På kort sikt bør virksomheten:
+- få oversikt over bruk av åpen kildekode og kritiske teknologiske avhengigheter
+- stille krav til åpne standarder, kildekodetilgang og gjenbruksrettigheter i anskaffelser
+- avklare hvilke egenutviklede løsninger som kan deles
+- ha rutiner for sikkerhet, lisenshåndtering, vedlikehold og bidrag tilbake til utviklingsmiljøene
+
+For å lage veiledning og praktisk støtte som gjør det enklere å lykkes med åpen kildekode ønsker vi dialog om behov, spørsmål og hindringer. Les om arbeidsgruppen og hvordan du kan bidra på siden [Om arbeidet](om-arbeidet/).
 
 <div class="ak-card-grid" aria-label="Hovedinnganger">
   <a class="ak-card" href="veiledning/">
