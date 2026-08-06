@@ -35,7 +35,7 @@ Interoperable Europe Act bidrar med bindende krav til deling og gjenbruk av inte
 
 I tillegg utvikler de blant annet OSOR, EU Open Source Solutions Catalogue og Open Internet Stack.
 
-**Hva betyr det for deg som  virksomhet?** - EU gir sterkere føringer for at offentlig sektor skal vurdere, bruke og dele åpen kildekode. På kort sikt bør virksomheten få oversikt over egen bruk, stille tydeligere krav i anskaffelser og sikre rettigheter til å dele og videreutvikle programvare. 
+**Hva betyr det for deg som  virksomhet?** - EU gir sterkere føringer for at offentlig sektor skal vurdere, bruke og dele åpen kildekode. På kort sikt bør virksomheten få oversikt over egen bruk, stille tydeligere krav i anskaffelser og sikre rettigheter til å dele og videreutvikle programvare.  
 Vi ønsker dialog om behov, spørsmål og hindringer, og vil utvikle veiledning og praktisk støtte som gjør det enklere å lykkes med åpen kildekode.
 
 Les om arbeidsgruppen og hvordan du kan bidra på siden [Om arbeidet](om-arbeidet/).
