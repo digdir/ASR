@@ -147,6 +147,26 @@ a:focus {
   color: var(--ak-text);
 }
 
+.main-content table a {
+  display: inline-block;
+  padding: 0 0.38em;
+  border-radius: 999px;
+  color: var(--ak-accent-dark);
+  font-weight: 700;
+  text-decoration: none;
+  background: rgba(31, 107, 80, 0.12);
+  border: 1px solid rgba(31, 107, 80, 0.24);
+}
+
+.main-content table a:hover,
+.main-content table a:focus {
+  color: var(--ak-surface);
+  background: var(--ak-accent);
+  border-color: var(--ak-accent);
+  outline: 3px solid rgba(31, 107, 80, 0.18);
+  outline-offset: 2px;
+}
+
 .main-content h1,
 .main-content h2,
 .main-content h3 {

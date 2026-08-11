@@ -3,15 +3,17 @@ layout: default
 title: Kilder
 ---
 
-Denne delen samler relevante kilder for arbeidsgruppen. Se [totaloversikt – Kildeliste](https://digdir.github.io/ASR/apen-kildekode-arbeidsgruppe/kilder/kildeliste.html) for alle kilder.
+Denne delen samler relevante kilder for arbeidsgruppen.
+
+> [Åpne totaloversikten over kilder](https://digdir.github.io/ASR/apen-kildekode-arbeidsgruppe/kilder/kildeliste.html)
 
 ## Hovedseksjoner
 
-- [Veiledning og praksis]({{ '/apen-kildekode-arbeidsgruppe/kilder/kildeliste.html#veiledning-og-praksis' | relative_url }})
 - [Strategier og regelverk]({{ '/apen-kildekode-arbeidsgruppe/kilder/kildeliste.html#strategier-og-regelverk' | relative_url }})
+- [Veiledning og praksis]({{ '/apen-kildekode-arbeidsgruppe/kilder/kildeliste.html#veiledning-og-praksis' | relative_url }})
 - [Anskaffelser og finansiering]({{ '/apen-kildekode-arbeidsgruppe/kilder/kildeliste.html#anskaffelser-og-finansiering' | relative_url }})
-- [Eksempler og referanseprosjekter]({{ '/apen-kildekode-arbeidsgruppe/kilder/kildeliste.html#eksempler-og-referanseprosjekter' | relative_url }})
 - [Rapporter og analyser]({{ '/apen-kildekode-arbeidsgruppe/kilder/kildeliste.html#rapporter-og-analyser' | relative_url }})
+- [Eksempler og referanseprosjekter]({{ '/apen-kildekode-arbeidsgruppe/kilder/kildeliste.html#eksempler-og-referanseprosjekter' | relative_url }})
 
 ## KI-genererte dokumenter basert på kilder
 
