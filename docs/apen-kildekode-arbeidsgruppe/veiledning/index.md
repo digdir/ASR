@@ -3,17 +3,22 @@ layout: default
 title: Veiledning
 description: Høynivå veiledning om åpen kildekode i offentlig sektor
 ---
+## Formål og målgruppe
+Denne veilederen skal hjelpe offentlige virksomheter med å bruke, dele og bidra til åpen kildekode på en ansvarlig og praktisk måte. Den er særlig relevant for ledere, produkteiere, arkitekter, utviklere, jurister, innkjøpere, sikkerhetsmiljøer og andre som tar beslutninger om digitale løsninger.
+Veilederen er skrevet som en kort hovedveileder. Den skal gi nok støtte til å komme i gang, mens juridiske, sikkerhetsmessige, anskaffelsesfaglige og tekniske tema kan utdypes i egne moduler.
+
 ## Hvorfor er åpen kildekode viktig for offentlig sektor?
 
-**Åpen kildekode kan gi store fordeler. Løsninger kan i større grad gjenbrukes, og videreutvikles i fellesskap. Åpen kildekode gir også større innsyn og kontroll for offentligheten. Dette gir "innebygd" etterprøvbarhet, som er vesentlig for ansvarlig utvikling av løsninger med komponenter av kunstig intelligens i offentlig sektor, og i det geopolitiske situasjonsbildet vi befinner oss i. Bruk av åpen kildekode åpner også for mer rettferdig konkurranse ved at tilbydere kan bygge videre på det som allerede eksisterer.**
+**Åpen kildekode gir offentlig sektor større åpenhet, kontroll og handlingsrom.** Løsninger kan i større grad gjenbrukes, og videreutvikles i fellesskap. Åpen kildekode gir også større innsyn og kontroll for offentligheten. Dette gir "innebygd" etterprøvbarhet, som er vesentlig for ansvarlig utvikling av løsninger med komponenter av kunstig intelligens i offentlig sektor, og i det geopolitiske situasjonsbildet vi befinner oss i. Bruk av åpen kildekode åpner også for mer rettferdig konkurranse ved at tilbydere kan bygge videre på det som allerede eksisterer.
 
-Mange offentlige virksomheter ønsker å bruke mer åpen kildekode, men diskusjonen blir ofte knyttet til risiko og sikkerhet. Samtidig er realiteten at de fleste digitale løsninger allerede er bygget på åpen kildekode gjennom leverandørene. Moderne web- og skyløsninger er ofte avhengige av hundrevis eller tusenvis av åpne komponenter fra tjenester som for eksempel npmjs.com. Dersom én av disse inneholder sårbarheter eller blir kompromittert, kan det påvirke store deler av løsningen.
+Mange offentlige virksomheter ønsker å bruke mer åpen kildekode, men diskusjonen blir ofte knyttet til risiko og sikkerhet. Samtidig er realiteten at de fleste digitale løsninger allerede er bygget på åpen kildekode gjennom leverandørene. Moderne web- og skyløsninger er ofte avhengige av hundrevis eller tusenvis av åpne komponenter (fra tjenester som for eksempel npmjs.com). Dersom én av disse inneholder sårbarheter eller blir kompromittert, kan det påvirke store deler av løsningen.
 Utfordringer knyttet til programvareforsyningskjeden er derfor ikke noe man møter først når man velger å utvikle eller dele åpen kildekode, det er allerede en del av dagens digitale infrastruktur. Spørsmålet er derfor ikke om man bruker åpen kildekode, men hvordan man forvalter den på en ansvarlig måte.
 
 En ansvarlig forvaltning av åpen kildekode stopper ikke ved egen bruk. Når offentlig sektor er avhengig av disse komponentene i stor skala, er det også et felles ansvar å bidra tilbake gjennom finansiering, deling, vedlikehold og aktiv deltakelse i miljøene som utvikler og forvalter teknologien.
 
-**Hva sier EU?**
-EU løfter åpen kildekode fram som et virkemiddel for interoperabilitet, digital suverenitet og bedre gjenbruk i offentlig sektor. Med føringer gjennom blant annet Interoperable Europe Act, EU Open Source Strategy og relaterte initiativer blir det viktigere å jobbe systematisk med både bruk, deling og bidrag tilbake.
+EU-kommisjonen løfter åpen kildekode fram som et virkemiddel for interoperabilitet, digital suverenitet og bedre gjenbruk i offentlig sektor. Med føringer gjennom blant annet Interoperable Europe Act, EU Open Source Strategy og relaterte initiativer blir det viktigere å jobbe systematisk med både bruk, deling og bidrag tilbake.
+
+Åpen kildekode er derfor ikke bare et teknologivalg, men et virkemiddel for å forvalte offentlige digitale investeringer mer åpent og langsiktig – til nytte for innbyggerne og samfunnet som helhet.
 
 ## Hva mener vi med åpen kildekode?
 
