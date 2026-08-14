@@ -148,7 +148,7 @@ Brukes til oppsummeringer, vurderinger og analyser som kan underbygge argumentas
 | OSS-Based licence Compliance Tools | Verktøyoversikt | OSS Compliance Tooling | [Lenke](https://oss-compliance-tooling.org/Tooling-Landscape/OSS-Based-licence-Compliance-Tools/) | Oversikt over åpne verktøy for lisens- og compliance-arbeid; nyttig ved vurdering av verktøystøtte | Middels |
 | Open Source Vulnerabilities | Datakilde | Google / OSV | [Lenke](https://osv.dev/) | Relevant som åpen sårbarhetsdatabase for open source-avhengigheter og automatisert sårbarhetshåndtering | Middels |
 | NVD - National Vulnerability Database | Datakilde | NIST | [Lenke](https://nvd.nist.gov/) | Sentral sårbarhetsdatabase som kan brukes i prosesser for risikovurdering av open source-komponenter | Middels |
-
+| ROI for Open Source Software Contribution | Rapport | Linux Foundation | [Lenke](https://www.linuxfoundation.org/research/contribution-roi?hsLang=en) | Rapport om fordeler med aktivt bidrag til åpen kilde | Høy |
 
 ### Eksempler og referanseprosjekter
 
