@@ -14,7 +14,7 @@ Gruppen ble etablert i april 2026 og har frem mot sommeren jobbet med å sammens
 
 Offentlig sektor er i dag sterkt avhengig av et fåtall store, internasjonale programvareleverandører. Denne avhengigheten skaper leverandørinnlåsing, geopolitisk sårbarhet og begrenset handlingsrom. Flere europeiske land (Sveits, Frankrike, Tyskland, Italia, Nederland) og EU-kommisjonen har allerede iverksatt strategier for åpen kildekode i offentlig sektor for å møte disse utfordringene.
 
-Arkitektur- og standardiseringsrådet (ASR) behandlet saken i oktober 2025, noe som førte til at DigDir satte ned en arbeidsgruppe som skulle jobbe etter tre anbafalte retninger:
+Arkitektur- og standardiseringsrådet (ASR) behandlet saken i oktober 2025, noe som førte til at Digdir satte ned en arbeidsgruppe som skulle jobbe etter tre anbafalte retninger:
 
 <figure>
   <img src="../assets/img/prinsippmodell.svg" alt="Modell med tre prinsipper: bruke, dele og bidra. Sammen styrker de en åpen digital grunnmur.">
