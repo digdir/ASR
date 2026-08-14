@@ -16,9 +16,9 @@ Utfordringer knyttet til programvareforsyningskjeden er derfor ikke noe man møt
 
 En ansvarlig forvaltning av åpen kildekode stopper ikke ved egen bruk. Når offentlig sektor er avhengig av disse komponentene i stor skala, er det også et felles ansvar å bidra tilbake gjennom finansiering, deling, vedlikehold og aktiv deltakelse i miljøene som utvikler og forvalter teknologien.
 
-EU-kommisjonen løfter åpen kildekode fram som et virkemiddel for interoperabilitet, digital suverenitet og bedre gjenbruk i offentlig sektor. Med føringer gjennom blant annet Interoperable Europe Act, EU Open Source Strategy og relaterte initiativer blir det viktigere å jobbe systematisk med både bruk, deling og bidrag tilbake.
+EU-kommisjonen løfter åpen kildekode fram som et virkemiddel for interoperabilitet, digital suverenitet og bedre gjenbruk i offentlig sektor. Med føringer gjennom blant annet Interoperable Europe Act, EU Open Source Strategy og relaterte initiativer er det viktig å øke kompetansen om tema i offentlig sektor.
 
-Åpen kildekode er derfor ikke bare et teknologivalg, men et virkemiddel for å forvalte offentlige digitale investeringer mer åpent og langsiktig – til nytte for innbyggerne og samfunnet som helhet.
+Åpen kildekode er derfor ikke bare et teknologivalg, men et strategisk valg for å forvalte offentlige digitale investeringer mer åpent og langsiktig, til nytte for innbyggerne og samfunnet som helhet.
 
 ## Hva mener vi med åpen kildekode?
 
