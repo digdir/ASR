@@ -4,13 +4,13 @@ title: Åpen kildekode arbeidsgruppe
 description: Kunnskapsgrunnlag, veiledning og vurderinger for åpen kildekode i offentlig sektor.
 ---
 
-<p class="ak-lead"><strong>Åpen kildekode gjør offentlig sektor mer åpen, robust og handlekraftig.</strong> Når kildekoden deles, blir digitale løsninger lettere å forstå, etterprøve, forbedre og gjenbruke. Samtidig så får offenltig sektor større digital handlingsrom ved at bruk av åpne løsninger gir bedre kontroll over egne systemer, reduserer avhengighet til enkeltleverandører og gjør det enklere å samarbeide på tvers av virksomheter og forvaltningsnivåer.</p>
+<p class="ak-lead"><strong>Åpen kildekode gjør offentlig sektor mer åpen, robust og handlekraftig.</strong> Når kildekoden deles, blir digitale løsninger lettere å forstå, etterprøve, forbedre og gjenbruke. Samtidig får offenltig sektor større digital handlingsrom. Ved bruk av åpen kildekode får vi bedre kontroll over egne systemer, reduserer avhengighet til enkeltleverandører og gjør det enklere å samarbeide på tvers av virksomheter og forvaltningsnivåer.</p>
 
 For offentlig sektor handler ikke åpen kildekode bare om teknologi. Det handler om tillit, kvalitet og felles verdiskaping. Når vi utvikler med offentlige midler, bør resultatene som hovedregel komme fellesskapet til gode.
 
 ## Hvorfor åpen kildekode
 
-- **Betalt én gang, brukt mange ganger**: Når fellesskapet finansierer
+- **Betalt én gang, gjenbrukt mange ganger**: Når fellesskapet finansierer
   utvikling, bør løsningen kunne gjenbrukes, forbedres og deles videre.
 - **Mindre leverandørbinding**: Lukket (proprietær) kode kan gjøre deg avhengig av
   én aktør. Åpen kildekode gir større frihet til å bytte, videreutvikle og
@@ -20,14 +20,13 @@ For offentlig sektor handler ikke åpen kildekode bare om teknologi. Det handler
 - **Lavere risiko**: Geopolitisk uro, prissjokk og konkurser viser hvor
   sårbare digitale avhengigheter kan være. Åpen kildekode kan redusere risiko og
   styrke digital suverenitet.
-- **Mer samarbeid på tvers**: Tverrsektorielle utfordringer krever delte
-  løsninger. Åpen kildekode gjør det enklere å bygge videre på hverandres arbeid,
+- **Mer samarbeid på tvers**: Åpen kildekode gjør det enklere å bygge videre på hverandres arbeid,
   dele kostnader og utvikle bedre tjenester sammen.
 
 ## Europa trapper opp satsingen på åpen kildekode i offentlig sektor
 
 EU-kommisjonen trapper opp satsingen på åpen kildekode som del av arbeidet med europeisk teknologisk suverenitet. I suverenitetspakken inngår **EU Open Source Strategy**, som skal styrke utvikling, bruk, anskaffelse og langsiktig vedlikehold av åpne løsninger.
-**Interoperable Europe Act** gir et juridisk rammeverk for bedre samhandling mellom offentlige virksomheter i Europa. Regelverket stiller blant annet krav om interoperabilitetsvurderinger og legger til rette for at løsninger, spesifikasjoner og annen dokumentasjon kan deles og gjenbrukes mellom offentlige virksomheter. Åpne og gjenbrukbare løsninger skal få en tydeligere plass i dette samarbeidet.
+**Interoperable Europe Act** gir et juridisk rammeverk for bedre samhandling mellom offentlige virksomheter i Europa. Regelverket stiller blant annet krav om interoperabilitetsvurderinger og legger til rette for at løsninger, spesifikasjoner og annen dokumentasjon kan deles og gjenbrukes mellom offentlige virksomheter. Åpne og gjenbrukbare løsninger blir blir pekt på som strategisk viktig for å oppnå samhandling på tvers.
 
 EU utvikler også konkrete tjenester og fellesarenaer:  
 - **Interoperable Europe Portal** er den felles inngangen til løsninger, kunnskap og samarbeid om interoperabilitet.
@@ -35,16 +34,16 @@ EU utvikler også konkrete tjenester og fellesarenaer:
 - **OSOR – Open Source Observatory** deler kunnskap, erfaringer og eksempler på bruk av åpen kildekode.
 - **Open Internet Stack** skal bidra til tilgjengelige og åpne teknologiske byggeklosser for europeiske digitale tjenester.
 
-## Hva betyr det for deg som offentlig virksomhet?
+## Hva betyr det for deg?
 EU gir en tydeligere retning: Offentlig sektor bør vurdere åpne alternativer, redusere uheldige leverandøravhengigheter og legge bedre til rette for deling, gjenbruk og videreutvikling.
 
 På kort sikt bør virksomheten:
 - få oversikt over bruk av åpen kildekode og kritiske teknologiske avhengigheter
 - stille krav til åpne standarder, kildekodetilgang og gjenbruksrettigheter i anskaffelser
-- avklare hvilke egenutviklede løsninger som kan deles
+- avklare hvilke egenutviklede løsninger som kan deles åpent og gjenbrukes av andre
 - ha rutiner for sikkerhet, lisenshåndtering, vedlikehold og bidrag tilbake til utviklingsmiljøene
 
-For å lage veiledning og praktisk støtte som gjør det enklere å lykkes med åpen kildekode ønsker vi dialog om behov, spørsmål og hindringer. Les om arbeidsgruppen og hvordan du kan bidra på siden [Om arbeidet](om-arbeidet/).
+For å lage veiledning og praktisk støtte som hjelper offentlig sektor til å lykkes med åpen kildekode, ønsker vi dialog om behov, spørsmål og hindringer. Les om arbeidsgruppen og hvordan du kan bidra på siden [Om arbeidet](om-arbeidet/).
 
 <div class="ak-card-grid" aria-label="Hovedinnganger">
   <a class="ak-card" href="veiledning/">
