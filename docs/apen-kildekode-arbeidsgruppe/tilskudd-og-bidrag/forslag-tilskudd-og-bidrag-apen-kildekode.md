@@ -39,6 +39,12 @@ Arbeidsgruppen bruker tre hovedgrep for å beskrive åpen kildekode i offentlig 
 
 ## Hvorfor bør offentlig sektor bidra tilbake?
 
+> En rapport fra Linux Foundation [ROI for Open Source Software Contribution](https://www.linuxfoundation.org/research/contribution-roi?hsLang=en), viser at virksomheter kan få betydelig mer verdi av å bidra aktivt til åpen kildekode, ikke bare bruke den. Bidrag kan blant annet gi raskere utvikling, bedre tilgang til feilrettinger og sikkerhetsoppdateringer, større mulighet til å påvirke videreutviklingen av programvaren og bedre tilgang på kompetanse. Rapporten anslår at ulike former for bidrag kan gi et nytte-kostnadsforhold på rundt 2–5 ganger investeringen.
+
+> Et annet viktig funn er at passiv bruk (uten aktive bidrag tilbake) av åpen kildekode kan føre til økte kostnader over tid. Virksomheter som lager egne tilpasninger, private versjoner eller midlertidige løsninger uten å få endringene inn i hovedprosjektet, kan bygge opp teknisk gjeld. Dette gir mer arbeid med vedlikehold, oppgraderinger og integrasjon senere. Rapporten peker derfor på at det ofte er mer lønnsomt å bidra endringer tilbake til prosjektet enn å vedlikeholde egne løsninger alene. For offentlig sektor er dette relevant fordi verdien av åpen kildekode ikke bare handler om å spare lisenskostnader. Aktiv deltakelse kan også bidra til en mer bærekraftig forvaltning, deling av utviklingskostnader og bedre samarbeid om felles digitale løsninger.
+
+> Merk: De konkrete gevinsttallene i rapporten må ses i sammenheng med at undersøkelsen i hovedsak bygger på erfaringer fra næringslivet og teknologiorganisasjoner, og ikke er spesifikt utformet for norsk offentlig sektor.
+
 ### Vi er allerede avhengige av åpen kildekode
 
 Offentlig sektor bygger i praksis på et stort antall åpne komponenter. Det gjelder både programvare vi utvikler selv, løsninger vi kjøper fra leverandører, skytjenester, utviklingsverktøy, integrasjoner og teknisk infrastruktur.
@@ -625,6 +631,11 @@ Eksempler:
 ## Kilder og videre lesing
 
 > **Arbeidsnotat:** 3. Juli, 2026 / Morten G: Bør gå gjennom kildelisten, og knytte til kildelisten ellers i arbeidsgruppen og særlig til kilder om finansiering, anskaffelser, EU-spor, sikkerhet og forvaltning.
+
+### Rapporter
+
+- [ROI for Open Source Software Contribution](https://www.linuxfoundation.org/research/contribution-roi?hsLang=en)
+
 
 ### EU og europeiske spor
 
