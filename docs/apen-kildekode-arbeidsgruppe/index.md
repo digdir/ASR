@@ -28,20 +28,22 @@ For offentlig sektor handler ikke åpen kildekode bare om teknologi. Det handler
 EU-kommisjonen trapper opp satsingen på åpen kildekode som del av arbeidet med europeisk teknologisk suverenitet. I suverenitetspakken inngår **EU Open Source Strategy**, som skal styrke utvikling, bruk, anskaffelse og langsiktig vedlikehold av åpne løsninger.
 **Interoperable Europe Act** gir et juridisk rammeverk for bedre samhandling mellom offentlige virksomheter i Europa. Regelverket stiller blant annet krav om interoperabilitetsvurderinger og legger til rette for at løsninger, spesifikasjoner og annen dokumentasjon kan deles og gjenbrukes mellom offentlige virksomheter. Åpne og gjenbrukbare løsninger blir blir pekt på som strategisk viktig for å oppnå samhandling på tvers.
 
-EU utvikler også konkrete tjenester og fellesarenaer:  
+EU-kommisjonen utvikler også konkrete tjenester og fellesarenaer:  
 - **Interoperable Europe Portal** er den felles inngangen til løsninger, kunnskap og samarbeid om interoperabilitet.
 - **EU Open Source Solutions Catalogue** gjør det enklere å finne åpne løsninger utviklet av eller for offentlig sektor.
 - **OSOR – Open Source Observatory** deler kunnskap, erfaringer og eksempler på bruk av åpen kildekode.
 - **Open Internet Stack** skal bidra til tilgjengelige og åpne teknologiske byggeklosser for europeiske digitale tjenester.
 
 ## Hva betyr det for deg?
-EU gir en tydeligere retning: Offentlig sektor bør vurdere åpne alternativer, redusere uheldige leverandøravhengigheter og legge bedre til rette for deling, gjenbruk og videreutvikling.
+Du bør alltid vurdere åpne alternativer, redusere uheldige leverandøravhengigheter og legge bedre til rette for deling, gjenbruk og videreutvikling.
 
 På kort sikt bør virksomheten:
 - få oversikt over bruk av åpen kildekode og kritiske teknologiske avhengigheter
 - stille krav til åpne standarder, kildekodetilgang og gjenbruksrettigheter i anskaffelser
 - avklare hvilke egenutviklede løsninger som kan deles åpent og gjenbrukes av andre
 - ha rutiner for sikkerhet, lisenshåndtering, vedlikehold og bidrag tilbake til utviklingsmiljøene
+
+Ved å ha kontroll på egen bruk av åpen kildekode som er laget av andre, blir det enklere å vurdere hvordan du kan bidra tilbake til utviklingsmiljøene. Det er viktig at offentlig sektor støtter disse miljøene for å sikre bærekrafitige og sikre løsninger for samfunnet og innbyggerene.
 
 For å lage veiledning og praktisk støtte som hjelper offentlig sektor til å lykkes med åpen kildekode, ønsker vi dialog om behov, spørsmål og hindringer. Les om arbeidsgruppen og hvordan du kan bidra på siden [Om arbeidet](om-arbeidet/).
 
