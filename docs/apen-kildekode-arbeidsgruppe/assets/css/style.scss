@@ -149,8 +149,8 @@ a:focus {
 
 .ak-guide-layout {
   display: grid;
-  grid-template-columns: minmax(15rem, 18rem) minmax(0, 1fr);
-  gap: 2rem;
+  grid-template-columns: minmax(14rem, 16.5rem) minmax(0, 1fr);
+  gap: 1.5rem;
   align-items: start;
 }
 
@@ -158,18 +158,20 @@ a:focus {
   position: sticky;
   top: 1.25rem;
   z-index: 2;
-  padding: 1rem 1rem 1rem 1.1rem;
+  padding: 0.75rem 0.8rem 0.85rem 0.85rem;
   border: 1px solid var(--ak-border);
   border-radius: 1rem;
   background: var(--ak-surface);
+  font-size: 0.92rem;
+  line-height: 1.45;
 }
 
 .ak-guide-toc h2 {
   margin-top: 0;
-  margin-bottom: 0.75rem;
+  margin-bottom: 0.6rem;
   padding-top: 0;
   border-top: 0;
-  font-size: 1.1rem;
+  font-size: 1rem;
 }
 
 .ak-guide-toc ul {
@@ -178,12 +180,12 @@ a:focus {
 }
 
 .ak-guide-toc li + li {
-  margin-top: 0.45rem;
+  margin-top: 0.2rem;
 }
 
 .ak-guide-toc a {
   display: block;
-  padding: 0.2rem 0;
+  padding: 0.08rem 0;
   color: var(--ak-accent-dark);
   font-weight: 600;
   text-decoration: none;
