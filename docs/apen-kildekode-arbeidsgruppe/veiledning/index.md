@@ -12,7 +12,7 @@ description: Høynivå veiledning om åpen kildekode i offentlig sektor
   <li><a href="#formaal-og-malgruppe">Formål og målgruppe</a></li>
   <li><a href="#hvorfor-er-apen-kildekode-viktig-for-offentlig-sektor">Hvorfor er åpen kildekode viktig for offentlig sektor?</a></li>
   <li><a href="#hva-mener-vi-med-apen-kildekode">Hva mener vi med åpen kildekode?</a></li>
-  <li><a href="#hovedregel-apent-nar-det-er-forsvarlig">Hovedregel: åpent når det er forsvarlig</a></li>
+  <li><a href="#hovedregel-apen-kildekode-som-hovedregel">Åpen kildekode som hovedregel</a></li>
   <li><a href="#anbefalinger-bruke-dele-og-bidra">Anbefalinger: bruke, dele og bidra</a></li>
   <li><a href="#hva-får-dere-igjen">Hva får dere igjen?</a></li>
   <li><a href="#for-dere-starter-fa-kontroll-pa-rammene">Før dere starter: få kontroll på rammene</a></li>
@@ -56,39 +56,56 @@ EU-kommisjonen løfter åpen kildekode fram som et virkemiddel for interoperabil
 
 For offentlig sektor bør åpen kildekode ses som en del av hele livsløpet til digitale løsninger – fra valg og anskaffelse til utvikling, deling, drift, videreutvikling og bidrag tilbake til fellesskapet.
 
-<a id="hovedregel-apent-nar-det-er-forsvarlig"></a>
-## Hovedregel: åpent når det er forsvarlig
+<a id="hovedregel-apen-kildekode-som-hovedregel"></a>
+## Åpen kildekode som hovedregel
 
-Offentlig sektor bør som hovedregel utvikle og forvalte programvare åpent. Kode bør publiseres så tidlig som mulig når det er forsvarlig, slik at andre kan forstå, bruke og bidra til løsningen. Målet er ikke å åpne alt uten vurdering, men å åpne så mye som mulig innenfor rammene av sikkerhet, personvern, taushetsplikt, rettigheter og samfunnsansvar.
+Når offentlig sektor utvikler programvare selv eller får det utviklet for offentlige midler, bør kildekoden som hovedregel gjøres åpent tilgjengelig under en åpen lisens.
 
-Når hele løsningen ikke kan åpnes, bør virksomheten se etter det som likevel kan deles: deler av koden, dokumentasjonen, API-spesifikasjoner, testverktøy, arkitekturbeskrivelser eller overordnet logikk. Ofte kan nettopp disse delene gjøre løsningen mer forståelig og gjenbrukbar, selv når full publisering ikke er mulig.
+Planlegg for åpenhet fra starten, og publiser koden så tidlig som mulig når det er forsvarlig. Gjør deling til en del av utviklings- og forvaltningsløpet, slik at åpenhet, dokumentasjon og tydelig ansvar bygges inn fra starten.
 
-Dette er utgangspunktet for de tre anbefalingene under: bruk, del og bidra.
+Vurder hva som kan deles innenfor hensynet til blant annet informasjonssikkerhet, personvern, nasjonal sikkerhet, juridiske forhold, lisensiering og tredjepartsavhengigheter. Hvis hele løsningen ikke kan åpnes, vurder hvilke deler som likevel kan deles, for eksempel kildekode, dokumentasjon, API-spesifikasjoner, testverktøy eller arkitekturbeskrivelser.
+
+Hovedregelen følges opp gjennom tre anbefalinger for hvordan offentlig sektor bør **bruke, dele og bidra** til åpen kildekode.
 
 <a id="anbefalinger-bruke-dele-og-bidra"></a>
-## Anbefalinger: bruke, dele og bidra
+## Anbefalinger: bruk, del og bidra
 
-Arbeidsgruppen anbefaler tre grep som kan styrke offentlig sektors handlingsrom og redusere sårbarhet over tid.
+Anbefalingene dekker ulike deler av livsløpet: hva dere bygger løsningene på, hva dere gjør tilgjengelig for andre, og hvordan dere tar ansvar for den åpne programvaren dere selv er avhengige av.
 
 <figure class="ak-figure ak-figure--compact" align="center">
   <img src="../assets/img/prinsippmodell.svg" alt="Modell med tre anbefalinger: bruke, dele og bidra. Sammen styrker de en åpen digital grunnmur." width="760">
   <figcaption>Figur: Tre anbefalinger for åpen kildekode i offentlig sektor.</figcaption>
 </figure>
 
-### Bruke: Åpen kildekode som foretrukket valg
-Ved nye anskaffelser og utviklingsløp bør åpen kildekode velges der det er mulig og gir ønsket kvalitet. Dette gjelder både løsninger dere bygger selv og løsninger dere kjøper.
+### Bruk: vurder åpen kildekode først
 
-Gevinsten er særlig økt endringsevne: åpne løsninger og åpne standarder gjør det lettere å bytte komponenter og leverandører uten å starte på nytt.
+Undersøk om eksisterende åpen kildekode kan dekke behovet eller brukes som utgangspunkt før dere utvikler eller kjøper noe nytt.
 
-### Dele: Åpent som standard
-Programvare utviklet for offentlige midler bør som hovedregel publiseres med åpen lisens. Målet er å åpne så mye som mulig innenfor det som er forsvarlig.
+Vurder kvalitet, sikkerhet, vedlikehold, kompetanse og kostnader gjennom hele livsløpet. Skaff oversikt over komponenter, avhengigheter og lisenser, og still krav som gjør det mulig å videreutvikle løsningen eller bytte leverandør senere.
 
-Åpen deling gir mer innsyn, bedre etterprøvbarhet og bedre grunnlag for gjenbruk på tvers av virksomheter.
+Bruk åpne løsninger, åpne grensesnitt og kontroll over egne data til å bevare endringsevne og digitalt handlingsrom. Unngå unødvendig innlåsing i enkeltleverandører, teknologier eller forvaltningsmodeller.
 
-### Bidra: Sikre den digitale grunnmuren
-Offentlig sektor er avhengig av åpne prosjekter som ofte vedlikeholdes av små miljøer. Når kritiske prosjekter svekkes, øker risikoen for mange tjenester samtidig.
+Målet er ikke å velge åpen kildekode uansett, men å **vurdere det først og velge det når det samlet sett er et godt og forsvarlig alternativ.**
 
-Bidrag kan være kode, dokumentasjon, testing og deltakelse i fagmiljø, men finansiering er ofte særlig viktig for å sikre vedlikehold og sikkerhetsoppdateringer over tid.
+### Del: åpent som hovedregel
+
+Publiser programvare som utvikles for offentlige midler under en åpen lisens når det er forsvarlig.
+
+Deling handler ikke bare om gjenbruk. Åpen kildekode gir også innsyn og mulighet for etterprøving av digitale løsninger offentlig sektor utvikler og bruker. Dette er særlig viktig når løsningene påvirker rettigheter, tjenester og samfunnsfunksjoner.
+
+Gjør koden mulig å forstå og ta i bruk. Sørg for tydelig lisens, nødvendig dokumentasjon, kontaktpunkt og avklart ansvar for videre forvaltning.
+
+Skjerm det som må skjermes, men ikke hold hele løsningen lukket dersom begrensningen bare gjelder enkelte deler.
+
+### Bidra: sikre den digitale grunnmuren
+
+Kartlegg hvilke åpne prosjekter og komponenter virksomheten er avhengig av, og vurder hvordan dere kan bidra tilbake til dem.
+
+Bidra med det som gir størst verdi: kode, feilretting, dokumentasjon, testing, sikkerhetsarbeid, deltakelse i fagmiljøer eller finansiering. For kritiske avhengigheter bør virksomheten aktivt bidra til at prosjektet har nødvendig vedlikehold, sikkerhetsoppdateringer og bærekraftig videreutvikling.
+
+Bruk også bidrag som en måte å bygge kompetanse og få større innsikt og innflytelse i programvare virksomheten er avhengig av.
+
+Å bidra tilbake er en del av ansvarlig forvaltning av den digitale grunnmuren offentlig sektor bygger på.
 
 <a id="hva-far-dere-igjen"></a>
 ## Hva får dere igjen?
