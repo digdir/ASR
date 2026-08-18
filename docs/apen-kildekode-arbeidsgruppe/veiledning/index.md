@@ -9,27 +9,29 @@ description: Høynivå veiledning om åpen kildekode i offentlig sektor
 <h2>Innhold</h2>
 
 <ul>
-  <li><a href="#formål-og-målgruppe">Formål og målgruppe</a></li>
-  <li><a href="#hvorfor-er-åpen-kildekode-viktig-for-offentlig-sektor">Hvorfor er åpen kildekode viktig for offentlig sektor?</a></li>
-  <li><a href="#hva-mener-vi-med-åpen-kildekode">Hva mener vi med åpen kildekode?</a></li>
-  <li><a href="#hovedregel-åpent-når-det-er-forsvarlig">Hovedregel: åpent når det er forsvarlig</a></li>
+  <li><a href="#formaal-og-malgruppe">Formål og målgruppe</a></li>
+  <li><a href="#hvorfor-er-apen-kildekode-viktig-for-offentlig-sektor">Hvorfor er åpen kildekode viktig for offentlig sektor?</a></li>
+  <li><a href="#hva-mener-vi-med-apen-kildekode">Hva mener vi med åpen kildekode?</a></li>
+  <li><a href="#hovedregel-apent-nar-det-er-forsvarlig">Hovedregel: åpent når det er forsvarlig</a></li>
   <li><a href="#anbefalinger-bruke-dele-og-bidra">Anbefalinger: bruke, dele og bidra</a></li>
   <li><a href="#hva-får-dere-igjen">Hva får dere igjen?</a></li>
-  <li><a href="#før-dere-starter-få-kontroll-på-rammene">Før dere starter: få kontroll på rammene</a></li>
+  <li><a href="#for-dere-starter-fa-kontroll-pa-rammene">Før dere starter: få kontroll på rammene</a></li>
   <li><a href="#operativ-veiledning">Operativ veiledning</a></li>
   <li><a href="#minimumskrav">Minimumskrav</a></li>
   <li><a href="#hvor-modne-er-dere">Hvor modne er dere?</a></li>
-  <li><a href="#første-steg-slik-kommer-dere-i-gang">Første steg: slik kommer dere i gang</a></li>
-  <li><a href="#sjekkliste-før-publisering-eller-anskaffelse">Sjekkliste før publisering eller anskaffelse</a></li>
+  <li><a href="#forste-steg-slik-kommer-dere-i-gang">Første steg: slik kommer dere i gang</a></li>
+  <li><a href="#sjekkliste-for-publisering-eller-anskaffelse">Sjekkliste før publisering eller anskaffelse</a></li>
 </ul>
 </aside>
 
 <div class="ak-guide-body" markdown="1">
 
+<a id="formaal-og-malgruppe"></a>
 ## Formål og målgruppe
 Denne veilederen skal hjelpe offentlige virksomheter med å bruke, dele og bidra til åpen kildekode på en ansvarlig og praktisk måte. Den er særlig relevant for ledere, produkteiere, arkitekter, utviklere, jurister, innkjøpere, sikkerhetsmiljøer og andre som tar beslutninger om digitale løsninger.
 Veilederen er skrevet som en kort hovedveileder. Den skal gi nok støtte til å komme i gang, mens juridiske, sikkerhetsmessige, anskaffelsesfaglige og tekniske tema kan utdypes i egne moduler.
 
+<a id="hvorfor-er-apen-kildekode-viktig-for-offentlig-sektor"></a>
 ## Hvorfor er åpen kildekode viktig for offentlig sektor?
 
 **Åpen kildekode gir offentlig sektor større åpenhet, kontroll og handlingsrom.** Løsninger kan i større grad gjenbrukes, og videreutvikles i fellesskap. Åpen kildekode gir også større innsyn og kontroll for offentligheten. Dette gir "innebygd" etterprøvbarhet, som er vesentlig for ansvarlig utvikling av løsninger med komponenter av kunstig intelligens i offentlig sektor, og i det geopolitiske situasjonsbildet vi befinner oss i. Bruk av åpen kildekode åpner også for mer rettferdig konkurranse ved at tilbydere kan bygge videre på det som allerede eksisterer.
@@ -43,6 +45,7 @@ EU-kommisjonen løfter åpen kildekode fram som et virkemiddel for interoperabil
 
 Åpen kildekode er derfor ikke bare et teknologivalg, men et strategisk valg for å forvalte offentlige digitale investeringer mer åpent og langsiktig, til nytte for innbyggerne og samfunnet som helhet.
 
+<a id="hva-mener-vi-med-apen-kildekode"></a>
 ## Hva mener vi med åpen kildekode?
 
 Åpen kildekode er programvare der kildekoden er tilgjengelig, og der en åpen lisens gir rett til å bruke, studere, endre og dele programvaren og kildekoden videre. Dette bygger på definisjonen fra [Open Source Initiative (OSI)](https://opensource.org/osd/).
@@ -53,6 +56,7 @@ EU-kommisjonen løfter åpen kildekode fram som et virkemiddel for interoperabil
 
 For offentlig sektor bør åpen kildekode ses som en del av hele livsløpet til digitale løsninger – fra valg og anskaffelse til utvikling, deling, drift, videreutvikling og bidrag tilbake til fellesskapet.
 
+<a id="hovedregel-apent-nar-det-er-forsvarlig"></a>
 ## Hovedregel: åpent når det er forsvarlig
 
 Offentlig sektor bør som hovedregel utvikle og forvalte programvare åpent. Kode bør publiseres så tidlig som mulig når det er forsvarlig, slik at andre kan forstå, bruke og bidra til løsningen. Målet er ikke å åpne alt uten vurdering, men å åpne så mye som mulig innenfor rammene av sikkerhet, personvern, taushetsplikt, rettigheter og samfunnsansvar.
@@ -61,6 +65,7 @@ Når hele løsningen ikke kan åpnes, bør virksomheten se etter det som likevel
 
 Dette er utgangspunktet for de tre anbefalingene under: bruk, del og bidra.
 
+<a id="anbefalinger-bruke-dele-og-bidra"></a>
 ## Anbefalinger: bruke, dele og bidra
 
 Arbeidsgruppen anbefaler tre grep som kan styrke offentlig sektors handlingsrom og redusere sårbarhet over tid.
@@ -85,6 +90,7 @@ Offentlig sektor er avhengig av åpne prosjekter som ofte vedlikeholdes av små 
 
 Bidrag kan være kode, dokumentasjon, testing og deltakelse i fagmiljø, men finansiering er ofte særlig viktig for å sikre vedlikehold og sikkerhetsoppdateringer over tid.
 
+<a id="hva-far-dere-igjen"></a>
 ## Hva får dere igjen?
 
 ### Mer kontroll over livsløpet
@@ -119,6 +125,7 @@ Gjenbruk er ikke bare god ressursbruk for den enkelte virksomhet; det er en samf
 ### Sterkere digital beredskap
 Åpen kildekode kan redusere sårbarhet ved at virksomheten ikke er like bundet til lukkede løsninger, enkeltleverandører eller utilgjengelig kompetanse. Det gir større handlefrihet ved teknologiske, økonomiske eller geopolitiske endringer.
 
+<a id="for-dere-starter-fa-kontroll-pa-rammene"></a>
 ## Før dere starter: få kontroll på rammene
 
 Før dere går til praktiske valg om bruk, deling og bidrag, bør virksomheten ha kontroll på noen grunnleggende rammer:
@@ -134,6 +141,7 @@ Når disse rammene er på plass, blir det enklere å gå fra ambisjon til prakti
 (Norstella - leverandørperspektiv)
 
 
+<a id="operativ-veiledning"></a>
 ## Operativ veiledning
 
 Åpen kildekode er ikke et prosjekt med start og slutt, men en arbeidsform som modnes over tid. Dere trenger ikke gjøre alt samtidig. Start med ett avgrenset område, for eksempel én løsning eller ett repository.
@@ -153,6 +161,7 @@ For mange virksomheter er det nyttig å starte i liten skala:
 - Avklar hva som eventuelt kan deles trygt uten at dere åpner alt på én gang.
 - Sett av navngitt ansvar for oppfølging av sikkerhet, lisens og publisering.
 
+<a id="minimumskrav"></a>
 ## Minimumskrav 
 Bruk sjekklisten under for å sikre at dere har det viktigste på plass for bruk, deling og bidrag.
 
@@ -190,6 +199,7 @@ Praktisk råd: velg ett repository som pilot. Få på plass minimumspakken (lise
 
 Praktisk råd: vurder aktivt hvordan virksomheten kan bidra tilbake til prosjekter dere er avhengige av. Bidrag kan være kode, dokumentasjon og testing, men finansiering er ofte et særlig viktig bidrag for å sikre vedlikehold, sikkerhetsoppdateringer og videre utvikling over tid.
 
+<a id="hvor-modne-er-dere"></a>
 ## Hvor modne er dere?
 
 Vi kan skille mellom ulike grader av modenhet for åpen kildekode. Det finnes
