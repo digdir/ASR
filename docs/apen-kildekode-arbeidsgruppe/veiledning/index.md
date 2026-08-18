@@ -5,21 +5,23 @@ description: Høynivå veiledning om åpen kildekode i offentlig sektor
 ---
 <div class="ak-guide-layout">
 
-<aside class="ak-guide-toc" markdown="1">
-## Innhold
+<aside class="ak-guide-toc">
+<h2>Innhold</h2>
 
-- [Formål og målgruppe](#formål-og-målgruppe)
-- [Hvorfor er åpen kildekode viktig for offentlig sektor?](#hvorfor-er-åpen-kildekode-viktig-for-offentlig-sektor)
-- [Hva mener vi med åpen kildekode?](#hva-mener-vi-med-åpen-kildekode)
-- [Hovedregel: åpent når det er forsvarlig](#hovedregel-åpent-når-det-er-forsvarlig)
-- [Anbefalinger: bruke, dele og bidra](#anbefalinger-bruke-dele-og-bidra)
-- [Hva får dere igjen?](#hva-får-dere-igjen)
-- [Før dere starter: få kontroll på rammene](#før-dere-starter-få-kontroll-på-rammene)
-- [Operativ veiledning](#operativ-veiledning)
-- [Minimumskrav](#minimumskrav)
-- [Hvor modne er dere?](#hvor-modne-er-dere)
-- [Første steg: slik kommer dere i gang](#første-steg-slik-kommer-dere-i-gang)
-- [Sjekkliste før publisering eller anskaffelse](#sjekkliste-før-publisering-eller-anskaffelse)
+<ul>
+  <li><a href="#formål-og-målgruppe">Formål og målgruppe</a></li>
+  <li><a href="#hvorfor-er-åpen-kildekode-viktig-for-offentlig-sektor">Hvorfor er åpen kildekode viktig for offentlig sektor?</a></li>
+  <li><a href="#hva-mener-vi-med-åpen-kildekode">Hva mener vi med åpen kildekode?</a></li>
+  <li><a href="#hovedregel-åpent-når-det-er-forsvarlig">Hovedregel: åpent når det er forsvarlig</a></li>
+  <li><a href="#anbefalinger-bruke-dele-og-bidra">Anbefalinger: bruke, dele og bidra</a></li>
+  <li><a href="#hva-får-dere-igjen">Hva får dere igjen?</a></li>
+  <li><a href="#før-dere-starter-få-kontroll-på-rammene">Før dere starter: få kontroll på rammene</a></li>
+  <li><a href="#operativ-veiledning">Operativ veiledning</a></li>
+  <li><a href="#minimumskrav">Minimumskrav</a></li>
+  <li><a href="#hvor-modne-er-dere">Hvor modne er dere?</a></li>
+  <li><a href="#første-steg-slik-kommer-dere-i-gang">Første steg: slik kommer dere i gang</a></li>
+  <li><a href="#sjekkliste-før-publisering-eller-anskaffelse">Sjekkliste før publisering eller anskaffelse</a></li>
+</ul>
 </aside>
 
 <div class="ak-guide-body" markdown="1">
