@@ -3,6 +3,27 @@ layout: default
 title: Veiledning
 description: Høynivå veiledning om åpen kildekode i offentlig sektor
 ---
+<div class="ak-guide-layout">
+
+<aside class="ak-guide-toc">
+## Innhold
+
+- [Formål og målgruppe](#formål-og-målgruppe)
+- [Hvorfor er åpen kildekode viktig for offentlig sektor?](#hvorfor-er-åpen-kildekode-viktig-for-offentlig-sektor)
+- [Hva mener vi med åpen kildekode?](#hva-mener-vi-med-åpen-kildekode)
+- [Hovedregel: åpent når det er forsvarlig](#hovedregel-åpent-når-det-er-forsvarlig)
+- [Anbefalinger: bruke, dele og bidra](#anbefalinger-bruke-dele-og-bidra)
+- [Hva får dere igjen?](#hva-får-dere-igjen)
+- [Før dere starter: få kontroll på rammene](#før-dere-starter-få-kontroll-på-rammene)
+- [Operativ veiledning](#operativ-veiledning)
+- [Minimumskrav](#minimumskrav)
+- [Hvor modne er dere?](#hvor-modne-er-dere)
+- [Første steg: slik kommer dere i gang](#første-steg-slik-kommer-dere-i-gang)
+- [Sjekkliste før publisering eller anskaffelse](#sjekkliste-før-publisering-eller-anskaffelse)
+</aside>
+
+<div class="ak-guide-body" markdown="1">
+
 ## Formål og målgruppe
 Denne veilederen skal hjelpe offentlige virksomheter med å bruke, dele og bidra til åpen kildekode på en ansvarlig og praktisk måte. Den er særlig relevant for ledere, produkteiere, arkitekter, utviklere, jurister, innkjøpere, sikkerhetsmiljøer og andre som tar beslutninger om digitale løsninger.
 Veilederen er skrevet som en kort hovedveileder. Den skal gi nok støtte til å komme i gang, mens juridiske, sikkerhetsmessige, anskaffelsesfaglige og tekniske tema kan utdypes i egne moduler.
@@ -228,3 +249,6 @@ Vi tar gjerne imot tilbakemeldinger fra alle som er engasjerte i tematikken ☺�
 - [REUSE Specification](https://reuse.software/spec-3.3/) - standardisert metode for maskinlesbar og ryddig lisens- og opphavsrettsinformasjon i repositories.
 
 <!-- LEGG TIL: Noe om Inner sourcing -->
+
+</div>
+</div>

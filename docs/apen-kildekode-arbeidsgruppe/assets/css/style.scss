@@ -147,6 +147,65 @@ a:focus {
   color: var(--ak-text);
 }
 
+.ak-guide-layout {
+  display: grid;
+  grid-template-columns: minmax(15rem, 18rem) minmax(0, 1fr);
+  gap: 2rem;
+  align-items: start;
+}
+
+.ak-guide-toc {
+  position: sticky;
+  top: 1.25rem;
+  padding: 1rem 1rem 1rem 1.1rem;
+  border: 1px solid var(--ak-border);
+  border-radius: 1rem;
+  background: var(--ak-surface);
+}
+
+.ak-guide-toc h2 {
+  margin-top: 0;
+  margin-bottom: 0.75rem;
+  padding-top: 0;
+  border-top: 0;
+  font-size: 1.1rem;
+}
+
+.ak-guide-toc ul {
+  margin: 0;
+  padding-left: 1.2rem;
+}
+
+.ak-guide-toc li + li {
+  margin-top: 0.45rem;
+}
+
+.ak-guide-toc a {
+  color: var(--ak-accent-dark);
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.ak-guide-toc a:hover,
+.ak-guide-toc a:focus {
+  text-decoration: underline;
+}
+
+.ak-guide-body {
+  min-width: 0;
+}
+
+@media (max-width: 64rem) {
+  .ak-guide-layout {
+    grid-template-columns: 1fr;
+  }
+
+  .ak-guide-toc {
+    position: static;
+    top: auto;
+  }
+}
+
 .main-content table a {
   display: inline-block;
   padding: 0 0.38em;
