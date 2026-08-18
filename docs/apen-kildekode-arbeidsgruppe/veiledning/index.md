@@ -5,7 +5,7 @@ description: Høynivå veiledning om åpen kildekode i offentlig sektor
 ---
 <div class="ak-guide-layout">
 
-<aside class="ak-guide-toc">
+<aside class="ak-guide-toc" markdown="1">
 ## Innhold
 
 - [Formål og målgruppe](#formål-og-målgruppe)
