@@ -16,7 +16,7 @@ description: Høynivå veiledning om åpen kildekode i offentlig sektor
   <li><a href="#anbefalinger-bruke-dele-og-bidra">Anbefalinger: bruke, dele og bidra</a></li>
   <li><a href="#hva-far-dere-igjen">Hva får dere igjen?</a></li>
   <li><a href="#for-dere-starter-fa-kontroll-pa-rammene">Før dere starter: få kontroll på rammene</a></li>
-  <li><a href="#operativ-veiledning">Operativ veiledning</a></li>
+  <li><a href="#fra-ambisjon-til-praksis">Operativ veiledning</a></li>
   <li><a href="#minimumskrav">Minimumskrav</a></li>
   <li><a href="#hvor-modne-er-dere">Hvor modne er dere?</a></li>
   <li><a href="#forste-steg-slik-kommer-dere-i-gang">Første steg: slik kommer dere i gang</a></li>
@@ -176,25 +176,35 @@ Planlegg for nødvendig kapasitet, kompetanse og finansiering gjennom hele livsl
 
 For mange virksomheter vil det være nyttig å samle disse rammene i en enkel intern policy eller veiledning for bruk, deling og bidrag til åpen kildekode.
 
-<a id="operativ-veiledning"></a>
-## Operativ veiledning
+<a id="fra-ambisjon-til-praksis"></a>
+## Fra ambisjon til praksis
 
-Åpen kildekode er ikke et prosjekt med start og slutt, men en arbeidsform som modnes over tid. Dere trenger ikke gjøre alt samtidig. Start med ett avgrenset område, for eksempel én løsning eller ett repository.
+Virksomheter har ulike utgangspunkt. Noen bruker allerede mye åpen kildekode, mens andre har etablert praksis for å dele kode eller bidra aktivt til åpne prosjekter. Start der dere er, og bygg praksisen videre steg for steg.
 
-Etter at rammene over er avklart, er et praktisk utgangspunkt å jobbe i tre spor:
+### Skaff oversikt
 
-- **Bruke:** få oversikt over avhengigheter, lisenser og sårbarheter i det dere allerede er avhengige av. (mer om lisenstyper)
-- **Dele:** velg én konkret kandidat for publisering, og avklar lisens, dokumentasjon og forvaltningsansvar.
-- **Bidra:** avklar hvordan virksomheten kan bidra tilbake på en realistisk måte, for eksempel med kode, dokumentasjon, testing eller finansiering.
+Begynn med å forstå dagens situasjon. Kartlegg hvilke åpne komponenter og løsninger dere allerede bruker, hva dere selv utvikler, og hvilke eksterne prosjekter dere er særlig avhengige av.
 
-Lær underveis, og bruk erfaringer fra andre offentlige virksomheter som allerede har delt kode og praksis åpent.
+Avklar samtidig hvem som har ansvar for lisenser, sikkerhet, publisering og forvaltning.
 
-For mange virksomheter er det nyttig å starte i liten skala:
+### Prøv ut praksisen
 
-- Velg ett system eller én tjeneste dere kjenner godt.
-- Kartlegg hvilke åpne komponenter dere faktisk bruker i dag.
-- Avklar hva som eventuelt kan deles trygt uten at dere åpner alt på én gang.
-- Sett av navngitt ansvar for oppfølging av sikkerhet, lisens og publisering.
+Velg et konkret område der dere kan få erfaring. Det kan være å:
+
+- vurdere en eksisterende åpen løsning før en ny anskaffelse
+- publisere én egnet kodebase og etablere gode rutiner rundt den
+- forbedre styringen av åpne komponenter dere allerede bruker
+- bidra tilbake til et prosjekt virksomheten er avhengig av
+
+Ved publisering bør dere planlegge for åpenhet tidlig. Gjennomgå kode, repository, dokumentasjon og historikk før publisering, og vurder om hele løsningen kan åpnes eller om bare deler bør deles.
+
+Start gjerne avgrenset, men bygg erfaringen inn i virksomhetens ordinære arbeidsprosesser.
+
+### Gjør det til normal praksis
+
+Når dere har erfaring, bør vurderinger av åpen kildekode inngå naturlig i arkitektur, anskaffelser, utvikling, sikkerhet og forvaltning.
+
+Målet er ikke at alle virksomheter skal organisere arbeidet likt, men at **bruk, deling og bidrag blir bevisste valg som følges opp gjennom hele livsløpet**.
 
 <a id="minimumskrav"></a>
 ## Minimumskrav 
