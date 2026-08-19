@@ -15,7 +15,6 @@ description: Høynivå veiledning om åpen kildekode i offentlig sektor
   <li><a href="#hovedregel-apen-kildekode-som-hovedregel">Åpen kildekode som hovedregel</a></li>
   <li><a href="#anbefalinger-bruke-dele-og-bidra">Anbefalinger: bruke, dele og bidra</a></li>
   <li><a href="#hva-far-dere-igjen">Hva får dere igjen?</a></li>
-  <li><a href="#for-dere-starter-fa-kontroll-pa-rammene">Før dere starter: få kontroll på rammene</a></li>
   <li><a href="#hva-ma-dere-ha-kontroll-pa">Hva må dere ha kontroll på?</a></li>
   <li><a href="#fra-ambisjon-til-praksis">Fra ambisjon til praksis</a></li>
   <li><a href="#minimumskrav">Sjekkliste for bruk, deling og bidrag</a></li>
