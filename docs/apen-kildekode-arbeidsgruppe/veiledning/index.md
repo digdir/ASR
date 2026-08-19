@@ -14,7 +14,7 @@ description: Høynivå veiledning om åpen kildekode i offentlig sektor
   <li><a href="#hva-mener-vi-med-apen-kildekode">Hva mener vi med åpen kildekode?</a></li>
   <li><a href="#hovedregel-apen-kildekode-som-hovedregel">Åpen kildekode som hovedregel</a></li>
   <li><a href="#anbefalinger-bruke-dele-og-bidra">Anbefalinger: bruke, dele og bidra</a></li>
-  <li><a href="#hva-får-dere-igjen">Hva får dere igjen?</a></li>
+  <li><a href="#hva-far-dere-igjen">Hva får dere igjen?</a></li>
   <li><a href="#for-dere-starter-fa-kontroll-pa-rammene">Før dere starter: få kontroll på rammene</a></li>
   <li><a href="#operativ-veiledning">Operativ veiledning</a></li>
   <li><a href="#minimumskrav">Minimumskrav</a></li>
