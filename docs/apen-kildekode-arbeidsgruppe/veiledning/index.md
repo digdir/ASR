@@ -153,21 +153,28 @@ Tilgang til kildekode og nødvendige rettigheter gir også flere muligheter ders
 
 Åpen kildekode er derfor ikke bare et spørsmål om teknologi eller kostnader, men om hvordan offentlig sektor bevarer kontroll, tillit, handlingsrom og evne til å videreutvikle digitale tjenester over tid.
 
-<a id="for-dere-starter-fa-kontroll-pa-rammene"></a>
-## Før dere starter: få kontroll på rammene
+## Hva må dere ha kontroll på?
 
-Før dere går til praktiske valg om bruk, deling og bidrag, bør virksomheten ha kontroll på noen grunnleggende rammer:
+Før dere går videre med å bruke, dele eller bidra til åpen kildekode, må virksomheten etablere noen grunnleggende rammer. Det bør være tydelig hvem som beslutter hva som kan åpnes, hvilke krav som gjelder i anskaffelser og utviklingsløp, hvordan sikkerhet og lisensiering håndteres, og hvem som har ansvar for videre forvaltning.
 
-- **Sikkerhet og sårbarheter:** etabler rutiner for å oppdage, håndtere og følge opp sårbarheter og eksponerte hemmeligheter.
-- **Lisenser og rettigheter:** avklar lisensvalg tidlig, og ha oversikt over plikter knyttet til komponentene dere bruker.
-- **Dokumentasjon og forvaltning:** sørg for minimumsnivå for README, lisens, kontaktpunkt og enkel forvaltningsbeskrivelse.
-- **Roller og ansvar:** gjør det tydelig hvem som eier koden, godkjenner endringer og følger opp feil, bidrag og sikkerhet.
-- **Kostnader over tid:** planlegg for drift, vedlikehold, sikkerhetsoppdateringer og kompetanse, ikke bare oppstart.
+Rammene trenger ikke være omfattende, men de bør være kjent og brukes konsekvent i virksomheten.
 
-Når disse rammene er på plass, blir det enklere å gå fra ambisjon til praktisk gjennomføring.
+### Sikkerhet og sårbarheter
+Ha rutiner for å følge opp avhengigheter, sårbarheter og sensitiv informasjon. Bygg sikkerhet inn i utviklings- og forvaltningsprosessen, og avklar hvordan sikkerhetsfeil skal meldes og håndteres.
 
-(Norstella - leverandørperspektiv)
+### Lisenser og rettigheter
+Avklar tidlig hvilke lisenser som gjelder, hvilke rettigheter virksomheten har til programvaren, og hvem som kan beslutte lisensvalg og publisering.
 
+### Dokumentasjon og forvaltning
+Sett tydelige forventninger til dokumentasjon, kontaktpunkt og videre forvaltning. Publisert kode må være mulig å forstå, bruke og følge opp over tid.
+
+### Roller og ansvar
+Gjør det tydelig hvem som eier koden, hvem som kan godkjenne endringer, og hvem som følger opp sikkerhet, feil og eksterne bidrag.
+
+### Kostnader og kompetanse
+Planlegg for nødvendig kapasitet, kompetanse og finansiering gjennom hele livsløpet – fra anskaffelse og utvikling til drift, videreutvikling og avvikling.
+
+For mange virksomheter vil det være nyttig å samle disse rammene i en enkel intern policy eller veiledning for bruk, deling og bidrag til åpen kildekode.
 
 <a id="operativ-veiledning"></a>
 ## Operativ veiledning
@@ -194,15 +201,6 @@ For mange virksomheter er det nyttig å starte i liten skala:
 Bruk sjekklisten under for å sikre at dere har det viktigste på plass for bruk, deling og bidrag.
 
 Start med noen enkle grunnkrav før dere går videre til de mer konkrete punktene:
-
-### Første steg: slik kommer dere i gang
-
-- **Håndter lisenser tidlig:** avklar lisensvalg for egne leveranser og etabler en enkel rutine for tredjepartslisenser.
-- **Sett en minimumsstandard for dokumentasjon:** sørg for README, lisensfil, kontaktpunkt og kort beskrivelse av forvaltning.
-- **Bygg sikkerhet inn i prosessen:** bruk skanning av avhengigheter og hemmeligheter, og avklar hvordan sårbarheter håndteres.
-- **Plasser ansvaret tydelig:** navngi hvem som eier koden, hvem som godkjenner endringer, og hvem som følger opp bidrag og feil.
-
-Når dere vurderer å ta i bruk et åpent prosjekt, er det også nyttig å se etter noen grunnleggende kjennetegn: tydelig lisens, aktivt vedlikehold, god dokumentasjon, åpen styring og en viss stabilitet i kode og videreutvikling.
 
 ### Sjekkliste før publisering eller anskaffelse
 
