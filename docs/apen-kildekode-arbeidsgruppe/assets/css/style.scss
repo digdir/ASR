@@ -259,6 +259,32 @@ a:focus {
   color: var(--ak-accent-dark);
 }
 
+.ak-checklist__box {
+  flex: 0 0 auto;
+  width: 1.65rem;
+  height: 1.65rem;
+  margin-top: 0.12rem;
+  border: 2px solid #ea580c;
+  border-radius: 0.35rem;
+  background: linear-gradient(180deg, #fff7ed, #fed7aa);
+  box-shadow: inset 0 0 0 1px rgba(234, 88, 12, 0.18);
+}
+
+.ak-checklist {
+  margin: 1rem 0 1.5rem;
+}
+
+.ak-checklist__item {
+  display: flex;
+  gap: 0.85rem;
+  align-items: flex-start;
+  margin: 0.85rem 0;
+}
+
+.ak-checklist__text {
+  min-width: 0;
+}
+
 .ak-lead {
   margin: 0 0 1.6rem;
   color: var(--ak-text);
@@ -270,6 +296,27 @@ a:focus {
   text-align: center;
 }
 
+.ak-figure-panel {
+  margin: 1.6rem 0;
+  padding: 1.1rem 1.1rem 1.25rem;
+  border: 1px solid rgba(31, 107, 80, 0.18);
+  border-radius: 1rem;
+  background: linear-gradient(180deg, rgba(31, 107, 80, 0.06), rgba(255, 255, 255, 0.92));
+  box-shadow: var(--ak-shadow);
+}
+
+.ak-figure-panel__title {
+  margin: 0 0 0.4rem;
+  color: var(--ak-accent-dark);
+  font-size: 1.15rem;
+  font-weight: 800;
+}
+
+.ak-figure-panel__body {
+  color: var(--ak-muted);
+  font-size: 0.98rem;
+}
+
 .ak-figure img {
   display: block;
   max-width: 100%;
@@ -278,7 +325,7 @@ a:focus {
 }
 
 .ak-figure--narrow img {
-  width: min(100%, 560px);
+  width: min(100%, 620px);
 }
 
 .ak-figure--wide img {

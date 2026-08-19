@@ -211,29 +211,35 @@ Bruk sjekklisten som støtte når dere vurderer en konkret løsning, kodebase el
 
 ### Når dere skal bruke åpen kildekode
 
-- [ ] Undersøk om eksisterende åpne løsninger kan dekke behovet før dere utvikler eller kjøper nytt.
-- [ ] Vurder kvalitet, sikkerhet, vedlikehold, kompetanse og kostnader gjennom hele livsløpet.
-- [ ] Skaff oversikt over viktige komponenter, avhengigheter og lisenser.
-- [ ] Vurder om løsningen gir tilstrekkelig kontroll over egne data, grensesnitt, portabilitet og mulighet for leverandørbytte.
-- [ ] Avklar hvem som har ansvar for oppdateringer, sårbarheter og videre forvaltning.
+<div class="ak-checklist">
+  <div class="ak-checklist__item"><span class="ak-checklist__box" aria-hidden="true"></span><span class="ak-checklist__text">Undersøk om eksisterende åpne løsninger kan dekke behovet før dere utvikler eller kjøper nytt.</span></div>
+  <div class="ak-checklist__item"><span class="ak-checklist__box" aria-hidden="true"></span><span class="ak-checklist__text">Vurder kvalitet, sikkerhet, vedlikehold, kompetanse og kostnader gjennom hele livsløpet.</span></div>
+  <div class="ak-checklist__item"><span class="ak-checklist__box" aria-hidden="true"></span><span class="ak-checklist__text">Skaff oversikt over viktige komponenter, avhengigheter og lisenser.</span></div>
+  <div class="ak-checklist__item"><span class="ak-checklist__box" aria-hidden="true"></span><span class="ak-checklist__text">Vurder om løsningen gir tilstrekkelig kontroll over egne data, grensesnitt, portabilitet og mulighet for leverandørbytte.</span></div>
+  <div class="ak-checklist__item"><span class="ak-checklist__box" aria-hidden="true"></span><span class="ak-checklist__text">Avklar hvem som har ansvar for oppdateringer, sårbarheter og videre forvaltning.</span></div>
+</div>
 
 ### Når dere skal dele kode
 
-- [ ] Vurder om hele løsningen kan åpnes, eller om enkelte deler må holdes tilbake.
-- [ ] Gjennomgå kode, repository, dokumentasjon og historikk før publisering.
-- [ ] Kontroller at hemmeligheter, tilgangsnøkler, personopplysninger og sensitiv konfigurasjon ikke publiseres.
-- [ ] Avklar rettigheter og velg en tydelig åpen lisens.
-- [ ] Sørg for README, kontaktpunkt og nødvendig dokumentasjon for bygging, bruk og videreutvikling.
-- [ ] Beskriv hvordan bidrag, feil og sikkerhetsmeldinger skal håndteres.
-- [ ] Avklar hvem som eier og forvalter koden over tid.
+<div class="ak-checklist">
+  <div class="ak-checklist__item"><span class="ak-checklist__box" aria-hidden="true"></span><span class="ak-checklist__text">Vurder om hele løsningen kan åpnes, eller om enkelte deler må holdes tilbake.</span></div>
+  <div class="ak-checklist__item"><span class="ak-checklist__box" aria-hidden="true"></span><span class="ak-checklist__text">Gjennomgå kode, repository, dokumentasjon og historikk før publisering.</span></div>
+  <div class="ak-checklist__item"><span class="ak-checklist__box" aria-hidden="true"></span><span class="ak-checklist__text">Kontroller at hemmeligheter, tilgangsnøkler, personopplysninger og sensitiv konfigurasjon ikke publiseres.</span></div>
+  <div class="ak-checklist__item"><span class="ak-checklist__box" aria-hidden="true"></span><span class="ak-checklist__text">Avklar rettigheter og velg en tydelig åpen lisens.</span></div>
+  <div class="ak-checklist__item"><span class="ak-checklist__box" aria-hidden="true"></span><span class="ak-checklist__text">Sørg for README, kontaktpunkt og nødvendig dokumentasjon for bygging, bruk og videreutvikling.</span></div>
+  <div class="ak-checklist__item"><span class="ak-checklist__box" aria-hidden="true"></span><span class="ak-checklist__text">Beskriv hvordan bidrag, feil og sikkerhetsmeldinger skal håndteres.</span></div>
+  <div class="ak-checklist__item"><span class="ak-checklist__box" aria-hidden="true"></span><span class="ak-checklist__text">Avklar hvem som eier og forvalter koden over tid.</span></div>
+</div>
 
 ### Når dere skal bidra tilbake
 
-- [ ] Identifiser åpne prosjekter og komponenter virksomheten er særlig avhengig av.
-- [ ] Vurder om dere bør bidra med kode, feilretting, dokumentasjon, testing, sikkerhetsarbeid, deltakelse i fagmiljøer eller finansiering.
-- [ ] Prioriter oppfølging av avhengigheter som er kritiske for egne tjenester, og vurder om bidrag er et egnet tiltak.
-- [ ] Avklar hvem som kan bidra på vegne av virksomheten, og hvordan bidrag skal godkjennes.
-- [ ] Følg opp om bidragene faktisk styrker vedlikehold, sikkerhet og videreutvikling.
+<div class="ak-checklist">
+  <div class="ak-checklist__item"><span class="ak-checklist__box" aria-hidden="true"></span><span class="ak-checklist__text">Identifiser åpne prosjekter og komponenter virksomheten er særlig avhengig av.</span></div>
+  <div class="ak-checklist__item"><span class="ak-checklist__box" aria-hidden="true"></span><span class="ak-checklist__text">Vurder om dere bør bidra med kode, feilretting, dokumentasjon, testing, sikkerhetsarbeid, deltakelse i fagmiljøer eller finansiering.</span></div>
+  <div class="ak-checklist__item"><span class="ak-checklist__box" aria-hidden="true"></span><span class="ak-checklist__text">Prioriter oppfølging av avhengigheter som er kritiske for egne tjenester, og vurder om bidrag er et egnet tiltak.</span></div>
+  <div class="ak-checklist__item"><span class="ak-checklist__box" aria-hidden="true"></span><span class="ak-checklist__text">Avklar hvem som kan bidra på vegne av virksomheten, og hvordan bidrag skal godkjennes.</span></div>
+  <div class="ak-checklist__item"><span class="ak-checklist__box" aria-hidden="true"></span><span class="ak-checklist__text">Følg opp om bidragene faktisk styrker vedlikehold, sikkerhet og videreutvikling.</span></div>
+</div>
 
 <a id="hvor-modne-er-dere"></a>
 ## Hvor modne er dere?
