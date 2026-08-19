@@ -32,16 +32,19 @@ Veilederen er skrevet som en kort hovedveileder. Den skal gi nok støtte til å 
 <a id="hvorfor-er-apen-kildekode-viktig-for-offentlig-sektor"></a>
 ## Hvorfor er åpen kildekode viktig for offentlig sektor?
 
-**Åpen kildekode gir offentlig sektor større åpenhet, kontroll og handlingsrom.** Løsninger kan i større grad gjenbrukes, og videreutvikles i fellesskap. Åpen kildekode gir også større innsyn og kontroll for offentligheten. Dette gir "innebygd" etterprøvbarhet, som er vesentlig for ansvarlig utvikling av løsninger med komponenter av kunstig intelligens i offentlig sektor, og i det geopolitiske situasjonsbildet vi befinner oss i. Bruk av åpen kildekode åpner også for mer rettferdig konkurranse ved at tilbydere kan bygge videre på det som allerede eksisterer.
+Åpen kildekode gir offentlig sektor større åpenhet, kontroll og handlingsrom. Løsninger kan lettere gjenbrukes og videreutvikles i fellesskap, samtidig som kildekoden gir bedre muligheter for innsyn og etterprøving. Dette er særlig viktig når digitale løsninger påvirker innbyggere og samfunnsfunksjoner, og når kunstig intelligens tas i bruk i offentlig sektor.
 
-Mange offentlige virksomheter ønsker å bruke mer åpen kildekode, men diskusjonen blir ofte knyttet til risiko og sikkerhet. Samtidig er realiteten at de fleste digitale løsninger allerede er bygget på åpen kildekode gjennom leverandørene. Moderne web- og skyløsninger er ofte avhengige av hundrevis eller tusenvis av åpne komponenter (fra tjenester som for eksempel npmjs.com). Dersom én av disse inneholder sårbarheter eller blir kompromittert, kan det påvirke store deler av løsningen.
-Utfordringer knyttet til programvareforsyningskjeden er derfor ikke noe man møter først når man velger å utvikle eller dele åpen kildekode, det er allerede en del av dagens digitale infrastruktur. Spørsmålet er derfor ikke om man bruker åpen kildekode, men hvordan man forvalter den på en ansvarlig måte.
+Åpen kildekode kan også bidra til mer rettferdig konkurranse ved at flere leverandører kan bygge videre på eksisterende løsninger og konkurrere om drift, forvaltning og videreutvikling.
 
-En ansvarlig forvaltning av åpen kildekode stopper ikke ved egen bruk. Når offentlig sektor er avhengig av disse komponentene i stor skala, er det også et felles ansvar å bidra tilbake gjennom finansiering, deling, vedlikehold og aktiv deltakelse i miljøene som utvikler og forvalter teknologien.
+Mange offentlige virksomheter ønsker å bruke mer åpen kildekode, men diskusjonen knyttes ofte til risiko og sikkerhet. Samtidig bygger de fleste moderne digitale løsninger allerede på åpne komponenter, også når løsningene leveres av kommersielle leverandører. Web- og skyløsninger kan være avhengige av hundrevis eller tusenvis av slike komponenter.
 
-EU-kommisjonen løfter åpen kildekode fram som et virkemiddel for interoperabilitet, digital suverenitet og bedre gjenbruk i offentlig sektor. Med føringer gjennom blant annet Interoperable Europe Act, EU Open Source Strategy og relaterte initiativer er det viktig å øke kompetansen om tema i offentlig sektor.
+Risiko i programvareforsyningskjeden oppstår derfor ikke først når virksomheten velger åpen kildekode. Den er allerede en del av dagens digitale infrastruktur. Det sentrale spørsmålet er hvordan virksomheten får oversikt over avhengighetene og forvalter dem på en ansvarlig måte.
 
-Åpen kildekode er derfor ikke bare et teknologivalg, men et strategisk valg for å forvalte offentlige digitale investeringer mer åpent og langsiktig, til nytte for innbyggerne og samfunnet som helhet.
+Ansvarlig bruk stopper heller ikke ved egen virksomhet. Når offentlig sektor er avhengig av åpne komponenter og prosjekter, bør den også vurdere hvordan den kan bidra tilbake gjennom finansiering, deling, vedlikehold eller aktiv deltakelse i utviklingsmiljøene.
+
+EU-kommisjonen løfter åpen kildekode fram som et virkemiddel for interoperabilitet, digital suverenitet og bedre gjenbruk i offentlig sektor. Det gjør kompetanse om bruk, deling og bidrag stadig viktigere også for norsk offentlig sektor.
+
+For virksomhetene betyr dette først og fremst tre ting: **bruk åpne løsninger bevisst, del det dere selv utvikler når det er forsvarlig, og ta ansvar for de åpne komponentene dere er avhengige av.**
 
 <a id="hva-mener-vi-med-apen-kildekode"></a>
 ## Hva mener vi med åpen kildekode?
