@@ -266,7 +266,7 @@ a:focus {
 }
 
 .ak-figure {
-  margin: 2rem auto;
+  margin: 1.5rem auto;
   text-align: center;
 }
 
@@ -278,7 +278,17 @@ a:focus {
 }
 
 .ak-figure--narrow img {
-  width: min(100%, 725px);
+  width: min(100%, 560px);
+}
+
+.ak-figure--wide img {
+  width: min(100%, 700px);
+}
+
+.ak-figure--wide figcaption {
+  max-width: 700px;
+  margin: 0.5rem auto 0;
+  font-size: 1rem;
 }
 
 .ak-figure--compact img {

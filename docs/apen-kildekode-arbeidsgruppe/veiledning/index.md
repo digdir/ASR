@@ -110,37 +110,46 @@ Bruk også bidrag som en måte å bygge kompetanse og få større innsikt og inn
 <a id="hva-far-dere-igjen"></a>
 ## Hva får dere igjen?
 
-### Mer kontroll over livsløpet
-Digitale løsninger i offentlig sektor har ofte lang levetid – gjerne 10–20 år – og det er gjennom hele denne livssyklusen, ikke bare ved anskaffelsen, at kostnadene og risikoen faktisk påløper.
+Åpen kildekode kan gi offentlig sektor større kontroll over digitale løsninger gjennom hele livsløpet. Gevinstene kommer ikke automatisk, men når åpenhet kombineres med god styring, kompetanse og langsiktig forvaltning.
 
-Med proprietær programvare er du prisgitt leverandørens valg gjennom hele løpet: når produktet videreutvikles, når det avvikles («end of life»), hvilke priser som gjelder ved fornyelse, og om du i det hele tatt får migrert dataene dine ut når avtalen tar slutt. Blir leverandøren kjøpt opp, endrer strategi eller går konkurs, kan en kritisk tjeneste stå uten vedlikehold over natten.
+### Større handlingsrom over tid
+Digitale løsninger i offentlig sektor har ofte lang levetid. Behov, leverandører, teknologi og rammebetingelser kan endre seg flere ganger i løpet av denne perioden.
 
-Åpen kildekode flytter kontrollen over livssyklusen til virksomheten selv. Selv om en leverandør trekker seg, finnes koden fortsatt, og en annen aktør kan ta over vedlikehold, feilretting og videreutvikling. Det betyr ikke at åpen kildekode er kostnadsfri – vedlikehold, sikkerhet og oppgradering av avhengigheter må finansieres 
-uansett – men kostnaden blir synlig og styrbar i stedet for skjult i lisens- og avtalevilkår du ikke rår over.
+Med tilgang til kildekoden og nødvendige rettigheter står virksomheten friere til å videreutvikle løsningen, bytte leverandør eller endre forvaltningsmodell. Det gir større endringsevne og reduserer risikoen for at viktige løsninger blir avhengige av valg virksomheten selv ikke kontrollerer.
 
-I praksis bør virksomheten vurdere hele livsløpet allerede ved valg av løsning: ikke bare innkjøps- og utviklingskostnad, men også vedlikehold, kompetanse, migrering inn og ut, og hva en avvikling vil koste. For mange løsninger gir åpen kildekode bedre ressursutnyttelse over tid, selv om det sjelden gir lavere kostnad på dag én.  
+Vurder derfor hele livsløpet når dere velger løsning – ikke bare kostnaden ved anskaffelse eller utvikling, men også drift, vedlikehold, kompetanse, migrering og avvikling.
 
 ### Mindre leverandørinnlåsing
-Portabilitet handler om muligheten til å flytte løsninger, data og kompetanse mellom leverandører og plattformer uten å starte på nytt. Interoperabilitet handler om at systemer kan samhandle på tvers av virksomheter og forvaltningsnivåer. Begge deler svekkes når løsninger bygges lukket, og styrkes når de bygges åpent.
+Åpen kildekode kan gjøre det enklere å skille mellom programvare, drift og videreutvikling, slik at flere leverandører kan konkurrere om tjenestene rundt løsningen.
 
-Når kildekoden er åpen og bygget på åpne standarder, reduseres innelåsingen til én leverandør. Du kan bytte leverandør, ta deler av forvaltningen inn selv, eller la flere aktører konkurrere om videreutvikling og drift. Det gir både bedre forhandlingsposisjon og lavere risiko for at løsningen blir en blindvei.
+Kombinert med åpne standarder, dokumenterte grensesnitt og kontroll over egne data gir dette bedre muligheter til å bytte leverandør eller flytte løsningen senere.
 
-### Bedre gjenbruk på tvers
-Mange offentlige virksomheter har overlappende behov, men løser dem hver for seg. Resultatet er at samme funksjonalitet utvikles, betales for og vedlikeholdes mange ganger parallelt. Åpen kildekode gjør det mulig å erstatte dette med gjenbruk: én virksomhet kan bygge en løsning åpent, og andre kan ta den i bruk eller bygge videre på den.
+Målet er ikke leverandøruavhengighet, men å unngå unødvendige bindinger og bevare reelle valgmuligheter.
 
-Gevinsten er størst når gjenbruk tenkes inn fra starten. En løsning som er publisert åpent, men uten dokumentasjon, lisens eller tydelig forvaltning, er teknisk tilgjengelig, men i praksis vanskelig å gjenbruke. Reell nyttiggjøring krever at andre kan finne løsningen, forstå hva den gjør, vurdere om den passer, og ta den i bruk uten å måtte kontakte utviklerne.
+### Bedre gjenbruk og samarbeid
+Offentlige virksomheter har mange av de samme behovene. Når kode deles åpent, kan andre ta den i bruk, bygge videre på den eller bidra til videreutviklingen i stedet for å løse samme problem på nytt.
+
+Å publisere kildekoden er likevel ikke nok i seg selv. For at andre faktisk skal kunne vurdere, ta i bruk og videreutvikle løsningen, må lisens, dokumentasjon og ansvar for forvaltning være på plass.
 
 <figure class="ak-figure ak-figure--narrow" align="center">
-  <img src="../assets/img/figur-publisert-til-gjenbrukbar-vertikal-v3.svg" alt="Fra publisert til gjenbrukbar åpen kildekode" width="725">
+  <img src="../assets/img/figur-publisert-til-gjenbrukbar-vertikal-v3.svg" alt="Fra publisert kode til gjenbrukbar løsning">
 </figure>
 
-Gjenbruk er ikke bare god ressursbruk for den enkelte virksomhet; det er en samfunnsgevinst. Når flere bidrar til og bruker samme løsning, vokser det fram et felles økosystem av kvalitetssikret programvare som blir bedre og sikrere for alle som er avhengige av den.
+Når flere bruker og videreutvikler samme løsning, kan investeringer og kompetanse utnyttes bedre på tvers av virksomheter og forvaltningsnivåer.
 
-### Mer etterprøvbare digitale tjenester
-Åpen kildekode blir mer og mer vesentlig sett i lys av KI-drevet utvikling. En åpen kodebase er nærmest en forutsetning både for å gjøre det som lages etterprøvbart, forklarbart og for å kunne bruke KI-verktøy til kontinuerlig utvikling og forbedring. Dette fordi det er viktig med åpenhet og sporbarhet for hva KI-programvare som hjelper utvikleren med koding, testing, og dokumentasjon faktisk gjør, og fordi velregulert tilgang og definerte prosesser som åpen kildekode legger til rette for gir økt forklarbarhet rundt dette. 
+### Mer åpenhet, etterprøvbarhet og tillit
+Tilgang til kildekoden gjør det mulig å undersøke hvordan en digital løsning er bygget og hvordan sentral funksjonalitet er implementert. Det gir bedre muligheter for innsyn og etterprøving, særlig for løsninger som påvirker innbyggere, rettigheter og viktige samfunnsfunksjoner.
+
+Dette blir stadig viktigere med økt bruk av kunstig intelligens i offentlig sektor. Når KI brukes til å utvikle programvare eller inngår i løsninger som støtter vurderinger og beslutninger, er det viktig å kunne forstå og etterprøve hvordan løsningene fungerer og hvordan de er utviklet. Åpen kildekode kan gi større åpenhet og sporbarhet i koden, integrasjonene og endringene som gjøres.
+
+Åpen kildekode gir ikke alene full forklarbarhet i en KI-løsning. Også blant annet modeller, data, konfigurasjon og beslutningsprosesser kan ha betydning. Men åpenhet om programvaren er et viktig bidrag til at offentlig sektor kan dokumentere, forklare og stå inne for løsningene den bruker. Det er vesentlig for å bevare tilliten til digitale offentlige tjenester.
 
 ### Sterkere digital beredskap
 Åpen kildekode kan redusere sårbarhet ved at virksomheten ikke er like bundet til lukkede løsninger, enkeltleverandører eller utilgjengelig kompetanse. Det gir større handlefrihet ved teknologiske, økonomiske eller geopolitiske endringer.
+
+Tilgang til kildekode og nødvendige rettigheter gir også flere muligheter dersom en leverandør endrer strategi, en teknologi fases ut eller kritiske komponenter må erstattes.
+
+Åpen kildekode er derfor ikke bare et spørsmål om teknologi eller kostnader, men om hvordan offentlig sektor bevarer kontroll, tillit, handlingsrom og evne til å videreutvikle digitale tjenester over tid.
 
 <a id="for-dere-starter-fa-kontroll-pa-rammene"></a>
 ## Før dere starter: få kontroll på rammene
