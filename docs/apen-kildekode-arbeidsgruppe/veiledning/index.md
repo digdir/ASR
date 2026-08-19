@@ -244,33 +244,25 @@ Bruk sjekklisten som støtte når dere vurderer en konkret løsning, kodebase el
 <a id="hvor-modne-er-dere"></a>
 ## Hvor modne er dere?
 
-Vi kan skille mellom ulike grader av modenhet for åpen kildekode. Det finnes
-flere modeller for beskrivelse av modenhet, én slik modell er skissert av OSPO
-alliance ([Referanse](https://ospo-alliance.org/ggi/introduction/)).
+Virksomheter har ulike utgangspunkt for arbeidet med åpen kildekode. Modenhetsmodellen under kan brukes til å vurdere hvor dere står i dag, og hva som kan være et naturlig neste steg.
 
-Modellen skisserer fem nivåer av modenhet: bruk, tillit, kultur,
-engasjement og strategi.
+Modellen bygger på arbeid fra [OSPO Alliance](https://ospo-alliance.org/) og beskriver fem nivåer: **bruk, tillit, kultur, engasjement og strategi**.
 
 ![Modenhetsmodell for åpen kildekode](../assets/img/figur-modenhet-apen-kildekode.svg)
 
-På det laveste nivået har vi altså bruk av åpen kildekode i en organisasjon,
-hvor man har tilstrekkelig kompetanse til å ta i bruk, men hovedsakelig er
-konsument.
+På de første nivåene handler det om å bruke åpen kildekode på en kontrollert måte, med oversikt over blant annet sikkerhet, avhengigheter, lisenser og kostnader.
 
-I neste nivå er det en økt bevissthet og kontrollerte rammer, slik som sikkerhet,
-håndtering av avhengigheter, juridiske og økonomiske forhold.
+Etter hvert blir åpen kildekode en mer naturlig del av virksomhetens arbeidsform. Virksomheten deler egne løsninger, bidrar til prosjekter den er avhengig av og bygger kompetanse og samarbeid rundt åpne løsninger.
 
-På kulturnivået er en god praksis internalisert i organisasjonen, og det er
-utviklet en intern kultur der åpen kildekode er en naturlig del av
-arbeidsprosessen.
+På det strategiske nivået brukes åpen kildekode bevisst som et virkemiddel for å nå virksomhetens mål – for eksempel økt handlingsrom, bedre gjenbruk, mindre leverandørinnlåsing og mer bærekraftig forvaltning av digitale løsninger.
 
-På de to øverste nivåene går vi til engasjement, hvor organisasjonen er aktiv
-bidragsyter, enten ved å dele aktivt egne prosjekter, eller som bidragsyter i
-eksterne prosjekter.
+Målet er ikke at alle virksomheter skal organisere arbeidet likt eller nå samme modenhetsnivå. Bruk modellen til å finne deres neste steg.
 
-På det øverste nivået er åpen kildekode bevisst brukt som virkemiddel for å nå
-organisasjonens overordnede mål. Her er åpen kildekode ikke bare et teknisk
-valg, men også et strategisk valg forankret i øverste ledelse.
+### Neste steg
+
+Start der dere er. Velg ett område der dere kan forbedre praksisen – enten det handler om å få bedre kontroll på det dere allerede bruker, dele mer av det dere utvikler, eller bidra tilbake til den digitale grunnmuren dere er avhengige av.
+
+Over tid bør målet være at åpen kildekode ikke behandles som et særskilt teknologivalg, men som en naturlig del av hvordan offentlig sektor utvikler, anskaffer og forvalter digitale løsninger.
 
 ## Status - og hvordan kan du bidra?
 
