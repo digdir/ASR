@@ -17,10 +17,8 @@ description: Høynivå veiledning om åpen kildekode i offentlig sektor
   <li><a href="#hva-far-dere-igjen">Hva får dere igjen?</a></li>
   <li><a href="#for-dere-starter-fa-kontroll-pa-rammene">Før dere starter: få kontroll på rammene</a></li>
   <li><a href="#fra-ambisjon-til-praksis">Operativ veiledning</a></li>
-  <li><a href="#minimumskrav">Minimumskrav</a></li>
+  <li><a href="#minimumskrav">Sjekkliste for bruk, deling og bidrag</a></li>
   <li><a href="#hvor-modne-er-dere">Hvor modne er dere?</a></li>
-  <li><a href="#forste-steg-slik-kommer-dere-i-gang">Første steg: slik kommer dere i gang</a></li>
-  <li><a href="#sjekkliste-for-publisering-eller-anskaffelse">Sjekkliste før publisering eller anskaffelse</a></li>
 </ul>
 </aside>
 
@@ -207,37 +205,35 @@ Når dere har erfaring, bør vurderinger av åpen kildekode inngå naturlig i ar
 Målet er ikke at alle virksomheter skal organisere arbeidet likt, men at **bruk, deling og bidrag blir bevisste valg som følges opp gjennom hele livsløpet**.
 
 <a id="minimumskrav"></a>
-## Minimumskrav 
-Bruk sjekklisten under for å sikre at dere har det viktigste på plass for bruk, deling og bidrag.
+## Sjekkliste for bruk, deling og bidrag
 
-Start med noen enkle grunnkrav før dere går videre til de mer konkrete punktene:
+Bruk sjekklisten som støtte når dere vurderer en konkret løsning, kodebase eller avhengighet.
 
-### Sjekkliste før publisering eller anskaffelse
+### Når dere skal bruke åpen kildekode
 
-#### Når dere skal bruke åpen kildekode
+- [ ] Undersøk om eksisterende åpne løsninger kan dekke behovet før dere utvikler eller kjøper nytt.
+- [ ] Vurder kvalitet, sikkerhet, vedlikehold, kompetanse og kostnader gjennom hele livsløpet.
+- [ ] Skaff oversikt over viktige komponenter, avhengigheter og lisenser.
+- [ ] Vurder om løsningen gir tilstrekkelig kontroll over egne data, grensesnitt, portabilitet og mulighet for leverandørbytte.
+- [ ] Avklar hvem som har ansvar for oppdateringer, sårbarheter og videre forvaltning.
 
-- Har dere oversikt over hvilke åpne komponenter, avhengigheter og lisenser løsningen bygger på?
-- Er prosjektet aktivt vedlikeholdt, og finnes det nok dokumentasjon og støtte til å ta det i bruk forsvarlig?
-- Har dere rutiner for å oppdage og følge opp sårbarheter, oppgraderinger og lisensutfordringer?
+### Når dere skal dele kode
 
-Praktisk råd: start med å lage en enkel oversikt over hvilke åpne biblioteker og rammeverk dere allerede er avhengige av. Da blir det lettere å prioritere hva som må følges tettest opp.
-
-#### Når dere skal dele kode
-
-- Hva er formålet med å dele koden: transparens, gjenbruk, samarbeid eller videreutvikling?
-- Kan koden publiseres forsvarlig, eller inneholder den hemmeligheter, sensitiv informasjon eller forhold som må skjermes?
-- Er lisens, README, kontaktpunkt og forvaltningsansvar på plass før publisering?
-- Er repository og historikk sanert for nøkler, passord, personopplysninger og sensitiv konfigurasjon?
-- Finnes en enkel kanal for å melde sårbarheter og feil?
-
-Praktisk råd: velg ett repository som pilot. Få på plass minimumspakken (lisens, README, kontaktpunkt og enkel forvaltningsbeskrivelse), og bruk læringen derfra før dere åpner flere.
+- [ ] Vurder om hele løsningen kan åpnes, eller om enkelte deler må holdes tilbake.
+- [ ] Gjennomgå kode, repository, dokumentasjon og historikk før publisering.
+- [ ] Kontroller at hemmeligheter, tilgangsnøkler, personopplysninger og sensitiv konfigurasjon ikke publiseres.
+- [ ] Avklar rettigheter og velg en tydelig åpen lisens.
+- [ ] Sørg for README, kontaktpunkt og nødvendig dokumentasjon for bygging, bruk og videreutvikling.
+- [ ] Beskriv hvordan bidrag, feil og sikkerhetsmeldinger skal håndteres.
+- [ ] Avklar hvem som eier og forvalter koden over tid.
 
 ### Når dere skal bidra tilbake
 
-- Hva er målet med å bidra tilbake: redusere risiko, styrke kvalitet, bygge kompetanse eller støtte kritiske avhengigheter?
-- Hvilke bidragsformer er realistiske for dere: kode, feilretting, dokumentasjon, testing, finansiering eller deltakelse i fagmiljø?
-
-Praktisk råd: vurder aktivt hvordan virksomheten kan bidra tilbake til prosjekter dere er avhengige av. Bidrag kan være kode, dokumentasjon og testing, men finansiering er ofte et særlig viktig bidrag for å sikre vedlikehold, sikkerhetsoppdateringer og videre utvikling over tid.
+- [ ] Identifiser åpne prosjekter og komponenter virksomheten er særlig avhengig av.
+- [ ] Vurder om dere bør bidra med kode, feilretting, dokumentasjon, testing, sikkerhetsarbeid, deltakelse i fagmiljøer eller finansiering.
+- [ ] Prioriter oppfølging av avhengigheter som er kritiske for egne tjenester, og vurder om bidrag er et egnet tiltak.
+- [ ] Avklar hvem som kan bidra på vegne av virksomheten, og hvordan bidrag skal godkjennes.
+- [ ] Følg opp om bidragene faktisk styrker vedlikehold, sikkerhet og videreutvikling.
 
 <a id="hvor-modne-er-dere"></a>
 ## Hvor modne er dere?
@@ -269,9 +265,6 @@ eksterne prosjekter.
 På det øverste nivået er åpen kildekode bevisst brukt som virkemiddel for å nå
 organisasjonens overordnede mål. Her er åpen kildekode ikke bare et teknisk
 valg, men også et strategisk valg forankret i øverste ledelse.
-
-Åpen kildekode og åpne standarder utfyller hverandre: standardene legger til rette for at systemer kan snakke sammen, mens åpen kildekode gir innsyn i hvordan samhandlingen faktisk er implementert. For offentlig sektor, der tjenester ofte må utveksle data på tvers av etater, kommuner og forvaltningsnivåer, er dette en forutsetning for å unngå at hver virksomhet bygger sine egne, inkompatible siloer. (oppdatere tekst Digdir)
-(bør bli mer handlingsrettet?)
 
 ## Status - og hvordan kan du bidra?
 
