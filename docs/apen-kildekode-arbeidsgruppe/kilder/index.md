@@ -15,13 +15,6 @@ Denne delen samler relevante kilder for arbeidsgruppen.
 - [Rapporter og analyser]({{ '/apen-kildekode-arbeidsgruppe/kilder/kildeliste.html#rapporter-og-analyser' | relative_url }})
 - [Eksempler og referanseprosjekter]({{ '/apen-kildekode-arbeidsgruppe/kilder/kildeliste.html#eksempler-og-referanseprosjekter' | relative_url }})
 
-## KI-genererte dokumenter basert på kilder
-
-- [Utkast omskriving av NAV-veiledning]({{ '/apen-kildekode-arbeidsgruppe/kilder/utkast-omskriving-av-nav-veiledning.html' | relative_url }})
-- [KI-sammendrag om veiledning]({{ '/apen-kildekode-arbeidsgruppe/kilder/ki-sammendrag-veiledning.html' | relative_url }})
-- [KI-sammendrag om tilskudd og bidrag]({{ '/apen-kildekode-arbeidsgruppe/kilder/ki-sammendrag-tilskudd-og-bidrag.html' | relative_url }})
-- [KI-generert oppsummering av relevante EU initiativer]({{ '/apen-kildekode-arbeidsgruppe/kilder/ki-generert-oppsummering-av-relevante-eu-initiativer.html' | relative_url }})
-
 ## Hva som kan ligge her
 
 - lenker til veiledere, analyser, strategier og nyheter
@@ -33,3 +26,10 @@ Denne delen samler relevante kilder for arbeidsgruppen.
 - nye kilder legges inn i `kildeliste.md`
 - hver kilde får en kort beskrivelse av hvorfor den er relevant
 - kategorier og videre struktur utvikles etter hvert som listen vokser
+
+<h2 style="color: #6b7280; font-size: 1.15rem; margin-top: 2.4rem;">KI-genererte dokumenter basert på kilder</h2>
+
+- [Utkast omskriving av NAV-veiledning]({{ '/apen-kildekode-arbeidsgruppe/kilder/utkast-omskriving-av-nav-veiledning.html' | relative_url }})
+- [KI-sammendrag om veiledning]({{ '/apen-kildekode-arbeidsgruppe/kilder/ki-sammendrag-veiledning.html' | relative_url }})
+- [KI-sammendrag om tilskudd og bidrag]({{ '/apen-kildekode-arbeidsgruppe/kilder/ki-sammendrag-tilskudd-og-bidrag.html' | relative_url }})
+- [KI-generert oppsummering av relevante EU initiativer]({{ '/apen-kildekode-arbeidsgruppe/kilder/ki-generert-oppsummering-av-relevante-eu-initiativer.html' | relative_url }})
