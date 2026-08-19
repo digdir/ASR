@@ -131,9 +131,13 @@ Offentlige virksomheter har mange av de samme behovene. Når kode deles åpent, 
 
 Å publisere kildekoden er likevel ikke nok i seg selv. For at andre faktisk skal kunne vurdere, ta i bruk og videreutvikle løsningen, må lisens, dokumentasjon og ansvar for forvaltning være på plass.
 
-<figure class="ak-figure ak-figure--narrow" align="center">
-  <img src="../assets/img/figur-publisert-til-gjenbrukbar-vertikal-v3.svg" alt="Fra publisert kode til gjenbrukbar løsning">
-</figure>
+<div class="ak-figure-panel">
+  <div class="ak-figure-panel__title">Fra publisert kode til gjenbrukbar løsning</div>
+  <div class="ak-figure-panel__body">Det som må på plass for at andre faktisk kan ta koden i bruk.</div>
+  <figure class="ak-figure ak-figure--narrow" align="center">
+    <img src="../assets/img/figur-publisert-til-gjenbrukbar-vertikal-v3.svg" alt="Fra publisert kode til gjenbrukbar løsning">
+  </figure>
+</div>
 
 Når flere bruker og videreutvikler samme løsning, kan investeringer og kompetanse utnyttes bedre på tvers av virksomheter og forvaltningsnivåer.
 
@@ -193,6 +197,8 @@ Bruk sjekklisten under for å sikre at dere har det viktigste på plass for bruk
 
 Start med noen enkle grunnkrav før dere går videre til de mer konkrete punktene:
 
+### Første steg: slik kommer dere i gang
+
 - **Håndter lisenser tidlig:** avklar lisensvalg for egne leveranser og etabler en enkel rutine for tredjepartslisenser.
 - **Sett en minimumsstandard for dokumentasjon:** sørg for README, lisensfil, kontaktpunkt og kort beskrivelse av forvaltning.
 - **Bygg sikkerhet inn i prosessen:** bruk skanning av avhengigheter og hemmeligheter, og avklar hvordan sårbarheter håndteres.
@@ -200,7 +206,9 @@ Start med noen enkle grunnkrav før dere går videre til de mer konkrete punkten
 
 Når dere vurderer å ta i bruk et åpent prosjekt, er det også nyttig å se etter noen grunnleggende kjennetegn: tydelig lisens, aktivt vedlikehold, god dokumentasjon, åpen styring og en viss stabilitet i kode og videreutvikling.
 
-### Når dere skal bruke åpen kildekode
+### Sjekkliste før publisering eller anskaffelse
+
+#### Når dere skal bruke åpen kildekode
 
 - Har dere oversikt over hvilke åpne komponenter, avhengigheter og lisenser løsningen bygger på?
 - Er prosjektet aktivt vedlikeholdt, og finnes det nok dokumentasjon og støtte til å ta det i bruk forsvarlig?
@@ -208,7 +216,7 @@ Når dere vurderer å ta i bruk et åpent prosjekt, er det også nyttig å se et
 
 Praktisk råd: start med å lage en enkel oversikt over hvilke åpne biblioteker og rammeverk dere allerede er avhengige av. Da blir det lettere å prioritere hva som må følges tettest opp.
 
-### Når dere skal dele kode
+#### Når dere skal dele kode
 
 - Hva er formålet med å dele koden: transparens, gjenbruk, samarbeid eller videreutvikling?
 - Kan koden publiseres forsvarlig, eller inneholder den hemmeligheter, sensitiv informasjon eller forhold som må skjermes?
