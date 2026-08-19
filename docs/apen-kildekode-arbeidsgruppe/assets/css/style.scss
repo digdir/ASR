@@ -261,13 +261,13 @@ a:focus {
 
 .ak-checklist__box {
   flex: 0 0 auto;
-  width: 1.65rem;
-  height: 1.65rem;
-  margin-top: 0.12rem;
-  border: 2px solid #ea580c;
-  border-radius: 0.35rem;
+  width: 1.35rem;
+  height: 1.35rem;
+  margin-top: 0.15rem;
+  border: 1.5px solid #ea580c;
+  border-radius: 0.3rem;
   background: linear-gradient(180deg, #fff7ed, #fed7aa);
-  box-shadow: inset 0 0 0 1px rgba(234, 88, 12, 0.18);
+  box-shadow: inset 0 0 0 1px rgba(234, 88, 12, 0.14);
 }
 
 .ak-checklist {
