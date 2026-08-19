@@ -132,10 +132,8 @@ Offentlige virksomheter har mange av de samme behovene. Når kode deles åpent, 
 Å publisere kildekoden er likevel ikke nok i seg selv. For at andre faktisk skal kunne vurdere, ta i bruk og videreutvikle løsningen, må lisens, dokumentasjon og ansvar for forvaltning være på plass.
 
 <div class="ak-figure-panel">
-  <div class="ak-figure-panel__title">Fra publisert kode til gjenbrukbar løsning</div>
-  <div class="ak-figure-panel__body">Det som må på plass for at andre faktisk kan ta koden i bruk.</div>
   <figure class="ak-figure ak-figure--narrow" align="center">
-    <img src="../assets/img/figur-publisert-til-gjenbrukbar-vertikal-v3.svg" alt="Fra publisert kode til gjenbrukbar løsning">
+    <img src="../assets/img/figur-publisert-til-gjenbrukbar-vertikal-v3.svg" alt="Fra publisert kode til gjenbrukbar løsning. Stegene er publisert kode, åpen lisens, dokumentasjon, forvaltning og gjenbrukbar løsning. Det som må på plass for at andre faktisk kan ta koden i bruk.">
   </figure>
 </div>
 
