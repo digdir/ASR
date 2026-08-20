@@ -6,10 +6,36 @@ description: Tiltak, tilskudd og bidrag til åpen kildekode
 
 # Hvordan kan vi bidra?
 
+<div class="ak-guide-layout">
+
+<aside class="ak-guide-toc">
+<h2>Innhold</h2>
+
+<ul>
+  <li><a href="#tiltak-tilskudd-og-bidrag-til-apen-kildekode">Tiltak, tilskudd og bidrag</a></li>
+  <li><a href="#kort-oppsummering">Kort oppsummering</a></li>
+  <li><a href="#sammenheng-med-arbeidsgruppens-ovrige-arbeid">Sammenheng med øvrig arbeid</a></li>
+  <li><a href="#hvorfor-bor-offentlig-sektor-bidra-tilbake">Hvorfor bidra tilbake?</a></li>
+  <li><a href="#hva-mener-vi-med-a-bidra">Hva mener vi med å bidra?</a></li>
+  <li><a href="#hvilke-behov-skal-tiltakene-mote">Hvilke behov skal tiltakene møte?</a></li>
+  <li><a href="#mulige-tiltak">Mulige tiltak</a></li>
+  <li><a href="#kjente-finansieringsmodeller-for-apen-kildekode">Kjente finansieringsmodeller</a></li>
+  <li><a href="#forslag-til-statlig-stotteordning-eller-tverr-offentlig-finansieringspott">Forslag til støtteordning</a></li>
+  <li><a href="#hvordan-prioritere-hvilke-prosjekter-offentlig-sektor-bor-stotte">Hvordan prioritere prosjekter?</a></li>
+  <li><a href="#sporsmal-som-bor-vurderes-videre">Spørsmål til videre vurdering</a></li>
+  <li><a href="#forelopig-anbefaling-for-videre-arbeid">Foreløpig anbefaling</a></li>
+  <li><a href="#kilder-og-videre-lesing">Kilder og videre lesing</a></li>
+</ul>
+</aside>
+
+<div class="ak-guide-body" markdown="1">
+
+<a id="tiltak-tilskudd-og-bidrag-til-apen-kildekode"></a>
 ## Tiltak, tilskudd og bidrag til åpen kildekode
 
 > **Arbeidsnotat:** 3. Juli, 2026 / Morten G: Denne siden beskriver behov, mulige tiltak og mulige finansieringsmodeller for å styrke åpen kildekode som offentlig sektor bruker, deler og er avhengig av. Teksten er et forslag til samlet struktur og innhold. Tiltakene er ikke juridisk, anskaffelsesfaglig eller økonomisk kvalitetssikret. Slike vurderinger må gjøres før tiltak prioriteres, besluttes eller gjennomføres. Teksten har tatt med innholdet fra både eksisterende side (index.md), og de to tidligere NAV-notatene.
 
+<a id="kort-oppsummering"></a>
 ## Kort oppsummering
 
 Offentlig sektor er allerede avhengig av åpen kildekode i digitale tjenester, utviklingsverktøy, infrastruktur, skytjenester, leverandørløsninger og felleskomponenter. Denne avhengigheten er ofte lite synlig, men den er en del av den digitale grunnmuren offentlige tjenester bygger på.
@@ -27,6 +53,7 @@ Forslaget er å jobbe på tre nivåer:
 3. **Tiltak som krever videre utredning**  
    Eksempler er en nasjonal støtteordning, en tverr-offentlig finansieringspott, offentlig sponsorordning, felles modell for vedlikehold av kritiske åpne komponenter og ordninger for teknisk speiling og bevaring av av kritiske åpne kildekode-komponenter
 
+<a id="sammenheng-med-arbeidsgruppens-ovrige-arbeid"></a>
 ## Sammenheng med arbeidsgruppens øvrige arbeid
 
 Arbeidsgruppen bruker tre hovedgrep for å beskrive åpen kildekode i offentlig sektor:
@@ -37,6 +64,7 @@ Arbeidsgruppen bruker tre hovedgrep for å beskrive åpen kildekode i offentlig 
 
 "Tilskudd og bidrag" handler særlig om det tredje punktet: **bidra**. Bidrag henger tett sammen med både bruk og deling. Jo mer offentlig sektor bruker og deler åpen kildekode, desto viktigere blir det å ha modeller for vedlikehold, sikkerhet, dokumentasjon, finansiering og langsiktig forvaltning.
 
+<a id="hvorfor-bor-offentlig-sektor-bidra-tilbake"></a>
 ## Hvorfor bør offentlig sektor bidra tilbake?
 
 > En rapport fra Linux Foundation [ROI for Open Source Software Contribution](https://www.linuxfoundation.org/research/contribution-roi?hsLang=en), viser at virksomheter kan få betydelig mer verdi av å bidra aktivt til åpen kildekode, ikke bare bruke den. Bidrag kan blant annet gi raskere utvikling, bedre tilgang til feilrettinger og sikkerhetsoppdateringer, større mulighet til å påvirke videreutviklingen av programvaren og bedre tilgang på kompetanse. Rapporten anslår at ulike former for bidrag kan gi et nytte-kostnadsforhold på rundt 2–5 ganger investeringen.
@@ -82,6 +110,7 @@ Bidrag tilbake kan derfor være god økonomi, selv når det ikke gir lavere kost
 
 Ved å bidra tilbake kan Norge gå fra å være en passiv bruker til å bli en ansvarlig aktør som styrker sin egen digitale infrastruktur. Det bygger også kompetanse internt og gir norske fagmiljøer mer innsikt og påvirkningsmulighet i prosjektene vi er avhengige av.
 
+<a id="hva-mener-vi-med-a-bidra"></a>
 ## Hva mener vi med å bidra?
 
 Å bidra tilbake betyr mer enn å betale finansielt. Offentlig sektor kan bidra med både tid, kompetanse, krav, infrastruktur i tillegg til finansiering.
@@ -120,6 +149,7 @@ Anskaffelser kan også brukes til å bidra tilbake til åpne prosjekter. Dersom 
 
 Bidrag gjennom anskaffelser betyr derfor ikke nødvendigvis at offentlig sektor selv må utvikle alt eller gi direkte økonomisk støtte til prosjekter. Det kan også handle om å kjøpe vedlikehold, support, sikkerhetsarbeid og forvaltning rundt åpne løsninger, og samtidig stille krav som sikrer åpenhet, kvalitet, gjenbruk og redusert leverandøravhengighet.
 
+<a id="hvilke-behov-skal-tiltakene-mote"></a>
 ## Hvilke behov skal tiltakene møte?
 
 Før tiltak vurderes, bør vi være tydelige på hvilke behov de skal svare på. Viktige behov er:
@@ -156,6 +186,7 @@ Løsninger som kan brukes på tvers av virksomheter, leverandører og forvaltnin
 
 Et leverandørmarked der flere aktører kan tilby drift, support, videreutvikling og rådgivning rundt åpne løsninger, i stedet for at offentlig sektor låses til én leverandør eller proprietære implementeringer.
 
+<a id="mulige-tiltak"></a>
 ## Mulige tiltak
 
 ### 1. Bidra med arbeidstid og kompetanse
@@ -333,6 +364,7 @@ Mulige konkrete tiltak:
 
 Speiling kan gi flere effekter. Det kan avlaste sentrale registre, styrke beredskap dersom eksterne tjenester blir utilgjengelige, og gi bedre kontroll over hvilke komponenter offentlige løsninger bygger på. Slike tiltak kan også være aktuelle i sammenheng med en offentlig sky eller felles infrastruktur for offentlig sektor.
 
+<a id="kjente-finansieringsmodeller-for-apen-kildekode"></a>
 ## Kjente finansieringsmodeller for åpen kildekode
 
 Bærekraftig åpen kildekode finansieres sjelden gjennom én modell alene. De mest robuste modellene kombinerer ofte grunnfinansiering, tjenesteinntekter, tydelig eierskap, aktiv forvaltning og åpne fellesskap.
@@ -452,6 +484,7 @@ I slike modeller er selve koden åpen, mens inntektene kommer fra tjenester, for
 
 En utfordring med grants er at de ofte finansierer tidsavgrensede prosjekter, mens behovet i åpen kildekode ofte er løpende vedlikehold over tid. Derfor bør tilskudd kobles til videre forvaltningsplan.
 
+<a id="forslag-til-statlig-stotteordning-eller-tverr-offentlig-finansieringspott"></a>
 ## Forslag til statlig støtteordning eller tverr-offentlig finansieringspott
 
 En nasjonal støtteordning kan vurderes dersom eksisterende virkemidler ikke er tilstrekkelige til å finansiere kritiske åpne komponenter og fellesgoder offentlig sektor er avhengig av.
@@ -525,6 +558,7 @@ Det bør vurderes om ordningen skal ligge tett på miljøer som allerede arbeide
 
 Dersom støtteordningen innebærer statsstøtte etter EØS-reglene, må støtteordninger og tildelinger håndteres i tråd med kravene som gjelder for Støtteregisteret/BRREG. Dette bør avklares tidlig. Støtteregisteret kan også være relevant som kilde til å forstå hvordan eksisterende støtteordninger og tildelinger er strukturert og publisert.
 
+<a id="hvordan-prioritere-hvilke-prosjekter-offentlig-sektor-bor-stotte"></a>
 ## Hvordan prioritere hvilke prosjekter offentlig sektor bør støtte?
 
 Før man etablerer økonomiske tiltak, bør offentlig sektor ha en metode for å identifisere kritiske åpne avhengigheter.
@@ -564,6 +598,7 @@ Et praktisk første steg kan være en tverr-offentlig pilot der et mindre antall
 - vurderer hvilken type bidrag som passer best for hver komponent
 - prøver ut ett eller to bidragsspor, for eksempel arbeidstid, felles vedlikeholdsavtale eller støtte via fiscal host
 
+<a id="sporsmal-som-bor-vurderes-videre"></a>
 ## Spørsmål som bør vurderes videre
 
 Før tiltak kan anbefales eller gjennomføres, bør det vurderes:
@@ -584,6 +619,7 @@ Før tiltak kan anbefales eller gjennomføres, bør det vurderes:
 - Hvordan sikrer vi at offentlige anskaffelser bygger opp under gjenbruk og leverandøruavhengighet?
 
 ## Foreløpig anbefaling for videre arbeid
+<a id="forelopig-anbefaling-for-videre-arbeid"></a>
 
 Videre arbeid bør skille mellom tre nivåer.
 
@@ -628,6 +664,7 @@ Eksempler:
 
 **Anbefaling:** Utrede om det bør etableres en tverr-offentlig finansieringsmodell for kritiske åpne komponenter, og om dette kan gjøres innenfor eksisterende virkemidler eller krever ny ordning.
 
+<a id="kilder-og-videre-lesing"></a>
 ## Kilder og videre lesing
 
 > **Arbeidsnotat:** 3. Juli, 2026 / Morten G: Bør gå gjennom kildelisten, og knytte til kildelisten ellers i arbeidsgruppen og særlig til kilder om finansiering, anskaffelser, EU-spor, sikkerhet og forvaltning.
@@ -661,3 +698,6 @@ Eksempler:
 - [Maven Central](https://central.sonatype.com)
 - [OpenSSF Best Practices Badge](https://openssf.org/projects/best-practices-badge/)
 - [REUSE Specification](https://reuse.software/specifications/)
+
+</div>
+</div>
