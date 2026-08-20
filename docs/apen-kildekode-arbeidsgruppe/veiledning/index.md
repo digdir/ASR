@@ -68,6 +68,10 @@ Vurder hva som kan deles innenfor hensynet til blant annet informasjonssikkerhet
 
 Hovedregelen følges opp gjennom tre anbefalinger for hvordan offentlig sektor bør **bruke, dele og bidra** til åpen kildekode.
 
+### Vurder effekt på leverandørmarkedet
+
+Dersom det finnes et velfungerende marked som leverer programvare som dekker behovet, er det viktig at det gjøres en vurdering av om krav om åpen kildekode eller egen utvikling av åpen kildekode kan ha negative effekter på de eksisterende leverandørene. I verste fall kan et krav til å levere åpen kildekode, eller egenutviklet programvare som deles som åpen kildekode, ta vekk det forretningsmessige grunnlaget for å levere programvaren. Det er viktig at etaten ikke bare ser på sitt eget behov i denne sammenheng. Dersom etaten har ressurser til å levere et konkurransedyktig alternativ til seg selv, med egne ressurser på drift og forvaltning av løsningen, er det ikke sikkert andre aktører, både offentlige og private, har de samme ressursene, men er avhengige av leverandørmarkedet.
+
 <a id="anbefalinger-bruke-dele-og-bidra"></a>
 ## Anbefalinger: bruk, del og bidra
 
