@@ -26,7 +26,7 @@ description: Høynivå veiledning om åpen kildekode i offentlig sektor
 
 <a id="formaal-og-malgruppe"></a>
 ## Formål og målgruppe
-Denne veilederen skal hjelpe offentlige virksomheter med å bruke, dele og bidra til åpen kildekode på en ansvarlig og praktisk måte. Den er særlig relevant for ledere, produkteiere, arkitekter, utviklere, jurister, innkjøpere, sikkerhetsmiljøer og andre som tar beslutninger om digitale løsninger.
+Denne veilederen skal hjelpe offentlige virksomheter med å bruke, dele og bidra til åpen kildekode på en ansvarlig og praktisk måte. Den er særlig relevant deg som tar beslutninger om digitale løsninger.
 Veilederen er skrevet som en kort hovedveileder. Den skal gi nok støtte til å komme i gang, mens juridiske, sikkerhetsmessige, anskaffelsesfaglige og tekniske tema kan utdypes i egne moduler.
 
 <a id="hvorfor-er-apen-kildekode-viktig-for-offentlig-sektor"></a>
