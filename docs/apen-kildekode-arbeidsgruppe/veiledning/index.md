@@ -27,22 +27,22 @@ description: Høynivå veiledning om åpen kildekode i offentlig sektor
 <a id="formaal-og-malgruppe"></a>
 ## Formål og målgruppe
 Denne veilederen skal hjelpe offentlige virksomheter med å bruke, dele og bidra til åpen kildekode på en ansvarlig og praktisk måte. Den er særlig relevant deg som tar beslutninger om digitale løsninger.
-Veilederen er skrevet som en kort hovedveileder. Den skal gi nok støtte til å komme i gang, mens juridiske, sikkerhetsmessige, anskaffelsesfaglige og tekniske tema kan utdypes i egne moduler.
+Veilederen er overordnet. Den skal gi nok støtte til å komme i gang, og vi planlegger å utdype ulike tema videre i egne moduler.
 
 <a id="hvorfor-er-apen-kildekode-viktig-for-offentlig-sektor"></a>
 ## Hvorfor er åpen kildekode viktig for offentlig sektor?
 
 Åpen kildekode gir offentlig sektor større åpenhet, kontroll og handlingsrom. Løsninger kan lettere gjenbrukes og videreutvikles i fellesskap, samtidig som kildekoden gir bedre muligheter for innsyn og etterprøving. Dette er særlig viktig når digitale løsninger påvirker innbyggere og samfunnsfunksjoner, og når kunstig intelligens tas i bruk i offentlig sektor.
 
-Åpen kildekode kan også bidra til mer rettferdig konkurranse ved at flere leverandører kan bygge videre på eksisterende løsninger og konkurrere om drift, forvaltning og videreutvikling.
+Åpen kildekode bidrar til mer rettferdig konkurranse ved at flere leverandører kan bygge videre på eksisterende løsninger og konkurrere om drift, forvaltning og videreutvikling.
 
 Mange offentlige virksomheter ønsker å bruke mer åpen kildekode, men diskusjonen knyttes ofte til risiko og sikkerhet. Samtidig bygger de fleste moderne digitale løsninger allerede på åpne komponenter, også når løsningene leveres av kommersielle leverandører. Web- og skyløsninger kan være avhengige av hundrevis eller tusenvis av slike komponenter.
 
 Risiko i programvareforsyningskjeden oppstår derfor ikke først når virksomheten velger åpen kildekode. Den er allerede en del av dagens digitale infrastruktur. Det sentrale spørsmålet er hvordan virksomheten får oversikt over avhengighetene og forvalter dem på en ansvarlig måte.
 
-Ansvarlig bruk stopper heller ikke ved egen virksomhet. Når offentlig sektor er avhengig av åpne komponenter og prosjekter, bør den også vurdere hvordan den kan bidra tilbake gjennom finansiering, deling, vedlikehold eller aktiv deltakelse i utviklingsmiljøene.
+Ansvarlig bruk stopper heller ikke ved egen virksomhet. Når offentlig sektor er avhengig av åpne komponenter og prosjekter, bør den også vurdere hvordan den kan bidra tilbake gjennom krav i anskaffelser, finansiering, deling, vedlikehold eller aktiv deltakelse i utviklingsmiljøene.
 
-EU-kommisjonen løfter åpen kildekode fram som et virkemiddel for interoperabilitet, digital suverenitet og bedre gjenbruk i offentlig sektor. Det gjør kompetanse om bruk, deling og bidrag stadig viktigere også for norsk offentlig sektor.
+EU peker på åpen kildekode som et virkemiddel for interoperabilitet, digital suverenitet og bedre gjenbruk i offentlig sektor. Det gjør kompetanse om bruk, deling og bidrag stadig viktigere også for norsk offentlig sektor.
 
 For virksomhetene betyr dette først og fremst tre ting: **bruk åpne løsninger bevisst, del det dere selv utvikler når det er forsvarlig, og ta ansvar for de åpne komponentene dere er avhengige av.**
 
@@ -53,7 +53,7 @@ For virksomhetene betyr dette først og fremst tre ting: **bruk åpne løsninger
 
 Åpen kildekode må ikke forveksles med åpne standarder. **Åpne standarder beskriver hvordan systemer og løsninger kan samhandle, mens åpen kildekode handler om tilgang til og rettigheter til selve programvaren og kildekoden.** De to utfyller ofte hverandre.
 
-Åpen kildekode betyr ikke at programvaren er uten kostnader. Drift, sikkerhet, vedlikehold, dokumentasjon og kompetanse må fortsatt forvaltes.
+Åpen kildekode betyr ikke at programvaren er uten kostnader. Drift, forvaltning og videreutvikling må fortsatt finansieres.
 
 For offentlig sektor bør åpen kildekode ses som en del av hele livsløpet til digitale løsninger – fra valg og anskaffelse til utvikling, deling, drift, videreutvikling og bidrag tilbake til fellesskapet.
 
@@ -64,13 +64,9 @@ Når offentlig sektor utvikler programvare selv eller får det utviklet for offe
 
 Planlegg for åpenhet fra starten, og publiser koden så tidlig som mulig når det er forsvarlig. Gjør deling til en del av utviklings- og forvaltningsløpet, slik at åpenhet, dokumentasjon og tydelig ansvar bygges inn fra starten.
 
-Vurder hva som kan deles innenfor hensynet til blant annet informasjonssikkerhet, personvern, nasjonal sikkerhet, juridiske forhold, lisensiering og tredjepartsavhengigheter. Hvis hele løsningen ikke kan åpnes, vurder hvilke deler som likevel kan deles, for eksempel kildekode, dokumentasjon, API-spesifikasjoner, testverktøy eller arkitekturbeskrivelser.
+Vurder hva som kan deles innenfor hensynet til blant annet personvern, sikkerhet, juridiske forhold, og tredjepartsavhengigheter. Hvis hele løsningen ikke kan åpnes, vurder hvilke deler som likevel kan deles, for eksempel kildekode, dokumentasjon, eller testverktøy.
 
 Hovedregelen følges opp gjennom tre anbefalinger for hvordan offentlig sektor bør **bruke, dele og bidra** til åpen kildekode.
-
-### Vurder effekt på leverandørmarkedet
-
-Dersom det finnes et velfungerende marked som leverer programvare som dekker behovet, er det viktig at det gjøres en vurdering av om krav om åpen kildekode eller egen utvikling av åpen kildekode kan ha negative effekter på de eksisterende leverandørene. I verste fall kan et krav til å levere åpen kildekode, eller egenutviklet programvare som deles som åpen kildekode, ta vekk det forretningsmessige grunnlaget for å levere programvaren. Det er viktig at etaten ikke bare ser på sitt eget behov i denne sammenheng. Dersom etaten har ressurser til å levere et konkurransedyktig alternativ til seg selv, med egne ressurser på drift og forvaltning av løsningen, er det ikke sikkert andre aktører, både offentlige og private, har de samme ressursene, men er avhengige av leverandørmarkedet.
 
 <a id="anbefalinger-bruke-dele-og-bidra"></a>
 ## Anbefalinger: bruk, del og bidra
@@ -86,9 +82,11 @@ Anbefalingene dekker ulike deler av livsløpet: hva dere bygger løsningene på,
 
 Undersøk om eksisterende åpen kildekode kan dekke behovet eller brukes som utgangspunkt før dere utvikler eller kjøper noe nytt.
 
-Vurder kvalitet, sikkerhet, vedlikehold, kompetanse og kostnader gjennom hele livsløpet. Skaff oversikt over komponenter, avhengigheter og lisenser, og still krav som gjør det mulig å videreutvikle løsningen eller bytte leverandør senere.
+Vurder kvalitet, sikkerhet, drift, vedlikehold, kompetanse og kostnader gjennom hele livsløpet. Skaff oversikt over komponenter, avhengigheter og lisenser, og still krav som gjør det mulig å videreutvikle løsningen eller bytte leverandør senere.
 
 Bruk åpne løsninger, åpne grensesnitt og kontroll over egne data til å bevare endringsevne og digitalt handlingsrom. Unngå unødvendig innlåsing i enkeltleverandører, teknologier eller forvaltningsmodeller.
+
+Dersom det finnes et velfungerende marked, er det viktig at det gjøres en vurdering av om krav om åpen kildekode kan ha negative effekter på anskaffelsen. Vurder markedet grundig før anskaffelser og investeringsbeslutninger, og gå i dialog med eksisterende leverandører. Det er viktig at virksomheten ikke bare ser på sitt eget behov i denne sammenheng. 
 
 Målet er ikke å velge åpen kildekode uansett, men å **vurdere det først og velge det når det samlet sett er et godt og forsvarlig alternativ.**
 
@@ -98,7 +96,7 @@ Publiser programvare som utvikles for offentlige midler under en åpen lisens n�
 
 Deling handler ikke bare om gjenbruk. Åpen kildekode gir også innsyn og mulighet for etterprøving av digitale løsninger offentlig sektor utvikler og bruker. Dette er særlig viktig når løsningene påvirker rettigheter, tjenester og samfunnsfunksjoner.
 
-Gjør koden mulig å forstå og ta i bruk. Sørg for tydelig lisens, nødvendig dokumentasjon, kontaktpunkt og avklart ansvar for videre forvaltning.
+Gjør koden mulig å forstå og ta i bruk. Sørg for tydelig lisens, god dokumentasjon, kontaktpunkt og avklart ansvar for videre forvaltning.
 
 Skjerm det som må skjermes, men ikke hold hele løsningen lukket dersom begrensningen bare gjelder enkelte deler.
 
@@ -115,7 +113,7 @@ Bruk også bidrag som en måte å bygge kompetanse og få større innsikt og inn
 <a id="hva-far-dere-igjen"></a>
 ## Hva får dere igjen?
 
-Åpen kildekode kan gi offentlig sektor større kontroll over digitale løsninger gjennom hele livsløpet. Gevinstene kommer ikke automatisk, men når åpenhet kombineres med god styring, kompetanse og langsiktig forvaltning.
+Åpen kildekode kan gi offentlig sektor større kontroll over digitale løsninger gjennom hele livsløpet. Gevinstene kommer ikke av seg selv, men når åpenhet kombineres med god styring, kompetanse og langsiktig forvaltning.
 
 ### Større handlingsrom over tid
 Digitale løsninger i offentlig sektor har ofte lang levetid. Behov, leverandører, teknologi og rammebetingelser kan endre seg flere ganger i løpet av denne perioden.
@@ -171,7 +169,7 @@ Ha rutiner for å følge opp avhengigheter, sårbarheter og sensitiv informasjon
 Avklar tidlig hvilke lisenser som gjelder, hvilke rettigheter virksomheten har til programvaren, og hvem som kan beslutte lisensvalg og publisering.
 
 ### Dokumentasjon og forvaltning
-Sett tydelige forventninger til dokumentasjon, kontaktpunkt og videre forvaltning. Publisert kode må være mulig å forstå, bruke og følge opp over tid.
+Sett tydelige forventninger til dokumentasjon, kontaktpunkt og videre forvaltning. Publisert kode må være mulig å forstå, bruke og følge opp over tid. 
 
 ### Roller og ansvar
 Gjør det tydelig hvem som eier koden, hvem som kan godkjenne endringer, og hvem som følger opp sikkerhet, feil og eksterne bidrag.
