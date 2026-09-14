@@ -179,16 +179,16 @@ Planlegg for nødvendig kapasitet, kompetanse og finansiering gjennom hele livsl
 
 For mange virksomheter vil det være nyttig å samle disse rammene i en enkel intern policy eller veiledning for bruk, deling og bidrag til åpen kildekode.
 
-<a id="fra-ambisjon-til-praksis"></a>
-## Fra ambisjon til praksis
+<a id="Hvordan-komme-i-gang-med-åpen-kildekode"></a>
+## Hvordan komme i gang med åpen kildekode
 
 Virksomheter har ulike utgangspunkt. Noen bruker allerede mye åpen kildekode, mens andre har etablert praksis for å dele kode eller bidra aktivt til åpne prosjekter. Start der dere er, og bygg praksisen videre steg for steg.
 
 ### Skaff oversikt
 
-Begynn med å forstå dagens situasjon. Kartlegg hvilke åpne komponenter og løsninger dere allerede bruker, hva dere selv utvikler, og hvilke eksterne prosjekter dere er særlig avhengige av.
+Begynn med å forstå dagens situasjon. Helheten er viktig. Kartlegg hvilke åpne komponenter og løsninger dere allerede bruker, hva dere selv utvikler, og hvilke eksterne prosjekter dere er særlig avhengige av.
 
-Avklar samtidig hvem som har ansvar for lisenser, sikkerhet, publisering og forvaltning.
+Avklar samtidig hvem som har ansvar for lisenser, sikkerhet, publisering, drift og forvaltning.
 
 ### Prøv ut praksisen
 
@@ -230,7 +230,7 @@ Bruk sjekklisten som støtte når dere vurderer en konkret løsning, kodebase el
   <div class="ak-checklist__item"><span class="ak-checklist__box" aria-hidden="true"></span><span class="ak-checklist__text">Vurder om hele løsningen kan åpnes, eller om enkelte deler må holdes tilbake.</span></div>
   <div class="ak-checklist__item"><span class="ak-checklist__box" aria-hidden="true"></span><span class="ak-checklist__text">Gjennomgå kode, repository, dokumentasjon og historikk før publisering.</span></div>
   <div class="ak-checklist__item"><span class="ak-checklist__box" aria-hidden="true"></span><span class="ak-checklist__text">Kontroller at hemmeligheter, tilgangsnøkler, personopplysninger og sensitiv konfigurasjon ikke publiseres.</span></div>
-  <div class="ak-checklist__item"><span class="ak-checklist__box" aria-hidden="true"></span><span class="ak-checklist__text">Avklar rettigheter og velg en tydelig åpen lisens.</span></div>
+  <div class="ak-checklist__item"><span class="ak-checklist__box" aria-hidden="true"></span><span class="ak-checklist__text">Avklar rettigheter og velg en åpen lisens som er listet opp på OSI ( https://opensource.org/licenses ) .</span></div>
   <div class="ak-checklist__item"><span class="ak-checklist__box" aria-hidden="true"></span><span class="ak-checklist__text">Sørg for README, kontaktpunkt og nødvendig dokumentasjon for bygging, bruk og videreutvikling.</span></div>
   <div class="ak-checklist__item"><span class="ak-checklist__box" aria-hidden="true"></span><span class="ak-checklist__text">Beskriv hvordan bidrag, feil og sikkerhetsmeldinger skal håndteres.</span></div>
   <div class="ak-checklist__item"><span class="ak-checklist__box" aria-hidden="true"></span><span class="ak-checklist__text">Avklar hvem som eier og forvalter koden over tid.</span></div>
@@ -244,6 +244,7 @@ Bruk sjekklisten som støtte når dere vurderer en konkret løsning, kodebase el
   <div class="ak-checklist__item"><span class="ak-checklist__box" aria-hidden="true"></span><span class="ak-checklist__text">Prioriter oppfølging av avhengigheter som er kritiske for egne tjenester, og vurder om bidrag er et egnet tiltak.</span></div>
   <div class="ak-checklist__item"><span class="ak-checklist__box" aria-hidden="true"></span><span class="ak-checklist__text">Avklar hvem som kan bidra på vegne av virksomheten, og hvordan bidrag skal godkjennes.</span></div>
   <div class="ak-checklist__item"><span class="ak-checklist__box" aria-hidden="true"></span><span class="ak-checklist__text">Følg opp om bidragene faktisk styrker vedlikehold, sikkerhet og videreutvikling.</span></div>
+   <div class="ak-checklist__item"><span class="ak-checklist__box" aria-hidden="true"></span><span class="ak-checklist__text">Når dere bruker eksterne leverandører, vurder å kreve at de bidrar tilbake til åpen kildekode de bruker i løsningen som leveres.
 </div>
 
 <a id="hvor-modne-er-dere"></a>
