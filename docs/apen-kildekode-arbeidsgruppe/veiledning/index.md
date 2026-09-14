@@ -244,7 +244,7 @@ Bruk sjekklisten som støtte når dere vurderer en konkret løsning, kodebase el
   <div class="ak-checklist__item"><span class="ak-checklist__box" aria-hidden="true"></span><span class="ak-checklist__text">Prioriter oppfølging av avhengigheter som er kritiske for egne tjenester, og vurder om bidrag er et egnet tiltak.</span></div>
   <div class="ak-checklist__item"><span class="ak-checklist__box" aria-hidden="true"></span><span class="ak-checklist__text">Avklar hvem som kan bidra på vegne av virksomheten, og hvordan bidrag skal godkjennes.</span></div>
   <div class="ak-checklist__item"><span class="ak-checklist__box" aria-hidden="true"></span><span class="ak-checklist__text">Følg opp om bidragene faktisk styrker vedlikehold, sikkerhet og videreutvikling.</span></div>
-   <div class="ak-checklist__item"><span class="ak-checklist__box" aria-hidden="true"></span><span class="ak-checklist__text">Når dere bruker eksterne leverandører, vurder å kreve at de bidrar tilbake til åpen kildekode de bruker i løsningen som leveres.
+   <div class="ak-checklist__item"><span class="ak-checklist__box" aria-hidden="true"></span><span class="ak-checklist__text">Når dere bruker eksterne leverandører, vurder å kreve at de bidrar tilbake til åpen kildekode de bruker i løsningen som leveres.</span></div>
 </div>
 
 <a id="hvor-modne-er-dere"></a>
