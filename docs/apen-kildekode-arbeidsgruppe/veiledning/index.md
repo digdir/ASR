@@ -13,12 +13,12 @@ description: Høynivå veiledning om åpen kildekode i offentlig sektor
   <li><a href="#hvorfor-er-apen-kildekode-viktig-for-offentlig-sektor">Hvorfor er åpen kildekode viktig for offentlig sektor?</a></li>
   <li><a href="#hva-mener-vi-med-apen-kildekode">Hva mener vi med åpen kildekode?</a></li>
   <li><a href="#hovedregel-apen-kildekode-som-hovedregel">Åpen kildekode som hovedregel</a></li>
-  <li><a href="#anbefalinger-bruke-dele-og-bidra">Anbefalinger: bruke, dele og bidra</a></li>
+  <li><a href="#anbefalinger-bruk-del-og-bidra">Anbefalinger: bruk, del og bidra</a></li>
   <li><a href="#hva-far-dere-igjen">Hva får dere igjen?</a></li>
   <li><a href="#hva-ma-dere-ha-kontroll-pa">Hva må dere ha kontroll på?</a></li>
-  <li><a href="#fra-ambisjon-til-praksis">Fra ambisjon til praksis</a></li>
-  <li><a href="#minimumskrav">Sjekkliste for bruk, deling og bidrag</a></li>
-  <li><a href="#hvor-modne-er-dere">Hvor modne er dere?</a></li>
+  <li><a href="#hvordan-komme-i-gang-med-apen-kildekode">Hvordan komme i gang med åpen kildekode</a></li>
+  <li><a href="#sjekkliste-for-bruk-deling-og-bidrag">Sjekkliste for bruk, deling og bidrag</a></li>
+  <li><a href="#neste-steg">Neste steg</a></li>
 </ul>
 </aside>
 
@@ -68,7 +68,7 @@ Vurder hva som kan deles innenfor hensynet til blant annet personvern, sikkerhet
 
 Hovedregelen følges opp gjennom tre anbefalinger for hvordan offentlig sektor bør **bruke, dele og bidra** til åpen kildekode.
 
-<a id="anbefalinger-bruke-dele-og-bidra"></a>
+<a id="anbefalinger-bruk-del-og-bidra"></a>
 ## Anbefalinger: bruk, del og bidra
 
 Anbefalingene dekker ulike deler av livsløpet: hva dere bygger løsningene på, hva dere gjør tilgjengelig for andre, og hvordan dere tar ansvar for den åpne programvaren dere selv er avhengige av.
@@ -156,6 +156,7 @@ Tilgang til kildekode og nødvendige rettigheter gir også flere muligheter ders
 
 Åpen kildekode er derfor ikke bare et spørsmål om teknologi eller kostnader, men om hvordan offentlig sektor bevarer kontroll, tillit, handlingsrom og evne til å videreutvikle digitale tjenester over tid.
 
+<a id="hva-ma-dere-ha-kontroll-pa"></a>
 ## Hva må dere ha kontroll på?
 
 Før dere går videre med å bruke, dele eller bidra til åpen kildekode, må virksomheten etablere noen grunnleggende rammer. Det bør være tydelig hvem som beslutter hva som kan åpnes, hvilke krav som gjelder i anskaffelser og utviklingsløp, hvordan sikkerhet og lisensiering håndteres, og hvem som har ansvar for videre forvaltning.
@@ -179,7 +180,7 @@ Planlegg for nødvendig kapasitet, kompetanse og finansiering gjennom hele livsl
 
 For mange virksomheter vil det være nyttig å samle disse rammene i en enkel intern policy eller veiledning for bruk, deling og bidrag til åpen kildekode.
 
-<a id="Hvordan-komme-i-gang-med-åpen-kildekode"></a>
+<a id="hvordan-komme-i-gang-med-apen-kildekode"></a>
 ## Hvordan komme i gang med åpen kildekode
 
 Virksomheter har ulike utgangspunkt. Noen bruker allerede mye åpen kildekode, mens andre har etablert praksis for å dele kode eller bidra aktivt til åpne prosjekter. Start der dere er, og bygg praksisen videre steg for steg.
@@ -209,7 +210,7 @@ Når dere har erfaring, bør vurderinger av åpen kildekode inngå naturlig i ar
 
 Målet er ikke at alle virksomheter skal organisere arbeidet likt, men at **bruk, deling og bidrag blir bevisste valg som følges opp gjennom hele livsløpet**.
 
-<a id="minimumskrav"></a>
+<a id="sjekkliste-for-bruk-deling-og-bidrag"></a>
 ## Sjekkliste for bruk, deling og bidrag
 
 Bruk sjekklisten som støtte når dere vurderer en konkret løsning, kodebase eller avhengighet.
@@ -247,24 +248,8 @@ Bruk sjekklisten som støtte når dere vurderer en konkret løsning, kodebase el
    <div class="ak-checklist__item"><span class="ak-checklist__box" aria-hidden="true"></span><span class="ak-checklist__text">Når dere bruker eksterne leverandører, vurder å kreve at de bidrar tilbake til åpen kildekode de bruker i løsningen som leveres.</span></div>
 </div>
 
-<a id="hvor-modne-er-dere"></a>
-## Hvor modne er dere? (Flyttes ut til egen modul)
-
-Virksomheter har ulike utgangspunkt for arbeidet med åpen kildekode. Modenhetsmodellen under kan brukes til å vurdere hvor dere står i dag, og hva som kan være et naturlig neste steg.
-
-Modellen bygger på arbeid fra [OSPO Alliance](https://ospo-alliance.org/) og beskriver fem nivåer: **bruk, tillit, kultur, engasjement og strategi**.
-
-![Modenhetsmodell for åpen kildekode](../assets/img/figur-modenhet-apen-kildekode.svg)
-
-På de første nivåene handler det om å bruke åpen kildekode på en kontrollert måte, med oversikt over blant annet sikkerhet, avhengigheter, lisenser og kostnader.
-
-Etter hvert blir åpen kildekode en mer naturlig del av virksomhetens arbeidsform. Virksomheten deler egne løsninger, bidrar til prosjekter den er avhengig av og bygger kompetanse og samarbeid rundt åpne løsninger.
-
-På det strategiske nivået brukes åpen kildekode bevisst som et virkemiddel for å nå virksomhetens mål – for eksempel økt handlingsrom, bedre gjenbruk, mindre leverandørinnlåsing og mer bærekraftig forvaltning av digitale løsninger.
-
-Målet er ikke at alle virksomheter skal organisere arbeidet likt eller nå samme modenhetsnivå. Bruk modellen til å finne deres neste steg.
-
-### Neste steg
+<a id="neste-steg"></a>
+## Neste steg
 
 Start der dere er. Velg ett område der dere kan forbedre praksisen – enten det handler om å få bedre kontroll på det dere allerede bruker, dele mer av det dere utvikler, eller bidra tilbake til den digitale grunnmuren dere er avhengige av.
 
@@ -275,27 +260,9 @@ Over tid bør målet være at åpen kildekode ikke behandles som et særskilt te
 All informasjon på disse sidene er arbeidsdokumenter som er under arbeid. 
 Vi tar gjerne imot tilbakemeldinger fra alle som er engasjerte i tematikken ☺️. Send tilbakemeldinger oss via [diskusjonssiden på github](https://github.com/digdir/ASR/discussions/3) eller på [epost](mailto:nasjonalarkitektur@digdir.no). Det er også lov å åpne en pull-request mot repoet. Arbeidsgruppen vil vurdere eventuelle bidrag.
 
-## Relevante kilder (Erstattes med link til hele kildelisten)
+## Relevante kilder
 
-### EU og offentlig sektor
-
-- [Interoperable Europe Act](https://interoperable-europe.ec.europa.eu/interoperable-europe/interoperable-europe-act) - relevant for interoperabilitet, grensekryssende digitale tjenester og offentlig sektors samhandling.
-- [European Commission Open Source Software Strategy 2020-2023](https://commission.europa.eu/about/departments-and-executive-agencies/digital-services/open-source-software-strategy_en) - relevant for "Think Open", deling, gjenbruk, aktiv deltakelse og støtte til kritiske åpne prosjekter.
-- [OSOR Handbook: Open Source Software in Public Administration](https://openforumeurope.org/publications/osor-handbook/) - praktisk referanse for offentlig sektor, med tema som anskaffelser, kataloger, lisensiering, finansiering, styring og OSPO.
-- [OSOR Public Procurement of Open Source Software](https://interoperable-europe.ec.europa.eu/collection/open-source-observatory-osor/public-procurement-open-source-software) - relevant for anskaffelser av åpne løsninger og tjenester rundt åpen kildekode.
-
-### Praktisk publisering og styring
-
-- [Retningslinjer for åpen kildekode i NAV](https://github.com/navikt/offentlig) - norsk offentlig eksempel på hvordan en stor virksomhet organiserer publisering, eierskap og praktisk arbeid med åpen kildekode.
-- [GOV.UK: Making source code open and reusable](https://www.gov.uk/service-manual/technology/making-source-code-open-and-reusable) - kort offentlig veiledning om å gjøre kildekode åpen og gjenbrukbar.
-- [NHS Service Manual: Make new source code open](https://service-manual.nhs.uk/standards-and-technology/service-standard-points/12-make-new-source-code-open) - tydelig offentlig sektor-prinsipp om at ny kildekode bør gjøres åpen og gjenbrukbar med passende lisens, med mindre det finnes god grunn til å la være.
-- [OSPO Alliance Good Governance Initiative](https://ospo-alliance.org/ggi/) - relevant for modenhet, roller, policy og styring.
-
-### Sikkerhet og lisens
-
-- [OpenSSF Scorecard](https://openssf.org/projects/scorecard/) - verktøy for vurdering av sikkerhetspraksis i åpne prosjekter.
-- [OpenSSF Best Practices Badge](https://openssf.org/projects/best-practices-badge/) - selvdeklarering og beste praksis for FLOSS-prosjekter.
-- [REUSE Specification](https://reuse.software/spec-3.3/) - standardisert metode for maskinlesbar og ryddig lisens- og opphavsrettsinformasjon i repositories.
+Se [kildeoversikten vår]({{ '/apen-kildekode-arbeidsgruppe/kilder/' | relative_url }}) for kilder som er relevante for denne veiledningen.
 
 <!-- LEGG TIL: Noe om Inner sourcing -->
 

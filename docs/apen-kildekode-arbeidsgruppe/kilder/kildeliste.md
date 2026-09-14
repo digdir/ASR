@@ -40,6 +40,7 @@ Dette er hovedlisten for relevante kilder. Listen er delt inn etter hvilken roll
 | Digital Principles | Prinsipper | Digital Principles | [Lenke](https://digitalprinciples.org/) | Internasjonale prinsipper for ansvarlig digital utvikling | Lav |
 | Standard for Public Code | Standard | Foundation for Public Code | [Lenke](https://standard.publiccode.net/) | Praktisk standard for vedlikeholdbar og gjenbrukbar offentlig kode | Høy |
 | OpenChain Project | Standard / sertifisering | OpenChain / Linux Foundation | [Lenke](https://www.openchainproject.org/) | Relevant for krav, prosesser og etterlevelse knyttet til open source compliance i virksomheter og leverandørkjeder | Høy |
+| European Commission Open Source Software Strategy 2020-2023 | Strategi | EU-kommisjonen | [Lenke](https://commission.europa.eu/about/departments-and-executive-agencies/digital-services/open-source-software-strategy_en) | Relevant for "Think Open", deling, gjenbruk, aktiv deltakelse og støtte til kritiske åpne prosjekter | Middels |
 
 ### Lisenser og lisensveiledning
 
@@ -60,6 +61,7 @@ Dette er hovedlisten for relevante kilder. Listen er delt inn etter hvilken roll
 | Open Source Good Governance Handbook | Veiledning / modenhetsmodell | OSPO Alliance | [Lenke](https://ospo-alliance.org/docs/ggi_handbook_v1.3.pdf) | Praktisk håndbok for styring, modenhet, roller, prosesser og tiltak; relevant som operativ støttekilde, men ikke som styrende EU-kommisjonskilde | Lav |
 | Publiccode YML Validator | Verktøy | Foundation for Public Code | [Lenke](https://yml.publiccode.tools/) | Verktøy for validering av publiccode.yml | Lav |
 | Recommended Open Source Compliance Practices for the Enterprise | Veiledning / praksis | Linux Foundation | [Lenke](https://www.ibrahimatlinux.com/wp-content/uploads/2022/01/recommended-oss-compliance-practices.pdf) | Praktisk referanse for policy, roller og prosesser for lisens- og IP-etterlevelse i virksomheter | Middels |
+| REUSE Specification | Standard | REUSE / FSFE | [Lenke](https://reuse.software/spec-3.3/) | Standardisert metode for maskinlesbar og ryddig lisens- og opphavsrettsinformasjon i kodelagre | Middels |
 
 ### Veiledning og praksis
 
@@ -102,6 +104,10 @@ Dette er hovedlisten for relevante kilder. Listen er delt inn etter hvilken roll
 | What is enterprise open source? | Artikkel | Red Hat | [Lenke](https://www.redhat.com/en/blog/what-enterprise-open-source) | Forklarer forskjellen mellom generell åpen kildekode og virksomhetsrettet open source med støtte, sikkerhet og livsløpsforvaltning | Middels |
 | Decision factors for open source software procurement | Veiledning | OSS Watch | [Lenke](http://oss-watch.ac.uk/resources/procurement-infopack) | Relevant for vurderingskriterier ved anskaffelse av open source-løsninger og sammenligning med proprietære alternativer | Middels |
 | 5 Open Source Procurement Best Practices | Artikkel / praksisnotat | Anchore | [Lenke](https://anchore.com/blog/5-open-source-procurement-best-practices/) | Praktiske råd om hvordan anskaffelse bør involvere IT, DevOps, sikkerhet, risikostyring og innkjøp | Lav |
+| OSOR Handbook: Open Source Software in Public Administration | Håndbok | OpenForum Europe / OSOR | [Lenke](https://openforumeurope.org/publications/osor-handbook/) | Praktisk referanse for offentlig sektor, med tema som anskaffelser, kataloger, lisensiering, finansiering, styring og OSPO | Høy |
+| GOV.UK: Making source code open and reusable | Veiledning | UK Government Digital Service | [Lenke](https://www.gov.uk/service-manual/technology/making-source-code-open-and-reusable) | Kort offentlig veiledning om å gjøre kildekode åpen og gjenbrukbar | Middels |
+| NHS Service Manual: Make new source code open | Prinsipp / tjenestestandard | NHS Digital | [Lenke](https://service-manual.nhs.uk/standards-and-technology/service-standard-points/12-make-new-source-code-open) | Tydelig prinsipp om at ny kildekode bør gjøres åpen og gjenbrukbar med passende lisens, med mindre det finnes god grunn til å la være | Middels |
+| OpenSSF Scorecard | Verktøy | OpenSSF | [Lenke](https://openssf.org/projects/scorecard/) | Verktøy for vurdering av sikkerhetspraksis i åpne prosjekter | Middels |
 
 ### Anskaffelser og finansiering
 
