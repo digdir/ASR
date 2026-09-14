@@ -248,7 +248,7 @@ Bruk sjekklisten som støtte når dere vurderer en konkret løsning, kodebase el
 </div>
 
 <a id="hvor-modne-er-dere"></a>
-## Hvor modne er dere?
+## Hvor modne er dere? (Flyttes ut til egen modul)
 
 Virksomheter har ulike utgangspunkt for arbeidet med åpen kildekode. Modenhetsmodellen under kan brukes til å vurdere hvor dere står i dag, og hva som kan være et naturlig neste steg.
 
@@ -275,7 +275,7 @@ Over tid bør målet være at åpen kildekode ikke behandles som et særskilt te
 All informasjon på disse sidene er arbeidsdokumenter som er under arbeid. 
 Vi tar gjerne imot tilbakemeldinger fra alle som er engasjerte i tematikken ☺️. Send tilbakemeldinger oss via [diskusjonssiden på github](https://github.com/digdir/ASR/discussions/3) eller på [epost](mailto:nasjonalarkitektur@digdir.no). Det er også lov å åpne en pull-request mot repoet. Arbeidsgruppen vil vurdere eventuelle bidrag.
 
-## Relevante kilder
+## Relevante kilder (Erstattes med link til hele kildelisten)
 
 ### EU og offentlig sektor
 
