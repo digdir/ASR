@@ -86,7 +86,7 @@ Vurder kvalitet, sikkerhet, drift, vedlikehold, kompetanse og kostnader gjennom 
 
 Bruk åpne løsninger, åpne grensesnitt og kontroll over egne data til å bevare endringsevne og digitalt handlingsrom. Unngå unødvendig innlåsing i enkeltleverandører, teknologier eller forvaltningsmodeller.
 
-Dersom det finnes et velfungerende marked, er det viktig at det gjøres en vurdering av om krav om åpen kildekode kan ha negative effekter på anskaffelsen. Vurder markedet grundig før anskaffelser og investeringsbeslutninger, og gå i dialog med eksisterende leverandører. Det er viktig at virksomheten ikke bare ser på sitt eget behov i denne sammenheng. 
+Vurder markedet før dere velger å utvikle selv. Finnes det allerede et velfungerende marked som dekker behovet, er egenutvikling sjelden riktig. Det binder opp offentlige midler i noe som allerede finnes, og svekker et leverandørmiljø som andre virksomheter er avhengige av. Mange kommuner og mindre etater har ikke egne utviklingsressurser og kan ikke bygge et alternativ selv. Merk at et marked med én dominerende leverandør og reell innlåsing ikke er velfungerende. Da er nettopp åpne alternativer virkemiddelet for å skape konkurranse.
 
 Målet er ikke å velge åpen kildekode uansett, men å **vurdere det først og velge det når det samlet sett er et godt og forsvarlig alternativ.**
 
