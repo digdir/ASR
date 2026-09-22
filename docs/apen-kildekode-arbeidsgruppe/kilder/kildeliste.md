@@ -152,6 +152,7 @@ Dette er hovedlisten for relevante kilder. Listen er delt inn etter hvilken roll
 | Open Source Vulnerabilities | Datakilde | Google / OSV | [Lenke](https://osv.dev/) | Relevant som åpen sårbarhetsdatabase for open source-avhengigheter og automatisert sårbarhetshåndtering | Middels |
 | NVD - National Vulnerability Database | Datakilde | NIST | [Lenke](https://nvd.nist.gov/) | Sentral sårbarhetsdatabase som kan brukes i prosesser for risikovurdering av open source-komponenter | Middels |
 | ROI for Open Source Software Contribution | Rapport | Linux Foundation | [Lenke](https://www.linuxfoundation.org/research/contribution-roi?hsLang=en) | Rapport om fordeler med aktivt bidrag til åpen kilde | Høy |
+| Discovering Ideologies of the Open Source Software Movement | Forskningsartikkel / analyse | Yang Yue, Yi Wang og David Redmiles (ICSE 2025 NIER) | [Lenke](https://arxiv.org/abs/2502.17509) | Empirisk rammeverk for hva open source-bevegelsen faktisk verdsetter, langs seks dimensjoner: medlemskap, normer og verdier, mål, aktiviteter, ressurser og posisjon i forhold til andre aktører; nyttig for å forstå hvorfor anerkjennelse, meritokrati og governance avgjør om offentlige bidrag blir tatt imot i eksisterende fellesskap | Middels |
 
 ### Eksempler og referanseprosjekter
 
