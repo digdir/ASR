@@ -6,10 +6,10 @@ description: Tiltak, tilskudd og bidrag til åpen kildekode
 
 ## Hvorfor bør offentlig sektor bidra tilbake?
 
-> **Arbeidsnotat:** 3. Juli, 2026 / Morten G: Jeg har laget et nytt dokument som et forsøk på å få inn struktur og mer innhold, men ville ikke fjerne denne siden foreløpig, se her for forslag ny side: [Les forslaget om tilskudd og bidrag til åpen kildekode](forslag-tilskudd-og-bidrag-apen-kildekode.md)
+> **Arbeidsnotat:** 23. september 2026 / Morten G: Det finnes nå et nytt og forenklet forslag til denne siden (forslag 2). Det bygger på [forslag 1](forslag-tilskudd-og-bidrag-apen-kildekode.md) fra 3. juli 2026, men er kortere, mer overordnet og tydeligere på at tiltakene er mulige tiltak som arbeidsgruppen ikke har vurdert ennå. Denne siden og forslag 1 er beholdt foreløpig.
 
-# NB! Se her for forslag ny side:
-[Les forslaget om tilskudd og bidrag til åpen kildekode](forslag-tilskudd-og-bidrag-apen-kildekode.md)
+# NB! Se her for siste forslag til ny side:
+[Les forslag 2 om tilskudd og bidrag til åpen kildekode](forslag2-tilskudd-og-bidrag-apen-kildekode.md)
 Alt under er kun bevart inntil videre...
 
 ### Vi er allerede avhengige av åpen kildekode
