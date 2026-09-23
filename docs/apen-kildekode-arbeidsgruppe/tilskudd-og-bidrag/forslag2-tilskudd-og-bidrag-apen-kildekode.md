@@ -26,7 +26,7 @@ description: Begrunnelse og mulige tiltak for tilskudd og bidrag til åpen kilde
 
 <div class="ak-guide-body" markdown="1">
 
-> **Arbeidsnotat, forslag 2:** 23. september 2026 / Morten G: Dette er en forenklet og mer overordnet versjon av [forslag 1](forslag-tilskudd-og-bidrag-apen-kildekode.md). Tiltakene på siden er **mulige tiltak**. Arbeidsgruppen har ikke vurdert eller prioritert dem ennå, og de er ikke juridisk, anskaffelsesfaglig eller økonomisk kvalitetssikret.
+> **Arbeidsnotat, forslag 2:** 23. september 2026 / Morten G: Dette er en forenklet og mer overordnet versjon av [forslag 1](forslag-tilskudd-og-bidrag-apen-kildekode.md). Tiltakene på siden er **mulige tiltak**. Arbeidsgruppen har ikke vurdert eller prioritert dem ennå...
 
 <a id="kort-oppsummert"></a>
 ## Kort oppsummert
