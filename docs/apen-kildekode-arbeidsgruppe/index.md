@@ -63,7 +63,7 @@ For å lage veiledning og praktisk støtte som hjelper offentlig sektor til å l
     <strong>Bakrunn og Om oss</strong>
     <span>Bakgrunn for arbeidet, hvem som deltar og hvordan kunnskapsgrunnlaget utvikles.</span>
   </a>
-  <a class="ak-card" href="kilder/">
+  <a class="ak-card" href="kilder/kildeliste.html">
     <span class="ak-card__label">Kilder</span>
     <strong>Referanser og analyser</strong>
     <span>Samlet kildeliste med veiledere, strategier, verktøy, eksempler og rapporter.</span>

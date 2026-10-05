@@ -262,7 +262,7 @@ Vi tar gjerne imot tilbakemeldinger fra alle som er engasjerte i tematikken ☺�
 
 ## Relevante kilder
 
-Se [kildeoversikten vår]({{ '/apen-kildekode-arbeidsgruppe/kilder/' | relative_url }}) for kilder som er relevante for denne veiledningen.
+Se [kildeoversikten vår]({{ '/apen-kildekode-arbeidsgruppe/kilder/kildeliste.html' | relative_url }}) for kilder som er relevante for denne veiledningen.
 
 <!-- LEGG TIL: Noe om Inner sourcing -->
 

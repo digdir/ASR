@@ -55,9 +55,10 @@
           {% if site.data.navigation and site.data.navigation.size > 0 %}
             {% for item in site.data.navigation %}
               {% assign is_active = false %}
+              {% assign match_url = item.match | default: item.url %}
               {% if page.url == item.url %}
                 {% assign is_active = true %}
-              {% elsif item.url != '/apen-kildekode-arbeidsgruppe/' and page.url contains item.url %}
+              {% elsif item.url != '/apen-kildekode-arbeidsgruppe/' and page.url contains match_url %}
                 {% assign is_active = true %}
               {% endif %}
               <a
@@ -71,7 +72,7 @@
             <a class="site-navigation__link{% if page.url contains '/apen-kildekode-arbeidsgruppe/veiledning/' %} site-navigation__link--active{% endif %}" href="{{ '/apen-kildekode-arbeidsgruppe/veiledning/' | relative_url }}">Veiledning</a>
             <a class="site-navigation__link{% if page.url contains '/apen-kildekode-arbeidsgruppe/tilskudd-og-bidrag/' %} site-navigation__link--active{% endif %}" href="{{ '/apen-kildekode-arbeidsgruppe/tilskudd-og-bidrag/' | relative_url }}">Tilskudd og bidrag</a>
             <a class="site-navigation__link{% if page.url contains '/apen-kildekode-arbeidsgruppe/om-arbeidet/' %} site-navigation__link--active{% endif %}" href="{{ '/apen-kildekode-arbeidsgruppe/om-arbeidet/' | relative_url }}">Om arbeidet</a>
-            <a class="site-navigation__link{% if page.url contains '/apen-kildekode-arbeidsgruppe/kilder/' %} site-navigation__link--active{% endif %}" href="{{ '/apen-kildekode-arbeidsgruppe/kilder/' | relative_url }}">Kilder</a>
+            <a class="site-navigation__link{% if page.url contains '/apen-kildekode-arbeidsgruppe/kilder/' %} site-navigation__link--active{% endif %}" href="{{ '/apen-kildekode-arbeidsgruppe/kilder/kildeliste.html' | relative_url }}">Kilder</a>
           {% endif %}
         </nav>
       {% endif %}

@@ -10,7 +10,7 @@ Dette repoet er strukturert for a støtte både arbeidsprosess og åpen publiser
 - `veiledning/`: Høynivå veiledning
 - `tilskudd-og-bidrag/`: Vurdering av behov for tilskuddsordning og andre type bidrag til utvikling og forvaltning
 - `om-arbeidet/`: Bakgrunn og beskrivelse av arbeidsgruppen 
-- `kilder/`: Kildelister, kategorier og tematiske oversikter
+- `kilder/`: Kildelista (data i `docs/_data/kilder.yml`), arkivert tabellversjon og KI-genererte utkast. Se `kilder/README.md`
 
 ## Rotfiler
 

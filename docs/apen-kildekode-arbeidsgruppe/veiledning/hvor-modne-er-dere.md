@@ -22,4 +22,4 @@ Målet er ikke at alle virksomheter skal organisere arbeidet likt eller nå samm
 
 ## Relevante kilder
 
-Kilder som er relevante for dette temaet, finner dere i [kildeoversikten vår]({{ '/apen-kildekode-arbeidsgruppe/kilder/' | relative_url }}).
+Kilder som er relevante for dette temaet, finner dere i [kildeoversikten vår]({{ '/apen-kildekode-arbeidsgruppe/kilder/kildeliste.html' | relative_url }}).

@@ -24,7 +24,7 @@
 #   relevans    én eller to setninger om hvorfor kilden er relevant
 #   nokkelkilde true for kildene som vises under «Start her» (valgfritt)
 #   starttekst  kort norsk forklaring som vises i «Start her» (valgfritt)
-#   merknad     intern merknad, vises ikke på siden (valgfritt)
+#   merknad     arbeidsmerknad, vises ikke på siden, men er offentlig i repoet og i kilder.json (valgfritt)
 - id: K001
   tittel: What is Open Source Software (OSS)?
   avsender: Open Source Initiative
