@@ -202,7 +202,7 @@ Dette kan være aktuelle neste steg for arbeidsgruppen:
 <a id="kilder"></a>
 ## Kilder
 
-> **Arbeidsnotat:** Kildene er sjekket 23. september 2026. Flere kilder finnes i [kildelista](../kilder/kildeliste.md).
+> **Arbeidsnotat:** Kildene er sjekket 23. september 2026. Flere kilder finnes i [kildelista](../kilder/kildeliste-arkiv.md).
 
 ### Begrunnelse og eksempler
 
