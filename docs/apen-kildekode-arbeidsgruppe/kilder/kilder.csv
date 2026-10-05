@@ -1,0 +1,7 @@
+---
+layout: null
+permalink: /apen-kildekode-arbeidsgruppe/kilder/kilder.csv
+---
+id;tittel;avsender;lenke;kildetype;opphav;tema;sprak;prioritet;status;relevans
+{% for k in site.data.kilder %}"{{ k.id }}";"{{ k.tittel | replace: '"', '""' }}";"{{ k.avsender | replace: '"', '""' }}";"{{ k.lenke | replace: '"', '""' }}";"{{ k.kildetype }}";"{{ k.opphav }}";"{{ k.tema | join: ', ' }}";"{{ k.sprak }}";"{{ k.prioritet }}";"{{ k.status }}";"{{ k.relevans | replace: '"', '""' }}"
+{% endfor %}

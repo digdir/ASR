@@ -25,3 +25,239 @@
   word-break: normal;
   overflow-wrap: break-word;
 }
+
+/* ---------- Ny kildeliste (kort, søk og filter) ---------- */
+
+/* Kortvisningen trenger ikke full bredde som tabellen i arkivet. */
+.main-content:has(.kl) {
+  max-width: 72rem;
+}
+
+.kl-intro {
+  font-size: 1.12rem;
+  max-width: 48rem;
+}
+
+.kl-hjelp {
+  color: var(--ak-muted);
+  margin-top: -0.5rem;
+}
+
+.kl-start__liste {
+  list-style: none;
+  padding: 0;
+  margin: 1rem 0 2rem;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(15rem, 1fr));
+  gap: 0.75rem;
+}
+
+.main-content .kl-start__kort {
+  margin: 0;
+  padding: 0.9rem 1rem;
+  background: var(--ak-surface);
+  border: 1px solid var(--ak-border);
+  border-left: 4px solid var(--ak-accent);
+  border-radius: var(--ak-radius);
+  line-height: 1.4;
+}
+
+.kl-start__kort a {
+  display: block;
+  font-weight: 600;
+  margin-bottom: 0.3rem;
+}
+
+.kl-start__kort span {
+  font-size: 0.88rem;
+  color: var(--ak-muted);
+}
+
+.kl-verktoy {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  align-items: flex-end;
+  margin: 1rem 0 0.75rem;
+}
+
+.kl-felt {
+  display: flex;
+  flex-direction: column;
+  font-size: 0.88rem;
+  font-weight: 600;
+  gap: 0.25rem;
+}
+
+.kl-felt--sok {
+  flex: 1 1 18rem;
+}
+
+.kl-felt input,
+.kl-felt select {
+  font: inherit;
+  font-weight: 400;
+  font-size: 1rem;
+  padding: 0.5rem 0.6rem;
+  color: var(--ak-text);
+  background: var(--ak-surface);
+  border: 1px solid var(--ak-border-strong);
+  border-radius: var(--ak-radius);
+  max-width: 100%;
+}
+
+.kl-felt input:focus,
+.kl-felt select:focus,
+.kl-tema__knapp:focus-visible,
+.kl-lenkeknapp:focus-visible {
+  outline: 3px solid var(--ak-link);
+  outline-offset: 2px;
+}
+
+.kl-avkrysning {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+  font-size: 0.92rem;
+  padding-bottom: 0.5rem;
+}
+
+.kl-tema {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  margin: 0.5rem 0 1rem;
+}
+
+.kl-tema__knapp {
+  font: inherit;
+  font-size: 0.9rem;
+  padding: 0.35rem 0.8rem;
+  color: var(--ak-accent-dark);
+  background: var(--ak-surface);
+  border: 1px solid var(--ak-border-strong);
+  border-radius: 999px;
+  cursor: pointer;
+}
+
+.kl-tema__knapp:hover {
+  background: var(--ak-surface-tint);
+}
+
+.kl-tema__knapp[aria-pressed="true"] {
+  color: #fff;
+  background: var(--ak-accent);
+  border-color: var(--ak-accent);
+}
+
+.kl-status {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 0.5rem;
+  font-size: 0.92rem;
+  border-bottom: 1px solid var(--ak-border);
+  padding-bottom: 0.5rem;
+}
+
+.main-content .kl-status p {
+  margin: 0;
+}
+
+.kl-lenkeknapp {
+  font: inherit;
+  color: var(--ak-link);
+  background: none;
+  border: 0;
+  padding: 0 0.5rem 0 0;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.kl-liste {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.main-content .kl-kort {
+  margin: 0;
+  padding: 1rem 0 0.75rem;
+  border-bottom: 1px solid var(--ak-border);
+}
+
+.kl-kort[hidden] {
+  display: none;
+}
+
+.kl-kort--markert {
+  background: var(--ak-surface-tint);
+  padding-left: 0.75rem !important;
+  padding-right: 0.75rem !important;
+}
+
+.main-content .kl-kort__tittel {
+  font-size: 1.1rem;
+  margin: 0 0 0.2rem;
+  border: 0;
+  padding: 0;
+}
+
+.main-content .kl-kort__meta {
+  font-size: 0.88rem;
+  color: var(--ak-muted);
+  margin: 0 0 0.4rem;
+}
+
+.main-content .kl-kort__tekst {
+  margin: 0 0 0.5rem;
+}
+
+.main-content .kl-kort__merker {
+  margin: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.3rem;
+  align-items: center;
+}
+
+.kl-merke {
+  font-size: 0.8rem;
+  line-height: 1.4;
+  padding: 0.1rem 0.55rem;
+  color: var(--ak-text);
+  background: var(--ak-surface-tint);
+  border-radius: 999px;
+}
+
+.kl-merke--hoy {
+  color: #fff;
+  background: var(--ak-accent-dark);
+}
+
+.kl-merke--status {
+  background: #fde7d9;
+}
+
+.kl-kort--gammel .kl-kort__tittel a {
+  color: var(--ak-muted);
+}
+
+.main-content .kl-kort__id {
+  margin-left: auto;
+  font-size: 0.8rem;
+  color: var(--ak-muted);
+  background: none;
+  padding: 0;
+}
+
+.kl-ingen {
+  padding: 1.5rem 0;
+  font-style: italic;
+}
+
+.kl-om {
+  margin-top: 2rem;
+  font-size: 0.88rem;
+  color: var(--ak-muted);
+}

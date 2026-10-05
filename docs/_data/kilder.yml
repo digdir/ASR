@@ -1,0 +1,2233 @@
+# Kildeliste for åpen kildekode-arbeidsgruppa.
+# Denne fila er grunnlaget for siden /apen-kildekode-arbeidsgruppe/kilder/kildeliste.html
+# og for nedlastingene kilder.json og kilder.csv.
+#
+# Slik legger du til en kilde: kopier en oppføring, gi den neste ledige id og fyll ut feltene.
+# Ikke endre eller gjenbruk id-er, de brukes i lenker (kildeliste.html#K012).
+#
+# Felt:
+#   id          K + tre siffer, fast
+#   tittel      tittelen på kilden
+#   avsender    hvem som står bak
+#   lenke       full URL
+#   kildetype   Regelverk og styring | Strategi og policy | Veiledning og praksis |
+#               Standard, rammeverk og lisenser | Verktøy og tjenester | Rapport og analyse |
+#               Eksempel og initiativ | Nyhet, artikkel og debatt
+#   opphav      Norge | Norden | EU | Europa (land) | Internasjonalt
+#   tema        1-3 av: Styring og organisering, Bruk og vurdering, Deling og publisering,
+#               Bidrag og bærekraft, Anskaffelser, Lisenser og rettigheter,
+#               Sikkerhet og leveransekjede, Digital suverenitet, KI, Finansiering,
+#               Metadata og kataloger, Eksempler fra offentlig sektor
+#   sprak       språket kilden er skrevet på
+#   prioritet   Høy | Middels | Lav
+#   status      Gjeldende | Utløpt | Arkivert | Historisk
+#   relevans    én eller to setninger om hvorfor kilden er relevant
+#   nokkelkilde true for kildene som vises under «Start her» (valgfritt)
+#   starttekst  kort norsk forklaring som vises i «Start her» (valgfritt)
+#   merknad     intern merknad, vises ikke på siden (valgfritt)
+- id: K001
+  tittel: What is Open Source Software (OSS)?
+  avsender: Open Source Initiative
+  lenke: https://opensource.org/osd
+  kildetype: Veiledning og praksis
+  opphav: Internasjonalt
+  tema:
+  - Bruk og vurdering
+  sprak: Engelsk
+  prioritet: Høy
+  status: Gjeldende
+  relevans: Grunnleggende definisjon og forståelse av åpen kildekode
+  nokkelkilde: true
+  starttekst: 'Hva åpen kildekode er: den internasjonale definisjonen'
+- id: K002
+  tittel: EU Open Source Strategy
+  avsender: EU-kommisjonen
+  lenke: https://digital-strategy.ec.europa.eu/en/policies/open-source-strategy
+  kildetype: Strategi og policy
+  opphav: EU
+  tema:
+  - Styring og organisering
+  sprak: Engelsk
+  prioritet: Høy
+  status: Gjeldende
+  relevans: Overordnet strategi for åpen kildekode i EU
+  nokkelkilde: true
+  starttekst: EUs strategi for åpen kildekode
+- id: K003
+  tittel: Open Source Software in Public Administration Handbook
+  avsender: EU-kommisjonen
+  lenke: https://interoperable-europe.ec.europa.eu/sites/default/files/custom-page/attachment/2026-01/osor-handbook.pdf
+  kildetype: Veiledning og praksis
+  opphav: EU
+  tema:
+  - Styring og organisering
+  - Anskaffelser
+  - Lisenser og rettigheter
+  sprak: Engelsk
+  prioritet: Høy
+  status: Gjeldende
+  relevans: Håndbok fra Interoperable Europe / OSOR om åpen kildekode i offentlig sektor, med tema som anskaffelser, kataloger, lisensiering, finansiering, styring og OSPO
+  nokkelkilde: true
+  starttekst: EUs håndbok for åpen kildekode i offentlig sektor
+- id: K004
+  tittel: Be open and use open source
+  avsender: Gov.uk
+  lenke: https://www.gov.uk/guidance/be-open-and-use-open-source
+  kildetype: Veiledning og praksis
+  opphav: Europa (land)
+  tema:
+  - Deling og publisering
+  - Bruk og vurdering
+  sprak: Engelsk
+  prioritet: Høy
+  status: Gjeldende
+  relevans: Praktisk veiledning om å bruke og dele åpen kildekode i offentlig sektor
+  nokkelkilde: true
+  starttekst: 'Storbritannia: bruk og del åpen kildekode'
+- id: K005
+  tittel: When code should be open or closed
+  avsender: Gov.uk
+  lenke: https://www.gov.uk/government/publications/open-source-guidance/when-code-should-be-open-or-closed
+  kildetype: Veiledning og praksis
+  opphav: Europa (land)
+  tema:
+  - Deling og publisering
+  sprak: Engelsk
+  prioritet: Høy
+  status: Gjeldende
+  relevans: Praktisk beslutningsstøtte for når kode bør være åpen eller lukket i offentlig sektor
+  nokkelkilde: true
+  starttekst: 'Storbritannia: når kode kan være åpen og når den bør være lukket'
+- id: K006
+  tittel: National Support Structures and Capabilities for growing Digital Sovereignty through Sharing and Reuse of Open Source Software in the Public Sector
+  avsender: Digitaliseringsstyrelsen (utarbeidet av RISE)
+  lenke: https://arkitektur.digst.dk/sites/default/fileuploads/Danish-OSPO-Study-Final.pdf
+  kildetype: Rapport og analyse
+  opphav: Norden
+  tema:
+  - Styring og organisering
+  - Digital suverenitet
+  - Deling og publisering
+  sprak: Engelsk
+  prioritet: Høy
+  status: Gjeldende
+  relevans: Kartlegger nasjonale støttestrukturer og OSPO-modeller for deling og gjenbruk av åpen kildekode i offentlig sektor, med digital suverenitet som ramme; nær nordisk parallell til vårt eget arbeid
+  nokkelkilde: true
+  starttekst: 'Danmark: nasjonale støttefunksjoner for deling og gjenbruk'
+- id: K007
+  tittel: Sweden 2026 Country Report
+  avsender: OSOR / Interoperable Europe Portal
+  lenke: https://interoperable-europe.ec.europa.eu/collection/open-source-observatory-osor/news/sweden-2026-country-report
+  kildetype: Rapport og analyse
+  opphav: Norden
+  tema:
+  - Styring og organisering
+  - Eksempler fra offentlig sektor
+  sprak: Dansk/svensk/finsk
+  prioritet: Høy
+  status: Gjeldende
+  relevans: Nordisk referanse for hvordan desentralisert, bottom-up innføring av open source skjer i offentlig sektor
+  nokkelkilde: true
+  starttekst: 'Sverige: status for åpen kildekode i offentlig sektor'
+- id: K008
+  tittel: Retningslinjer for åpen kildekode i Nav
+  avsender: NAV
+  lenke: https://github.com/navikt/offentlig
+  kildetype: Strategi og policy
+  opphav: Norge
+  tema:
+  - Styring og organisering
+  sprak: Norsk
+  prioritet: Høy
+  status: Gjeldende
+  relevans: Viser hvordan en stor offentlig aktør organiserer bruk av åpen kildekode
+  nokkelkilde: true
+  starttekst: 'Nav: slik organiserer en stor norsk virksomhet åpen kildekode'
+- id: K009
+  tittel: St.meld. nr. 17 (2006-2007) om IKT og digitalisering
+  avsender: Regjeringen
+  lenke: https://www.regjeringen.no/no/dokumenter/stmeld-nr-17-2006-2007-/id441497/?q=kildekode&ch=7
+  kildetype: Regelverk og styring
+  opphav: Norge
+  tema:
+  - Styring og organisering
+  sprak: Norsk
+  prioritet: Lav
+  status: Historisk
+  relevans: Tidlig og viktig referanse for offentlig bruk av åpen kildekode
+- id: K010
+  tittel: Digitaliseringsrundskrivet
+  avsender: Regjeringen
+  lenke: https://www.regjeringen.no/no/dokumenter/digitaliseringsrundskrivet/id3103320/
+  kildetype: Regelverk og styring
+  opphav: Norge
+  tema:
+  - Styring og organisering
+  sprak: Norsk
+  prioritet: Høy
+  status: Gjeldende
+  relevans: Sentralt styringsgrunnlag for digitalisering i staten
+- id: K011
+  tittel: Utredningsinstruksen
+  avsender: Regjeringen
+  lenke: https://www.regjeringen.no/no/dokumenter/utredningsinstruksen/id3060944/
+  kildetype: Regelverk og styring
+  opphav: Norge
+  tema:
+  - Styring og organisering
+  sprak: Norsk
+  prioritet: Høy
+  status: Gjeldende
+  relevans: Relevant for krav til utredning av tiltak, inkludert digitale valg
+- id: K012
+  tittel: Arkitekturprinsipper
+  avsender: Digdir
+  lenke: https://www.digdir.no/digital-samhandling/overordnede-arkitekturprinsipper/1065
+  kildetype: Regelverk og styring
+  opphav: Norge
+  tema:
+  - Styring og organisering
+  sprak: Norsk
+  prioritet: Høy
+  status: Gjeldende
+  relevans: Relevant som styringsprinsipper for samhandling og deling
+- id: K013
+  tittel: Interoperable Europe Act
+  avsender: EU
+  lenke: https://eur-lex.europa.eu/eli/reg/2024/903/oj
+  kildetype: Regelverk og styring
+  opphav: EU
+  tema:
+  - Deling og publisering
+  - Styring og organisering
+  sprak: Engelsk
+  prioritet: Høy
+  status: Gjeldende
+  relevans: Relevant for europeisk samhandling og åpenhet
+- id: K014
+  tittel: AI Act (Regulation (EU) 2024/1689)
+  avsender: EU
+  lenke: https://eur-lex.europa.eu/eli/reg/2024/1689/oj
+  kildetype: Regelverk og styring
+  opphav: EU
+  tema:
+  - KI
+  - Styring og organisering
+  sprak: Engelsk
+  prioritet: Høy
+  status: Gjeldende
+  relevans: Svært relevant for styring, ansvar og etterlevelse i bruk av KI, inkludert hvordan åpne KI-komponenter kan tas i bruk i offentlig sektor
+- id: K015
+  tittel: Proposal for the Cloud and AI Development Act (CADA)
+  avsender: EU-kommisjonen
+  lenke: https://digital-strategy.ec.europa.eu/en/library/proposal-cloud-and-ai-development-act-cada
+  kildetype: Regelverk og styring
+  opphav: EU
+  tema:
+  - KI
+  - Digital suverenitet
+  sprak: Engelsk
+  prioritet: Høy
+  status: Gjeldende
+  relevans: Relevant for kapasitet, infrastruktur og suverenitet i sky- og KI-økosystemet; viktig å følge for mulige konsekvenser for offentlig bruk av åpne teknologier
+- id: K016
+  tittel: ADMS (Asset Description Metadata Schema)
+  avsender: EU-kommisjonen
+  lenke: https://joinup.ec.europa.eu/collection/semantic-interoperability-community-semic/solution/asset-description-metadata-schema-adms
+  kildetype: Standard, rammeverk og lisenser
+  opphav: EU
+  tema:
+  - Metadata og kataloger
+  sprak: Engelsk
+  prioritet: Middels
+  status: Gjeldende
+  relevans: Relevant for metadata og katalogisering av digitale ressurser
+- id: K017
+  tittel: DCAT-AP
+  avsender: EU / SEMIC
+  lenke: https://interoperable-europe.ec.europa.eu/collection/semic-support-centre/solution/dcat-application-profile-data-portals-europe
+  kildetype: Standard, rammeverk og lisenser
+  opphav: EU
+  tema:
+  - Metadata og kataloger
+  sprak: Engelsk
+  prioritet: Middels
+  status: Gjeldende
+  relevans: Relevant for standardisert beskriving av datasett og kataloger
+- id: K018
+  tittel: Data Catalog Vocabulary (DCAT) v3
+  avsender: W3C
+  lenke: https://www.w3.org/TR/vocab-dcat-3/
+  kildetype: Standard, rammeverk og lisenser
+  opphav: Internasjonalt
+  tema:
+  - Metadata og kataloger
+  sprak: Engelsk
+  prioritet: Middels
+  status: Gjeldende
+  relevans: Internasjonal standard for datakataloger og metadata
+- id: K019
+  tittel: European Technological Sovereignty Package
+  avsender: EU-kommisjonen
+  lenke: https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1187
+  kildetype: Strategi og policy
+  opphav: EU
+  tema:
+  - KI
+  - Digital suverenitet
+  sprak: Engelsk
+  prioritet: Høy
+  status: Gjeldende
+  relevans: Overordnet ramme som samler sentrale EU-initiativer for digital autonomi, inkludert åpen kildekode, sky, KI og halvledere
+- id: K020
+  tittel: 'Simpl: Cloud-to-edge federations empowering EU data spaces'
+  avsender: EU-kommisjonen
+  lenke: https://digital-strategy.ec.europa.eu/en/policies/simpl
+  kildetype: Eksempel og initiativ
+  opphav: EU
+  tema:
+  - Digital suverenitet
+  - Eksempler fra offentlig sektor
+  sprak: Engelsk
+  prioritet: Høy
+  status: Gjeldende
+  relevans: Relevant EU-kilde om SIMPL som åpen kildekode-middleware for cloud-to-edge-federasjoner og data spaces
+- id: K021
+  tittel: European Digital Infrastructure Consortium (EDIC)
+  avsender: EU-kommisjonen
+  lenke: https://digital-strategy.ec.europa.eu/en/policies/edic
+  kildetype: Regelverk og styring
+  opphav: EU
+  tema:
+  - Digital suverenitet
+  - Finansiering
+  sprak: Engelsk
+  prioritet: Høy
+  status: Gjeldende
+  relevans: Relevant som EU-ramme for flerlandsprosjekter og felles digital infrastruktur under Digital Decade Policy Programme
+- id: K022
+  tittel: Digital Commons EDIC
+  avsender: EU-kommisjonen
+  lenke: https://digital-strategy.ec.europa.eu/en/news/digital-commons-edic-launches-advance-europes-technological-sovereignty
+  kildetype: Eksempel og initiativ
+  opphav: EU
+  tema:
+  - Digital suverenitet
+  - Deling og publisering
+  - Eksempler fra offentlig sektor
+  sprak: Engelsk
+  prioritet: Høy
+  status: Gjeldende
+  relevans: Svært relevant for åpen kildekode og digital suverenitet fordi konsortiet skal støtte åpne, interoperable og gjenbrukbare digitale byggesteiner på tvers av land
+- id: K023
+  tittel: IMPACTS-EDIC
+  avsender: EU-kommisjonen / Interoperable Europe
+  lenke: https://interoperable-europe.ec.europa.eu/interoperable-europe/news/commission-launches-impacts-edic
+  kildetype: Eksempel og initiativ
+  opphav: EU
+  tema:
+  - Eksempler fra offentlig sektor
+  - Deling og publisering
+  sprak: Engelsk
+  prioritet: Middels
+  status: Gjeldende
+  relevans: Relevant for interoperable offentlige tjenester, GovTech og gjennomføring av Interoperable Europe Act gjennom flerlandsprosjekter og felles digital infrastruktur
+- id: K024
+  tittel: Cyber Resilience Act (forordning (EU) 2024/2847)
+  avsender: EU
+  lenke: https://eur-lex.europa.eu/eli/reg/2024/2847/oj
+  kildetype: Regelverk og styring
+  opphav: EU
+  tema:
+  - Sikkerhet og leveransekjede
+  sprak: Engelsk
+  prioritet: Høy
+  status: Gjeldende
+  relevans: Relevante krav til cybersikkerhet for produkter med digitale elementer
+- id: K025
+  tittel: The Digital Public Goods Standard
+  avsender: Digital Public Goods Alliance
+  lenke: https://www.digitalpublicgoods.net/standard
+  kildetype: Standard, rammeverk og lisenser
+  opphav: Internasjonalt
+  tema:
+  - Deling og publisering
+  - Bidrag og bærekraft
+  sprak: Engelsk
+  prioritet: Middels
+  status: Gjeldende
+  relevans: Relevant som internasjonal referanse for felles standarder
+- id: K026
+  tittel: Digital Principles
+  avsender: Digital Principles
+  lenke: https://digitalprinciples.org/
+  kildetype: Regelverk og styring
+  opphav: Internasjonalt
+  tema:
+  - Styring og organisering
+  sprak: Engelsk
+  prioritet: Lav
+  status: Gjeldende
+  relevans: Internasjonale prinsipper for ansvarlig digital utvikling
+- id: K027
+  tittel: Standard for Public Code
+  avsender: Foundation for Public Code
+  lenke: https://standard.publiccode.net/
+  kildetype: Standard, rammeverk og lisenser
+  opphav: Internasjonalt
+  tema:
+  - Deling og publisering
+  - Bidrag og bærekraft
+  sprak: Engelsk
+  prioritet: Høy
+  status: Gjeldende
+  relevans: Praktisk standard for vedlikeholdbar og gjenbrukbar offentlig kode
+- id: K028
+  tittel: OpenChain Project
+  avsender: OpenChain / Linux Foundation
+  lenke: https://www.openchainproject.org/
+  kildetype: Standard, rammeverk og lisenser
+  opphav: Internasjonalt
+  tema:
+  - Lisenser og rettigheter
+  sprak: Engelsk
+  prioritet: Høy
+  status: Gjeldende
+  relevans: Relevant for krav, prosesser og etterlevelse knyttet til open source compliance i virksomheter og leverandørkjeder
+- id: K029
+  tittel: European Commission Open Source Software Strategy 2020-2023
+  avsender: EU-kommisjonen
+  lenke: https://commission.europa.eu/about/departments-and-executive-agencies/digital-services/open-source-software-strategy_en
+  kildetype: Strategi og policy
+  opphav: EU
+  tema:
+  - Deling og publisering
+  - Styring og organisering
+  sprak: Engelsk
+  prioritet: Middels
+  status: Utløpt
+  relevans: Relevant for "Think Open", deling, gjenbruk, aktiv deltakelse og støtte til kritiske åpne prosjekter. **Merknad:** Utløpt. Erstattes av EU Open Source Strategy, som Europakommisjonen la fram 3. juni 2026 (meddelelse, COM(2026) 503). Oppføringen oppdateres når veiledningen revideres.
+- id: K030
+  tittel: Fremtidens digitale Norge – nasjonal digitaliseringsstrategi 2024–2030
+  avsender: Regjeringen
+  lenke: https://www.regjeringen.no/no/dokumenter/fremtidens-digitale-norge/id3054645/
+  kildetype: Strategi og policy
+  opphav: Norge
+  tema:
+  - Styring og organisering
+  - Digital suverenitet
+  sprak: Norsk
+  prioritet: Høy
+  status: Gjeldende
+  relevans: Overordnet nasjonal strategi; nevner ikke åpen kildekode direkte, men rammer inn deling, gjenbruk og digital suverenitet
+- id: K031
+  tittel: EU Open Source Strategy – meddelelse COM(2026) 503
+  avsender: EU-kommisjonen
+  lenke: https://digital-strategy.ec.europa.eu/en/library/communication-european-tech-sovereignty-accompanied-eu-open-source-strategy
+  kildetype: Strategi og policy
+  opphav: EU
+  tema:
+  - Styring og organisering
+  - Digital suverenitet
+  sprak: Engelsk
+  prioritet: Høy
+  status: Gjeldende
+  relevans: Selve meddelelsen som la fram EUs nye strategi for åpen kildekode 3. juni 2026, som del av pakken for teknologisk suverenitet
+- id: K032
+  tittel: Open Source Strategy – Schleswig-Holstein
+  avsender: Delstaten Schleswig-Holstein (Tyskland)
+  lenke: https://www.schleswig-holstein.de/DE/landesregierung/themen/digitalisierung/linux-plus1/Service/Downloads/_dateien/open-source-strategy_EN.pdf?__blob=publicationFile&v=3
+  kildetype: Strategi og policy
+  opphav: Europa (land)
+  tema:
+  - Styring og organisering
+  - Digital suverenitet
+  - Lisenser og rettigheter
+  sprak: Engelsk
+  prioritet: Høy
+  status: Gjeldende
+  relevans: Den mest gjennomførte regionale strategien i Europa, med OSPO, lisenspolitikk og overgang til åpne arbeidsflater
+- id: K033
+  tittel: Data Act (forordning (EU) 2023/2854)
+  avsender: EU
+  lenke: https://eur-lex.europa.eu/eli/reg/2023/2854/oj
+  kildetype: Regelverk og styring
+  opphav: EU
+  tema:
+  - Digital suverenitet
+  sprak: Engelsk
+  prioritet: Høy
+  status: Gjeldende
+  relevans: Krav om bytte av skytjeneste og interoperabilitet; sentral for digitalt handlingsrom og leverandøruavhengighet
+- id: K034
+  tittel: Standardiseringsoppdrag for Data Act (CEN/CENELEC)
+  avsender: CEN/CENELEC
+  lenke: https://www.cencenelec.eu/news-events/news/2025/brief-news/2025-07-11-data-act-standardization-request/
+  kildetype: Standard, rammeverk og lisenser
+  opphav: EU
+  tema:
+  - Digital suverenitet
+  - Metadata og kataloger
+  sprak: Engelsk
+  prioritet: Middels
+  status: Gjeldende
+  relevans: Europeisk standardiseringsarbeid som følger opp Data Act, blant annet om interoperabilitet
+- id: K035
+  tittel: Evaluering av forskrift om IT-standarder i offentlig forvaltning
+  avsender: Digdir
+  lenke: https://www.digdir.no/standarder/evaluering-av-forskrift-om-it-standarder-i-offentlig-forvaltning/3365
+  kildetype: Regelverk og styring
+  opphav: Norge
+  tema:
+  - Styring og organisering
+  sprak: Norsk
+  prioritet: Høy
+  status: Gjeldende
+  relevans: Grunnlag for revisjon av IT-standardiseringsforskriften, en mulig vei til å forankre åpen kildekode og åpne standarder
+- id: K036
+  tittel: The MIT License
+  avsender: Open Source Initiative
+  lenke: https://opensource.org/license/mit
+  kildetype: Standard, rammeverk og lisenser
+  opphav: Internasjonalt
+  tema:
+  - Lisenser og rettigheter
+  sprak: Engelsk
+  prioritet: Høy
+  status: Gjeldende
+  relevans: Standard permissiv lisens, relevant for vurdering av lisensstrategi
+- id: K037
+  tittel: Apache License, Version 2.0
+  avsender: Open Source Initiative
+  lenke: https://opensource.org/license/apache-2-0
+  kildetype: Standard, rammeverk og lisenser
+  opphav: Internasjonalt
+  tema:
+  - Lisenser og rettigheter
+  sprak: Engelsk
+  prioritet: Høy
+  status: Gjeldende
+  relevans: Permissiv lisens med eksplisitt patentklausul
+- id: K038
+  tittel: The 3-Clause BSD License
+  avsender: Open Source Initiative
+  lenke: https://opensource.org/license/bsd-3-clause
+  kildetype: Standard, rammeverk og lisenser
+  opphav: Internasjonalt
+  tema:
+  - Lisenser og rettigheter
+  sprak: Engelsk
+  prioritet: Høy
+  status: Gjeldende
+  relevans: Kort og mye brukt permissiv lisens
+- id: K039
+  tittel: EUPL (EU Public Licence)
+  avsender: EU-kommisjonen
+  lenke: https://joinup.ec.europa.eu/collection/eupl/eupl-text-eupl-12
+  kildetype: Standard, rammeverk og lisenser
+  opphav: EU
+  tema:
+  - Lisenser og rettigheter
+  sprak: Engelsk
+  prioritet: Høy
+  status: Gjeldende
+  relevans: Relevante juridiske rammer for deling av kode
+- id: K040
+  tittel: DINUM Licences libres pour le secteur public (Frankrike)
+  avsender: DINUM (Frankrike)
+  lenke: https://code.gouv.fr/fr/doc/licences-libres-dinum
+  kildetype: Veiledning og praksis
+  opphav: Europa (land)
+  tema:
+  - Lisenser og rettigheter
+  sprak: Fransk/engelsk
+  prioritet: Lav
+  status: Gjeldende
+  relevans: Relevant som eksempel på nasjonal lisensveiledning for offentlig sektor
+- id: K041
+  tittel: SPDX
+  avsender: SPDX / Linux Foundation
+  lenke: https://spdx.dev/
+  kildetype: Standard, rammeverk og lisenser
+  opphav: Internasjonalt
+  tema:
+  - Lisenser og rettigheter
+  sprak: Engelsk
+  prioritet: Høy
+  status: Gjeldende
+  relevans: Relevant for lisensdata og compliance i programvareleveranser
+- id: K042
+  tittel: Find and compare software licenses
+  avsender: Interoperable Europe Portal
+  lenke: https://interoperable-europe.ec.europa.eu/collection/eupl/solution/joinup-licensing-assistant
+  kildetype: Verktøy og tjenester
+  opphav: EU
+  tema:
+  - Lisenser og rettigheter
+  sprak: Engelsk
+  prioritet: Lav
+  status: Gjeldende
+  relevans: Hjelper med lisenssammenligning og kompatibilitetsvurdering
+- id: K043
+  tittel: The License Review Process
+  avsender: Open Source Initiative
+  lenke: https://opensource.org/licenses/review-process
+  kildetype: Veiledning og praksis
+  opphav: Internasjonalt
+  tema:
+  - Lisenser og rettigheter
+  - Bruk og vurdering
+  sprak: Engelsk
+  prioritet: Lav
+  status: Gjeldende
+  relevans: Forklarer hvordan OSI vurderer og godkjenner lisenser
+- id: K044
+  tittel: GitHub Docs - Licensing a repository
+  avsender: GitHub
+  lenke: https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository
+  kildetype: Veiledning og praksis
+  opphav: Internasjonalt
+  tema:
+  - Lisenser og rettigheter
+  sprak: Engelsk
+  prioritet: Lav
+  status: Gjeldende
+  relevans: Relevant for lisensiering av repoer
+- id: K045
+  tittel: Choose an open source license
+  avsender: choosealicense.com
+  lenke: https://choosealicense.com/
+  kildetype: Veiledning og praksis
+  opphav: Internasjonalt
+  tema:
+  - Lisenser og rettigheter
+  - Deling og publisering
+  sprak: Engelsk
+  prioritet: Høy
+  status: Gjeldende
+  relevans: Relevant for valg av lisens ved publisering av kode
+- id: K046
+  tittel: OSS Licensing Guidelines
+  avsender: Swiss Federal Chancellery
+  lenke: https://github.com/swiss/opensource-guidelines/blob/main/docs/en/em002-3.md
+  kildetype: Veiledning og praksis
+  opphav: Europa (land)
+  tema:
+  - Lisenser og rettigheter
+  - Deling og publisering
+  sprak: Engelsk
+  prioritet: Lav
+  status: Gjeldende
+  relevans: Relevant for lisensvalg og juridiske vurderinger ved publisering
+- id: K047
+  tittel: OSS-Based licence Compliance Tools
+  avsender: OSS Compliance Tooling
+  lenke: https://oss-compliance-tooling.org/Tooling-Landscape/OSS-Based-licence-Compliance-Tools/
+  kildetype: Verktøy og tjenester
+  opphav: Internasjonalt
+  tema:
+  - Lisenser og rettigheter
+  sprak: Engelsk
+  prioritet: Lav
+  status: Gjeldende
+  relevans: Oversikt over åpne verktøy for lisens- og compliance-arbeid; nyttig ved vurdering av verktøystøtte
+- id: K048
+  tittel: Publiccode YML Validator
+  avsender: Foundation for Public Code
+  lenke: https://yml.publiccode.tools/
+  kildetype: Verktøy og tjenester
+  opphav: Internasjonalt
+  tema:
+  - Deling og publisering
+  - Metadata og kataloger
+  sprak: Engelsk
+  prioritet: Lav
+  status: Gjeldende
+  relevans: Verktøy for validering av publiccode.yml
+- id: K049
+  tittel: Recommended Open Source Compliance Practices for the Enterprise
+  avsender: Linux Foundation
+  lenke: https://www.linuxfoundation.jp/wp-content/uploads/2019/06/lf_recommended_os_compliances_practices_030619.pdf
+  kildetype: Veiledning og praksis
+  opphav: Internasjonalt
+  tema:
+  - Lisenser og rettigheter
+  - Styring og organisering
+  sprak: Engelsk
+  prioritet: Middels
+  status: Gjeldende
+  relevans: Praktisk referanse for policy, roller og prosesser for lisens- og IP-etterlevelse i virksomheter
+- id: K050
+  tittel: REUSE Specification
+  avsender: REUSE / FSFE
+  lenke: https://reuse.software/spec-3.3/
+  kildetype: Standard, rammeverk og lisenser
+  opphav: Internasjonalt
+  tema:
+  - Lisenser og rettigheter
+  - Deling og publisering
+  sprak: Engelsk
+  prioritet: Middels
+  status: Gjeldende
+  relevans: Standardisert metode for maskinlesbar og ryddig lisens- og opphavsrettsinformasjon i kodelagre
+- id: K051
+  tittel: Veileder for åpne data
+  avsender: Digdir
+  lenke: https://fellesdatakatalog.digdir.no/guide/veileder-apne-data
+  kildetype: Veiledning og praksis
+  opphav: Norge
+  tema:
+  - Deling og publisering
+  sprak: Norsk
+  prioritet: Høy
+  status: Gjeldende
+  relevans: Praktisk veiledning for deling og gjenbruk av data
+- id: K052
+  tittel: GitHub Docs - Open Source
+  avsender: GitHub
+  lenke: https://docs.github.com/en/get-started/exploring-projects-on-github/contributing-to-open-source
+  kildetype: Veiledning og praksis
+  opphav: Internasjonalt
+  tema:
+  - Bidrag og bærekraft
+  - Bruk og vurdering
+  sprak: Engelsk
+  prioritet: Høy
+  status: Gjeldende
+  relevans: Grunnleggende veiledning om å finne og bruke åpen kildekode
+- id: K053
+  tittel: Open Source Guides
+  avsender: GitHub
+  lenke: https://opensource.guide/
+  kildetype: Veiledning og praksis
+  opphav: Internasjonalt
+  tema:
+  - Bidrag og bærekraft
+  sprak: Engelsk
+  prioritet: Høy
+  status: Gjeldende
+  relevans: Samling av nyttige ressurser for prosjekter og bidragsytere
+- id: K054
+  tittel: TODO Group Guides
+  avsender: Linux Foundation
+  lenke: https://todogroup.org/guides/
+  kildetype: Veiledning og praksis
+  opphav: Internasjonalt
+  tema:
+  - Styring og organisering
+  sprak: Engelsk
+  prioritet: Høy
+  status: Gjeldende
+  relevans: Struktur og organisering av open source-arbeid i virksomheter
+- id: K055
+  tittel: Open Source Best Practices Badge Program
+  avsender: OpenSSF
+  lenke: https://bestpractices.coreinfrastructure.org/
+  kildetype: Veiledning og praksis
+  opphav: Internasjonalt
+  tema:
+  - Sikkerhet og leveransekjede
+  - Bidrag og bærekraft
+  sprak: Engelsk
+  prioritet: Middels
+  status: Gjeldende
+  relevans: Relevant for modenhet og praksis i åpne prosjekter
+- id: K056
+  tittel: Lista med delat material
+  avsender: Open Data Knowledge Sharing / GitLab
+  lenke: https://gitlab.com/open-data-knowledge-sharing/wiki/-/wikis/Lista-med-delat-material
+  kildetype: Veiledning og praksis
+  opphav: Norden
+  tema:
+  - Deling og publisering
+  sprak: Svensk
+  prioritet: Middels
+  status: Gjeldende
+  relevans: Relevant som samling av delt materiale og åpne ressurser i praksis
+- id: K057
+  tittel: Open Technology Fund - Projects We Support
+  avsender: Open Technology Fund
+  lenke: https://www.opentech.fund/projects-we-support/
+  kildetype: Eksempel og initiativ
+  opphav: Internasjonalt
+  tema:
+  - Finansiering
+  - Eksempler fra offentlig sektor
+  sprak: Engelsk
+  prioritet: Lav
+  status: Gjeldende
+  relevans: Viser finansierte open source-prosjekter med relevans for offentlig digital infrastruktur
+- id: K058
+  tittel: Sustain OSS
+  avsender: Sustain OSS
+  lenke: https://sustainoss.org
+  kildetype: Eksempel og initiativ
+  opphav: Internasjonalt
+  tema:
+  - Bidrag og bærekraft
+  sprak: Engelsk
+  prioritet: Middels
+  status: Gjeldende
+  relevans: Relevant som kunnskaps- og nettverksarena for bærekraftig vedlikehold av åpen kildekode
+- id: K059
+  tittel: NOSAD - Network open source and data
+  avsender: NOSAD
+  lenke: https://nosad.se/tips
+  kildetype: Veiledning og praksis
+  opphav: Norden
+  tema:
+  - Eksempler fra offentlig sektor
+  - Deling og publisering
+  sprak: Svensk
+  prioritet: Høy
+  status: Gjeldende
+  relevans: Relevant svensk ressurssamling for åpen kildekode, åpne data og kunnskapsdeling
+- id: K060
+  tittel: Concise Guide for Evaluating Open Source Software
+  avsender: OpenSSF
+  lenke: https://best.openssf.org/sv/Concise-Guide-for-Evaluating-Open-Source-Software
+  kildetype: Veiledning og praksis
+  opphav: Internasjonalt
+  tema:
+  - Anskaffelser
+  - Bruk og vurdering
+  sprak: Engelsk
+  prioritet: Høy
+  status: Gjeldende
+  relevans: Praktisk guide for å vurdere åpen kildekode før bruk eller anskaffelse
+- id: K061
+  tittel: Code.gov Playbook
+  avsender: Digital.gov / USA
+  lenke: https://code.gov/playbook/
+  kildetype: Veiledning og praksis
+  opphav: Internasjonalt
+  tema:
+  - Bruk og vurdering
+  sprak: Engelsk
+  prioritet: Middels
+  status: Gjeldende
+  relevans: Relevant prosessveiledning for offentlig open source-arbeid
+- id: K062
+  tittel: 'Developers Italia: Case Studies on Sustainability of Public Sector Open Source Communities'
+  avsender: Interoperable Europe Portal
+  lenke: https://interoperable-europe.ec.europa.eu/collection/open-source-observatory-osor/document/developers-italia-case-studies-sustainability-public-sector-open-source-communities
+  kildetype: Rapport og analyse
+  opphav: EU
+  tema:
+  - Bidrag og bærekraft
+  sprak: Engelsk
+  prioritet: Middels
+  status: Gjeldende
+  relevans: Caser om bærekraftige fellesskap i offentlig sektor
+- id: K063
+  tittel: The Legal Side of Open Source
+  avsender: Open Source Guides
+  lenke: https://opensource.guide/legal/
+  kildetype: Veiledning og praksis
+  opphav: Internasjonalt
+  tema:
+  - Lisenser og rettigheter
+  sprak: Engelsk
+  prioritet: Høy
+  status: Gjeldende
+  relevans: Praktisk juridisk introduksjon for open source-prosjekter
+- id: K064
+  tittel: Swiss Federal Chancellery Open Source Repository
+  avsender: Swiss Federal Chancellery
+  lenke: https://github.com/swiss
+  kildetype: Eksempel og initiativ
+  opphav: Europa (land)
+  tema:
+  - Deling og publisering
+  - Eksempler fra offentlig sektor
+  sprak: Engelsk
+  prioritet: Høy
+  status: Gjeldende
+  relevans: Offisiell inngang til sveitsiske offentlige open source-repositorier og publikasjoner
+- id: K065
+  tittel: Tools for Publishing Open Source Software
+  avsender: Swiss Federal Chancellery
+  lenke: https://github.com/swiss/opensource-guidelines/blob/main/docs/index_en.md
+  kildetype: Veiledning og praksis
+  opphav: Europa (land)
+  tema:
+  - Deling og publisering
+  - Styring og organisering
+  sprak: Engelsk
+  prioritet: Høy
+  status: Gjeldende
+  relevans: Samler sveitsiske retningslinjer, instruksjoner og FAQ for publisering av åpen kildekode, inkludert sjekklister for foreløpig vurdering, analyse/forberedelse, publisering og community-arbeid
+- id: K066
+  tittel: 'OSS Guideline: Applying Article 9 of EMOTA'
+  avsender: Swiss Federal Chancellery
+  lenke: https://github.com/swiss/opensource-guidelines/blob/main/docs/en/em002-7.md
+  kildetype: Veiledning og praksis
+  opphav: Europa (land)
+  tema:
+  - Deling og publisering
+  sprak: Engelsk
+  prioritet: Høy
+  status: Gjeldende
+  relevans: Konkret veiledning om hvordan lovkravet om publisering av åpen kildekode gjennomføres i praksis
+- id: K067
+  tittel: OSS Community Guidelines
+  avsender: Swiss Federal Chancellery
+  lenke: https://github.com/swiss/opensource-guidelines/blob/main/docs/en/em002-4.md
+  kildetype: Veiledning og praksis
+  opphav: Europa (land)
+  tema:
+  - Bidrag og bærekraft
+  - Styring og organisering
+  sprak: Engelsk
+  prioritet: Høy
+  status: Gjeldende
+  relevans: Relevant for organisering av fellesskap, bidrag og forvaltning rundt åpne prosjekter
+- id: K068
+  tittel: OSPO Alliance Good Governance Initiative
+  avsender: OSPO Alliance
+  lenke: https://ospo-alliance.org/ggi/introduction/
+  kildetype: Veiledning og praksis
+  opphav: Internasjonalt
+  tema:
+  - Styring og organisering
+  sprak: Engelsk
+  prioritet: Middels
+  status: Gjeldende
+  relevans: Modenhetsmodell og håndbok for organisasjoner som jobber med åpen kildekode, med roller, prosesser og tiltak. Arbeidsgruppa har valgt en egen selvvurdering i stedet, så GGI brukes som støttekilde.
+- id: K069
+  tittel: Free Software Resources
+  avsender: Free Software Foundation
+  lenke: https://www.fsf.org/resources/
+  kildetype: Veiledning og praksis
+  opphav: Internasjonalt
+  tema:
+  - Lisenser og rettigheter
+  sprak: Engelsk
+  prioritet: Middels
+  status: Gjeldende
+  relevans: Samler sentrale ressurser om fri programvare og lisensiering
+- id: K070
+  tittel: Code.gouv Free Software Unit
+  avsender: DINUM (Frankrike)
+  lenke: https://code.gouv.fr/en/
+  kildetype: Veiledning og praksis
+  opphav: Europa (land)
+  tema:
+  - Styring og organisering
+  - Deling og publisering
+  sprak: Fransk/engelsk
+  prioritet: Høy
+  status: Gjeldende
+  relevans: Viser hvordan statlig enhet organiserer bruk og publisering av åpen kildekode i offentlig forvaltning
+- id: K071
+  tittel: NIST Secure Software Development Framework (SSDF)
+  avsender: NIST
+  lenke: https://csrc.nist.gov/Projects/ssdf
+  kildetype: Standard, rammeverk og lisenser
+  opphav: Internasjonalt
+  tema:
+  - Sikkerhet og leveransekjede
+  sprak: Engelsk
+  prioritet: Høy
+  status: Gjeldende
+  relevans: Relevant for sikker utviklingspraksis i bruk av åpen kildekode
+- id: K072
+  tittel: SLSA
+  avsender: OpenSSF
+  lenke: https://slsa.dev/
+  kildetype: Standard, rammeverk og lisenser
+  opphav: Internasjonalt
+  tema:
+  - Sikkerhet og leveransekjede
+  sprak: Engelsk
+  prioritet: Høy
+  status: Gjeldende
+  relevans: Relevant for leveransekjede og integritet i programvarebygging
+- id: K073
+  tittel: Sigstore
+  avsender: Sigstore
+  lenke: https://www.sigstore.dev/
+  kildetype: Verktøy og tjenester
+  opphav: Internasjonalt
+  tema:
+  - Sikkerhet og leveransekjede
+  sprak: Engelsk
+  prioritet: Høy
+  status: Gjeldende
+  relevans: Relevant for signering og verifisering av programvareartefakter
+- id: K074
+  tittel: EU Open Source Solutions Catalogue
+  avsender: EU-kommisjonen
+  lenke: https://interoperable-europe.ec.europa.eu/eu-oss-catalogue
+  kildetype: Verktøy og tjenester
+  opphav: EU
+  tema:
+  - Metadata og kataloger
+  - Deling og publisering
+  sprak: Engelsk
+  prioritet: Middels
+  status: Gjeldende
+  relevans: Relevant som oversikt over gjenbrukbare løsninger
+- id: K075
+  tittel: Overview of EU legislation for FOSS
+  avsender: EU-kommisjonen / OSOR
+  lenke: https://interoperable-europe.ec.europa.eu/collection/open-source-observatory-osor/news/overview-eu-legislation-foss
+  kildetype: Rapport og analyse
+  opphav: EU
+  tema:
+  - Styring og organisering
+  - Lisenser og rettigheter
+  sprak: Engelsk
+  prioritet: Høy
+  status: Gjeldende
+  relevans: Oppsummerer relevante EU-regelverk for fri og åpen kildekode
+- id: K076
+  tittel: eLearning course on Open Source Software for EU Public Administrations
+  avsender: EU-kommisjonen / Interoperable Europe Academy
+  lenke: https://academy.europa.eu/local/euacademy/pages/course/community-overview.php?title=interoperable-europe-academy-community
+  kildetype: Veiledning og praksis
+  opphav: EU
+  tema:
+  - Styring og organisering
+  sprak: Engelsk
+  prioritet: Middels
+  status: Gjeldende
+  relevans: Praktisk opplæring i tre moduler (grunnleggende, governance, praktisk anvendelse) for offentlig sektor i Europa
+- id: K077
+  tittel: What is enterprise open source?
+  avsender: Red Hat
+  lenke: https://www.redhat.com/en/blog/what-enterprise-open-source
+  kildetype: Nyhet, artikkel og debatt
+  opphav: Internasjonalt
+  tema:
+  - Bruk og vurdering
+  sprak: Engelsk
+  prioritet: Middels
+  status: Gjeldende
+  relevans: Forklarer forskjellen mellom generell åpen kildekode og virksomhetsrettet open source med støtte, sikkerhet og livsløpsforvaltning
+- id: K078
+  tittel: Decision factors for open source software procurement
+  avsender: OSS Watch
+  lenke: http://oss-watch.ac.uk/resources/procurement-infopack
+  kildetype: Veiledning og praksis
+  opphav: Internasjonalt
+  tema:
+  - Anskaffelser
+  - Bruk og vurdering
+  sprak: Engelsk
+  prioritet: Middels
+  status: Gjeldende
+  relevans: Relevant for vurderingskriterier ved anskaffelse av open source-løsninger og sammenligning med proprietære alternativer
+  merknad: http-lenke. OSS Watch er ikke lenger i drift. Kontroller at lenken virker.
+- id: K079
+  tittel: Open source i den offentlige sektor
+  avsender: Digitaliseringsstyrelsen (Danmark)
+  lenke: https://digst.dk/media/2zlfki2v/open-source-i-den-offentlige-sektor.pdf
+  kildetype: Rapport og analyse
+  opphav: Norden
+  tema:
+  - Bruk og vurdering
+  - Styring og organisering
+  - Lisenser og rettigheter
+  sprak: Dansk
+  prioritet: Høy
+  status: Gjeldende
+  relevans: Dansk gjennomgang av åpen kildekode i offentlig sektor med danske og internasjonale eksempler, og praktiske råd om organisering, support, sikkerhet, lisenshåndtering, integrasjon og økonomi; nær parallell til vår egen veiledning
+- id: K080
+  tittel: 'GOV.UK: Making source code open and reusable'
+  avsender: UK Government Digital Service
+  lenke: https://www.gov.uk/service-manual/technology/making-source-code-open-and-reusable
+  kildetype: Veiledning og praksis
+  opphav: Europa (land)
+  tema:
+  - Deling og publisering
+  sprak: Engelsk
+  prioritet: Middels
+  status: Gjeldende
+  relevans: Kort offentlig veiledning om å gjøre kildekode åpen og gjenbrukbar
+- id: K081
+  tittel: 'NHS Service Manual: Make new source code open'
+  avsender: NHS Digital
+  lenke: https://service-manual.nhs.uk/standards-and-technology/service-standard-points/12-make-new-source-code-open
+  kildetype: Standard, rammeverk og lisenser
+  opphav: Europa (land)
+  tema:
+  - Deling og publisering
+  - Styring og organisering
+  sprak: Engelsk
+  prioritet: Middels
+  status: Gjeldende
+  relevans: Tydelig prinsipp om at ny kildekode bør gjøres åpen og gjenbrukbar med passende lisens, med mindre det finnes god grunn til å la være
+- id: K082
+  tittel: OpenSSF Scorecard
+  avsender: OpenSSF
+  lenke: https://openssf.org/projects/scorecard/
+  kildetype: Verktøy og tjenester
+  opphav: Internasjonalt
+  tema:
+  - Sikkerhet og leveransekjede
+  sprak: Engelsk
+  prioritet: Middels
+  status: Gjeldende
+  relevans: Verktøy for vurdering av sikkerhetspraksis i åpne prosjekter
+- id: K083
+  tittel: 'Kuntaliitto: Produktforvaltning av åpne løsninger (tuotteenhallinta)'
+  avsender: Kuntaliitto
+  lenke: https://www.kuntaliitto.fi/tuotteenhallinta
+  kildetype: Veiledning og praksis
+  opphav: Norden
+  tema:
+  - Bidrag og bærekraft
+  - Styring og organisering
+  sprak: Finsk
+  prioritet: Høy
+  status: Gjeldende
+  relevans: Finsk modell for felles forvaltning av åpne løsninger mellom kommuner; relevant for bidrag, forvaltning og spleiselag
+- id: K084
+  tittel: Anskaffelser.no
+  avsender: DFØ
+  lenke: https://anskaffelser.no
+  kildetype: Veiledning og praksis
+  opphav: Norge
+  tema:
+  - Anskaffelser
+  sprak: Norsk
+  prioritet: Høy
+  status: Gjeldende
+  relevans: Viktig for offentlige anskaffelser og leverandørdialog
+- id: K085
+  tittel: Veiledning om IKT-anskaffelser
+  avsender: DFØ
+  lenke: https://anskaffelser.no/verktoy/veiledere
+  kildetype: Veiledning og praksis
+  opphav: Norge
+  tema:
+  - Anskaffelser
+  sprak: Norsk
+  prioritet: Høy
+  status: Gjeldende
+  relevans: Relevant for kravstilling og gjennomføring av teknologianskaffelser
+- id: K086
+  tittel: Statens standardavtaler (SSA)
+  avsender: DFØ
+  lenke: https://www.anskaffelser.no/avtaler-og-regelverk/statens-standardavtaler-ssa
+  kildetype: Standard, rammeverk og lisenser
+  opphav: Norge
+  tema:
+  - Anskaffelser
+  sprak: Norsk
+  prioritet: Høy
+  status: Gjeldende
+  relevans: Viktig for kontrakter, ansvar og leveransekrav i IKT-prosjekter
+- id: K087
+  tittel: Digital Europe Programme
+  avsender: EU
+  lenke: https://digital-strategy.ec.europa.eu/en/activities/digital-programme
+  kildetype: Strategi og policy
+  opphav: EU
+  tema:
+  - Finansiering
+  sprak: Engelsk
+  prioritet: Middels
+  status: Gjeldende
+  relevans: Relevant som finansieringsprogram for digital kapasitet, digital transformasjon og infrastruktur; utfyller EDIC-sporet, men erstattes ikke av det
+- id: K088
+  tittel: Funding Opportunities for Open Source Software Projects in the Public Sector
+  avsender: EU / OSOR
+  lenke: https://interoperable-europe.ec.europa.eu/collection/open-source-observatory-osor/funding-opportunities-open-source-software-projects-public-sector
+  kildetype: Veiledning og praksis
+  opphav: EU
+  tema:
+  - Finansiering
+  sprak: Engelsk
+  prioritet: Middels
+  status: Gjeldende
+  relevans: Relevante EU-finansieringsmuligheter for open source i offentlig sektor
+- id: K089
+  tittel: Guideline on public procurement of Open Source Software
+  avsender: Interoperable Europe Portal
+  lenke: https://interoperable-europe.ec.europa.eu/collection/open-source-observatory-osor/document/guideline-public-procurement-open-source-software
+  kildetype: Veiledning og praksis
+  opphav: EU
+  tema:
+  - Anskaffelser
+  - Deling og publisering
+  - Styring og organisering
+  sprak: Engelsk
+  prioritet: Lav
+  status: Arkivert
+  relevans: Historisk veiledning (publisert 2010, arkivert) med prinsipper for anskaffelser av åpen kildekode; bør brukes som supplement til nyere kilder
+- id: K090
+  tittel: 'Facilitating open source procurement at the local level: Case study on the Open Source Procurement Guide for Finnish Municipalities'
+  avsender: OSOR / Interoperable Europe Portal
+  lenke: https://interoperable-europe.ec.europa.eu/collection/open-source-observatory-osor/document/facilitating-open-source-procurement-local-level-case-study-open-source-procurement-guide-finnish
+  kildetype: Rapport og analyse
+  opphav: Norden
+  tema:
+  - Anskaffelser
+  sprak: Dansk/svensk/finsk
+  prioritet: Høy
+  status: Gjeldende
+  relevans: Konkret nordisk anskaffelseserfaring fra finske kommuner, med praktiske og juridiske grep for open source i anskaffelser
+- id: K091
+  tittel: Open Source Pledge
+  avsender: Open Source Pledge
+  lenke: https://opensourcepledge.com/
+  kildetype: Eksempel og initiativ
+  opphav: Internasjonalt
+  tema:
+  - Finansiering
+  - Digital suverenitet
+  - Bidrag og bærekraft
+  sprak: Engelsk
+  prioritet: Lav
+  status: Gjeldende
+  relevans: Relevant som eksempel på forpliktende finansiering av open source-økosystemet og bærekraft for kritiske avhengigheter
+- id: K092
+  tittel: Open Source Collective
+  avsender: Open Source Collective
+  lenke: https://oscollective.org/
+  kildetype: Verktøy og tjenester
+  opphav: Internasjonalt
+  tema:
+  - Finansiering
+  sprak: Engelsk
+  prioritet: Lav
+  status: Gjeldende
+  relevans: Eksempel på infrastruktur for finansiering og forvaltning av åpne prosjekter; relevant ved vurdering av støtte til kritiske komponenter
+- id: K093
+  tittel: 'Kuntaliitto: Avoimen lähdekoodin hankintaopas kunnille'
+  avsender: Kuntaliitto
+  lenke: https://www.kuntaliitto.fi/julkaisut/2022/2163-avoimen-lahdekoodin-hankintaopas-kunnille
+  kildetype: Veiledning og praksis
+  opphav: Norden
+  tema:
+  - Anskaffelser
+  - Bruk og vurdering
+  sprak: Finsk
+  prioritet: Høy
+  status: Gjeldende
+  relevans: Relevant nordisk anskaffelsesguide for kommuner som vurderer åpen kildekode
+- id: K094
+  tittel: JIT 2015 – finske standardvilkår for IT-anskaffelser (vedlegg om åpen kildekode)
+  avsender: COSS (Finland)
+  lenke: https://coss.fi/uutiset/jit-2015-ehdot-edistavat-julkisen-sektorin-avoimuutta/
+  kildetype: Standard, rammeverk og lisenser
+  opphav: Norden
+  tema:
+  - Anskaffelser
+  - Lisenser og rettigheter
+  sprak: Finsk
+  prioritet: Høy
+  status: Gjeldende
+  relevans: Finske standardvilkår med eget vedlegg om rettigheter og åpen kildekode; nordisk parallell til SSA
+- id: K095
+  tittel: Funding Europe's Open Digital Infrastructure (EU Sovereign Tech Fund-studien)
+  avsender: OpenForum Europe, Fraunhofer ISI og European University Institute (bestilt av GitHub)
+  lenke: https://eu-stf.openforumeurope.org/
+  kildetype: Rapport og analyse
+  opphav: EU
+  tema:
+  - Finansiering
+  - Bidrag og bærekraft
+  - Digital suverenitet
+  sprak: Engelsk
+  prioritet: Høy
+  status: Gjeldende
+  relevans: Foreslår et europeisk fond for åpen digital infrastruktur (EU-STF) med budsjett, styringsprinsipper og finansieringsformer; direkte relevant for bidrag og en mulig norsk eller europeisk tilskuddsordning. Merk at oppdragsgiver har egeninteresse
+- id: K096
+  tittel: Sovereign Tech Agency
+  avsender: Tyskland (SPRIND)
+  lenke: https://www.sovereign.tech/
+  kildetype: Eksempel og initiativ
+  opphav: Europa (land)
+  tema:
+  - Finansiering
+  - Bidrag og bærekraft
+  - Sikkerhet og leveransekjede
+  sprak: Engelsk
+  prioritet: Høy
+  status: Gjeldende
+  relevans: Tysk statlig ordning som finansierer vedlikehold, sikkerhet og forbedringer i kritisk åpen digital infrastruktur; den mest brukte modellen for offentlig finansiering i Europa
+- id: K097
+  tittel: GitHub Sponsors
+  avsender: GitHub
+  lenke: https://github.com/open-source/sponsors
+  kildetype: Verktøy og tjenester
+  opphav: Internasjonalt
+  tema:
+  - Finansiering
+  - Bidrag og bærekraft
+  sprak: Engelsk
+  prioritet: Lav
+  status: Gjeldende
+  relevans: Måte virksomheter og enkeltpersoner kan gi penger direkte til prosjekter og vedlikeholdere; brukes sammen med Open Source Collective
+- id: K098
+  tittel: Digital Europe-programmet (Digdir)
+  avsender: Digdir
+  lenke: https://www.digdir.no/internasjonalt-arbeid/digital-europa-programmet-digital-europe-programme/3192
+  kildetype: Veiledning og praksis
+  opphav: Norge
+  tema:
+  - Finansiering
+  sprak: Norsk
+  prioritet: Middels
+  status: Gjeldende
+  relevans: Norsk inngang til EU-programmet og norsk deltakelse; relevant for finansiering av felles digital infrastruktur
+- id: K099
+  tittel: Om Støtteregisteret
+  avsender: Brønnøysundregistrene
+  lenke: https://www.brreg.no/om-oss/registrene-vare/om-stotteregisteret/
+  kildetype: Regelverk og styring
+  opphav: Norge
+  tema:
+  - Finansiering
+  - Styring og organisering
+  sprak: Norsk
+  prioritet: Middels
+  status: Gjeldende
+  relevans: Krav om registrering av offentlig støtte; relevant for statsstøttevurdering ved en eventuell tilskuddsordning
+- id: K100
+  tittel: 'Funding Open Source: Case study Sovereign Tech Fund'
+  avsender: OSOR / Interoperable Europe Portal
+  lenke: https://interoperable-europe.ec.europa.eu/collection/open-source-observatory-osor/document/funding-open-source-case-study-sovereign-tech-fund
+  kildetype: Rapport og analyse
+  opphav: EU
+  tema:
+  - Finansiering
+  - Bidrag og bærekraft
+  - Eksempler fra offentlig sektor
+  sprak: Engelsk
+  prioritet: Høy
+  status: Gjeldende
+  relevans: 'EU-kildens gjennomgang av den tyske Sovereign Tech Fund-modellen: formål, organisering og erfaringer; nyttig grunnlag for en eventuell norsk ordning'
+- id: K101
+  tittel: EU Sovereign Tech Fund – offentlig støttebrev (mai 2026)
+  avsender: OpenForum Europe m.fl.
+  lenke: https://eu-stf.openforumeurope.org/wp-content/uploads/2026/05/EU-Sovereign-Tech-Fund-Public-Support-Letter_v5.pdf
+  kildetype: Strategi og policy
+  opphav: EU
+  tema:
+  - Finansiering
+  - Digital suverenitet
+  sprak: Engelsk
+  prioritet: Middels
+  status: Gjeldende
+  relevans: Viser at initiativet om et europeisk fond for åpen digital infrastruktur fortsatt er aktivt i 2026, og hvem som støtter det
+- id: K102
+  tittel: Open source software best practices and supply chain risk management
+  avsender: Gov.uk
+  lenke: https://www.gov.uk/government/publications/open-source-software-best-practice-supply-chain-risk-management/open-source-software-best-practices-and-supply-chain-risk-management
+  kildetype: Rapport og analyse
+  opphav: Europa (land)
+  tema:
+  - Sikkerhet og leveransekjede
+  - Styring og organisering
+  sprak: Engelsk
+  prioritet: Høy
+  status: Gjeldende
+  relevans: Relevant for risiko, drift og styring
+- id: K103
+  tittel: BlueHats Gazette (Frankrike)
+  avsender: DINUM (Frankrike)
+  lenke: https://code.gouv.fr/fr/bluehats/tags/gazette/
+  kildetype: Nyhet, artikkel og debatt
+  opphav: Europa (land)
+  tema:
+  - Eksempler fra offentlig sektor
+  sprak: Fransk/engelsk
+  prioritet: Lav
+  status: Gjeldende
+  relevans: Løpende fagoppdateringer fra fransk offentlig forvaltning om åpen kildekode
+- id: K104
+  tittel: Denmark explores the prerequisites for success in open source
+  avsender: Interoperable Europe Portal
+  lenke: https://interoperable-europe.ec.europa.eu/collection/open-source-observatory-osor/news/denmark-explores-prerequisites-success-open-source
+  kildetype: Rapport og analyse
+  opphav: Norden
+  tema:
+  - Styring og organisering
+  - Eksempler fra offentlig sektor
+  sprak: Dansk/svensk/finsk
+  prioritet: Middels
+  status: Gjeldende
+  relevans: Innsikt i nasjonale forutsetninger for vellykket open source-bruk
+- id: K105
+  tittel: 'State of Public Code 2026: How Governments Contribute to Open Source'
+  avsender: Software Heritage, UNESCO og UN ODET
+  lenke: https://www.softwareheritage.org/state-of-public-code/
+  kildetype: Rapport og analyse
+  opphav: Internasjonalt
+  tema:
+  - Deling og publisering
+  - Bidrag og bærekraft
+  sprak: Engelsk
+  prioritet: Høy
+  status: Gjeldende
+  relevans: Første globale måling av offentlig sektors bidrag til åpen kildekode, basert på faktisk kode i arkivet framfor spørreundersøkelser; dokumenterer lav overlevelsesrate for nye repoer og gir et sammenlikningsgrunnlag for Norge
+- id: K106
+  tittel: Open Source Software Country Intelligence Report - Germany
+  avsender: Interoperable Europe Portal
+  lenke: https://interoperable-europe.ec.europa.eu/sites/default/files/inline-files/Open%20Source%20Software%20Country%20Intelligence%20Report%20-%20Germany.docx.pdf
+  kildetype: Rapport og analyse
+  opphav: Europa (land)
+  tema:
+  - Styring og organisering
+  - Eksempler fra offentlig sektor
+  sprak: Engelsk
+  prioritet: Lav
+  status: Gjeldende
+  relevans: Landsanalyse med status og tiltak for offentlig open source
+- id: K107
+  tittel: Open Source Software Country Intelligence Report - Netherlands
+  avsender: Interoperable Europe Portal
+  lenke: https://interoperable-europe.ec.europa.eu/sites/default/files/inline-files/2026-netherlands-osor-country-report.pdf
+  kildetype: Rapport og analyse
+  opphav: Europa (land)
+  tema:
+  - Styring og organisering
+  - Eksempler fra offentlig sektor
+  sprak: Engelsk
+  prioritet: Høy
+  status: Gjeldende
+  relevans: Landsanalyse for Nederland med fokus på policy, OSPO-er og offentlig open source-bruk
+- id: K108
+  tittel: Open Source Software Country Intelligence Report - Poland
+  avsender: Interoperable Europe Portal
+  lenke: https://interoperable-europe.ec.europa.eu/sites/default/files/inline-files/osor-2026-poland-country-report.pdf
+  kildetype: Rapport og analyse
+  opphav: Europa (land)
+  tema:
+  - Styring og organisering
+  - Eksempler fra offentlig sektor
+  sprak: Engelsk
+  prioritet: Høy
+  status: Gjeldende
+  relevans: Landsanalyse for Polen som dokumenterer nasjonal styrking av open source i offentlig sektor
+- id: K109
+  tittel: G7 establishes a shared language of open source AI
+  avsender: Interoperable Europe Portal / OSOR
+  lenke: https://www.entreprises.gouv.fr/files/files/Actualites/2026/g7/vision-AI-openness-opportunities-and-shared-language.pdf
+  kildetype: Strategi og policy
+  opphav: Internasjonalt
+  tema:
+  - KI
+  - Styring og organisering
+  sprak: Engelsk
+  prioritet: Høy
+  status: Gjeldende
+  relevans: Relevant internasjonal referanse for hvordan G7 rammer inn åpenhet i KI, med betydning for offentlige vurderinger av open source AI
+- id: K110
+  tittel: Policy för öppen programvara
+  avsender: Digg
+  lenke: https://www.digg.se/download/18.7069295d19e7ac21c04746/1780485334476/Policy%20f%C3%B6r%20%C3%B6ppen%20programvara.pdf#page=3.19
+  kildetype: Strategi og policy
+  opphav: Norden
+  tema:
+  - Styring og organisering
+  - Deling og publisering
+  - Bruk og vurdering
+  sprak: Svensk
+  prioritet: Høy
+  status: Gjeldende
+  relevans: Relevant svensk policyreferanse for bruk og styring av åpen programvare
+- id: K111
+  tittel: Riktlinje för öppen programvara
+  avsender: Digg
+  lenke: https://www.digg.se/download/18.7069295d19e7ac21c04747/1780485362831/Riktlinje%20f%C3%B6r%20%C3%B6ppen%20programvara.pdf
+  kildetype: Strategi og policy
+  opphav: Norden
+  tema:
+  - Styring og organisering
+  - Deling og publisering
+  - Bruk og vurdering
+  sprak: Svensk
+  prioritet: Høy
+  status: Gjeldende
+  relevans: Relevant svensk retningslinje for praktisk håndtering av åpen programvare i offentlig sektor
+- id: K112
+  tittel: OSS Country Intelligence Report Cyprus 2024
+  avsender: Interoperable Europe Portal
+  lenke: https://interoperable-europe.ec.europa.eu/sites/default/files/inline-files/OSS%20Country%20Intelligence%20Report%20Cyprus%202024.pdf
+  kildetype: Rapport og analyse
+  opphav: Europa (land)
+  tema:
+  - Eksempler fra offentlig sektor
+  sprak: Engelsk
+  prioritet: Lav
+  status: Gjeldende
+  relevans: Landsanalyse for offentlig open source-arbeid i Kypros
+- id: K113
+  tittel: The European Public Sector Open Source Opportunity
+  avsender: Linux Foundation Europe / LF Research
+  lenke: https://www.linuxfoundation.org/hubfs/LF%20Research/European%20Public%20Sector%20Open%20Source%20Opportunity%20-%20Report.pdf?hsLang=en
+  kildetype: Rapport og analyse
+  opphav: Internasjonalt
+  tema:
+  - Styring og organisering
+  - Digital suverenitet
+  sprak: Engelsk
+  prioritet: Høy
+  status: Gjeldende
+  relevans: Analyse av muligheter, utfordringer og anbefalinger for offentlig sektors rolle i europeisk open source
+- id: K114
+  tittel: The 2026 State of Open Source Report
+  avsender: Open Source Initiative / OpenLogic
+  lenke: https://opensource.org/blog/the-2026-state-of-open-source-report
+  kildetype: Rapport og analyse
+  opphav: Internasjonalt
+  tema:
+  - Sikkerhet og leveransekjede
+  - Bidrag og bærekraft
+  - Styring og organisering
+  sprak: Engelsk
+  prioritet: Høy
+  status: Gjeldende
+  relevans: Underbygger behov for styring, sikkerhet, vedlikehold og bidrag til open source som strategisk ressurs
+- id: K115
+  tittel: Strategies to overcome challenges and barriers to open source software sharing and reuse
+  avsender: OSOR / Interoperable Europe Portal
+  lenke: https://interoperable-europe.ec.europa.eu/sites/default/files/news/2026-06/strategies-to-overcome-challenges-and-barriers-to-open-source-software-sharing-and-reuse.pdf
+  kildetype: Rapport og analyse
+  opphav: EU
+  tema:
+  - Deling og publisering
+  - Styring og organisering
+  - Bidrag og bærekraft
+  sprak: Engelsk
+  prioritet: Høy
+  status: Gjeldende
+  relevans: Oppsummerer barrierer og tiltak for deling og gjenbruk av open source i offentlig sektor på tvers av europeiske forvaltninger
+- id: K116
+  tittel: EU's Digital Sovereignty Depends On Investment In Open Source And Talent
+  avsender: TechPolicy Press
+  lenke: https://www.techpolicy.press/eus-digital-sovereignty-depends-on-investment-in-opensource-and-talent/
+  kildetype: Rapport og analyse
+  opphav: Internasjonalt
+  tema:
+  - Digital suverenitet
+  - Styring og organisering
+  sprak: Engelsk
+  prioritet: Lav
+  status: Gjeldende
+  relevans: Argumenterer for at europeisk digital suverenitet krever langsiktig investering i open source-infrastruktur, kompetanse og talent
+- id: K117
+  tittel: 'Ingress NGINX Retirement: What You Need to Know'
+  avsender: Kubernetes Contributors
+  lenke: https://www.kubernetes.dev/blog/2025/11/12/ingress-nginx-retirement/
+  kildetype: Rapport og analyse
+  opphav: Internasjonalt
+  tema:
+  - Bidrag og bærekraft
+  - Sikkerhet og leveransekjede
+  sprak: Engelsk
+  prioritet: Høy
+  status: Gjeldende
+  relevans: Konkret eksempel på risiko ved kritiske open source-komponenter med lav vedlikeholdskapasitet
+- id: K118
+  tittel: Working in Public
+  avsender: Stripe Press
+  lenke: https://press.stripe.com/working-in-public
+  kildetype: Rapport og analyse
+  opphav: Internasjonalt
+  tema:
+  - Bidrag og bærekraft
+  sprak: Engelsk
+  prioritet: Lav
+  status: Gjeldende
+  relevans: Relevante perspektiver på hvordan åpne utviklingsfellesskap fungerer i praksis
+- id: K119
+  tittel: Report on burnout in open source software
+  avsender: Miranda Heath
+  lenke: https://mirandaheath.website/report-on-burnout-in-open-source-software/
+  kildetype: Rapport og analyse
+  opphav: Internasjonalt
+  tema:
+  - Bidrag og bærekraft
+  sprak: Engelsk
+  prioritet: Lav
+  status: Gjeldende
+  relevans: Relevant for arbeidsmiljø, vedlikeholdsbyrde og risiko ved lavt bidragsnivå
+- id: K120
+  tittel: Open Source Vulnerabilities
+  avsender: Google / OSV
+  lenke: https://osv.dev/
+  kildetype: Verktøy og tjenester
+  opphav: Internasjonalt
+  tema:
+  - Sikkerhet og leveransekjede
+  sprak: Engelsk
+  prioritet: Middels
+  status: Gjeldende
+  relevans: Relevant som åpen sårbarhetsdatabase for open source-avhengigheter og automatisert sårbarhetshåndtering
+- id: K121
+  tittel: NVD - National Vulnerability Database
+  avsender: NIST
+  lenke: https://nvd.nist.gov/
+  kildetype: Verktøy og tjenester
+  opphav: Internasjonalt
+  tema:
+  - Sikkerhet og leveransekjede
+  sprak: Engelsk
+  prioritet: Middels
+  status: Gjeldende
+  relevans: Sentral sårbarhetsdatabase som kan brukes i prosesser for risikovurdering av open source-komponenter
+- id: K122
+  tittel: ROI for Open Source Software Contribution
+  avsender: Linux Foundation
+  lenke: https://www.linuxfoundation.org/research/contribution-roi?hsLang=en
+  kildetype: Rapport og analyse
+  opphav: Internasjonalt
+  tema:
+  - Bidrag og bærekraft
+  sprak: Engelsk
+  prioritet: Høy
+  status: Gjeldende
+  relevans: Rapport om fordeler med aktivt bidrag til åpen kilde
+- id: K123
+  tittel: Discovering Ideologies of the Open Source Software Movement
+  avsender: Yang Yue, Yi Wang og David Redmiles (ICSE 2025 NIER)
+  lenke: https://arxiv.org/abs/2502.17509
+  kildetype: Rapport og analyse
+  opphav: Internasjonalt
+  tema:
+  - Bidrag og bærekraft
+  - Styring og organisering
+  sprak: Engelsk
+  prioritet: Middels
+  status: Gjeldende
+  relevans: 'Empirisk rammeverk for hva open source-bevegelsen faktisk verdsetter, langs seks dimensjoner: medlemskap, normer og verdier, mål, aktiviteter, ressurser og posisjon i forhold til andre aktører; nyttig for å forstå hvorfor anerkjennelse, meritokrati og governance avgjør om offentlige bidrag blir tatt imot i eksisterende fellesskap'
+- id: K124
+  tittel: 'Built to Last: Open source and the Cyber Resilience Act'
+  avsender: OpenSSF
+  lenke: https://openssf.org/wp-content/uploads/2026/07/Builtto_Last_CRA_072226.pdf
+  kildetype: Rapport og analyse
+  opphav: Internasjonalt
+  tema:
+  - Sikkerhet og leveransekjede
+  - Anskaffelser
+  sprak: Engelsk
+  prioritet: Høy
+  status: Gjeldende
+  relevans: Forklarer roller (blant annet steward), frister og konsekvenser av CRA for åpen kildekode
+- id: K125
+  tittel: The impact of open source software and hardware on technological independence, competitiveness and innovation in the EU economy
+  avsender: EU-kommisjonen (Fraunhofer ISI og OpenForum Europe)
+  lenke: https://op.europa.eu/en/publication-detail/-/publication/29effe73-2c2c-11ec-bd8e-01aa75ed71a1/language-en
+  kildetype: Rapport og analyse
+  opphav: EU
+  tema:
+  - Digital suverenitet
+  - Bidrag og bærekraft
+  sprak: Engelsk
+  prioritet: Høy
+  status: Gjeldende
+  relevans: EU-kommisjonens studie fra 2021 om den økonomiske betydningen av åpen kildekode i EU; kilden til de mye siterte tallene for verdiskaping
+- id: K126
+  tittel: The Value of Open Source Software
+  avsender: Harvard Business School
+  lenke: https://www.hbs.edu/ris/Publication%20Files/24-038_51f8444f-502c-4139-8bf2-56eb4b65c58a.pdf
+  kildetype: Rapport og analyse
+  opphav: Internasjonalt
+  tema:
+  - Bidrag og bærekraft
+  sprak: Engelsk
+  prioritet: Middels
+  status: Gjeldende
+  relevans: Global beregning av verdien av åpen kildekode og hva det ville kostet å erstatte den; argument for å bidra
+- id: K127
+  tittel: What open source maintainers shared with us
+  avsender: Sovereign Tech Agency
+  lenke: https://www.sovereign.tech/news/what-open-source-maintainers-shared-with-us
+  kildetype: Rapport og analyse
+  opphav: Europa (land)
+  tema:
+  - Bidrag og bærekraft
+  - Finansiering
+  sprak: Engelsk
+  prioritet: Middels
+  status: Gjeldende
+  relevans: Undersøkelse blant vedlikeholdere om arbeidsforhold, finansiering og behov
+- id: K128
+  tittel: Open Source Funding Survey 2024
+  avsender: Open Source Funding Survey
+  lenke: https://opensourcefundingsurvey2024.com/
+  kildetype: Rapport og analyse
+  opphav: Internasjonalt
+  tema:
+  - Finansiering
+  - Bidrag og bærekraft
+  sprak: Engelsk
+  prioritet: Middels
+  status: Gjeldende
+  relevans: Viser hvordan virksomheter faktisk finansierer åpen kildekode, både med penger og arbeidstid
+- id: K129
+  tittel: Curl shutters bug bounty program to stop AI slop
+  avsender: The Register
+  lenke: https://www.theregister.com/security/2026/01/21/curl-shutters-bug-bounty-program-to-stop-ai-slop/5063039
+  kildetype: Nyhet, artikkel og debatt
+  opphav: Internasjonalt
+  tema:
+  - Bidrag og bærekraft
+  - Sikkerhet og leveransekjede
+  sprak: Engelsk
+  prioritet: Middels
+  status: Gjeldende
+  relevans: Ferskt eksempel på økt belastning på vedlikeholdere av kritiske komponenter
+- id: K130
+  tittel: Altinn Studio Docs / Åpen kildekode
+  avsender: Digdir / Altinn
+  lenke: https://altinn.github.io/docs/altinn-studio/
+  kildetype: Eksempel og initiativ
+  opphav: Norge
+  tema:
+  - Eksempler fra offentlig sektor
+  sprak: Norsk
+  prioritet: Høy
+  status: Gjeldende
+  relevans: Overordnet referanse for hvordan en offentlig plattform dokumenterer åpen kildekode
+- id: K131
+  tittel: Norwegian public organizations on GitHub
+  avsender: NAV
+  lenke: https://norwegian-public-organizations.vercel.app/
+  kildetype: Eksempel og initiativ
+  opphav: Norge
+  tema:
+  - Eksempler fra offentlig sektor
+  sprak: Norsk
+  prioritet: Høy
+  status: Gjeldende
+  relevans: Nyttig oversikt over offentlige aktører med åpne repoer
+- id: K132
+  tittel: Fri kildekode i MET
+  avsender: Meteorologisk institutt
+  lenke: https://www.met.no/frie-meteorologiske-data/fri-kildekode
+  kildetype: Eksempel og initiativ
+  opphav: Norge
+  tema:
+  - Deling og publisering
+  - Eksempler fra offentlig sektor
+  sprak: Norsk
+  prioritet: Høy
+  status: Gjeldende
+  relevans: Norsk eksempel på offentlig publisering av kildekode
+- id: K133
+  tittel: Oslo kommune vil redusere avhengighet til amerikansk IT-teknologi
+  avsender: Aftenposten
+  lenke: https://www.aftenposten.no/oslo/i/Pdv6Be/oslo-kommune-trapper-opp-kampen-mot-it-giganter-usa-styres-av-en-gal-mann
+  kildetype: Nyhet, artikkel og debatt
+  opphav: Norge
+  tema:
+  - Digital suverenitet
+  - Eksempler fra offentlig sektor
+  sprak: Norsk
+  prioritet: Lav
+  status: Gjeldende
+  relevans: Norsk kommunalt eksempel på digital suverenitet, leverandøravhengighet og vurdering av europeiske IT-avtaler
+- id: K134
+  tittel: Sofie TV Automation
+  avsender: NRK
+  lenke: https://github.com/Sofie-Automation/Sofie-TV-automation
+  kildetype: Eksempel og initiativ
+  opphav: Norge
+  tema:
+  - Eksempler fra offentlig sektor
+  sprak: Norsk
+  prioritet: Lav
+  status: Gjeldende
+  relevans: Eksempel på open source-basert kringkastingssystem
+- id: K135
+  tittel: Norgeskart
+  avsender: Kartverket
+  lenke: https://github.com/Kartverket/norgeskart
+  kildetype: Eksempel og initiativ
+  opphav: Norge
+  tema:
+  - Eksempler fra offentlig sektor
+  sprak: Norsk
+  prioritet: Høy
+  status: Gjeldende
+  relevans: Eksempel på åpen kildekode i kart- og geodatatjenester
+- id: K136
+  tittel: Yr
+  avsender: NRK og MET
+  lenke: https://yr.no
+  kildetype: Eksempel og initiativ
+  opphav: Norge
+  tema:
+  - Eksempler fra offentlig sektor
+  sprak: Norsk
+  prioritet: Lav
+  status: Gjeldende
+  relevans: Relevant som kjent offentlig digital tjeneste med åpen komponentbruk
+- id: K137
+  tittel: onyxia
+  avsender: SSB
+  lenke: https://www.onyxia.sh/
+  kildetype: Eksempel og initiativ
+  opphav: Norge
+  tema:
+  - Eksempler fra offentlig sektor
+  sprak: Norsk
+  prioritet: Lav
+  status: Gjeldende
+  relevans: Eksempel på open source-plattform utviklet i offentlig statistikkmiljø
+- id: K138
+  tittel: X-Road
+  avsender: NIIS
+  lenke: https://x-road.global/
+  kildetype: Eksempel og initiativ
+  opphav: Europa (land)
+  tema:
+  - Deling og publisering
+  - Eksempler fra offentlig sektor
+  sprak: Engelsk
+  prioritet: Lav
+  status: Gjeldende
+  relevans: Relevant som modell for sikker datadeling og interoperabilitet
+- id: K139
+  tittel: Open Cloud Mesh
+  avsender: IETF
+  lenke: https://datatracker.ietf.org/wg/ocm/about/
+  kildetype: Eksempel og initiativ
+  opphav: Internasjonalt
+  tema:
+  - Deling og publisering
+  sprak: Engelsk
+  prioritet: Lav
+  status: Gjeldende
+  relevans: Relevant som internasjonal protokoll for sikker deling og samarbeid
+- id: K140
+  tittel: Maven Central
+  avsender: Sonatype / Maven Central
+  lenke: https://central.sonatype.com
+  kildetype: Verktøy og tjenester
+  opphav: Internasjonalt
+  tema:
+  - Sikkerhet og leveransekjede
+  sprak: Engelsk
+  prioritet: Lav
+  status: Gjeldende
+  relevans: Eksempel på sentralt register for distribusjon av Java- og JVM-komponenter, relevant for speiling og robusthet
+- id: K141
+  tittel: npmjs
+  avsender: npm
+  lenke: https://www.npmjs.com
+  kildetype: Verktøy og tjenester
+  opphav: Internasjonalt
+  tema:
+  - Sikkerhet og leveransekjede
+  sprak: Engelsk
+  prioritet: Lav
+  status: Gjeldende
+  relevans: Eksempel på sentralt register for JavaScript-pakker, relevant for speiling og robusthet
+- id: K142
+  tittel: NAV GitHub
+  avsender: NAV
+  lenke: https://github.com/navikt
+  kildetype: Eksempel og initiativ
+  opphav: Norge
+  tema:
+  - Eksempler fra offentlig sektor
+  sprak: Norsk
+  prioritet: Høy
+  status: Gjeldende
+  relevans: Sentral inngang til åpne repos i NAV
+- id: K143
+  tittel: Digdir Docs
+  avsender: Digdir
+  lenke: https://docs.digdir.no/
+  kildetype: Veiledning og praksis
+  opphav: Norge
+  tema:
+  - Deling og publisering
+  sprak: Norsk
+  prioritet: Høy
+  status: Gjeldende
+  relevans: Relevant som dokumentasjonssamling for offentlig digitalisering
+- id: K144
+  tittel: Hugging Face
+  avsender: Hugging Face
+  lenke: https://huggingface.co/
+  kildetype: Verktøy og tjenester
+  opphav: Internasjonalt
+  tema:
+  - KI
+  sprak: Engelsk
+  prioritet: Høy
+  status: Gjeldende
+  relevans: Relevant som sentral plattform for deling av modeller, datasett og åpen KI-infrastruktur
+- id: K145
+  tittel: LIST AI Sandbox
+  avsender: LIST Luxembourg
+  lenke: https://ai-sandbox.list.lu/
+  kildetype: Eksempel og initiativ
+  opphav: Europa (land)
+  tema:
+  - KI
+  - Deling og publisering
+  - Eksempler fra offentlig sektor
+  sprak: Engelsk
+  prioritet: Høy
+  status: Gjeldende
+  relevans: Relevant eksempel på åpen kildekode for testing og utforsking av KI i offentlig regi, særlig med fokus på tillit, transparens og gjenbruk
+- id: K146
+  tittel: Luxembourg uses Open Source to Test AI Trustworthiness
+  avsender: Interoperable Europe Portal / OSOR
+  lenke: https://interoperable-europe.ec.europa.eu/collection/open-source-observatory-osor/news/luxembourg-uses-open-source-test-ai-trustworthiness
+  kildetype: Rapport og analyse
+  opphav: Europa (land)
+  tema:
+  - KI
+  - Bruk og vurdering
+  sprak: Engelsk
+  prioritet: Høy
+  status: Gjeldende
+  relevans: Relevant eksempel på hvordan åpen kildekode brukes til å teste og vurdere pålitelighet i KI-løsninger i offentlig sektor
+- id: K147
+  tittel: Prometheus-X
+  avsender: Prometheus-X
+  lenke: https://prometheus-x.org/
+  kildetype: Eksempel og initiativ
+  opphav: EU
+  tema:
+  - Eksempler fra offentlig sektor
+  sprak: Norsk
+  prioritet: Lav
+  status: Gjeldende
+  relevans: Europeisk åpen kildekode-initiativ for byggesteiner til data spaces og trygg datadeling; relevant som inspirasjon og mulig referansepunkt, men ikke som ferdig anbefalt løsning for norsk offentlig sektor Koden ligger på GitHub under Prometheus-X Association.
+- id: K148
+  tittel: EU OSOR examples (cities and regions)
+  avsender: EU / OSOR
+  lenke: https://interoperable-europe.ec.europa.eu/collection/open-source-observatory-osor/open-source-cities-and-regions
+  kildetype: Eksempel og initiativ
+  opphav: EU
+  tema:
+  - Eksempler fra offentlig sektor
+  sprak: Engelsk
+  prioritet: Lav
+  status: Gjeldende
+  relevans: Eksempler på åpen kildekode i offentlig sektor
+- id: K149
+  tittel: Mindre avhengighet av tek-gigantene krever mer enn å bytte ut Office-pakken
+  avsender: Aftenposten
+  lenke: https://www.aftenposten.no/meninger/debatt/i/GxBW5q/mindre-avhengighet-av-tek-gigantene-krever-mer-enn-aa-bytte-ut-office-pakken
+  kildetype: Nyhet, artikkel og debatt
+  opphav: Norge
+  tema:
+  - Digital suverenitet
+  sprak: Norsk
+  prioritet: Lav
+  status: Gjeldende
+  relevans: Norsk debattkilde om at digital suverenitet krever bredere tiltak enn bare utskifting av kontorstøtteverktøy
+- id: K150
+  tittel: Denmark embraces Open Source Software
+  avsender: Interoperable Europe Portal / OSOR
+  lenke: https://interoperable-europe.ec.europa.eu/collection/open-source-observatory-osor/news/denmark-embraces-open-source-software
+  kildetype: Nyhet, artikkel og debatt
+  opphav: Norden
+  tema:
+  - Digital suverenitet
+  - Styring og organisering
+  - Eksempler fra offentlig sektor
+  sprak: Dansk/svensk/finsk
+  prioritet: Lav
+  status: Gjeldende
+  relevans: Relevant eksempel på nasjonal pilotering av LibreOffice og digital autonomi i offentlig sektor
+- id: K151
+  tittel: France phases out proprietary operating systems on workstations
+  avsender: Interoperable Europe Portal / OSOR
+  lenke: https://interoperable-europe.ec.europa.eu/collection/open-source-observatory-osor/news/france-phases-out-proprietary-operating-systems-workstations
+  kildetype: Nyhet, artikkel og debatt
+  opphav: Europa (land)
+  tema:
+  - Digital suverenitet
+  - Styring og organisering
+  - Bruk og vurdering
+  sprak: Engelsk
+  prioritet: Lav
+  status: Gjeldende
+  relevans: Relevant eksempel på hvordan digital suverenitet brukes som begrunnelse for overgang til åpne operativsystemer
+- id: K152
+  tittel: The Dutch alternative to sharing public code
+  avsender: Interoperable Europe Portal / OSOR
+  lenke: https://interoperable-europe.ec.europa.eu/collection/open-source-observatory-osor/news/dutch-alternative-sharing-public-code
+  kildetype: Nyhet, artikkel og debatt
+  opphav: Europa (land)
+  tema:
+  - Deling og publisering
+  - Styring og organisering
+  - Eksempler fra offentlig sektor
+  sprak: Engelsk
+  prioritet: Høy
+  status: Gjeldende
+  relevans: Relevant eksempel på offentlig egenforvaltet kodeplattform basert på fri programvare (Forgejo)
+- id: K153
+  tittel: Switzerland eyes open source alternatives to proprietary software
+  avsender: Interoperable Europe Portal / OSOR
+  lenke: https://interoperable-europe.ec.europa.eu/collection/open-source-observatory-osor/news/switzerland-eyes-open-source-alternatives-proprietary-software
+  kildetype: Nyhet, artikkel og debatt
+  opphav: Europa (land)
+  tema:
+  - Digital suverenitet
+  - Styring og organisering
+  - Eksempler fra offentlig sektor
+  sprak: Engelsk
+  prioritet: Lav
+  status: Gjeldende
+  relevans: Relevant eksempel på gradvis reduksjon av avhengighet til proprietær programvare i offentlig sektor
+- id: K154
+  tittel: Poland adds an open source chapter to its digitalisation strategy
+  avsender: Interoperable Europe Portal / OSOR
+  lenke: https://interoperable-europe.ec.europa.eu/collection/open-source-observatory-osor/news/poland-adds-open-source-chapter-its-digitalisation-strategy
+  kildetype: Nyhet, artikkel og debatt
+  opphav: Europa (land)
+  tema:
+  - Digital suverenitet
+  - Styring og organisering
+  - Eksempler fra offentlig sektor
+  sprak: Engelsk
+  prioritet: Høy
+  status: Gjeldende
+  relevans: Relevant eksempel på at open source løftes inn i nasjonal digitaliseringsstrategi, med fokus på digital suverenitet, open source-repositorium og støtte til lokale pilotprosjekter
+- id: K155
+  tittel: Portugal launches open source AI to drive digital sovereignty
+  avsender: Interoperable Europe Portal / OSOR
+  lenke: https://interoperable-europe.ec.europa.eu/collection/open-source-observatory-osor/news/portugal-launches-open-source-ai-drive-digital-sovereignty
+  kildetype: Nyhet, artikkel og debatt
+  opphav: Europa (land)
+  tema:
+  - KI
+  - Digital suverenitet
+  - Styring og organisering
+  sprak: Engelsk
+  prioritet: Høy
+  status: Gjeldende
+  relevans: Relevant eksempel på offentlig open source-KI knyttet til digital suverenitet, transparens og bruk i offentlig sektor
+- id: K156
+  tittel: 'Declaration of Independence: The LiMux Project in Munich'
+  avsender: OSOR / Interoperable Europe Portal
+  lenke: https://interoperable-europe.ec.europa.eu/collection/open-source-observatory-osor/document/declaration-independence-limux-project-munich
+  kildetype: Eksempel og initiativ
+  opphav: Europa (land)
+  tema:
+  - Digital suverenitet
+  - Styring og organisering
+  - Eksempler fra offentlig sektor
+  sprak: Engelsk
+  prioritet: Lav
+  status: Gjeldende
+  relevans: Historisk kommunalt eksempel på migrering til fri programvare begrunnet i strategisk uavhengighet fra programvareleverandører
+- id: K157
+  tittel: EOSC Node (European Open Science Cloud)
+  avsender: EU
+  lenke: https://open-science-cloud.ec.europa.eu
+  kildetype: Eksempel og initiativ
+  opphav: EU
+  tema:
+  - Deling og publisering
+  sprak: Engelsk
+  prioritet: Lav
+  status: Gjeldende
+  relevans: Eksempel på samarbeidsplattform i utdanningssektoren
+- id: K158
+  tittel: Project Jupyter
+  avsender: Non Profit
+  lenke: https://jupyter.org/about
+  kildetype: Eksempel og initiativ
+  opphav: Internasjonalt
+  tema:
+  - Bruk og vurdering
+  - Eksempler fra offentlig sektor
+  sprak: Engelsk
+  prioritet: Lav
+  status: Gjeldende
+  relevans: Eksempel på prosjekt som er i utstrakt bruk i utdanningssektoren
+- id: K159
+  tittel: The R Project for Statistical Computing
+  avsender: GNU
+  lenke: https://www.r-project.org/about.html
+  kildetype: Eksempel og initiativ
+  opphav: Internasjonalt
+  tema:
+  - Bruk og vurdering
+  - Eksempler fra offentlig sektor
+  sprak: Engelsk
+  prioritet: Lav
+  status: Gjeldende
+  relevans: Eksempel på open source programvare som erstatter kommersiell programvare - brukt i utdanningssektoren
+- id: K160
+  tittel: Keycloak Platform Single Sign-on Extension
+  avsender: UiO
+  lenke: https://github.com/unioslo/keycloak-psso-extension
+  kildetype: Eksempel og initiativ
+  opphav: Norge
+  tema:
+  - Eksempler fra offentlig sektor
+  sprak: Norsk
+  prioritet: Lav
+  status: Gjeldende
+  relevans: Autentiseringskomponent utviklet og forvaltet ved UiO for single sign on fra macOS
+- id: K161
+  tittel: NREC
+  avsender: UiO og UiB
+  lenke: https://nrec.no
+  kildetype: Eksempel og initiativ
+  opphav: Norge
+  tema:
+  - Eksempler fra offentlig sektor
+  sprak: Norsk
+  prioritet: Lav
+  status: Gjeldende
+  relevans: skyplattform bygget på Open Source programvare, samarbeid mellom UiO og UiB
+- id: K162
+  tittel: Tilgangstyring lokalt
+  avsender: NAV
+  lenke: https://github.com/navikt/mock-oauth2-server/
+  kildetype: Eksempel og initiativ
+  opphav: Norge
+  tema:
+  - Styring og organisering
+  - Eksempler fra offentlig sektor
+  sprak: Norsk
+  prioritet: Lav
+  status: Gjeldende
+  relevans: Eksempel på lokal tilgangsstyring og testkomponenter
+- id: K163
+  tittel: Loggløsning med open source-komponenter
+  avsender: UiO
+  lenke: https://www.uio.no/tjenester/it/hosting/dataops/
+  kildetype: Eksempel og initiativ
+  opphav: Norge
+  tema:
+  - Eksempler fra offentlig sektor
+  sprak: Norsk
+  prioritet: Lav
+  status: Gjeldende
+  relevans: Relevant som eksempel på sammensatt åpen teknologistack
+- id: K164
+  tittel: NAV - Network Administration Visualized
+  avsender: Utdanningssektoren
+  lenke: https://github.com/uninett/nav
+  kildetype: Eksempel og initiativ
+  opphav: Norge
+  tema:
+  - Eksempler fra offentlig sektor
+  sprak: Norsk
+  prioritet: Lav
+  status: Gjeldende
+  relevans: Eksempel på system som er i utbredt bruk i Norge
+- id: K165
+  tittel: Designsystemet
+  avsender: Digdir
+  lenke: https://www.designsystemet.no/
+  kildetype: Eksempel og initiativ
+  opphav: Norge
+  tema:
+  - Deling og publisering
+  - Eksempler fra offentlig sektor
+  sprak: Norsk
+  prioritet: Høy
+  status: Gjeldende
+  relevans: Offentlig initiativ med høy synlighet og gjenbruk
+- id: K166
+  tittel: SILL - Socle Interministériel de Logiciels Libres
+  avsender: DINUM (Frankrike)
+  lenke: https://code.gouv.fr/sill/
+  kildetype: Verktøy og tjenester
+  opphav: Europa (land)
+  tema:
+  - Bruk og vurdering
+  - Metadata og kataloger
+  sprak: Fransk/engelsk
+  prioritet: Middels
+  status: Gjeldende
+  relevans: Modell for nasjonalt katalog over anbefalt fri programvare i offentlig sektor
+- id: K167
+  tittel: ScanCode Toolkit
+  avsender: AboutCode
+  lenke: https://scancode-toolkit.readthedocs.io/en/stable/
+  kildetype: Verktøy og tjenester
+  opphav: Internasjonalt
+  tema:
+  - Lisenser og rettigheter
+  sprak: Engelsk
+  prioritet: Lav
+  status: Gjeldende
+  relevans: Verktøy for analyse av lisens, copyright og avhengigheter; relevant for compliance og programvareoversikt
+- id: K168
+  tittel: OSS Review Toolkit
+  avsender: OSS Review Toolkit
+  lenke: https://oss-review-toolkit.org/ort/
+  kildetype: Verktøy og tjenester
+  opphav: Internasjonalt
+  tema:
+  - Lisenser og rettigheter
+  - Sikkerhet og leveransekjede
+  sprak: Engelsk
+  prioritet: Lav
+  status: Gjeldende
+  relevans: Verktøy for orkestrering av avhengighetsanalyse, lisenssjekk, SBOM og sårbarhetsdata; relevant for SCA og leveransekjedekontroll
+- id: K169
+  tittel: OWASP Dependency-Check
+  avsender: OWASP
+  lenke: https://owasp.org/www-project-dependency-check/
+  kildetype: Verktøy og tjenester
+  opphav: Internasjonalt
+  tema:
+  - Sikkerhet og leveransekjede
+  sprak: Engelsk
+  prioritet: Lav
+  status: Gjeldende
+  relevans: Open source-verktøy for sårbarhetssjekk i tredjepartsavhengigheter
+- id: K170
+  tittel: Eclipse SW360
+  avsender: Eclipse Foundation
+  lenke: https://www.eclipse.org/sw360/
+  kildetype: Verktøy og tjenester
+  opphav: Internasjonalt
+  tema:
+  - Lisenser og rettigheter
+  - Sikkerhet og leveransekjede
+  sprak: Engelsk
+  prioritet: Lav
+  status: Gjeldende
+  relevans: Verktøy for håndtering av programvarekomponenter, lisenser og sårbarheter i større virksomheter
+- id: K171
+  tittel: ClearlyDefined
+  avsender: ClearlyDefined
+  lenke: https://clearlydefined.io
+  kildetype: Verktøy og tjenester
+  opphav: Internasjonalt
+  tema:
+  - Lisenser og rettigheter
+  - Metadata og kataloger
+  sprak: Engelsk
+  prioritet: Lav
+  status: Gjeldende
+  relevans: Kilde for lisens- og metadata om open source-komponenter, relevant for mer konsistent compliance-arbeid
+- id: K172
+  tittel: Her er danske kommuners favorittalternativer til big tech
+  avsender: Digi.no / Ingeniøren
+  lenke: https://www.digi.no/artikler/her-er-danske-kommuners-favorittalternativer-til-big-tech-br/572644
+  kildetype: Nyhet, artikkel og debatt
+  opphav: Norden
+  tema:
+  - Digital suverenitet
+  sprak: Norsk
+  prioritet: Lav
+  status: Gjeldende
+  relevans: Relevant eksempel på danske kommuners testing av europeiske og åpne alternativer til Big Tech-løsninger
+- id: K173
+  tittel: OS2 – offentlig samarbeid om åpen kildekode (Danmark)
+  avsender: OSOR / Interoperable Europe Portal
+  lenke: https://interoperable-europe.ec.europa.eu/collection/open-source-observatory-osor/os2-public-collaboration-open-source
+  kildetype: Eksempel og initiativ
+  opphav: Norden
+  tema:
+  - Bidrag og bærekraft
+  - Eksempler fra offentlig sektor
+  sprak: Engelsk
+  prioritet: Høy
+  status: Gjeldende
+  relevans: Dansk kommunalt fellesskap som eier og forvalter åpne løsninger sammen; nærmeste nordiske modell for felles forvaltning

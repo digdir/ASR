@@ -1,0 +1,100 @@
+{% comment %}
+  Kildelista for åpen kildekode-arbeidsgruppa.
+  Data: _data/kilder.yml. Filtrering og søk: assets/js/kilder.js.
+  Siden fungerer uten JavaScript: da vises alle kilder sortert etter prioritet.
+{% endcomment %}
+{% assign kilder = site.data.kilder %}
+{% assign start = kilder | where: "nokkelkilde", true %}
+{% assign temaer = "Styring og organisering|Bruk og vurdering|Deling og publisering|Bidrag og bærekraft|Anskaffelser|Lisenser og rettigheter|Sikkerhet og leveransekjede|Digital suverenitet|KI|Finansiering|Metadata og kataloger|Eksempler fra offentlig sektor" | split: "|" %}
+{% assign typer = "Regelverk og styring|Strategi og policy|Veiledning og praksis|Standard, rammeverk og lisenser|Verktøy og tjenester|Rapport og analyse|Eksempel og initiativ|Nyhet, artikkel og debatt" | split: "|" %}
+{% assign opphavsliste = "Norge|Norden|EU|Europa (land)|Internasjonalt" | split: "|" %}
+{% assign prioriteter = "Høy|Middels|Lav" | split: "|" %}
+
+<div class="kl">
+  <p class="kl-intro">En kuratert samling av regelverk, strategier, veiledninger, verktøy, rapporter og eksempler om åpen kildekode i offentlig sektor. Start med nøkkelkildene, eller søk og filtrer på det du trenger. Lista vedlikeholdes av den tverrsektorielle arbeidsgruppa.</p>
+
+  <section class="kl-start" aria-labelledby="kl-start-tittel">
+    <h2 id="kl-start-tittel">Start her</h2>
+    <p class="kl-hjelp">Et godt sted å begynne: hva åpen kildekode er, og hvordan EU, Storbritannia, Danmark, Sverige og Nav jobber med det.</p>
+    <ul class="kl-start__liste">
+      {% for k in start %}
+      <li class="kl-start__kort">
+        <a href="{{ k.lenke | escape }}">{{ k.tittel | escape }}</a>
+        <span>{{ k.starttekst | default: k.avsender | escape }}</span>
+      </li>
+      {% endfor %}
+    </ul>
+  </section>
+
+  <section class="kl-finn" aria-labelledby="kl-finn-tittel">
+    <h2 id="kl-finn-tittel">Finn kilder</h2>
+
+    <div class="kl-verktoy" hidden>
+      <label class="kl-felt kl-felt--sok">
+        <span>Søk</span>
+        <input type="search" id="kl-sok" placeholder="Tittel, avsender eller beskrivelse" autocomplete="off">
+      </label>
+      <label class="kl-felt">
+        <span>Kildetype</span>
+        <select id="kl-type">
+          <option value="">Alle</option>
+          {% for t in typer %}<option>{{ t }}</option>{% endfor %}
+        </select>
+      </label>
+      <label class="kl-felt">
+        <span>Opphav</span>
+        <select id="kl-opphav">
+          <option value="">Alle</option>
+          {% for o in opphavsliste %}<option>{{ o }}</option>{% endfor %}
+        </select>
+      </label>
+      <label class="kl-felt">
+        <span>Sortering</span>
+        <select id="kl-sort">
+          <option value="prioritet">Prioritet</option>
+          <option value="tittel">Tittel A–Å</option>
+        </select>
+      </label>
+      <label class="kl-avkrysning"><input type="checkbox" id="kl-gamle"> Vis utløpte og arkiverte kilder</label>
+    </div>
+
+    <div class="kl-tema" role="group" aria-label="Filtrer på tema" hidden>
+      {% for t in temaer %}<button type="button" class="kl-tema__knapp" aria-pressed="false" data-tema="{{ t }}">{{ t }}</button>{% endfor %}
+    </div>
+
+    <div class="kl-status">
+      <p id="kl-antall" aria-live="polite">{{ kilder.size }} kilder</p>
+      <p class="kl-lenker">
+        <button type="button" id="kl-nullstill" class="kl-lenkeknapp" hidden>Nullstill filter</button>
+        Last ned: <a href="{{ '/apen-kildekode-arbeidsgruppe/kilder/kilder.csv' | relative_url }}">CSV</a> · <a href="{{ '/apen-kildekode-arbeidsgruppe/kilder/kilder.json' | relative_url }}">JSON</a>
+        · <a href="https://github.com/digdir/ASR/discussions/3">Foreslå en kilde</a>
+      </p>
+    </div>
+
+    <ol class="kl-liste" id="kl-liste">
+      {% for p in prioriteter %}
+      {% assign gruppe = kilder | where: "prioritet", p %}
+      {% for k in gruppe %}
+      <li class="kl-kort{% if k.status != 'Gjeldende' %} kl-kort--gammel{% endif %}" id="{{ k.id }}"
+          data-tema="{{ k.tema | join: '|' | escape }}" data-type="{{ k.kildetype | escape }}" data-opphav="{{ k.opphav | escape }}"
+          data-prioritet="{{ k.prioritet }}" data-status="{{ k.status }}" data-tittel="{{ k.tittel | escape }}">
+        <h3 class="kl-kort__tittel"><a href="{{ k.lenke | escape }}">{{ k.tittel | escape }}</a></h3>
+        <p class="kl-kort__meta">{{ k.avsender | escape }} · {{ k.opphav | escape }} · {{ k.kildetype | escape }} · {{ k.sprak | escape }}</p>
+        <p class="kl-kort__tekst">{{ k.relevans | escape }}</p>
+        <p class="kl-kort__merker">
+          <span class="kl-merke kl-merke--{{ k.prioritet | downcase | replace: 'ø', 'o' }}">Prioritet: {{ k.prioritet }}</span>
+          {% if k.status != 'Gjeldende' %}<span class="kl-merke kl-merke--status">{{ k.status | escape }}</span>{% endif %}
+          {% for t in k.tema %}<span class="kl-merke">{{ t | escape }}</span>{% endfor %}
+          <a class="kl-kort__id" href="#{{ k.id }}" aria-label="Fast lenke til {{ k.tittel | escape }}">{{ k.id }}</a>
+        </p>
+      </li>
+      {% endfor %}
+      {% endfor %}
+    </ol>
+    <p id="kl-ingen" class="kl-ingen" hidden>Ingen kilder passer filteret. Prøv å fjerne et filter eller endre søket.</p>
+  </section>
+
+  <p class="kl-om">Den tidligere tabellversjonen av lista ligger i <a href="{{ '/apen-kildekode-arbeidsgruppe/kilder/kildeliste-arkiv.html' | relative_url }}">arkivet</a>. Data: <code>docs/_data/kilder.yml</code>.</p>
+</div>
+
+<script src="{{ '/apen-kildekode-arbeidsgruppe/assets/js/kilder.js' | relative_url }}" defer></script>

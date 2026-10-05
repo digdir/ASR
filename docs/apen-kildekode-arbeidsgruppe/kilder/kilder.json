@@ -1,0 +1,5 @@
+---
+layout: null
+permalink: /apen-kildekode-arbeidsgruppe/kilder/kilder.json
+---
+{{ site.data.kilder | jsonify }}

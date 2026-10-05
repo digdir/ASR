@@ -1,7 +1,10 @@
 ---
 layout: default
-description: Oversikt over relevante kilder for arbeidsgruppen
+title: Kildeliste (arkiv)
+description: Arkivert tabellversjon av kildelista
 ---
+
+> **Arkiv.** Dette er den tidligere tabellversjonen av kildelista, slik den var 5. oktober 2026. Den oppdateres ikke lenger. Gjeldende liste finner du på [kildelista]({{ '/apen-kildekode-arbeidsgruppe/kilder/kildeliste.html' | relative_url }}).
 
 # Kildeliste
 
