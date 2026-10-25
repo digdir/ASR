@@ -8,6 +8,20 @@ arbeidsgruppen for åpen kildekode.
 | Fil | Bruk | Lisens |
 |---|---|---|
 | `prinsippmodell.svg` | Modell for prinsippene bruke, dele og bidra. | Del av repoets innhold |
+| `prinsippmodell.png` | Ny versjon av prinsippmodellen i Digdirs profil. Brukes i veiledningen og på Om arbeidet. | Del av repoets innhold |
+| `figur-publisert-til-gjenbruk-trapp.svg` | Trapp i fem steg fra publisert kode til faktisk gjenbruk. Erstatter den vertikale figuren i veiledningen. | Del av repoets innhold |
+
+## Illustrasjoner
+
+Mappen `illustrasjoner/` inneholder illustrasjoner i Digdirs profil.
+
+Kilde og bruksrett: Digdir. Må bekreftes før publisering.
+
+| Fil | Bruk |
+|---|---|
+| `illustrasjoner/lofter-sammen.png` | To personer løfter en form sammen. Brukes på forsiden. |
+| `illustrasjoner/hender-gir-videre.png` | En hånd gir en sirkel videre. Brukes på siden om tilskudd og bidrag. |
+| `illustrasjoner/sirkel-og-kvadrat.png` | Hånd med sirkel og person på kvadrat. Brukes på Om arbeidet. |
 
 ## Tabler Icons
 

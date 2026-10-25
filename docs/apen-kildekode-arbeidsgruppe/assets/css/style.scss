@@ -261,7 +261,7 @@ a:focus {
 }
 
 .main-content strong {
-  color: var(--ak-accent-dark);
+  color: var(--ak-text);
 }
 
 .ak-checklist__box {
@@ -273,6 +273,22 @@ a:focus {
   border-radius: 0.3rem;
   background: linear-gradient(180deg, #fff7ed, #fed7aa);
   box-shadow: inset 0 0 0 1px rgba(234, 88, 12, 0.14);
+  appearance: none;
+  cursor: pointer;
+}
+
+.ak-checklist__box:checked {
+  background: #ea580c;
+  box-shadow: inset 0 0 0 3px #fff7ed;
+}
+
+.ak-checklist__box:focus-visible {
+  outline: 3px solid rgba(31, 107, 80, 0.35);
+  outline-offset: 2px;
+}
+
+label.ak-checklist__item {
+  cursor: pointer;
 }
 
 .ak-checklist {
@@ -511,3 +527,180 @@ a:focus {
     text-align: left;
   }
 }
+
+/* ---------- Nye figurer, illustrasjoner og «Kort fortalt» ---------- */
+
+/* Fargene fra de nye figurene, brukt som markører for bruke, dele og bidra */
+.ak-dot {
+  display: inline-block;
+  flex: none;
+  width: 0.75rem;
+  height: 0.75rem;
+  margin-right: 0.5rem;
+  border-radius: 50%;
+  vertical-align: 0.05em;
+}
+
+.ak-dot--bruk { background: #0062b8; }
+.ak-dot--dele { background: #e5aa20; }
+.ak-dot--bidra { background: #f05f63; }
+
+/* Ingress med illustrasjon ved siden av */
+.ak-intro {
+  display: grid;
+  grid-template-columns: minmax(0, 1.4fr) minmax(0, 1fr);
+  gap: 2.5rem;
+  align-items: center;
+  margin-bottom: 1rem;
+}
+
+.ak-intro--page {
+  grid-template-columns: minmax(0, 1fr) 15rem;
+  gap: 1.5rem;
+}
+
+.ak-intro img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 1rem;
+  background: var(--ak-surface);
+}
+
+.ak-intro p:last-child {
+  margin-bottom: 0;
+}
+
+.main-content .ak-intro h2:first-child {
+  margin-top: 0;
+  padding-top: 0;
+  border-top: 0;
+}
+
+/* Figur på hvit flate i et panel */
+.ak-figure-card {
+  margin: 1.6rem 0;
+  padding: 1.1rem;
+  border: 1px solid rgba(31, 107, 80, 0.18);
+  border-radius: 1rem;
+  background: var(--ak-surface);
+  box-shadow: var(--ak-shadow);
+  text-align: center;
+}
+
+.ak-figure-card img {
+  display: block;
+  width: 100%;
+  max-width: 760px;
+  height: auto;
+  margin: 0 auto;
+}
+
+.ak-figure-card figcaption {
+  margin-top: 0.6rem;
+  color: var(--ak-muted);
+  font-size: 0.95rem;
+}
+
+/* «Kort fortalt» øverst i veiledningen */
+.ak-summary {
+  margin: 0 0 1.5rem;
+  padding: 1.1rem 1.25rem 1.2rem;
+  border: 1px solid rgba(31, 107, 80, 0.18);
+  border-radius: 1rem;
+  background: linear-gradient(180deg, rgba(31, 107, 80, 0.06), rgba(255, 255, 255, 0.92));
+  box-shadow: var(--ak-shadow);
+}
+
+.ak-summary__title {
+  margin: 0 0 0.4rem;
+  color: var(--ak-accent-dark);
+  font-size: 1.15rem;
+  font-weight: 800;
+}
+
+.ak-summary ul {
+  margin: 0;
+  padding-left: 0;
+  list-style: none;
+}
+
+.ak-summary li + li {
+  margin-top: 0.25rem;
+}
+
+/* Uthevet hovedbudskap */
+.main-content .ak-key {
+  margin: 1.5rem 0;
+  padding: 0.9rem 1.1rem;
+  border-left: 4px solid var(--ak-accent);
+  border-radius: 0 var(--ak-radius) var(--ak-radius) 0;
+  background: var(--ak-surface-tint);
+  font-size: 1.1rem;
+}
+
+/* Arbeidsnotater og eksempler (blokksitat i markdown) */
+.main-content blockquote {
+  margin: 1.25rem 0;
+  padding: 0.8rem 1.1rem;
+  color: var(--ak-text);
+  border-left: 4px solid #ea580c;
+  border-radius: 0 var(--ak-radius) var(--ak-radius) 0;
+  background: #fff7ed;
+}
+
+.main-content blockquote p {
+  margin: 0.4rem 0;
+}
+
+/* Merknad om at sidene er under arbeid */
+.ak-note {
+  margin-top: 2rem;
+  padding: 1rem 1.25rem;
+  border: 1px solid var(--ak-border);
+  border-radius: var(--ak-radius);
+  background: var(--ak-surface);
+}
+
+.ak-note p {
+  margin: 0;
+}
+
+/* Aktiv seksjon i innholdsfortegnelsen */
+.ak-guide-toc a.is-active {
+  text-decoration: underline;
+}
+
+@media (max-width: 56rem) {
+  .ak-intro,
+  .ak-intro--page {
+    grid-template-columns: 1fr;
+  }
+
+  .ak-intro img {
+    max-width: 22rem;
+  }
+}
+
+/* Sjekklistene får fargene fra boksene i prinsippmodellen */
+.ak-checklist--bruk .ak-checklist__box {
+  border-color: #0062b8;
+  background: #d2eafd;
+  box-shadow: none;
+}
+
+.ak-checklist--dele .ak-checklist__box {
+  border-color: #c48a0a;
+  background: #faeec2;
+  box-shadow: none;
+}
+
+.ak-checklist--bidra .ak-checklist__box {
+  border-color: #f05f63;
+  background: #fddfe0;
+  box-shadow: none;
+}
+
+.ak-checklist--bruk .ak-checklist__box:checked { background: #0062b8; box-shadow: inset 0 0 0 3px #d2eafd; }
+.ak-checklist--dele .ak-checklist__box:checked { background: #c48a0a; box-shadow: inset 0 0 0 3px #faeec2; }
+.ak-checklist--bidra .ak-checklist__box:checked { background: #f05f63; box-shadow: inset 0 0 0 3px #fddfe0; }

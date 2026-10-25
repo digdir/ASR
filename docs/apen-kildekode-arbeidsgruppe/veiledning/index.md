@@ -10,23 +10,32 @@ description: Høynivå veiledning om åpen kildekode i offentlig sektor
 
 <ul>
   <li><a href="#formaal-og-malgruppe">Formål og målgruppe</a></li>
-  <li><a href="#hvorfor-er-apen-kildekode-viktig-for-offentlig-sektor">Hvorfor er åpen kildekode viktig for offentlig sektor?</a></li>
-  <li><a href="#hva-mener-vi-med-apen-kildekode">Hva mener vi med åpen kildekode?</a></li>
+  <li><a href="#hvorfor-er-apen-kildekode-viktig-for-offentlig-sektor">Hvorfor det er viktig</a></li>
+  <li><a href="#hva-mener-vi-med-apen-kildekode">Hva vi mener med åpen kildekode</a></li>
   <li><a href="#hovedregel-apen-kildekode-som-hovedregel">Åpen kildekode som hovedregel</a></li>
-  <li><a href="#anbefalinger-bruk-del-og-bidra">Anbefalinger: bruk, del og bidra</a></li>
+  <li><a href="#anbefalinger-bruk-del-og-bidra">Bruk, del og bidra</a></li>
   <li><a href="#hva-far-dere-igjen">Hva får dere igjen?</a></li>
   <li><a href="#hva-ma-dere-ha-kontroll-pa">Hva må dere ha kontroll på?</a></li>
-  <li><a href="#hvordan-komme-i-gang-med-apen-kildekode">Hvordan komme i gang med åpen kildekode</a></li>
-  <li><a href="#sjekkliste-for-bruk-deling-og-bidrag">Sjekkliste for bruk, deling og bidrag</a></li>
+  <li><a href="#hvordan-komme-i-gang-med-apen-kildekode">Slik kommer dere i gang</a></li>
+  <li><a href="#sjekkliste-for-bruk-deling-og-bidrag">Sjekkliste</a></li>
   <li><a href="#neste-steg">Neste steg</a></li>
 </ul>
 </aside>
 
 <div class="ak-guide-body" markdown="1">
 
+<div class="ak-summary">
+  <p class="ak-summary__title">Kort fortalt</p>
+  <ul>
+    <li><span class="ak-dot ak-dot--bruk" aria-hidden="true"></span><strong>Bruk</strong> åpne løsninger – vurder dem først.</li>
+    <li><span class="ak-dot ak-dot--dele" aria-hidden="true"></span><strong>Del</strong> det dere utvikler – bevisst og åpent for innsyn og gjenbruk.</li>
+    <li><span class="ak-dot ak-dot--bidra" aria-hidden="true"></span><strong>Bidra</strong> til de åpne komponentene dere er avhengige av.</li>
+  </ul>
+</div>
+
 <a id="formaal-og-malgruppe"></a>
 ## Formål og målgruppe
-Denne veilederen skal hjelpe offentlige virksomheter med å bruke, dele og bidra til åpen kildekode på en ansvarlig og praktisk måte. Den er særlig relevant deg som tar beslutninger om digitale løsninger.
+Denne veilederen skal hjelpe offentlige virksomheter med å bruke, dele og bidra til åpen kildekode på en ansvarlig og praktisk måte. Den er særlig relevant for deg som tar beslutninger om digitale løsninger.
 Veilederen er overordnet. Den skal gi nok støtte til å komme i gang, og vi planlegger å utdype ulike tema videre i egne moduler.
 
 <a id="hvorfor-er-apen-kildekode-viktig-for-offentlig-sektor"></a>
@@ -45,6 +54,7 @@ Ansvarlig bruk stopper heller ikke ved egen virksomhet. Når offentlig sektor er
 EU peker på åpen kildekode som et virkemiddel for interoperabilitet, digital suverenitet og bedre gjenbruk i offentlig sektor. Det gjør kompetanse om bruk, deling og bidrag stadig viktigere også for norsk offentlig sektor.
 
 For virksomhetene betyr dette først og fremst tre ting: **bruk åpne løsninger bevisst, del det dere selv utvikler når det er forsvarlig, og ta ansvar for de åpne komponentene dere er avhengige av.**
+{: .ak-key}
 
 <a id="hva-mener-vi-med-apen-kildekode"></a>
 ## Hva mener vi med åpen kildekode?
@@ -61,10 +71,11 @@ For offentlig sektor bør åpen kildekode ses som en del av hele livsløpet til 
 ## Åpen kildekode som hovedregel
 
 Når offentlig sektor utvikler programvare selv eller får det utviklet for offentlige midler, bør kildekoden som hovedregel gjøres åpent tilgjengelig under en åpen lisens.
+{: .ak-key}
 
 Planlegg for åpenhet fra starten, og publiser koden så tidlig som mulig når det er forsvarlig. Gjør deling til en del av utviklings- og forvaltningsløpet, slik at åpenhet, dokumentasjon og tydelig ansvar bygges inn fra starten.
 
-Vurder hva som kan deles innenfor hensynet til blant annet personvern, sikkerhet, juridiske forhold, og tredjepartsavhengigheter. Hvis hele løsningen ikke kan åpnes, vurder hvilke deler som likevel kan deles, for eksempel kildekode, dokumentasjon, eller testverktøy.
+Vurder hva som kan deles innenfor hensynet til blant annet personvern, sikkerhet, juridiske forhold og tredjepartsavhengigheter. Hvis hele løsningen ikke kan åpnes, vurder hvilke deler som likevel kan deles, for eksempel kildekode, dokumentasjon eller testverktøy.
 
 Hovedregelen følges opp gjennom tre anbefalinger for hvordan offentlig sektor bør **bruke, dele og bidra** til åpen kildekode.
 
@@ -73,12 +84,12 @@ Hovedregelen følges opp gjennom tre anbefalinger for hvordan offentlig sektor b
 
 Anbefalingene dekker ulike deler av livsløpet: hva dere bygger løsningene på, hva dere gjør tilgjengelig for andre, og hvordan dere tar ansvar for den åpne programvaren dere selv er avhengige av.
 
-<figure class="ak-figure ak-figure--compact" align="center">
-  <img src="../assets/img/prinsippmodell.svg" alt="Modell med tre anbefalinger: bruke, dele og bidra. Sammen styrker de en åpen digital grunnmur." width="760">
+<figure class="ak-figure-card">
+  <img src="../assets/img/prinsippmodell.png" alt="Modell med tre anbefalinger rundt en åpen digital grunnmur. Bruke: velg åpen kildekode der det gir kvalitet og handlingsrom. Dele: publiser åpent som standard når kode er utviklet for offentlige midler. Bidra: styrk prosjektene vi er avhengige av med finansiering, tid og vedlikehold. Resultat: mer suverenitet, innsyn, gjenbruk og robusthet.">
   <figcaption>Figur: Tre anbefalinger for åpen kildekode i offentlig sektor.</figcaption>
 </figure>
 
-### Bruk: vurder åpen kildekode først
+### <span class="ak-dot ak-dot--bruk" aria-hidden="true"></span>Bruk: vurder åpen kildekode først
 
 Undersøk om eksisterende åpen kildekode kan dekke behovet eller brukes som utgangspunkt før dere utvikler eller kjøper noe nytt.
 
@@ -90,7 +101,7 @@ Vurder markedet før dere velger å utvikle selv. Finnes det allerede et velfung
 
 Målet er ikke å velge åpen kildekode uansett, men å **vurdere det først og velge det når det samlet sett er et godt og forsvarlig alternativ.**
 
-### Del: åpent som hovedregel
+### <span class="ak-dot ak-dot--dele" aria-hidden="true"></span>Del: åpent som hovedregel
 
 Publiser programvare som utvikles for offentlige midler under en åpen lisens når det er forsvarlig.
 
@@ -100,7 +111,7 @@ Gjør koden mulig å forstå og ta i bruk. Sørg for tydelig lisens, god dokumen
 
 Skjerm det som må skjermes, men ikke hold hele løsningen lukket dersom begrensningen bare gjelder enkelte deler.
 
-### Bidra: sikre den digitale grunnmuren
+### <span class="ak-dot ak-dot--bidra" aria-hidden="true"></span>Bidra: sikre den digitale grunnmuren
 
 Kartlegg hvilke åpne prosjekter og komponenter virksomheten er avhengig av, og vurder hvordan dere kan bidra tilbake til dem.
 
@@ -134,11 +145,9 @@ Offentlige virksomheter har mange av de samme behovene. Når kode deles åpent, 
 
 Å publisere kildekoden er likevel ikke nok i seg selv. For at andre faktisk skal kunne vurdere, ta i bruk og videreutvikle løsningen, må lisens, dokumentasjon og ansvar for forvaltning være på plass.
 
-<div class="ak-figure-panel">
-  <figure class="ak-figure ak-figure--narrow" align="center">
-    <img src="../assets/img/figur-publisert-til-gjenbrukbar-vertikal-v3.svg" alt="Fra publisert kode til gjenbrukbar løsning. Stegene er publisert kode, åpen lisens, dokumentasjon, forvaltning og gjenbrukbar løsning. Det som må på plass for at andre faktisk kan ta koden i bruk.">
-  </figure>
-</div>
+<figure class="ak-figure-card">
+  <img src="../assets/img/figur-publisert-til-gjenbruk-trapp.svg" alt="Trapp med fem steg fra publisert kode til faktisk gjenbruk: publisert kode, åpen lisens, dokumentasjon, forvaltning og gjenbrukbar løsning.">
+</figure>
 
 Når flere bruker og videreutvikler samme løsning, kan investeringer og kompetanse utnyttes bedre på tvers av virksomheter og forvaltningsnivåer.
 
@@ -215,37 +224,37 @@ Målet er ikke at alle virksomheter skal organisere arbeidet likt, men at **bruk
 
 Bruk sjekklisten som støtte når dere vurderer en konkret løsning, kodebase eller avhengighet.
 
-### Når dere skal bruke åpen kildekode
+### <span class="ak-dot ak-dot--bruk" aria-hidden="true"></span>Når dere skal bruke åpen kildekode
 
-<div class="ak-checklist">
-  <div class="ak-checklist__item"><span class="ak-checklist__box" aria-hidden="true"></span><span class="ak-checklist__text">Undersøk om eksisterende åpne løsninger kan dekke behovet før dere utvikler eller kjøper nytt.</span></div>
-  <div class="ak-checklist__item"><span class="ak-checklist__box" aria-hidden="true"></span><span class="ak-checklist__text">Vurder kvalitet, sikkerhet, vedlikehold, kompetanse og kostnader gjennom hele livsløpet.</span></div>
-  <div class="ak-checklist__item"><span class="ak-checklist__box" aria-hidden="true"></span><span class="ak-checklist__text">Skaff oversikt over viktige komponenter, avhengigheter og lisenser.</span></div>
-  <div class="ak-checklist__item"><span class="ak-checklist__box" aria-hidden="true"></span><span class="ak-checklist__text">Vurder om løsningen gir tilstrekkelig kontroll over egne data, grensesnitt, portabilitet og mulighet for leverandørbytte.</span></div>
-  <div class="ak-checklist__item"><span class="ak-checklist__box" aria-hidden="true"></span><span class="ak-checklist__text">Avklar hvem som har ansvar for oppdateringer, sårbarheter og videre forvaltning.</span></div>
+<div class="ak-checklist ak-checklist--bruk">
+  <label class="ak-checklist__item"><input type="checkbox" class="ak-checklist__box"><span class="ak-checklist__text">Undersøk om eksisterende åpne løsninger kan dekke behovet før dere utvikler eller kjøper nytt.</span></label>
+  <label class="ak-checklist__item"><input type="checkbox" class="ak-checklist__box"><span class="ak-checklist__text">Vurder kvalitet, sikkerhet, vedlikehold, kompetanse og kostnader gjennom hele livsløpet.</span></label>
+  <label class="ak-checklist__item"><input type="checkbox" class="ak-checklist__box"><span class="ak-checklist__text">Skaff oversikt over viktige komponenter, avhengigheter og lisenser.</span></label>
+  <label class="ak-checklist__item"><input type="checkbox" class="ak-checklist__box"><span class="ak-checklist__text">Vurder om løsningen gir tilstrekkelig kontroll over egne data, grensesnitt, portabilitet og mulighet for leverandørbytte.</span></label>
+  <label class="ak-checklist__item"><input type="checkbox" class="ak-checklist__box"><span class="ak-checklist__text">Avklar hvem som har ansvar for oppdateringer, sårbarheter og videre forvaltning.</span></label>
 </div>
 
-### Når dere skal dele kode
+### <span class="ak-dot ak-dot--dele" aria-hidden="true"></span>Når dere skal dele kode
 
-<div class="ak-checklist">
-  <div class="ak-checklist__item"><span class="ak-checklist__box" aria-hidden="true"></span><span class="ak-checklist__text">Vurder om hele løsningen kan åpnes, eller om enkelte deler må holdes tilbake.</span></div>
-  <div class="ak-checklist__item"><span class="ak-checklist__box" aria-hidden="true"></span><span class="ak-checklist__text">Gjennomgå kode, repository, dokumentasjon og historikk før publisering.</span></div>
-  <div class="ak-checklist__item"><span class="ak-checklist__box" aria-hidden="true"></span><span class="ak-checklist__text">Kontroller at hemmeligheter, tilgangsnøkler, personopplysninger og sensitiv konfigurasjon ikke publiseres.</span></div>
-  <div class="ak-checklist__item"><span class="ak-checklist__box" aria-hidden="true"></span><span class="ak-checklist__text">Avklar rettigheter og velg en åpen lisens som er listet opp på OSI ( https://opensource.org/licenses ) .</span></div>
-  <div class="ak-checklist__item"><span class="ak-checklist__box" aria-hidden="true"></span><span class="ak-checklist__text">Sørg for README, kontaktpunkt og nødvendig dokumentasjon for bygging, bruk og videreutvikling.</span></div>
-  <div class="ak-checklist__item"><span class="ak-checklist__box" aria-hidden="true"></span><span class="ak-checklist__text">Beskriv hvordan bidrag, feil og sikkerhetsmeldinger skal håndteres.</span></div>
-  <div class="ak-checklist__item"><span class="ak-checklist__box" aria-hidden="true"></span><span class="ak-checklist__text">Avklar hvem som eier og forvalter koden over tid.</span></div>
+<div class="ak-checklist ak-checklist--dele">
+  <label class="ak-checklist__item"><input type="checkbox" class="ak-checklist__box"><span class="ak-checklist__text">Vurder om hele løsningen kan åpnes, eller om enkelte deler må holdes tilbake.</span></label>
+  <label class="ak-checklist__item"><input type="checkbox" class="ak-checklist__box"><span class="ak-checklist__text">Gjennomgå kode, repository, dokumentasjon og historikk før publisering.</span></label>
+  <label class="ak-checklist__item"><input type="checkbox" class="ak-checklist__box"><span class="ak-checklist__text">Kontroller at hemmeligheter, tilgangsnøkler, personopplysninger og sensitiv konfigurasjon ikke publiseres.</span></label>
+  <label class="ak-checklist__item"><input type="checkbox" class="ak-checklist__box"><span class="ak-checklist__text">Avklar rettigheter og velg en åpen lisens som er listet opp på <a href="https://opensource.org/licenses">OSI</a>.</span></label>
+  <label class="ak-checklist__item"><input type="checkbox" class="ak-checklist__box"><span class="ak-checklist__text">Sørg for README, kontaktpunkt og nødvendig dokumentasjon for bygging, bruk og videreutvikling.</span></label>
+  <label class="ak-checklist__item"><input type="checkbox" class="ak-checklist__box"><span class="ak-checklist__text">Beskriv hvordan bidrag, feil og sikkerhetsmeldinger skal håndteres.</span></label>
+  <label class="ak-checklist__item"><input type="checkbox" class="ak-checklist__box"><span class="ak-checklist__text">Avklar hvem som eier og forvalter koden over tid.</span></label>
 </div>
 
-### Når dere skal bidra tilbake
+### <span class="ak-dot ak-dot--bidra" aria-hidden="true"></span>Når dere skal bidra tilbake
 
-<div class="ak-checklist">
-  <div class="ak-checklist__item"><span class="ak-checklist__box" aria-hidden="true"></span><span class="ak-checklist__text">Identifiser åpne prosjekter og komponenter virksomheten er særlig avhengig av.</span></div>
-  <div class="ak-checklist__item"><span class="ak-checklist__box" aria-hidden="true"></span><span class="ak-checklist__text">Vurder om dere bør bidra med kode, feilretting, dokumentasjon, testing, sikkerhetsarbeid, deltakelse i fagmiljøer eller finansiering.</span></div>
-  <div class="ak-checklist__item"><span class="ak-checklist__box" aria-hidden="true"></span><span class="ak-checklist__text">Prioriter oppfølging av avhengigheter som er kritiske for egne tjenester, og vurder om bidrag er et egnet tiltak.</span></div>
-  <div class="ak-checklist__item"><span class="ak-checklist__box" aria-hidden="true"></span><span class="ak-checklist__text">Avklar hvem som kan bidra på vegne av virksomheten, og hvordan bidrag skal godkjennes.</span></div>
-  <div class="ak-checklist__item"><span class="ak-checklist__box" aria-hidden="true"></span><span class="ak-checklist__text">Følg opp om bidragene faktisk styrker vedlikehold, sikkerhet og videreutvikling.</span></div>
-   <div class="ak-checklist__item"><span class="ak-checklist__box" aria-hidden="true"></span><span class="ak-checklist__text">Når dere bruker eksterne leverandører, vurder å kreve at de bidrar tilbake til åpen kildekode de bruker i løsningen som leveres.</span></div>
+<div class="ak-checklist ak-checklist--bidra">
+  <label class="ak-checklist__item"><input type="checkbox" class="ak-checklist__box"><span class="ak-checklist__text">Identifiser åpne prosjekter og komponenter virksomheten er særlig avhengig av.</span></label>
+  <label class="ak-checklist__item"><input type="checkbox" class="ak-checklist__box"><span class="ak-checklist__text">Vurder om dere bør bidra med kode, feilretting, dokumentasjon, testing, sikkerhetsarbeid, deltakelse i fagmiljøer eller finansiering.</span></label>
+  <label class="ak-checklist__item"><input type="checkbox" class="ak-checklist__box"><span class="ak-checklist__text">Prioriter oppfølging av avhengigheter som er kritiske for egne tjenester, og vurder om bidrag er et egnet tiltak.</span></label>
+  <label class="ak-checklist__item"><input type="checkbox" class="ak-checklist__box"><span class="ak-checklist__text">Avklar hvem som kan bidra på vegne av virksomheten, og hvordan bidrag skal godkjennes.</span></label>
+  <label class="ak-checklist__item"><input type="checkbox" class="ak-checklist__box"><span class="ak-checklist__text">Følg opp om bidragene faktisk styrker vedlikehold, sikkerhet og videreutvikling.</span></label>
+   <label class="ak-checklist__item"><input type="checkbox" class="ak-checklist__box"><span class="ak-checklist__text">Når dere bruker eksterne leverandører, vurder å kreve at de bidrar tilbake til åpen kildekode de bruker i løsningen som leveres.</span></label>
 </div>
 
 <a id="neste-steg"></a>
@@ -255,14 +264,9 @@ Start der dere er. Velg ett område der dere kan forbedre praksisen – enten de
 
 Over tid bør målet være at åpen kildekode ikke behandles som et særskilt teknologivalg, men som en naturlig del av hvordan offentlig sektor utvikler, anskaffer og forvalter digitale løsninger.
 
-## Status - og hvordan kan du bidra?
-
-All informasjon på disse sidene er arbeidsdokumenter som er under arbeid. 
-Vi tar gjerne imot tilbakemeldinger fra alle som er engasjerte i tematikken ☺️. Send tilbakemeldinger oss via [diskusjonssiden på github](https://github.com/digdir/ASR/discussions/3) eller på [epost](mailto:nasjonalarkitektur@digdir.no). Det er også lov å åpne en pull-request mot repoet. Arbeidsgruppen vil vurdere eventuelle bidrag.
-
-## Relevante kilder
-
-Se [kildeoversikten vår]({{ '/apen-kildekode-arbeidsgruppe/kilder/kildeliste.html' | relative_url }}) for kilder som er relevante for denne veiledningen.
+<div class="ak-note">
+  <p><strong>Veiledningen er under arbeid.</strong> Send tilbakemeldinger via <a href="https://github.com/digdir/ASR/discussions/3">diskusjonssiden på GitHub</a> eller <a href="mailto:nasjonalarkitektur@digdir.no">e-post</a>, eller åpne en pull request mot repoet. Se også <a href="{{ '/apen-kildekode-arbeidsgruppe/kilder/kildeliste.html' | relative_url }}">kildelista</a>.</p>
+</div>
 
 <!-- LEGG TIL: Noe om Inner sourcing -->
 

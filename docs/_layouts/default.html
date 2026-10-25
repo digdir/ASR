@@ -34,6 +34,21 @@
         mermaid.initialize({ startOnLoad: true });
       });
     </script>
+    <script>
+      // Marker seksjonen man leser i innholdsfortegnelsen (veiledning og tilskudd og bidrag)
+      document.addEventListener('DOMContentLoaded', function() {
+        var links = Array.prototype.slice.call(document.querySelectorAll('.ak-guide-toc a[href^="#"]'));
+        if (!links.length) return;
+        var targets = links.map(function(a) { return document.getElementById(decodeURIComponent(a.getAttribute('href').slice(1))); });
+        function update() {
+          var current = 0;
+          targets.forEach(function(t, i) { if (t && t.getBoundingClientRect().top <= window.innerHeight * 0.3) current = i; });
+          links.forEach(function(a, i) { a.classList.toggle('is-active', i === current); });
+        }
+        window.addEventListener('scroll', update, { passive: true });
+        update();
+      });
+    </script>
     {% endif %}
   </head>
   <body>
