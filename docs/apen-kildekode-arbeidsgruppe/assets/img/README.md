@@ -7,15 +7,14 @@ arbeidsgruppen for åpen kildekode.
 
 | Fil | Bruk | Lisens |
 |---|---|---|
-| `prinsippmodell.svg` | Modell for prinsippene bruke, dele og bidra. | Del av repoets innhold |
-| `prinsippmodell.png` | Ny versjon av prinsippmodellen i Digdirs profil. Brukes i veiledningen og på Om arbeidet. | Del av repoets innhold |
-| `figur-publisert-til-gjenbruk-trapp.svg` | Trapp i fem steg fra publisert kode til faktisk gjenbruk. Erstatter den vertikale figuren i veiledningen. | Del av repoets innhold |
+| `prinsippmodell.png` | Modell for anbefalingene bruke, dele og bidra, i Digdirs profil. Brukes i veiledningen og på Om arbeidet. | Del av repoets innhold |
+| `figur-publisert-til-gjenbruk-trapp.svg` | Trapp i fem steg fra publisert kode til faktisk gjenbruk. Brukes i veiledningen. | Del av repoets innhold |
 
 ## Illustrasjoner
 
 Mappen `illustrasjoner/` inneholder illustrasjoner i Digdirs profil.
 
-Kilde og bruksrett: Digdir. Må bekreftes før publisering.
+Kilde: Digdir.
 
 | Fil | Bruk |
 |---|---|
@@ -53,34 +52,6 @@ Mappen `wikimedia/` inneholder filer fra Wikimedia Commons.
 | Fil | Kilde | Lisens | Mulig bruk |
 |---|---|---|---|
 | `wikimedia/open-source-logo-cc0.svg` | <https://commons.wikimedia.org/wiki/File:(Open_-_source)_logo.svg> | CC0 1.0 / public domain dedication | Generisk open-source-illustrasjon. |
-
-## OpenMoji
-
-Mappen `openmoji/` inneholder et lite utvalg fargede SVG-ikoner fra
-[OpenMoji](https://openmoji.org/).
-
-Kilde: <https://github.com/hfg-gmuend/openmoji>
-
-Lisens: CC BY-SA 4.0. Lisensfilen ligger i `openmoji/LICENSE.txt`.
-
-Nedlastet: 2026-05-27.
-
-Merk: CC BY-SA krever kreditering og at bearbeidelser deles på samme vilkår.
-
-| Fil | Mulig bruk |
-|---|---|
-| `openmoji/handshake.svg` | Samarbeid, bidrag og fellesskap. |
-| `openmoji/unlock.svg` | Åpenhet, tilgang og innsyn. |
-| `openmoji/shield.svg` | Sikkerhet og robusthet. |
-| `openmoji/puzzle-piece.svg` | Gjenbruk, komponenter og felles byggesteiner. |
-| `openmoji/gear.svg` | Forvaltning og vedlikehold. |
-| `openmoji/wrench.svg` | Praktisk arbeid, feilretting og drift. |
-| `openmoji/laptop.svg` | Utvikling og kode. |
-| `openmoji/card-index-dividers.svg` | Katalog, oversikt og kilder. |
-| `openmoji/globe.svg` | Internasjonalt samarbeid og økosystem. |
-| `openmoji/scroll.svg` | Lisens, prinsipper og regelverk. |
-| `openmoji/busts-in-silhouette.svg` | Brukere, miljøer og arbeidsgrupper. |
-| `openmoji/magnifying-glass.svg` | Innsyn, kontroll og etterprøvbarhet. |
 
 ## Eksempel på bruk
 
