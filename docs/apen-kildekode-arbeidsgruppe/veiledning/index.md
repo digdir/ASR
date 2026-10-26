@@ -24,15 +24,6 @@ description: Høynivå veiledning om åpen kildekode i offentlig sektor
 
 <div class="ak-guide-body" markdown="1">
 
-<div class="ak-summary">
-  <p class="ak-summary__title">Kort fortalt</p>
-  <ul>
-    <li><span class="ak-dot ak-dot--bruk" aria-hidden="true"></span><strong>Bruk</strong> åpne løsninger – vurder dem først.</li>
-    <li><span class="ak-dot ak-dot--dele" aria-hidden="true"></span><strong>Del</strong> det dere utvikler – bevisst og åpent for innsyn og gjenbruk.</li>
-    <li><span class="ak-dot ak-dot--bidra" aria-hidden="true"></span><strong>Bidra</strong> til de åpne komponentene dere er avhengige av.</li>
-  </ul>
-</div>
-
 <a id="formaal-og-malgruppe"></a>
 ## Formål og målgruppe
 Denne veilederen skal hjelpe offentlige virksomheter med å bruke, dele og bidra til åpen kildekode på en ansvarlig og praktisk måte. Den er særlig relevant for deg som tar beslutninger om digitale løsninger.

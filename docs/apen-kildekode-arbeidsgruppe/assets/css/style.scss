@@ -528,7 +528,7 @@ label.ak-checklist__item {
   }
 }
 
-/* ---------- Nye figurer, illustrasjoner og «Kort fortalt» ---------- */
+/* ---------- Nye figurer og illustrasjoner ---------- */
 
 /* Fargene fra de nye figurene, brukt som markører for bruke, dele og bidra */
 .ak-dot {
@@ -600,33 +600,6 @@ label.ak-checklist__item {
   margin-top: 0.6rem;
   color: var(--ak-muted);
   font-size: 0.95rem;
-}
-
-/* «Kort fortalt» øverst i veiledningen */
-.ak-summary {
-  margin: 0 0 1.5rem;
-  padding: 1.1rem 1.25rem 1.2rem;
-  border: 1px solid rgba(31, 107, 80, 0.18);
-  border-radius: 1rem;
-  background: linear-gradient(180deg, rgba(31, 107, 80, 0.06), rgba(255, 255, 255, 0.92));
-  box-shadow: var(--ak-shadow);
-}
-
-.ak-summary__title {
-  margin: 0 0 0.4rem;
-  color: var(--ak-accent-dark);
-  font-size: 1.15rem;
-  font-weight: 800;
-}
-
-.ak-summary ul {
-  margin: 0;
-  padding-left: 0;
-  list-style: none;
-}
-
-.ak-summary li + li {
-  margin-top: 0.25rem;
 }
 
 /* Uthevet hovedbudskap */
