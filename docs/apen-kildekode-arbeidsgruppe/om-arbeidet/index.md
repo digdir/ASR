@@ -47,4 +47,4 @@ Hele den digitale infrastrukturen i offentlig sektor hviler på åpen kildekode-
 ## Status - og hvordan kan du bidra?
 
 All informasjon på disse sidene er arbeidsdokumenter som er under arbeid. 
-Vi tar gjerne imot tilbakemeldinger fra alle som er engasjerte i tematikken ☺️. Send tilbakemeldinger til oss via [diskusjonssiden på github](https://github.com/digdir/ASR/discussions/3) eller på [epost](mailto:nasjonalarkitektur@digdir.no). Det er også lov å åpne en pull-request mot repoet. Arbeidsgruppen vil vurdere eventuelle bidrag fortløpende. 
+Vi tar gjerne imot tilbakemeldinger fra alle som er engasjerte i tematikken ☺️. Send tilbakemeldinger til oss via [diskusjonssiden på GitHub](https://github.com/digdir/ASR/discussions/categories/%C3%A5pen-kildekode-arbeidsgruppe) eller på [epost](mailto:nasjonalarkitektur@digdir.no). Det er også lov å åpne en pull-request mot repoet. Arbeidsgruppen vil vurdere eventuelle bidrag fortløpende. 

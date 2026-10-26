@@ -256,7 +256,7 @@ Start der dere er. Velg ett område der dere kan forbedre praksisen – enten de
 Over tid bør målet være at åpen kildekode ikke behandles som et særskilt teknologivalg, men som en naturlig del av hvordan offentlig sektor utvikler, anskaffer og forvalter digitale løsninger.
 
 <div class="ak-note">
-  <p><strong>Veiledningen er under arbeid.</strong> Send tilbakemeldinger via <a href="https://github.com/digdir/ASR/discussions/3">diskusjonssiden på GitHub</a> eller <a href="mailto:nasjonalarkitektur@digdir.no">e-post</a>, eller åpne en pull request mot repoet. Se også <a href="{{ '/apen-kildekode-arbeidsgruppe/kilder/kildeliste.html' | relative_url }}">kildelista</a>.</p>
+  <p><strong>Veiledningen er under arbeid.</strong> Send tilbakemeldinger via <a href="https://github.com/digdir/ASR/discussions/categories/%C3%A5pen-kildekode-arbeidsgruppe">diskusjonssiden på GitHub</a> eller <a href="mailto:nasjonalarkitektur@digdir.no">e-post</a>, eller åpne en pull request mot repoet. Se også <a href="{{ '/apen-kildekode-arbeidsgruppe/kilder/kildeliste.html' | relative_url }}">kildelista</a>.</p>
 </div>
 
 <!-- LEGG TIL: Noe om Inner sourcing -->

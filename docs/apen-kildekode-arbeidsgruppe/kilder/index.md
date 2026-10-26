@@ -26,7 +26,7 @@ Denne delen samler relevante kilder for arbeidsgruppen.
 - hver kilde har en fast id (for eksempel K012) som kan brukes til å lenke direkte: `kildeliste.html#K012`
 - hver kilde får tema, kildetype, opphav og en kort beskrivelse av hvorfor den er relevant
 - lista kan lastes ned som [CSV]({{ '/apen-kildekode-arbeidsgruppe/kilder/kilder.csv' | relative_url }}) og [JSON]({{ '/apen-kildekode-arbeidsgruppe/kilder/kilder.json' | relative_url }})
-- forslag til nye kilder tas imot i [GitHub Discussions](https://github.com/digdir/ASR/discussions/3)
+- forslag til nye kilder tas imot i [GitHub Discussions](https://github.com/digdir/ASR/discussions/categories/%C3%A5pen-kildekode-arbeidsgruppe)
 - den tidligere tabellversjonen ligger i [arkivet]({{ '/apen-kildekode-arbeidsgruppe/kilder/kildeliste-arkiv.html' | relative_url }})
 
 <h2 style="color: #6b7280; font-size: 1.15rem; margin-top: 2.4rem;">KI-genererte dokumenter basert på kilder</h2>

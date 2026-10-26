@@ -23,7 +23,7 @@ med søk og filter.
 2. Gi den neste ledige id.
 3. Fyll ut feltene etter beskrivelsen øverst i fila.
 
-Forslag til nye kilder tas også imot i [GitHub Discussions](https://github.com/digdir/ASR/discussions/3).
+Forslag til nye kilder tas også imot i [GitHub Discussions](https://github.com/digdir/ASR/discussions/categories/%C3%A5pen-kildekode-arbeidsgruppe).
 
 ## Andre filer i mappa
 
