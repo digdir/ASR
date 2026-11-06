@@ -95,7 +95,11 @@
       {% if site.github.is_project_page or site.show_downloads %}
         <div class="site-header-actions">
           {% if site.github.is_project_page %}
-            <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
+            {% if is_open_source_section %}
+              <a href="{{ site.github.repository_url }}/tree/main/docs/apen-kildekode-arbeidsgruppe" class="btn">View on GitHub</a>
+            {% else %}
+              <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
+            {% endif %}
           {% endif %}
           {% if site.show_downloads %}
             <a href="{{ site.github.zip_url }}" class="btn">Download .zip</a>
