@@ -141,6 +141,20 @@ a:focus {
   border-color: var(--ak-accent);
 }
 
+.site-header-actions .btn--innspill {
+  color: var(--ak-text);
+  font-weight: 650;
+  background: #e3a820;
+  border-color: #e3a820;
+}
+
+.site-header-actions .btn--innspill:hover,
+.site-header-actions .btn--innspill:focus {
+  color: var(--ak-text);
+  background: #f0bd45;
+  border-color: #c98f12;
+}
+
 .main-content {
   max-width: min(92vw, 72rem);
   padding: 2.25rem 1.25rem 3rem;
