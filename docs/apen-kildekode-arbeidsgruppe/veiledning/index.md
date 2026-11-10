@@ -58,6 +58,13 @@ For virksomhetene betyr dette først og fremst tre ting: **bruk åpne løsninger
 
 For offentlig sektor bør åpen kildekode ses som en del av hele livsløpet til digitale løsninger – fra valg og anskaffelse til utvikling, deling, drift, videreutvikling og bidrag tilbake til fellesskapet.
 
+<a id="hva-er-det-forsvarlig-å-dele"></a>
+## Hva er det forsvarlig å dele?
+
+Det er viktig å skille mellom selve IT-systemet og informasjonen som det behandler. Det er jo informasjonen man ønsker å beskytte, systemet er jo bare en implementasjon av det åpne lovverket som sier hvordan vi skal utføre våre oppgaver. Det vil alltid finnes unntak der man ønsker å beskytte arbeidsmetodikken sin, men ofte vil man finne at det ikke er et problem å dele den åpent. Nav har f.eks. valgt å ikke dele for mye om hvordan kontrollavdelingen jobber med å avdekke svindel, men hvordan man behandler søknader og beregner ytelser kan (og bør) deles. Hva dere kan og bør dele i din virksomhet må vurderes i hvert enkelt tilfelle av dere som kjenner den.
+
+Sikkerhetsmessig er det svært lite å hente på å holde teknologistacken sin skjult, ofte omtalt som "security by obscurity". De fleste systemene som er utviklet ila de siste par tiårene baserer seg på den samme håndfullen med teknologier, og selv uten tilgang til kildekode er det trivielt å analysere seg fram til hvilken "stack" som benyttes. 
+
 <a id="hovedregel-apen-kildekode-som-hovedregel"></a>
 ## Åpen kildekode som hovedregel
 
@@ -165,6 +172,9 @@ Rammene trenger ikke være omfattende, men de bør være kjent og brukes konsekv
 
 ### Sikkerhet og sårbarheter
 Ha rutiner for å følge opp avhengigheter, sårbarheter og sensitiv informasjon. Bygg sikkerhet inn i utviklings- og forvaltningsprosessen, og avklar hvordan sikkerhetsfeil skal meldes og håndteres.
+
+### Håndtering av hemmeligheter
+Hemmeligheter (typisk i form av passord og kryptografiske nøkler) som gir tilganger til sensitiv informasjon skal ikke under noen omstendigheter publiseres åpent. Her må man ha både gode rutiner og egnede tekniske løsninger. Rutinene må også omfatte hvordan man skal håndtere situasjoner der hemmeligheter lekker. Oppbevaring og bruk av slike hemmeligheter gjøres best med dedikerte tekniske løsninger. Disse omtales ofte som "vaults", og det finnes flere ulike varianter både for selv-hosting og hos skyleverandørene.
 
 ### Lisenser og rettigheter
 Avklar tidlig hvilke lisenser som gjelder, hvilke rettigheter virksomheten har til programvaren, og hvem som kan beslutte lisensvalg og publisering.
