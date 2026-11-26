@@ -166,7 +166,7 @@ Disse tiltakene kan ha stor effekt, men krever politiske, juridiske og økonomis
 
 - **En nasjonal eller tverroffentlig finansieringsordning** for kritiske åpne komponenter. Den kan finansiere vedlikehold og sikkerhet i komponenter som ingen enkeltvirksomhet har ansvar for. Den krever budsjett, regelverk, kriterier for tildeling og noen som forvalter ordningen.
 - **En felles modell for vedlikehold** av åpne løsninger som flere offentlige virksomheter er avhengige av. For eksempel at én virksomhet får ansvar og budsjett for å forvalte en løsning på vegne av flere.
-- **Norsk deltakelse i europeiske samarbeid** som Digital Commons EDIC, der flere land samarbeider om åpne, gjenbrukbare digitale byggesteiner. Norge er ikke med i dag, verken som medlem eller observatør.
+- **Norsk deltakelse i europeiske samarbeid:** Norge er observatør i [Digital Commons EDIC](https://digital-commons-edic.eu/news/2026-10-27-assembly-decisions/), der europeiske land samarbeider om åpne og gjenbrukbare digitale løsninger. Arbeidsgruppen bør undersøke hvordan Norge kan bruke observatørrollen til å dele erfaringer og følge arbeidet med blant annet vedlikehold og finansiering av kritiske åpne komponenter.
 
 Å opprette en ny tilskuddsordning er en omfattende prosess med behandling på høyt politisk nivå. Ordningen trenger hjemmel, budsjett, regelverk og en forvaltning som følger opp tildelinger og rapportering. Det bør derfor først undersøkes om behovet kan dekkes med eksisterende virkemidler, for eksempel anskaffelser. Erfaringer fra Tyskland viser at det er mulig (se under).
 
