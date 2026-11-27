@@ -2231,3 +2231,74 @@
   prioritet: Høy
   status: Gjeldende
   relevans: Dansk kommunalt fellesskap som eier og forvalter åpne løsninger sammen; nærmeste nordiske modell for felles forvaltning
+- id: K174
+  tittel: Skolelinux / Fri programvare i skolen (FRISK)
+  avsender: Wikipedia
+  lenke: https://no.wikipedia.org/wiki/Skolelinux
+  kildetype: Eksempel og initiativ
+  opphav: Norge
+  tema:
+  - Eksempler fra offentlig sektor
+  - Bidrag og bærekraft
+  sprak: Norsk
+  prioritet: Middels
+  status: Historisk
+  relevans: Norsk dugnadsprosjekt fra 2001 som laget en Debian-basert løsning for skolen, med støtte fra Utdanningsdepartementet og Fornyingsdepartementet; viser både hva frivillig og offentlig samarbeid kan få til, og at slike miljøer er sårbare uten varig forankring (FRISK opphørte i 2016)
+  merknad: Lagt inn som historisk erfaringsgrunnlag fra Norge. Wikipedia er sekundærkilde
+- id: K175
+  tittel: Friprogsenteret – Nasjonalt kompetansesenter for fri programvare
+  avsender: Wikipedia
+  lenke: https://no.wikipedia.org/wiki/Friprogsenteret
+  kildetype: Eksempel og initiativ
+  opphav: Norge
+  tema:
+  - Styring og organisering
+  - Finansiering
+  - Eksempler fra offentlig sektor
+  sprak: Norsk
+  prioritet: Høy
+  status: Historisk
+  relevans: Statlig finansiert kompetansesenter (2007–2014/15) som skulle hjelpe offentlig sektor med å ta i bruk og dele fri programvare; nedleggelsen etter under åtte år er en direkte erfaring å ta med i vurderingen av hvordan et nasjonalt kompetansemiljø eller en OSPO-funksjon bør forankres og finansieres
+  merknad: Lagt inn som historisk erfaringsgrunnlag fra Norge. Wikipedia oppgir både 2014 og 2015 som avviklingsår
+- id: K176
+  tittel: Åpne dokumentstandarder blir obligatoriske i staten
+  avsender: Fornyings- og administrasjonsdepartementet
+  lenke: https://www.regjeringen.no/no/dokumentarkiv/stoltenberg-ii/fad_2006-2009/nyheter-og-pressemeldinger/pressemeldinger/2007/apne-dokumentstandarder-blir-obligatoris/id494810/
+  kildetype: Regelverk og styring
+  opphav: Norge
+  tema:
+  - Digital suverenitet
+  - Styring og organisering
+  sprak: Norsk
+  prioritet: Lav
+  status: Historisk
+  relevans: Regjeringsvedtak fra desember 2007 om at statlige nettsider skal bruke HTML, PDF eller ODF, begrunnet med lik tilgang og bedre konkurranse mellom programvareleverandører; tidlig norsk eksempel på leverandøruavhengighet gjennom åpne standarder
+  merknad: Lagt inn som historisk erfaringsgrunnlag fra Norge
+- id: K177
+  tittel: Dokument nr. 8:97 (2004-2005) – representantforslag om åpne standarder
+  avsender: Stortinget
+  lenke: https://stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Representantforslag/2004-2005/dok8-200405-097/
+  kildetype: Regelverk og styring
+  opphav: Norge
+  tema:
+  - Styring og organisering
+  - Anskaffelser
+  sprak: Norsk
+  prioritet: Lav
+  status: Historisk
+  relevans: Representantforslag fra 2005 om at IKT i offentlig sektor skal baseres på åpne standarder, med vekt på demokrati og leverandøruavhengighet; viser at debatten om åpne standarder og fri programvare i norsk forvaltning har lange røtter
+  merknad: Lagt inn som historisk erfaringsgrunnlag fra Norge
+- id: K178
+  tittel: City of Bergen turns to Novell solution for one of the largest Linux migrations in Europe
+  avsender: SUSE (Novell)
+  lenke: https://www.suse.com/news/bergen/
+  kildetype: Eksempel og initiativ
+  opphav: Norge
+  tema:
+  - Eksempler fra offentlig sektor
+  - Bruk og vurdering
+  sprak: Engelsk
+  prioritet: Lav
+  status: Historisk
+  relevans: Bergen kommune flyttet i 2004 servermiljøet for administrasjon og skole til Linux, etter et bystyrevedtak fra 2001 om at åpen programvare skal vurderes ved alle anskaffelser; planene for Linux på arbeidsflatene ble senere satt på vent, noe som gjør saken til en nyttig erfaring om hva som lyktes og hva som ikke gjorde det
+  merknad: Leverandørens egen pressemelding. Utsettelsen av Linux på klientene i 2006 er omtalt av blant andre eWeek. Bør suppleres med en norsk kilde eller evaluering hvis en finnes
